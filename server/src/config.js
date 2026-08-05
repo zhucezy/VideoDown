@@ -1,1 +1,46 @@
-Ly8g5pys5Zyw6IGU6LCD5pe25Yqg6L29IC5lbnbvvIjnlJ/kuqfnjq/looPml6AgLmVudiDkuZ/kuI3lvbHlk43vvIxkb3RlbnYg5Lya5LyY6ZuF6Lez6L+H77yJCnJlcXVpcmUoJ2RvdGVudicpLmNvbmZpZyh7IHBhdGg6IHJlcXVpcmUoJ3BhdGgnKS5qb2luKF9fZGlybmFtZSwgJy4uJywgJy5lbnYnKSB9KTsKCm1vZHVsZS5leHBvcnRzID0gewogIHBvcnQ6IE51bWJlcihwcm9jZXNzLmVudi5QT1JUIHx8IDMwMDApLAogIGhvc3Q6IHByb2Nlc3MuZW52LkhPU1QgfHwgJzAuMC4wLjAnLAoKICAvLyDlr7nlpJborr/pl67nmoTln7rnoYDlnLDlnYDvvIzlv4XpobvkuI7lsI/nqIvluo8gZG93bmxvYWRGaWxlIOWQiOazleWfn+WQjeS4gOiHtAogIHB1YmxpY0Jhc2U6IHByb2Nlc3MuZW52LlBVQkxJQ19CQVNFIHx8ICdodHRwczovL2FwaS55b3VyZG9tYWluLmNvbScsCgogIC8vIOS7o+eQhuebtOmTvuetvuWQjeWvhumSpe+8jOWKoeW/heaUueaIkOmaj+acuumVv+Wtl+espuS4sgogIHNpZ25TZWNyZXQ6IHByb2Nlc3MuZW52LlNJR05fU0VDUkVUIHx8ICdjaGFuZ2UtdGhpcy10by1hLXJhbmRvbS1zZWNyZXQnLAoKICAvLyDku6PnkIbpk77mjqXmnInmlYjmnJ/vvIjnp5LvvIkKICBzaWduVHRsOiBOdW1iZXIocHJvY2Vzcy5lbnYuU0lHTl9UVEwgfHwgNzIwMCksCgogIC8vIOWwj+eoi+W6j+WHreaNru+8iOeUqOS6jiAvYXBpL2F1dGgvbG9naW4g5o2iIG9wZW5pZO+8iQogIHd4OiB7CiAgICBhcHBJZDogcHJvY2Vzcy5lbnYuV1hfQVBQSUQgfHwgJycsCiAgICBhcHBTZWNyZXQ6IHByb2Nlc3MuZW52LldYX1NFQ1JFVCB8fCAnJywKICB9LAoKICAvLyDnroDmmJPpmZDmtYEKICByYXRlTGltaXQ6IHsKICAgIHdpbmRvd01zOiA2MCAqIDEwMDAsCiAgICBtYXg6IE51bWJlcihwcm9jZXNzLmVudi5SQVRFX01BWCB8fCAyMCksCiAgfSwKCiAgLy8g6YOo5YiG5bmz5Y+w6ZyA6KaB55m75b2V5oCB5omN6IO95ou/5Yiw5a6M5pW05pWw5o2u77yM5Y+v5oyJ6ZyA5aGr5YWlCiAgY29va2llczogewogICAgZG91eWluOiBwcm9jZXNzLmVudi5DT09LSUVfRE9VWUlOIHx8ICcnLAogICAga3VhaXNob3U6IHByb2Nlc3MuZW52LkNPT0tJRV9LVUFJU0hPVSB8fCAnJywKICAgIHhpYW9ob25nc2h1OiBwcm9jZXNzLmVudi5DT09LSUVfWEhTIHx8ICcnLAogICAgYmlsaWJpbGk6IHByb2Nlc3MuZW52LkNPT0tJRV9CSUxJIHx8ICcnLAogICAgd2VpYm86IHByb2Nlc3MuZW52LkNPT0tJRV9XRUlCTyB8fCAnJywKICB9LAoKICAvLyDmipPlj5botoXml7YKICBmZXRjaFRpbWVvdXQ6IE51bWJlcihwcm9jZXNzLmVudi5GRVRDSF9USU1FT1VUIHx8IDEyMDAwKSwKfTsK
+// 本地联调时加载 .env（生产环境无 .env 也不影响，dotenv 会优雅跳过）
+require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') });
+
+module.exports = {
+  port: Number(process.env.PORT || 3000),
+  host: process.env.HOST || '0.0.0.0',
+
+  // 对外访问的基础地址（代理直链会基于它生成，客户端下载时必须可达）：
+  // 1) 部署在 Railway 时，优先用平台自动注入的 RAILWAY_PUBLIC_DOMAIN（无需手动配置）
+  // 2) 否则用显式设置的 PUBLIC_BASE
+  // 3) 最后回退到本地默认值（联调时改这里或 .env 即可）
+  publicBase:
+    (process.env.RAILWAY_PUBLIC_DOMAIN
+      ? `https://${process.env.RAILWAY_PUBLIC_DOMAIN}`
+      : process.env.PUBLIC_BASE) || 'https://api.yourdomain.com',
+
+  // 代理直链签名密钥，务必改成随机长字符串
+  signSecret: process.env.SIGN_SECRET || 'change-this-to-a-random-secret',
+
+  // 代理链接有效期（秒）
+  signTtl: Number(process.env.SIGN_TTL || 7200),
+
+  // 小程序凭据（用于 /api/auth/login 换 openid）
+  wx: {
+    appId: process.env.WX_APPID || '',
+    appSecret: process.env.WX_SECRET || '',
+  },
+
+  // 简易限流
+  rateLimit: {
+    windowMs: 60 * 1000,
+    max: Number(process.env.RATE_MAX || 20),
+  },
+
+  // 部分平台需要登录态才能拿到完整数据，可按需填入
+  cookies: {
+    douyin: process.env.COOKIE_DOUYIN || '',
+    kuaishou: process.env.COOKIE_KUAISHOU || '',
+    xiaohongshu: process.env.COOKIE_XHS || '',
+    bilibili: process.env.COOKIE_BILI || '',
+    weibo: process.env.COOKIE_WEIBO || '',
+  },
+
+  // 抓取超时
+  fetchTimeout: Number(process.env.FETCH_TIMEOUT || 12000),
+};
