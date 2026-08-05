@@ -4,8 +4,9 @@ import '../models/parse_result.dart';
 /// 解析结果卡片：封面 + 标题 + 平台/类型角标 + 清晰度选择 + 图片多选 + 保存
 class ResultCard extends StatefulWidget {
   final ParseResult result;
-  final Future<void> Function(String url) onSaveVideo;
-  final Future<void> Function(List<String> urls) onSaveImages;
+  final Future<void> Function(Quality quality) onSaveVideo;
+  final Future<void> Function(List<String> originUrls, Map<String, String> headers)
+      onSaveImages;
   final VoidCallback? onPreview;
 
   const ResultCard({
@@ -49,11 +50,12 @@ class _ResultCardState extends State<ResultCard> {
     setState(() => _saving = true);
     try {
       if (widget.result.hasVideo) {
-        await widget.onSaveVideo(widget.result.qualities[_qualityIndex].url);
+        await widget.onSaveVideo(widget.result.qualities[_qualityIndex]);
       }
-      final urls = _selectedImages.map((i) => widget.result.images[i].url).toList();
+      final urls =
+          _selectedImages.map((i) => widget.result.images[i].originUrl).toList();
       if (urls.isNotEmpty) {
-        await widget.onSaveImages(urls);
+        await widget.onSaveImages(urls, widget.result.proxyHeaders);
       }
       if (mounted) {
         ScaffoldMessenger.of(context)
