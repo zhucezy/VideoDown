@@ -1,1 +1,134 @@
-IyDop4bpopHop6PmnpDkuIvovb3lsI/nqIvluo/vvIjlvq7kv6HlsI/nqIvluo/niYggwrcg5Y6G5Y+y5pa55qGI77yJCgo+IOKaoO+4jyDmnKznm67lvZXmmK8qKuWOhuWPsuaWueahiCoq44CC5b6u5L+h5bCP56iL5bqP5Y+X5Z+f5ZCN55m95ZCN5Y2V44CBSUNQIOWkh+ahiOOAgeWuoeaguOS4iemBk+WimemZkOWItu+8jOmhueebruW3sui9rOWQkeWuieWNk+i3r+e6v++8iOingeS7k+W6k+aguSBSRUFETUUg5LiOIGBhbmRyb2lkL2DvvInjgILmnKznm67lvZXkv53nlZnkvZzlj4LogIPjgIIKCui+k+WFpeinhumikemhtemdoumTvuaOpe+8jOino+aekOS4u+a1geW5s+WPsOeahOaXoOawtOWNsOWOn+eJhy/ljp/lm77vvIzmlK/mjIHmnIDpq5jliIbovqjnjofkuI7lm77pm4bmjInpgInmi6nkv53lrZjjgIIKCj4g5pSv5oyB5LiJ57G75YaF5a6577yaKirnuq/op4bpopEqKuOAgSoq57qv5Zu+54mHL+WbvuaWh+eslOiusCoq44CBKirop4bpopEr5Zu+54mH5re35ZCIKirjgILnu5PmnpzljaHniYfkvJroh6rliqjor4bliKvlhoXlrrnnsbvlnovvvJrop4bpopHpobXmj5DkvpvmuIXmmbDluqbpgInmi6nvvJvlm77niYfpobUv5re35ZCI6aG15o+Q5L6b5Y+v5Yu+6YCJ55qE5Zu+54mH572R5qC877yM6YCJ5oup5oCn5L+d5a2Y44CCCgpgYGAKbWluaXByb2dyYW0vCuKUnOKUgOKUgCBhcHAuanMvanNvbi93eHNzICAgIOWFqOWxgOmFjee9ruOAgeiHquWumuS5ieWvvOiIqumrmOW6puiuoeeul+OAgemdmem7mOeZu+W9lQrilJzilIDilIAgcGFnZXMvCuKUgiAgIOKUnOKUgOKUgCBpbmRleC8gICAgICAgICAg6Kej5p6Q5Li76aG177yI5bm/5ZGK5L2NICsg6L6T5YWlICsg57uT5p6c5Y2h54mH77yJCuKUgiAgIOKUnOKUgOKUgCBoaXN0b3J5LyAgICAgICAg6Kej5p6Q6K6w5b2VCuKUgiAgIOKUlOKUgOKUgCBtaW5lLyAgICAgICAgICAg5L2/55So6K+05piO44CBRkFR44CB5YWN6LSj5aOw5piOCuKUnOKUgOKUgCBjb21wb25lbnRzLwrilIIgICDilJzilIDilIAgYWQtYmFubmVyLyAgICAgIOiHqumAguW6lOW5v+WRiuS9je+8iOmrmOW6pumaj+e0oOadkOWPmOWMlu+8jOaXoOWhq+WFheiHquWKqOaUtui1t++8iQrilIIgICDilJzilIDilIAgbmF2LWJhci8gICAgICAgIOiHquWumuS5ieWvvOiIquagjwrilIIgICDilJzilIDilIAgcGxhdGZvcm0tZ3JpZC8gIOaUr+aMgeW5s+WPsOWbvuagh+WimQrilIIgICDilJTilIDilIAgcmVzdWx0LWNhcmQvICAgIOe7k+aenOWNoeeJh++8muinhumikea4heaZsOW6pumAieaLqSAvIOWbvueJh+e9keagvOWLvumAiSAvIOi/m+W6piAvIOS/neWtmArilJzilIDilIAgdXRpbHMvICAgICAgICAgICAgICBjb25maWcgLyByZXF1ZXN0IC8gZG93bmxvYWQgLyBzdG9yYWdlIC8gdXJsIC8gcGxhdGZvcm1zCuKUlOKUgOKUgCBhc3NldHMvdGFiYmFyLyAgICAgIOiEmuacrOeUn+aIkOeahCBQTkcg5Zu+5qCHCmBgYAoKIyMg5b+r6YCf5byA5aeLCgojIyMgMS4g5ZCv5Yqo5pyN5Yqh56uvCgpgYGBiYXNoCmNkIC4uL3NlcnZlcgpjcCAuZW52LmV4YW1wbGUgLmVudiAgICAgICMg5L+u5pS5IFBVQkxJQ19CQVNFIOWSjCBTSUdOX1NFQ1JFVApucG0gaW5zdGFsbApucG0gc3RhcnQKYGBgCgrmnI3liqHpu5jorqTnm5HlkKwgMzAwMCDnq6/lj6PjgILnlJ/kuqfnjq/looPpnIDopoHnlKggTmdpbngvQ2FkZHkg5aWXIEhUVFBT77yM5Zug5Li65b6u5L+h5bCP56iL5bqPKirlj6rlhYHorrjor7fmsYIgSFRUUFMg5Z+f5ZCNKirjgIIKCiMjIyAyLiDphY3nva7lsI/nqIvluo8KCue8lui+kSBgbWluaXByb2dyYW0vdXRpbHMvY29uZmlnLmpzYO+8mgoKYGBganMKYmFzZVVybDogJ2h0dHBzOi8vYXBpLnlvdXJkb21haW4uY29tJywgICAgICAgIC8vIOS9oOeahOacjeWKoeerr+Wfn+WQjQphZDogeyBiYW5uZXJVbml0SWQ6ICdhZHVuaXQteHh4eHh4eHgnIH0gICAgICAgLy8g5rWB6YeP5Li75bm/5ZGK5L2NIElECmBgYAoKIyMjIDMuIOmFjee9ruacjeWKoeWZqOWfn+WQje+8iOWFs+mUru+8jOS4jemFjeWwseeUqOS4jeS6hu+8iQoK5b6u5L+h5YWs5LyX5bmz5Y+wIOKGkiDlvIDlj5Eg4oaSIOW8gOWPkeeuoeeQhiDihpIg5byA5Y+R6K6+572uIOKGkiDmnI3liqHlmajln5/lkI3vvJoKCnwg57G75Z6LIHwg5aGr5YaZIHwKfC0tLS0tLXwtLS0tLS18CnwgcmVxdWVzdCDlkIjms5Xln5/lkI0gfCBgaHR0cHM6Ly9hcGkueW91cmRvbWFpbi5jb21gIHwKfCBkb3dubG9hZEZpbGUg5ZCI5rOV5Z+f5ZCNIHwgYGh0dHBzOi8vYXBpLnlvdXJkb21haW4uY29tYCB8CgrkuKTlpIQqKumDveimgeWhqyoq44CCYGRvd25sb2FkRmlsZWAg5bCR5aGr5LiA5Liq77yM6KeG6aKR5bCx5LiL5LiN5LiL5p2l44CCCgojIyMgNC4g5a+85YWl6aG555uuCgrlvq7kv6HlvIDlj5HogIXlt6Xlhbcg4oaSIOWvvOWFpemhueebriDihpIg55uu5b2V6YCJIGBtaW5pcHJvZ3JhbS9gIOKGkiDloavlhaXoh6rlt7HnmoQgQXBwSUTjgIIKCiMjIOaguOW/g+iuvuiuoQoKIyMjIOS4uuS7gOS5iOW/hemhu+acieacjeWKoeerr++8nwoK5bCP56iL5bqP56uv5YGa5LiN5LqG6Kej5p6Q77yM5pyJ5LiJ6YGT56Gs5aKZ77yaCgoxLiAqKuWfn+WQjeeZveWQjeWNlSoqIOKAlCBgd3gucmVxdWVzdGAg5Y+q6IO96K+35rGC6aKE5YWI5aSH5qGI55qE5Z+f5ZCN77yM5ZCE5bmz5Y+wIEFQSSDln5/lkI3miJDnmb7kuIrljYMKMi4gKirml6Dms5Xoh6rlrprkuYkgUmVmZXJlcioqIOKAlCDlsI/nuqLkuabjgIFC56uZIENETiDpg73mnIkgUmVmZXJlciDpmLLnm5fpk74KMy4gKirlubPlj7DmjqXlj6PpnIDopoHnrb7lkI0vQ29va2llKiog4oCUIOaKlumfs+eahCBgX3NpZ25hdHVyZWDjgIHlv6vmiYvnmoTpo47mjqcgdG9rZW4KCuaJgOS7peaetuaehOaYr++8muWwj+eoi+W6jyDihpIg6Ieq5bu65pyN5Yqh56uvIOKGkiDlkITlubPlj7DvvIzop4bpopHmtYHkuZ/nlLHmnI3liqHnq6/kuK3ovazjgIIKCiMjIyDkuIvovb3pk77ot68KCmBgYArnlKjmiLfnspjotLTpk77mjqUKICDihpIgUE9TVCAvYXBpL3BhcnNlCiAgICAgIOKGkiDnn63pk77ov5jljp8g4oaSIOW5s+WPsOi3r+eUsSDihpIg6YCC6YWN5Zmo5oqT5Y+WCiAgICAgIOKGkiDmuIXmmbDluqbmjpLluo/vvIjliIbovqjnjocgPiDnoIHnjocgPiDkvZPnp6/vvIkKICAgICAg4oaSIOaOoua1i+WJjeS4pOaho+ecn+WunuS9k+enrwogICAgICDihpIg5YWo6YOo5pS55YaZ5oiQIEhNQUMg562+5ZCN55qEIC9hcGkvZGwg5Luj55CG6ZO+5o6lCiAg4oaSIOWwj+eoi+W6jyB3eC5kb3dubG9hZEZpbGXvvIjlkb3kuK3nmb3lkI3ljZXln5/lkI3vvIkKICAgICAg4oaSIOacjeWKoeerr+a1geW8j+Wbnua6kO+8iOW4piBSZWZlcmVyL1VB77yM6YCP5LygIFJhbmdl77yJCiAg4oaSIHd4LnNhdmVWaWRlb1RvUGhvdG9zQWxidW0KYGBgCgrku6PnkIbpk77mjqXluKYgMiDlsI/ml7bmnInmlYjmnJ/nrb7lkI3vvIznr6HmlLnlkozov4fmnJ/pg73kvJrooqvmi5LvvIzpmLLmraLmnI3liqHooqvlvZPmiJDlhazlhbHlm77luorliLfmtYHph4/jgIIKCiMjIyDmnIDpq5jliIbovqjnjofkv53or4EKCmBzb3J0UXVhbGl0aWVzKClgIOaMiSBg5YiG6L6o546HIOKGkiDnoIHnjocg4oaSIOS9k+enr2Ag5LiJ57qn6ZmN5bqP77yMYHF1YWxpdGllc1swXWAg5oGS5Li65pyA6auY55S76LSo77yM5YmN56uv6buY6K6k6YCJ5Lit56ysIDAg6aG55bm25omT5LiK44CM5pyA6auY44CN6KeS5qCH44CC55So5oi35oOz55yB5rWB6YeP5Y+v5Lul5omL5Yqo5b6A5LiL5YiH44CCCgojIyDlubPlj7DmlK/mjIHmg4XlhrUKCnwg5bmz5Y+wIHwg54q25oCBIHwg6K+05piOIHwKfC0tLS0tLXwtLS0tLS18LS0tLS0tfAp8IOaKlumfsyB8IOKchSDnqLPlrpogfCDliIbkuqvpobUgYF9ST1VURVJfREFUQWDvvIxgcGxheXdt4oaScGxheWAg5Y675rC05Y2w77yM5aSa5qGj56CB546HIHwKfCDlvq7ljZogfCDinIUg56iz5a6aIHwg5q2j5paH55SoIGBtLndlaWJvLmNuL3N0YXR1c2VzL3Nob3dg77yM6KeG6aKR5Y+355SoIGg1IGNvbXBvbmVudCDmjqXlj6MgfAp8IOWwj+e6ouS5piB8IOKaoO+4jyDpnIAgQ29va2llIHwgYF9fSU5JVElBTF9TVEFURV9fYO+8jOmjjuaOp+i+g+S4pe+8jOW7uuiurumFjSBgQ09PS0lFX1hIU2AgfAp8IOWNs+aipiB8IOKchSDlj6/nlKggfCBgX19ORVhUX0RBVEFfX2AgKyBvZzp2aWRlbyDlpJrph43lhZzlupXvvIxBSSDnlJ/miJDlhoXlrrnmnKzouqvml6DmsLTljbAgfAp8IOW/q+aJiyB8IOKaoO+4jyDpnIAgQ29va2llIHwg6aOO5o6n5pyA5Lil77yM5pyq6YWNIENvb2tpZSDlpKfmpoLnjofop6blj5Hpqozor4HnoIEgfAp8IELnq5kgfCDinIUg56iz5a6aIHwgYHBsYXRmb3JtPWh0bWw1YCDlj5blrozmlbQgTVA077yM6YG/5YWNIERBU0gg6Z+z6KeG6aKR5YiG56a7IHwKfCDlvq7kv6Hop4bpopHlj7cgfCDimqDvuI8g5Y+X6ZmQIHwg6KeB5LiL5pa56K+05piOIHwKfCDlhbbku5YgMzArIOermeeCuSB8IPCflIQg5YWc5bqVIHwg6YCa55So6Kej5p6Q5Zmo5oqTIG9nOnZpZGVvIC8gdmlkZW8g5qCH562+IC8gSlNPTiDkuK3nmoQgbXA0IHwKCiMjIyDlhbPkuo7lvq7kv6Hop4bpopHlj7cKCuinhumikeWPtyoq5rKh5pyJ5YWs5byA6Kej5p6Q5o6l5Y+jKirvvIzkuJTlqpLkvZPmtYHnu4/ov4cgQUVTIOWKoOWvhu+8jOino+WvhuWvhumSpeeUseWuouaIt+err+aSreaUvuaXtuS4i+WPkeOAguacrOmhueebruWkhOeQhuaWueW8j++8mgoKLSDnspjotLQgYGZpbmRlci52aWRlby5xcS5jb21gIOebtOmTviDihpIg5Y+v5Lul5Lit6L2s5LiL6L2977yI5pyq5Yqg5a+G5YaF5a655Y+v5q2j5bi45pKt5pS+77yJCi0g57KY6LS0IGBjaGFubmVscy53ZWl4aW4ucXEuY29tYCDliIbkuqvpobUg4oaSIOWwneivleaPkOWPlu+8jOWksei0peaXtue7meWHuuaYjuehruaTjeS9nOaMh+W8lQoK5LiN5YGa6Jma5YGH5om/6K+644CCCgojIyDnu7TmiqTmj5DphpIKCuW5s+WPsOaOpeWPo+S8muWPmOOAguaKlumfs+eahCBgX1JPVVRFUl9EQVRBYCDnu5PmnoTjgIHlsI/nuqLkuabnmoQgYF9fSU5JVElBTF9TVEFURV9fYCDot6/lvoTvvIzljoblj7LkuIrmr4/lubTpg73opoHosIPmlbTkuKTkuInmrKHjgIJgc2VydmVyL3NyYy9wYXJzZXJzL2Ag5LiL5q+P5Liq5paH5Lu26YO95piv54us56uL55qE77yM5p+Q5Liq5bmz5Y+w5aSx5pWI5Y+q6ZyA5pS55a+55bqU5paH5Lu277yM5LiN5b2x5ZON5YW25LuW5bmz5Y+w44CCCgrlu7rorq7liqDkuKrlrprml7bku7vliqHvvIzmr4/lpKnot5HkuIDpgY3lkITlubPlj7DnmoTmoLfmnKzpk77mjqXvvIzlpLHmlYjkuoboh6rliqjlkYrorabjgIIKCiMjIOa1i+ivlQoKYGBgYmFzaApub2RlIC4uL3NjcmlwdHMvc21va2UtdGVzdC5qcyAgICAgICAjIOi3r+eUsSAvIOetvuWQjSAvIOaOkuW6jyAvIOW3peWFt+WHveaVsO+8jDM1IOmhuQpweXRob24gLi4vc2NyaXB0cy9nZW5faWNvbnMucHkgICAgICAjIOmHjeaWsOeUn+aIkCB0YWJCYXIg5Zu+5qCHCmBgYAoKIyMg4pqg77iPIOWQiOinhOmhu+efpQoKLSDmnKzlt6Xlhbfku4XkvpvkuKrkurrlrabkuaDjgIHnoJTnqbbkuI7ntKDmnZDlpIfku73vvIzor7fli7/nlKjkuo7llYbkuJrnlKjpgJTmiJbkuozmrKHliIblj5EKLSDop6PmnpDlhoXlrrnokZfkvZzmnYPlvZLljp/kvZzogIXmiYDmnInvvIzkvb/nlKjliY3lupTlj5blvpfmjojmnYMKLSDlkITlubPlj7DnlKjmiLfljY/orq7mma7pgY3npoHmraLmnKrmjojmnYPmipPlj5bvvIzmibnph4/kvb/nlKjlrZjlnKjotKblj7fkuI7ms5Xlvovpo47pmakKLSAqKuW+ruS/oeWwj+eoi+W6j+WuoeaguOWvueOAjOWOu+awtOWNsC/op4bpopHkuIvovb3jgI3nsbvnm67pnZ7luLjkuKXmoLwqKu+8jOebtOaOpeS7peatpOS4uuS4u+imgeWKn+iDveaPkOS6pO+8jOi/h+WuoeamgueOh+W+iOS9juOAguW4uOingeeahOWQiOinhOWMluaAnei3r+aYr++8muWumuS9jeS4uuOAjOS4quS6uue0oOadkOeuoeeQhuW3peWFt+OAjeOAgeimgeaxgueUqOaIt+WjsOaYjuWGheWuueW9kuWxnuOAgeWKoOWFpeaYvuiRl+eahOeJiOadg+aPkOekuu+8jOW5tuWHhuWkh+WlveebuOW6lOeahOi1hOi0qOadkOaWmQo=
+# 视频解析下载小程序（微信小程序版 · 历史方案）
+
+> ⚠️ 本目录是**历史方案**。微信小程序受域名白名单、ICP 备案、审核三道墙限制，项目已转向安卓路线（见仓库根 README 与 `android/`）。本目录保留作参考。
+
+输入视频页面链接，解析主流平台的无水印原片/原图，支持最高分辨率与图集按选择保存。
+
+> 支持三类内容：**纯视频**、**纯图片/图文笔记**、**视频+图片混合**。结果卡片会自动识别内容类型：视频页提供清晰度选择；图片页/混合页提供可勾选的图片网格，选择性保存。
+
+```
+miniprogram/
+├── app.js/json/wxss    全局配置、自定义导航高度计算、静默登录
+├── pages/
+│   ├── index/          解析主页（广告位 + 输入 + 结果卡片）
+│   ├── history/        解析记录
+│   └── mine/           使用说明、FAQ、免责声明
+├── components/
+│   ├── ad-banner/      自适应广告位（高度随素材变化，无填充自动收起）
+│   ├── nav-bar/        自定义导航栏
+│   ├── platform-grid/  支持平台图标墙
+│   └── result-card/    结果卡片：视频清晰度选择 / 图片网格勾选 / 进度 / 保存
+├── utils/              config / request / download / storage / url / platforms
+└── assets/tabbar/      脚本生成的 PNG 图标
+```
+
+## 快速开始
+
+### 1. 启动服务端
+
+```bash
+cd ../server
+cp .env.example .env      # 修改 PUBLIC_BASE 和 SIGN_SECRET
+npm install
+npm start
+```
+
+服务默认监听 3000 端口。生产环境需要用 Nginx/Caddy 套 HTTPS，因为微信小程序**只允许请求 HTTPS 域名**。
+
+### 2. 配置小程序
+
+编辑 `miniprogram/utils/config.js`：
+
+```js
+baseUrl: 'https://api.yourdomain.com',        // 你的服务端域名
+ad: { bannerUnitId: 'adunit-xxxxxxxx' }       // 流量主广告位 ID
+```
+
+### 3. 配置服务器域名（关键，不配就用不了）
+
+微信公众平台 → 开发 → 开发管理 → 开发设置 → 服务器域名：
+
+| 类型 | 填写 |
+|------|------|
+| request 合法域名 | `https://api.yourdomain.com` |
+| downloadFile 合法域名 | `https://api.yourdomain.com` |
+
+两处**都要填**。`downloadFile` 少填一个，视频就下不下来。
+
+### 4. 导入项目
+
+微信开发者工具 → 导入项目 → 目录选 `miniprogram/` → 填入自己的 AppID。
+
+## 核心设计
+
+### 为什么必须有服务端？
+
+小程序端做不了解析，有三道硬墙：
+
+1. **域名白名单** — `wx.request` 只能请求预先备案的域名，各平台 API 域名成百上千
+2. **无法自定义 Referer** — 小红书、B站 CDN 都有 Referer 防盗链
+3. **平台接口需要签名/Cookie** — 抖音的 `_signature`、快手的风控 token
+
+所以架构是：小程序 → 自建服务端 → 各平台，视频流也由服务端中转。
+
+### 下载链路
+
+```
+用户粘贴链接
+  → POST /api/parse
+      → 短链还原 → 平台路由 → 适配器抓取
+      → 清晰度排序（分辨率 > 码率 > 体积）
+      → 探测前两档真实体积
+      → 全部改写成 HMAC 签名的 /api/dl 代理链接
+  → 小程序 wx.downloadFile（命中白名单域名）
+      → 服务端流式回源（带 Referer/UA，透传 Range）
+  → wx.saveVideoToPhotosAlbum
+```
+
+代理链接带 2 小时有效期签名，篡改和过期都会被拒，防止服务被当成公共图床刷流量。
+
+### 最高分辨率保证
+
+`sortQualities()` 按 `分辨率 → 码率 → 体积` 三级降序，`qualities[0]` 恒为最高画质，前端默认选中第 0 项并打上「最高」角标。用户想省流量可以手动往下切。
+
+## 平台支持情况
+
+| 平台 | 状态 | 说明 |
+|------|------|------|
+| 抖音 | ✅ 稳定 | 分享页 `_ROUTER_DATA`，`playwm→play` 去水印，多档码率 |
+| 微博 | ✅ 稳定 | 正文用 `m.weibo.cn/statuses/show`，视频号用 h5 component 接口 |
+| 小红书 | ⚠️ 需 Cookie | `__INITIAL_STATE__`，风控较严，建议配 `COOKIE_XHS` |
+| 即梦 | ✅ 可用 | `__NEXT_DATA__` + og:video 多重兜底，AI 生成内容本身无水印 |
+| 快手 | ⚠️ 需 Cookie | 风控最严，未配 Cookie 大概率触发验证码 |
+| B站 | ✅ 稳定 | `platform=html5` 取完整 MP4，避免 DASH 音视频分离 |
+| 微信视频号 | ⚠️ 受限 | 见下方说明 |
+| 其他 30+ 站点 | 🔄 兜底 | 通用解析器抓 og:video / video 标签 / JSON 中的 mp4 |
+
+### 关于微信视频号
+
+视频号**没有公开解析接口**，且媒体流经过 AES 加密，解密密钥由客户端播放时下发。本项目处理方式：
+
+- 粘贴 `finder.video.qq.com` 直链 → 可以中转下载（未加密内容可正常播放）
+- 粘贴 `channels.weixin.qq.com` 分享页 → 尝试提取，失败时给出明确操作指引
+
+不做虚假承诺。
+
+## 维护提醒
+
+平台接口会变。抖音的 `_ROUTER_DATA` 结构、小红书的 `__INITIAL_STATE__` 路径，历史上每年都要调整两三次。`server/src/parsers/` 下每个文件都是独立的，某个平台失效只需改对应文件，不影响其他平台。
+
+建议加个定时任务，每天跑一遍各平台的样本链接，失效了自动告警。
+
+## 测试
+
+```bash
+node ../scripts/smoke-test.js       # 路由 / 签名 / 排序 / 工具函数，35 项
+python ../scripts/gen_icons.py      # 重新生成 tabBar 图标
+```
+
+## ⚠️ 合规须知
+
+- 本工具仅供个人学习、研究与素材备份，请勿用于商业用途或二次分发
+- 解析内容著作权归原作者所有，使用前应取得授权
+- 各平台用户协议普遍禁止未授权抓取，批量使用存在账号与法律风险
+- **微信小程序审核对「去水印/视频下载」类目非常严格**，直接以此为主要功能提交，过审概率很低。常见的合规化思路是：定位为「个人素材管理工具」、要求用户声明内容归属、加入显著的版权提示，并准备好相应的资质材料

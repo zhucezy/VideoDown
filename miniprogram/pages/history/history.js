@@ -1,1 +1,102 @@
-Y29uc3QgewogIGdldEhpc3RvcnksCiAgcmVtb3ZlSGlzdG9yeSwKICBjbGVhckhpc3RvcnksCn0gPSByZXF1aXJlKCcuLi8uLi91dGlscy9zdG9yYWdlJyk7CmNvbnN0IHsgZm9ybWF0VGltZSB9ID0gcmVxdWlyZSgnLi4vLi4vdXRpbHMvdXJsJyk7CmNvbnN0IHsgZ2V0UGxhdGZvcm0gfSA9IHJlcXVpcmUoJy4uLy4uL3V0aWxzL3BsYXRmb3JtcycpOwpjb25zdCB7IGNvcHlUZXh0IH0gPSByZXF1aXJlKCcuLi8uLi91dGlscy9kb3dubG9hZCcpOwoKUGFnZSh7CiAgZGF0YTogewogICAgbGlzdDogW10sCiAgfSwKCiAgb25TaG93KCkgewogICAgdGhpcy5sb2FkKCk7CiAgfSwKCiAgbG9hZCgpIHsKICAgIGNvbnN0IGxpc3QgPSBnZXRIaXN0b3J5KCkubWFwKCh2KSA9PiB7CiAgICAgIGNvbnN0IHAgPSBnZXRQbGF0Zm9ybSh2LnBsYXRmb3JtKTsKICAgICAgY29uc3QgYmVzdCA9ICh2LnF1YWxpdGllcyAmJiB2LnF1YWxpdGllc1swXSkgfHwgbnVsbDsKICAgICAgY29uc3QgdHlwZSA9IHYudHlwZSB8fCAodi5xdWFsaXRpZXMgJiYgdi5xdWFsaXRpZXMubGVuZ3RoCiAgICAgICAgPyB2LmltYWdlcyAmJiB2LmltYWdlcy5sZW5ndGgKICAgICAgICAgID8gJ21peGVkJwogICAgICAgICAgOiAndmlkZW8nCiAgICAgICAgOiAnaW1hZ2UnKTsKICAgICAgY29uc3QgdHlwZUxhYmVsID0KICAgICAgICB0eXBlID09PSAnbWl4ZWQnID8gJ+WbvuaWhycgOiB0eXBlID09PSAnaW1hZ2UnID8gJ+WbvueJhycgOiAn6KeG6aKRJzsKICAgICAgY29uc3QgaW1nQ291bnQgPSAodi5pbWFnZXMgJiYgdi5pbWFnZXMubGVuZ3RoKSB8fCAwOwogICAgICByZXR1cm4gT2JqZWN0LmFzc2lnbih7fSwgdiwgewogICAgICAgIHRpbWVUZXh0OiBmb3JtYXRUaW1lKHYuc2F2ZWRBdCksCiAgICAgICAgcGxhdENvbG9yOiAocCAmJiBwLmNvbG9yKSB8fCAnIzVCNjI3MCcsCiAgICAgICAgYmVzdExhYmVsOiBiZXN0ID8gYmVzdC5sYWJlbCA6ICcnLAogICAgICAgIHR5cGVMYWJlbCwKICAgICAgICBpbWdDb3VudCwKICAgICAgfSk7CiAgICB9KTsKICAgIHRoaXMuc2V0RGF0YSh7IGxpc3QgfSk7CiAgfSwKCiAgb25SZXBhcnNlKGUpIHsKICAgIGNvbnN0IGl0ZW0gPSB0aGlzLmRhdGEubGlzdFtlLmN1cnJlbnRUYXJnZXQuZGF0YXNldC5pbmRleF07CiAgICBpZiAoIWl0ZW0pIHJldHVybjsKICAgIC8vIOiusOW9lemHjOeahOebtOmTvuacieaXtuaViO+8jOWbnummlumhtemHjeaWsOino+aekAogICAgd3guc2V0U3RvcmFnZVN5bmMoJ3BlbmRpbmdfdXJsJywgaXRlbS5zb3VyY2VVcmwpOwogICAgd3guc3dpdGNoVGFiKHsKICAgICAgdXJsOiAnL3BhZ2VzL2luZGV4L2luZGV4JywKICAgICAgc3VjY2VzczogKCkgPT4gewogICAgICAgIGNvbnN0IHBhZ2VzID0gZ2V0Q3VycmVudFBhZ2VzKCk7CiAgICAgICAgY29uc3QgaW5kZXggPSBwYWdlc1twYWdlcy5sZW5ndGggLSAxXTsKICAgICAgICBpZiAoaW5kZXggJiYgaW5kZXguc2V0RGF0YSkgewogICAgICAgICAgaW5kZXguc2V0RGF0YSh7CiAgICAgICAgICAgIGlucHV0OiBpdGVtLnNvdXJjZVVybCwKICAgICAgICAgICAgZGV0ZWN0ZWQ6IGdldFBsYXRmb3JtKGl0ZW0ucGxhdGZvcm0pLAogICAgICAgICAgfSk7CiAgICAgICAgICBpZiAoaW5kZXgub25QYXJzZSkgaW5kZXgub25QYXJzZSgpOwogICAgICAgIH0KICAgICAgfSwKICAgIH0pOwogIH0sCgogIG9uQ29weShlKSB7CiAgICBjb25zdCBpdGVtID0gdGhpcy5kYXRhLmxpc3RbZS5jdXJyZW50VGFyZ2V0LmRhdGFzZXQuaW5kZXhdOwogICAgaWYgKCFpdGVtKSByZXR1cm47CiAgICBjb3B5VGV4dChpdGVtLnNvdXJjZVVybCwgJ+WOn+mTvuaOpeW3suWkjeWIticpOwogIH0sCgogIG9uUmVtb3ZlKGUpIHsKICAgIGNvbnN0IGl0ZW0gPSB0aGlzLmRhdGEubGlzdFtlLmN1cnJlbnRUYXJnZXQuZGF0YXNldC5pbmRleF07CiAgICBpZiAoIWl0ZW0pIHJldHVybjsKICAgIHd4LnNob3dNb2RhbCh7CiAgICAgIHRpdGxlOiAn5Yig6Zmk6K6w5b2VJywKICAgICAgY29udGVudDogJ+S7heWIoOmZpOacrOWcsOiusOW9le+8jOS4jeW9seWTjeW3suS/neWtmOWIsOebuOWGjOeahOinhumikScsCiAgICAgIGNvbmZpcm1Db2xvcjogJyNGNTQ4M0InLAogICAgICBzdWNjZXNzOiAobSkgPT4gewogICAgICAgIGlmICghbS5jb25maXJtKSByZXR1cm47CiAgICAgICAgcmVtb3ZlSGlzdG9yeShpdGVtLnZpZGVvSWQgfHwgaXRlbS5zb3VyY2VVcmwpOwogICAgICAgIHRoaXMubG9hZCgpOwogICAgICAgIHd4LnNob3dUb2FzdCh7IHRpdGxlOiAn5bey5Yig6ZmkJywgaWNvbjogJ25vbmUnIH0pOwogICAgICB9LAogICAgfSk7CiAgfSwKCiAgb25DbGVhcigpIHsKICAgIHd4LnNob3dNb2RhbCh7CiAgICAgIHRpdGxlOiAn5riF56m65YWo6YOo6K6w5b2VJywKICAgICAgY29udGVudDogJ+atpOaTjeS9nOS4jeWPr+aSpOmUgO+8jOW3suS/neWtmOWIsOebuOWGjOeahOinhumikeS4jeWPl+W9seWTjScsCiAgICAgIGNvbmZpcm1Db2xvcjogJyNGNTQ4M0InLAogICAgICBzdWNjZXNzOiAobSkgPT4gewogICAgICAgIGlmICghbS5jb25maXJtKSByZXR1cm47CiAgICAgICAgY2xlYXJIaXN0b3J5KCk7CiAgICAgICAgdGhpcy5sb2FkKCk7CiAgICAgICAgd3guc2hvd1RvYXN0KHsgdGl0bGU6ICflt7LmuIXnqbonLCBpY29uOiAnbm9uZScgfSk7CiAgICAgIH0sCiAgICB9KTsKICB9LAoKICBnb0luZGV4KCkgewogICAgd3guc3dpdGNoVGFiKHsgdXJsOiAnL3BhZ2VzL2luZGV4L2luZGV4JyB9KTsKICB9LAp9KTsK
+const {
+  getHistory,
+  removeHistory,
+  clearHistory,
+} = require('../../utils/storage');
+const { formatTime } = require('../../utils/url');
+const { getPlatform } = require('../../utils/platforms');
+const { copyText } = require('../../utils/download');
+
+Page({
+  data: {
+    list: [],
+  },
+
+  onShow() {
+    this.load();
+  },
+
+  load() {
+    const list = getHistory().map((v) => {
+      const p = getPlatform(v.platform);
+      const best = (v.qualities && v.qualities[0]) || null;
+      const type = v.type || (v.qualities && v.qualities.length
+        ? v.images && v.images.length
+          ? 'mixed'
+          : 'video'
+        : 'image');
+      const typeLabel =
+        type === 'mixed' ? '图文' : type === 'image' ? '图片' : '视频';
+      const imgCount = (v.images && v.images.length) || 0;
+      return Object.assign({}, v, {
+        timeText: formatTime(v.savedAt),
+        platColor: (p && p.color) || '#5B6270',
+        bestLabel: best ? best.label : '',
+        typeLabel,
+        imgCount,
+      });
+    });
+    this.setData({ list });
+  },
+
+  onReparse(e) {
+    const item = this.data.list[e.currentTarget.dataset.index];
+    if (!item) return;
+    // 记录里的直链有时效，回首页重新解析
+    wx.setStorageSync('pending_url', item.sourceUrl);
+    wx.switchTab({
+      url: '/pages/index/index',
+      success: () => {
+        const pages = getCurrentPages();
+        const index = pages[pages.length - 1];
+        if (index && index.setData) {
+          index.setData({
+            input: item.sourceUrl,
+            detected: getPlatform(item.platform),
+          });
+          if (index.onParse) index.onParse();
+        }
+      },
+    });
+  },
+
+  onCopy(e) {
+    const item = this.data.list[e.currentTarget.dataset.index];
+    if (!item) return;
+    copyText(item.sourceUrl, '原链接已复制');
+  },
+
+  onRemove(e) {
+    const item = this.data.list[e.currentTarget.dataset.index];
+    if (!item) return;
+    wx.showModal({
+      title: '删除记录',
+      content: '仅删除本地记录，不影响已保存到相册的视频',
+      confirmColor: '#F5483B',
+      success: (m) => {
+        if (!m.confirm) return;
+        removeHistory(item.videoId || item.sourceUrl);
+        this.load();
+        wx.showToast({ title: '已删除', icon: 'none' });
+      },
+    });
+  },
+
+  onClear() {
+    wx.showModal({
+      title: '清空全部记录',
+      content: '此操作不可撤销，已保存到相册的视频不受影响',
+      confirmColor: '#F5483B',
+      success: (m) => {
+        if (!m.confirm) return;
+        clearHistory();
+        this.load();
+        wx.showToast({ title: '已清空', icon: 'none' });
+      },
+    });
+  },
+
+  goIndex() {
+    wx.switchTab({ url: '/pages/index/index' });
+  },
+});

@@ -1,1 +1,96 @@
-Y29uc3QgeyBDT05GSUcgfSA9IHJlcXVpcmUoJy4vY29uZmlnJyk7CgpsZXQgcmVmcmVzaGluZyA9IG51bGw7CgpmdW5jdGlvbiBnZXRUb2tlbigpIHsKICB0cnkgewogICAgcmV0dXJuIHd4LmdldFN0b3JhZ2VTeW5jKCd0b2tlbicpIHx8ICcnOwogIH0gY2F0Y2ggKGUpIHsKICAgIHJldHVybiAnJzsKICB9Cn0KCmZ1bmN0aW9uIHNpbGVudExvZ2luKCkgewogIGlmIChyZWZyZXNoaW5nKSByZXR1cm4gcmVmcmVzaGluZzsKICByZWZyZXNoaW5nID0gbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHsKICAgIHd4LmxvZ2luKHsKICAgICAgc3VjY2VzczogKHsgY29kZSB9KSA9PiB7CiAgICAgICAgaWYgKCFjb2RlKSByZXR1cm4gcmVzb2x2ZSgnJyk7CiAgICAgICAgd3gucmVxdWVzdCh7CiAgICAgICAgICB1cmw6IGAke0NPTkZJRy5iYXNlVXJsfS9hcGkvYXV0aC9sb2dpbmAsCiAgICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICAgIGRhdGE6IHsgY29kZSB9LAogICAgICAgICAgdGltZW91dDogODAwMCwKICAgICAgICAgIHN1Y2Nlc3M6IChyZXMpID0+IHsKICAgICAgICAgICAgY29uc3QgdG9rZW4gPSByZXMuZGF0YSAmJiByZXMuZGF0YS5kYXRhICYmIHJlcy5kYXRhLmRhdGEudG9rZW47CiAgICAgICAgICAgIGlmICh0b2tlbikgd3guc2V0U3RvcmFnZVN5bmMoJ3Rva2VuJywgdG9rZW4pOwogICAgICAgICAgICByZXNvbHZlKHRva2VuIHx8ICcnKTsKICAgICAgICAgIH0sCiAgICAgICAgICBmYWlsOiAoKSA9PiByZXNvbHZlKCcnKSwKICAgICAgICB9KTsKICAgICAgfSwKICAgICAgZmFpbDogKCkgPT4gcmVzb2x2ZSgnJyksCiAgICB9KTsKICB9KS50aGVuKCh0KSA9PiB7CiAgICByZWZyZXNoaW5nID0gbnVsbDsKICAgIHJldHVybiB0OwogIH0pOwogIHJldHVybiByZWZyZXNoaW5nOwp9CgovKioKICog57uf5LiA6K+35rGC5bCB6KOFCiAqIOe6puWumui/lOWbnuS9k++8mnsgY29kZTogMCwgbWVzc2FnZTogJ29rJywgZGF0YTogey4uLn0gfQogKi8KZnVuY3Rpb24gcmVxdWVzdChvcHRpb25zLCBfcmV0cnkpIHsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgd3gucmVxdWVzdCh7CiAgICAgIHVybDogL15odHRwcz86XC9cLy8udGVzdChvcHRpb25zLnVybCkKICAgICAgICA/IG9wdGlvbnMudXJsCiAgICAgICAgOiBgJHtDT05GSUcuYmFzZVVybH0ke29wdGlvbnMudXJsfWAsCiAgICAgIG1ldGhvZDogb3B0aW9ucy5tZXRob2QgfHwgJ0dFVCcsCiAgICAgIGRhdGE6IG9wdGlvbnMuZGF0YSB8fCB7fSwKICAgICAgdGltZW91dDogb3B0aW9ucy50aW1lb3V0IHx8IENPTkZJRy50aW1lb3V0LAogICAgICBoZWFkZXI6IE9iamVjdC5hc3NpZ24oCiAgICAgICAgewogICAgICAgICAgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAgIEF1dGhvcml6YXRpb246IGdldFRva2VuKCkgPyBgQmVhcmVyICR7Z2V0VG9rZW4oKX1gIDogJycsCiAgICAgICAgfSwKICAgICAgICBvcHRpb25zLmhlYWRlciB8fCB7fQogICAgICApLAogICAgICBzdWNjZXNzOiBhc3luYyAocmVzKSA9PiB7CiAgICAgICAgY29uc3QgYm9keSA9IHJlcy5kYXRhIHx8IHt9OwoKICAgICAgICBpZiAocmVzLnN0YXR1c0NvZGUgPT09IDQwMSAmJiAhX3JldHJ5KSB7CiAgICAgICAgICBhd2FpdCBzaWxlbnRMb2dpbigpOwogICAgICAgICAgcmV0dXJuIHJlcXVlc3Qob3B0aW9ucywgdHJ1ZSkudGhlbihyZXNvbHZlKS5jYXRjaChyZWplY3QpOwogICAgICAgIH0KCiAgICAgICAgaWYgKHJlcy5zdGF0dXNDb2RlIDwgMjAwIHx8IHJlcy5zdGF0dXNDb2RlID49IDMwMCkgewogICAgICAgICAgcmV0dXJuIHJlamVjdCh7CiAgICAgICAgICAgIGNvZGU6IHJlcy5zdGF0dXNDb2RlLAogICAgICAgICAgICBtZXNzYWdlOiBib2R5Lm1lc3NhZ2UgfHwgYOacjeWKoeW8guW4uCgke3Jlcy5zdGF0dXNDb2RlfSlgLAogICAgICAgICAgfSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoYm9keS5jb2RlICE9PSAwKSB7CiAgICAgICAgICByZXR1cm4gcmVqZWN0KHsKICAgICAgICAgICAgY29kZTogYm9keS5jb2RlLAogICAgICAgICAgICBtZXNzYWdlOiBib2R5Lm1lc3NhZ2UgfHwgJ+ino+aekOWksei0pe+8jOivt+eojeWQjuWGjeivlScsCiAgICAgICAgICAgIGRhdGE6IGJvZHkuZGF0YSwKICAgICAgICAgIH0pOwogICAgICAgIH0KCiAgICAgICAgcmVzb2x2ZShib2R5LmRhdGEpOwogICAgICB9LAogICAgICBmYWlsOiAoZXJyKSA9PiB7CiAgICAgICAgY29uc3QgbXNnID0gL3RpbWVvdXQvaS50ZXN0KGVyci5lcnJNc2cgfHwgJycpCiAgICAgICAgICA/ICfor7fmsYLotoXml7bvvIzor7fmo4Dmn6XnvZHnu5zlkI7ph43or5UnCiAgICAgICAgICA6ICfnvZHnu5zov57mjqXlpLHotKXvvIzor7fnqI3lkI7lho3or5UnOwogICAgICAgIHJlamVjdCh7IGNvZGU6IC0xLCBtZXNzYWdlOiBtc2csIGRldGFpbDogZXJyIH0pOwogICAgICB9LAogICAgfSk7CiAgfSk7Cn0KCm1vZHVsZS5leHBvcnRzID0geyByZXF1ZXN0LCBzaWxlbnRMb2dpbiwgZ2V0VG9rZW4gfTsK
+const { CONFIG } = require('./config');
+
+let refreshing = null;
+
+function getToken() {
+  try {
+    return wx.getStorageSync('token') || '';
+  } catch (e) {
+    return '';
+  }
+}
+
+function silentLogin() {
+  if (refreshing) return refreshing;
+  refreshing = new Promise((resolve) => {
+    wx.login({
+      success: ({ code }) => {
+        if (!code) return resolve('');
+        wx.request({
+          url: `${CONFIG.baseUrl}/api/auth/login`,
+          method: 'POST',
+          data: { code },
+          timeout: 8000,
+          success: (res) => {
+            const token = res.data && res.data.data && res.data.data.token;
+            if (token) wx.setStorageSync('token', token);
+            resolve(token || '');
+          },
+          fail: () => resolve(''),
+        });
+      },
+      fail: () => resolve(''),
+    });
+  }).then((t) => {
+    refreshing = null;
+    return t;
+  });
+  return refreshing;
+}
+
+/**
+ * 统一请求封装
+ * 约定返回体：{ code: 0, message: 'ok', data: {...} }
+ */
+function request(options, _retry) {
+  return new Promise((resolve, reject) => {
+    wx.request({
+      url: /^https?:\/\//.test(options.url)
+        ? options.url
+        : `${CONFIG.baseUrl}${options.url}`,
+      method: options.method || 'GET',
+      data: options.data || {},
+      timeout: options.timeout || CONFIG.timeout,
+      header: Object.assign(
+        {
+          'content-type': 'application/json',
+          Authorization: getToken() ? `Bearer ${getToken()}` : '',
+        },
+        options.header || {}
+      ),
+      success: async (res) => {
+        const body = res.data || {};
+
+        if (res.statusCode === 401 && !_retry) {
+          await silentLogin();
+          return request(options, true).then(resolve).catch(reject);
+        }
+
+        if (res.statusCode < 200 || res.statusCode >= 300) {
+          return reject({
+            code: res.statusCode,
+            message: body.message || `服务异常(${res.statusCode})`,
+          });
+        }
+
+        if (body.code !== 0) {
+          return reject({
+            code: body.code,
+            message: body.message || '解析失败，请稍后再试',
+            data: body.data,
+          });
+        }
+
+        resolve(body.data);
+      },
+      fail: (err) => {
+        const msg = /timeout/i.test(err.errMsg || '')
+          ? '请求超时，请检查网络后重试'
+          : '网络连接失败，请稍后再试';
+        reject({ code: -1, message: msg, detail: err });
+      },
+    });
+  });
+}
+
+module.exports = { request, silentLogin, getToken };

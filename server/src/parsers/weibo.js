@@ -1,1 +1,214 @@
-Y29uc3QgeyByZXEsIGdldFRleHQsIGdldEpzb24sIHJlc29sdmVSZWRpcmVjdCwgVUEgfSA9IHJlcXVpcmUoJy4uL3V0aWxzL2h0dHAnKTsKY29uc3QgewogIEJpekVycm9yLAogIEVSUiwKICByZXNvbHV0aW9uTGFiZWwsCiAgY2xlYW5UaXRsZSwKICBkdXJhdGlvblRleHQsCn0gPSByZXF1aXJlKCcuLi91dGlscy9jb21tb24nKTsKY29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlnJyk7Cgpjb25zdCBLRVkgPSAnd2VpYm8nOwpjb25zdCBOQU1FID0gJ+W+ruWNmic7CgpmdW5jdGlvbiBtYXRjaCh1cmwpIHsKICByZXR1cm4gL3dlaWJvXC5jb218d2VpYm9cLmNufHRcLmNuLy50ZXN0KHVybCk7Cn0KCmZ1bmN0aW9uIHN0cmlwSHRtbChzKSB7CiAgcmV0dXJuIFN0cmluZyhzIHx8ICcnKQogICAgLnJlcGxhY2UoLzxiclxzKlwvPz4vZ2ksICdcbicpCiAgICAucmVwbGFjZSgvPFtePl0rPi9nLCAnJykKICAgIC5yZXBsYWNlKC8mbmJzcDsvZywgJyAnKQogICAgLnJlcGxhY2UoLyZhbXA7L2csICcmJykKICAgIC50cmltKCk7Cn0KCi8qKiDlvaLmgIHkuIDvvJrlvq7ljZrmraPmlofvvIjlkKvop4bpopHvvInihpIgbS53ZWliby5jbi9zdGF0dXNlcy9zaG93ICovCmFzeW5jIGZ1bmN0aW9uIHBhcnNlU3RhdHVzKGlkKSB7CiAgY29uc3QgYXBpID0gYGh0dHBzOi8vbS53ZWliby5jbi9zdGF0dXNlcy9zaG93P2lkPSR7aWR9YDsKICBjb25zdCBqc29uID0gYXdhaXQgZ2V0SnNvbihhcGksIHsKICAgIHVhOiBVQS5pb3MsCiAgICBoZWFkZXJzOiB7CiAgICAgIFJlZmVyZXI6IGBodHRwczovL20ud2VpYm8uY24vZGV0YWlsLyR7aWR9YCwKICAgICAgJ1gtUmVxdWVzdGVkLVdpdGgnOiAnWE1MSHR0cFJlcXVlc3QnLAogICAgICBDb29raWU6IGNvbmZpZy5jb29raWVzLndlaWJvIHx8ICcnLAogICAgfSwKICB9KTsKCiAgaWYgKCFqc29uIHx8ICFqc29uLmRhdGEpIHsKICAgIHRocm93IG5ldyBCaXpFcnJvcihFUlIuTk9UX0ZPVU5ELCAn5b6u5Y2a5LiN5a2Y5Zyo44CB5bey5Yig6Zmk5oiW6ZyA6KaB55m75b2V5p+l55yLJyk7CiAgfQoKICBjb25zdCBkID0ganNvbi5kYXRhOwogIGNvbnN0IHBhZ2VJbmZvID0gZC5wYWdlX2luZm8gfHwge307CiAgY29uc3QgbWVkaWEgPSBwYWdlSW5mby5tZWRpYV9pbmZvIHx8IHt9OwogIGNvbnN0IHF1YWxpdGllcyA9IFtdOwoKICAvLyBwbGF5YmFja19saXN0IOe7meWHuuWkmuaho+a4heaZsOW6pu+8jOaYr+acgOWujOaVtOeahOadpea6kAogIGNvbnN0IGxpc3QgPSBBcnJheS5pc0FycmF5KG1lZGlhLnBsYXliYWNrX2xpc3QpID8gbWVkaWEucGxheWJhY2tfbGlzdCA6IFtdOwogIGxpc3QuZm9yRWFjaCgoaXRlbSkgPT4gewogICAgY29uc3QgaW5mbyA9IGl0ZW0ucGxheV9pbmZvIHx8IHt9OwogICAgaWYgKCFpbmZvLnVybCkgcmV0dXJuOwogICAgcXVhbGl0aWVzLnB1c2goewogICAgICB1cmw6IGluZm8udXJsLAogICAgICB3aWR0aDogaW5mby53aWR0aCB8fCAwLAogICAgICBoZWlnaHQ6IGluZm8uaGVpZ2h0IHx8IDAsCiAgICAgIGJpdHJhdGU6IGluZm8uYml0cmF0ZSB8fCAwLAogICAgICBzaXplOiBpbmZvLnNpemUgfHwgMCwKICAgICAgbGFiZWw6IHJlc29sdXRpb25MYWJlbChpbmZvLndpZHRoLCBpbmZvLmhlaWdodCwgaW5mby5xdWFsaXR5X2Rlc2MpLAogICAgICBmb3JtYXQ6ICdtcDQnLAogICAgfSk7CiAgfSk7CgogIC8vIOWFnOW6leWtl+aute+8iOiAgeaVsOaNrue7k+aehO+8iQogIGlmICghcXVhbGl0aWVzLmxlbmd0aCkgewogICAgY29uc3QgZmFsbGJhY2tzID0gWwogICAgICB7IHU6IG1lZGlhLm1wNF8xMDgwcF9tcDQsIGxhYmVsOiAnMTA4MFAnLCBoOiAxMDgwIH0sCiAgICAgIHsgdTogbWVkaWEubXA0XzcyMHBfbXA0LCBsYWJlbDogJzcyMFAnLCBoOiA3MjAgfSwKICAgICAgeyB1OiBtZWRpYS5tcDRfaGRfdXJsLCBsYWJlbDogJ+mrmOa4hScsIGg6IDU0MCB9LAogICAgICB7IHU6IG1lZGlhLm1wNF9zZF91cmwsIGxhYmVsOiAn5qCH5riFJywgaDogMzYwIH0sCiAgICAgIHsgdTogbWVkaWEuc3RyZWFtX3VybF9oZCwgbGFiZWw6ICfpq5jmuIUnLCBoOiA1NDAgfSwKICAgICAgeyB1OiBtZWRpYS5zdHJlYW1fdXJsLCBsYWJlbDogJ+agh+a4hScsIGg6IDM2MCB9LAogICAgXTsKICAgIGZhbGxiYWNrcy5mb3JFYWNoKChmKSA9PiB7CiAgICAgIGlmIChmLnUpIHsKICAgICAgICBxdWFsaXRpZXMucHVzaCh7CiAgICAgICAgICB1cmw6IGYudSwKICAgICAgICAgIHdpZHRoOiAwLAogICAgICAgICAgaGVpZ2h0OiBmLmgsCiAgICAgICAgICBiaXRyYXRlOiAwLAogICAgICAgICAgc2l6ZTogMCwKICAgICAgICAgIGxhYmVsOiBmLmxhYmVsLAogICAgICAgICAgZm9ybWF0OiAnbXA0JywKICAgICAgICB9KTsKICAgICAgfQogICAgfSk7CiAgfQoKICAvLyDlm77pm4bvvIjkuZ3lrqvmoLzljp/lm77vvIkKICBjb25zdCBpbWFnZXMgPSBbXTsKICBjb25zdCBwaWNzID0gZC5waWNzIHx8IFtdOwogIHBpY3MuZm9yRWFjaCgocCkgPT4gewogICAgY29uc3QgdSA9IChwLmxhcmdlICYmIHAubGFyZ2UudXJsKSB8fCBwLnVybDsKICAgIGlmICh1KSBpbWFnZXMucHVzaCh7IHVybDogdSB9KTsKICB9KTsKCiAgaWYgKCFxdWFsaXRpZXMubGVuZ3RoICYmICFpbWFnZXMubGVuZ3RoKSB7CiAgICB0aHJvdyBuZXcgQml6RXJyb3IoRVJSLk5PVF9GT1VORCwgJ+i/meadoeW+ruWNmumHjOayoeacieWPr+S4i+i9veeahOinhumikeaIluWbvueJhycpOwogIH0KCiAgY29uc3QgdXNlciA9IGQudXNlciB8fCB7fTsKICBjb25zdCBkdXIgPSBtZWRpYS5kdXJhdGlvbiB8fCBwYWdlSW5mby5tZWRpYV9pbmZvLmR1cmF0aW9uIHx8IDA7CgogIHJldHVybiB7CiAgICBwbGF0Zm9ybTogS0VZLAogICAgcGxhdGZvcm1OYW1lOiBOQU1FLAogICAgdmlkZW9JZDogYHdiXyR7ZC5pZCB8fCBpZH1gLAogICAgdGl0bGU6IGNsZWFuVGl0bGUoc3RyaXBIdG1sKGQudGV4dCkpLAogICAgcmF3VGl0bGU6IHN0cmlwSHRtbChkLnRleHQpLAogICAgY292ZXI6IHBhZ2VJbmZvLnBhZ2VfcGljIHx8IChkLnBpY3MgJiYgZC5waWNzWzBdICYmIGQucGljc1swXS51cmwpIHx8ICcnLAogICAgYXV0aG9yOiB1c2VyLnNjcmVlbl9uYW1lIHx8ICcnLAogICAgYXV0aG9yQXZhdGFyOiB1c2VyLnByb2ZpbGVfaW1hZ2VfdXJsIHx8ICcnLAogICAgZHVyYXRpb246IE1hdGgucm91bmQoZHVyKSwKICAgIGR1cmF0aW9uVGV4dDogZHVyYXRpb25UZXh0KGR1ciksCiAgICBxdWFsaXRpZXMsCiAgICBpbWFnZXMsCiAgICBwcm94eUhlYWRlcnM6IHsKICAgICAgUmVmZXJlcjogJ2h0dHBzOi8vd2VpYm8uY29tLycsCiAgICAgICdVc2VyLUFnZW50JzogVUEuaW9zLAogICAgfSwKICB9Owp9CgovKiog5b2i5oCB5LqM77ya5b6u5Y2a6KeG6aKR5Y+3IHdlaWJvLmNvbS90di9zaG93LzEwMzQ6eHh4eCAqLwphc3luYyBmdW5jdGlvbiBwYXJzZVR2KGZpZCkgewogIGNvbnN0IGFwaSA9ICdodHRwczovL2g1LnZpZGVvLndlaWJvLmNvbS9hcGkvY29tcG9uZW50P3BhZ2U9JTJGc2hvdyUyRicgKyBlbmNvZGVVUklDb21wb25lbnQoZmlkKTsKICBjb25zdCBib2R5ID0gYGRhdGE9JHtlbmNvZGVVUklDb21wb25lbnQoCiAgICBKU09OLnN0cmluZ2lmeSh7IENvbXBvbmVudF9QbGF5X1BsYXlpbmZvOiB7IG9pZDogZmlkIH0gfSkKICApfWA7CgogIGNvbnN0IHJlcyA9IGF3YWl0IHJlcShhcGksIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgdWE6IFVBLnBjLAogICAgaGVhZGVyczogewogICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCcsCiAgICAgIFJlZmVyZXI6IGBodHRwczovL2g1LnZpZGVvLndlaWJvLmNvbS9zaG93LyR7ZmlkfWAsCiAgICAgIENvb2tpZTogY29uZmlnLmNvb2tpZXMud2VpYm8gfHwgJ1NVQj1fMkE7JywKICAgIH0sCiAgICBib2R5LAogIH0pOwoKICBjb25zdCBqc29uID0gYXdhaXQgcmVzLmpzb24oKS5jYXRjaCgoKSA9PiBudWxsKTsKICBjb25zdCBpbmZvID0KICAgIGpzb24gJiYganNvbi5kYXRhICYmIGpzb24uZGF0YS5Db21wb25lbnRfUGxheV9QbGF5aW5mbwogICAgICA/IGpzb24uZGF0YS5Db21wb25lbnRfUGxheV9QbGF5aW5mbwogICAgICA6IG51bGw7CgogIGlmICghaW5mbyB8fCAhaW5mby51cmxzKSB7CiAgICB0aHJvdyBuZXcgQml6RXJyb3IoRVJSLk5PVF9GT1VORCwgJ+acquiOt+WPluWIsOW+ruWNmuinhumikeS/oeaBr++8jOWPr+iDvemcgOimgeeZu+W9lScpOwogIH0KCiAgLy8gdXJscyDlvaLlpoIgeyAi6LaF5riFIDEwODBQIjogIi8vZi52aWRlby53ZWlib2Nkbi5jb20vLi4uIiwgIumrmOa4hSA3MjBQIjogIi4uLiIgfQogIGNvbnN0IHF1YWxpdGllcyA9IE9iamVjdC5rZXlzKGluZm8udXJscykubWFwKChsYWJlbCkgPT4gewogICAgY29uc3QgcmF3ID0gaW5mby51cmxzW2xhYmVsXTsKICAgIGNvbnN0IHUgPSByYXcuc3RhcnRzV2l0aCgnaHR0cCcpID8gcmF3IDogYGh0dHBzOiR7cmF3fWA7CiAgICBjb25zdCBtID0gbGFiZWwubWF0Y2goLyhcZHszLDR9KVAvaSk7CiAgICBjb25zdCBoID0gbSA/IE51bWJlcihtWzFdKSA6IDA7CiAgICByZXR1cm4gewogICAgICB1cmw6IHUsCiAgICAgIHdpZHRoOiAwLAogICAgICBoZWlnaHQ6IGgsCiAgICAgIGJpdHJhdGU6IDAsCiAgICAgIHNpemU6IDAsCiAgICAgIGxhYmVsOiBsYWJlbC5yZXBsYWNlKC9ccysvZywgJyAnKS50cmltKCksCiAgICAgIGZvcm1hdDogJ21wNCcsCiAgICB9OwogIH0pOwoKICByZXR1cm4gewogICAgcGxhdGZvcm06IEtFWSwKICAgIHBsYXRmb3JtTmFtZTogTkFNRSwKICAgIHZpZGVvSWQ6IGB3Yl8ke2ZpZH1gLAogICAgdGl0bGU6IGNsZWFuVGl0bGUoaW5mby50aXRsZSksCiAgICByYXdUaXRsZTogaW5mby50aXRsZSB8fCAnJywKICAgIGNvdmVyOiBpbmZvLmNvdmVyX2ltYWdlCiAgICAgID8gaW5mby5jb3Zlcl9pbWFnZS5zdGFydHNXaXRoKCdodHRwJykKICAgICAgICA/IGluZm8uY292ZXJfaW1hZ2UKICAgICAgICA6IGBodHRwczoke2luZm8uY292ZXJfaW1hZ2V9YAogICAgICA6ICcnLAogICAgYXV0aG9yOiBpbmZvLmF1dGhvciB8fCAnJywKICAgIGF1dGhvckF2YXRhcjogJycsCiAgICBkdXJhdGlvbjogTWF0aC5yb3VuZChpbmZvLmR1cmF0aW9uIHx8IDApLAogICAgZHVyYXRpb25UZXh0OiBkdXJhdGlvblRleHQoaW5mby5kdXJhdGlvbiksCiAgICBxdWFsaXRpZXMsCiAgICBpbWFnZXM6IFtdLAogICAgcHJveHlIZWFkZXJzOiB7CiAgICAgIFJlZmVyZXI6ICdodHRwczovL3dlaWJvLmNvbS8nLAogICAgICAnVXNlci1BZ2VudCc6IFVBLnBjLAogICAgfSwKICB9Owp9Cgphc3luYyBmdW5jdGlvbiBwYXJzZSh1cmwpIHsKICBsZXQgdGFyZ2V0ID0gdXJsOwoKICBpZiAoL3RcLmNuLy50ZXN0KHVybCkpIHsKICAgIGNvbnN0IHsgZmluYWxVcmwgfSA9IGF3YWl0IHJlc29sdmVSZWRpcmVjdCh1cmwsIHsgdWE6IFVBLmlvcyB9KTsKICAgIHRhcmdldCA9IGZpbmFsVXJsOwogIH0KCiAgLy8g6KeG6aKR5Y+35b2i5oCBCiAgY29uc3QgdHYgPSB0YXJnZXQubWF0Y2goLyg/OnR2XC9zaG93fHNob3dcP2ZpZD18XC9zaG93XC8pKDEwMzQ6W2EtejAtOV0rKS9pKTsKICBpZiAodHYpIHJldHVybiBwYXJzZVR2KHR2WzFdKTsKCiAgLy8g5q2j5paH5b2i5oCB77yaL2RldGFpbC97aWR944CBL3N0YXR1cy97aWR944CBL3UveHh4L3tiaWR9CiAgY29uc3QgaWRNYXRjaCA9CiAgICB0YXJnZXQubWF0Y2goLyg/OmRldGFpbHxzdGF0dXMpXC8oXHcrKS9pKSB8fAogICAgdGFyZ2V0Lm1hdGNoKC93ZWlib1wuKD86Y29tfGNuKVwvXGQrXC8oXHcrKS9pKTsKICBpZiAoaWRNYXRjaCkgcmV0dXJuIHBhcnNlU3RhdHVzKGlkTWF0Y2hbMV0pOwoKICB0aHJvdyBuZXcgQml6RXJyb3IoRVJSLkJBRF9VUkwsICfmnKror4bliKvnmoTlvq7ljZrpk77mjqXmoLzlvI8nKTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7IGtleTogS0VZLCBuYW1lOiBOQU1FLCBtYXRjaCwgcGFyc2UgfTsK
+const { req, getText, getJson, resolveRedirect, UA } = require('../utils/http');
+const {
+  BizError,
+  ERR,
+  resolutionLabel,
+  cleanTitle,
+  durationText,
+} = require('../utils/common');
+const config = require('../config');
+
+const KEY = 'weibo';
+const NAME = '微博';
+
+function match(url) {
+  return /weibo\.com|weibo\.cn|t\.cn/.test(url);
+}
+
+function stripHtml(s) {
+  return String(s || '')
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .trim();
+}
+
+/** 形态一：微博正文（含视频）→ m.weibo.cn/statuses/show */
+async function parseStatus(id) {
+  const api = `https://m.weibo.cn/statuses/show?id=${id}`;
+  const json = await getJson(api, {
+    ua: UA.ios,
+    headers: {
+      Referer: `https://m.weibo.cn/detail/${id}`,
+      'X-Requested-With': 'XMLHttpRequest',
+      Cookie: config.cookies.weibo || '',
+    },
+  });
+
+  if (!json || !json.data) {
+    throw new BizError(ERR.NOT_FOUND, '微博不存在、已删除或需要登录查看');
+  }
+
+  const d = json.data;
+  const pageInfo = d.page_info || {};
+  const media = pageInfo.media_info || {};
+  const qualities = [];
+
+  // playback_list 给出多档清晰度，是最完整的来源
+  const list = Array.isArray(media.playback_list) ? media.playback_list : [];
+  list.forEach((item) => {
+    const info = item.play_info || {};
+    if (!info.url) return;
+    qualities.push({
+      url: info.url,
+      width: info.width || 0,
+      height: info.height || 0,
+      bitrate: info.bitrate || 0,
+      size: info.size || 0,
+      label: resolutionLabel(info.width, info.height, info.quality_desc),
+      format: 'mp4',
+    });
+  });
+
+  // 兜底字段（老数据结构）
+  if (!qualities.length) {
+    const fallbacks = [
+      { u: media.mp4_1080p_mp4, label: '1080P', h: 1080 },
+      { u: media.mp4_720p_mp4, label: '720P', h: 720 },
+      { u: media.mp4_hd_url, label: '高清', h: 540 },
+      { u: media.mp4_sd_url, label: '标清', h: 360 },
+      { u: media.stream_url_hd, label: '高清', h: 540 },
+      { u: media.stream_url, label: '标清', h: 360 },
+    ];
+    fallbacks.forEach((f) => {
+      if (f.u) {
+        qualities.push({
+          url: f.u,
+          width: 0,
+          height: f.h,
+          bitrate: 0,
+          size: 0,
+          label: f.label,
+          format: 'mp4',
+        });
+      }
+    });
+  }
+
+  // 图集（九宫格原图）
+  const images = [];
+  const pics = d.pics || [];
+  pics.forEach((p) => {
+    const u = (p.large && p.large.url) || p.url;
+    if (u) images.push({ url: u });
+  });
+
+  if (!qualities.length && !images.length) {
+    throw new BizError(ERR.NOT_FOUND, '这条微博里没有可下载的视频或图片');
+  }
+
+  const user = d.user || {};
+  const dur = media.duration || pageInfo.media_info.duration || 0;
+
+  return {
+    platform: KEY,
+    platformName: NAME,
+    videoId: `wb_${d.id || id}`,
+    title: cleanTitle(stripHtml(d.text)),
+    rawTitle: stripHtml(d.text),
+    cover: pageInfo.page_pic || (d.pics && d.pics[0] && d.pics[0].url) || '',
+    author: user.screen_name || '',
+    authorAvatar: user.profile_image_url || '',
+    duration: Math.round(dur),
+    durationText: durationText(dur),
+    qualities,
+    images,
+    proxyHeaders: {
+      Referer: 'https://weibo.com/',
+      'User-Agent': UA.ios,
+    },
+  };
+}
+
+/** 形态二：微博视频号 weibo.com/tv/show/1034:xxxx */
+async function parseTv(fid) {
+  const api = 'https://h5.video.weibo.com/api/component?page=%2Fshow%2F' + encodeURIComponent(fid);
+  const body = `data=${encodeURIComponent(
+    JSON.stringify({ Component_Play_Playinfo: { oid: fid } })
+  )}`;
+
+  const res = await req(api, {
+    method: 'POST',
+    ua: UA.pc,
+    headers: {
+      'Content-Type': 'application/x-www-form-urlencoded',
+      Referer: `https://h5.video.weibo.com/show/${fid}`,
+      Cookie: config.cookies.weibo || 'SUB=_2A;',
+    },
+    body,
+  });
+
+  const json = await res.json().catch(() => null);
+  const info =
+    json && json.data && json.data.Component_Play_Playinfo
+      ? json.data.Component_Play_Playinfo
+      : null;
+
+  if (!info || !info.urls) {
+    throw new BizError(ERR.NOT_FOUND, '未获取到微博视频信息，可能需要登录');
+  }
+
+  // urls 形如 { "超清 1080P": "//f.video.weibocdn.com/...", "高清 720P": "..." }
+  const qualities = Object.keys(info.urls).map((label) => {
+    const raw = info.urls[label];
+    const u = raw.startsWith('http') ? raw : `https:${raw}`;
+    const m = label.match(/(\d{3,4})P/i);
+    const h = m ? Number(m[1]) : 0;
+    return {
+      url: u,
+      width: 0,
+      height: h,
+      bitrate: 0,
+      size: 0,
+      label: label.replace(/\s+/g, ' ').trim(),
+      format: 'mp4',
+    };
+  });
+
+  return {
+    platform: KEY,
+    platformName: NAME,
+    videoId: `wb_${fid}`,
+    title: cleanTitle(info.title),
+    rawTitle: info.title || '',
+    cover: info.cover_image
+      ? info.cover_image.startsWith('http')
+        ? info.cover_image
+        : `https:${info.cover_image}`
+      : '',
+    author: info.author || '',
+    authorAvatar: '',
+    duration: Math.round(info.duration || 0),
+    durationText: durationText(info.duration),
+    qualities,
+    images: [],
+    proxyHeaders: {
+      Referer: 'https://weibo.com/',
+      'User-Agent': UA.pc,
+    },
+  };
+}
+
+async function parse(url) {
+  let target = url;
+
+  if (/t\.cn/.test(url)) {
+    const { finalUrl } = await resolveRedirect(url, { ua: UA.ios });
+    target = finalUrl;
+  }
+
+  // 视频号形态
+  const tv = target.match(/(?:tv\/show|show\?fid=|\/show\/)(1034:[a-z0-9]+)/i);
+  if (tv) return parseTv(tv[1]);
+
+  // 正文形态：/detail/{id}、/status/{id}、/u/xxx/{bid}
+  const idMatch =
+    target.match(/(?:detail|status)\/(\w+)/i) ||
+    target.match(/weibo\.(?:com|cn)\/\d+\/(\w+)/i);
+  if (idMatch) return parseStatus(idMatch[1]);
+
+  throw new BizError(ERR.BAD_URL, '未识别的微博链接格式');
+}
+
+module.exports = { key: KEY, name: NAME, match, parse };

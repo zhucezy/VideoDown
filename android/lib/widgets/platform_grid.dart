@@ -1,1 +1,54 @@
-aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7CmltcG9ydCAnLi4vc2VydmljZXMvYXBpX3NlcnZpY2UuZGFydCc7CgovLy8g5pSv5oyB5bmz5Y+w5Zu+5qCH5aKZ77yI6aaW6aG15bGV56S677yJCmNsYXNzIFBsYXRmb3JtR3JpZCBleHRlbmRzIFN0YXRlbGVzc1dpZGdldCB7CiAgZmluYWwgTGlzdDxQbGF0Zm9ybUluZm8+IHBsYXRmb3JtczsKICBmaW5hbCBWYWx1ZUNoYW5nZWQ8U3RyaW5nPj8gb25UYXA7IC8vIOeCueWHu+W5s+WPsCAtPiDmiornpLrkvovmj5DnpLrlm57loavvvIjov5nph4zku4XlgZrop4bop4nlj43ppojvvIkKCiAgY29uc3QgUGxhdGZvcm1HcmlkKHtzdXBlci5rZXksIHJlcXVpcmVkIHRoaXMucGxhdGZvcm1zLCB0aGlzLm9uVGFwfSk7CgogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgaWYgKHBsYXRmb3Jtcy5pc0VtcHR5KSByZXR1cm4gY29uc3QgU2l6ZWRCb3guc2hyaW5rKCk7CiAgICByZXR1cm4gV3JhcCgKICAgICAgc3BhY2luZzogMTQsCiAgICAgIHJ1blNwYWNpbmc6IDE0LAogICAgICBjaGlsZHJlbjogcGxhdGZvcm1zLm1hcCgocCkgewogICAgICAgIGZpbmFsIGNvbG9yID0gX3BhcnNlQ29sb3IocC5jb2xvcik7CiAgICAgICAgcmV0dXJuIElua1dlbGwoCiAgICAgICAgICBvblRhcDogKCkgPT4gb25UYXA/LmNhbGwocC5rZXkpLAogICAgICAgICAgY2hpbGQ6IENvbHVtbigKICAgICAgICAgICAgbWFpbkF4aXNTaXplOiBNYWluQXhpc1NpemUubWluLAogICAgICAgICAgICBjaGlsZHJlbjogWwogICAgICAgICAgICAgIENvbnRhaW5lcigKICAgICAgICAgICAgICAgIHdpZHRoOiA1MCwKICAgICAgICAgICAgICAgIGhlaWdodDogNTAsCiAgICAgICAgICAgICAgICBkZWNvcmF0aW9uOiBCb3hEZWNvcmF0aW9uKAogICAgICAgICAgICAgICAgICBjb2xvcjogY29sb3Iud2l0aE9wYWNpdHkoMC4xMiksCiAgICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czogQm9yZGVyUmFkaXVzLmNpcmN1bGFyKDE0KSwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBjaGlsZDogQ2VudGVyKAogICAgICAgICAgICAgICAgICBjaGlsZDogVGV4dCgKICAgICAgICAgICAgICAgICAgICBwLm5hbWUuaXNOb3RFbXB0eSA/IHAubmFtZVswXSA6ICc/JywKICAgICAgICAgICAgICAgICAgICBzdHlsZTogVGV4dFN0eWxlKGNvbG9yOiBjb2xvciwgZm9udFdlaWdodDogRm9udFdlaWdodC5ib2xkLCBmb250U2l6ZTogMjApLAogICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICApLAogICAgICAgICAgICAgIGNvbnN0IFNpemVkQm94KGhlaWdodDogNiksCiAgICAgICAgICAgICAgVGV4dChwLm5hbWUsIHN0eWxlOiBjb25zdCBUZXh0U3R5bGUoZm9udFNpemU6IDExLCBjb2xvcjogQ29sb3JzLmJsYWNrODcpKSwKICAgICAgICAgICAgXSwKICAgICAgICAgICksCiAgICAgICAgKTsKICAgICAgfSkudG9MaXN0KCksCiAgICApOwogIH0KCiAgQ29sb3IgX3BhcnNlQ29sb3IoU3RyaW5nIGhleCkgewogICAgdHJ5IHsKICAgICAgcmV0dXJuIENvbG9yKGludC5wYXJzZShoZXgucmVwbGFjZUZpcnN0KCcjJywgJzB4ZmYnKSkpOwogICAgfSBjYXRjaCAoXykgewogICAgICByZXR1cm4gQ29sb3JzLmJsdWU7CiAgICB9CiAgfQp9Cg==
+import 'package:flutter/material.dart';
+import '../services/api_service.dart';
+
+/// 支持平台图标墙（首页展示）
+class PlatformGrid extends StatelessWidget {
+  final List<PlatformInfo> platforms;
+  final ValueChanged<String>? onTap; // 点击平台 -> 把示例提示回填（这里仅做视觉反馈）
+
+  const PlatformGrid({super.key, required this.platforms, this.onTap});
+
+  @override
+  Widget build(BuildContext context) {
+    if (platforms.isEmpty) return const SizedBox.shrink();
+    return Wrap(
+      spacing: 14,
+      runSpacing: 14,
+      children: platforms.map((p) {
+        final color = _parseColor(p.color);
+        return InkWell(
+          onTap: () => onTap?.call(p.key),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Container(
+                width: 50,
+                height: 50,
+                decoration: BoxDecoration(
+                  color: color.withOpacity(0.12),
+                  borderRadius: BorderRadius.circular(14),
+                ),
+                child: Center(
+                  child: Text(
+                    p.name.isNotEmpty ? p.name[0] : '?',
+                    style: TextStyle(color: color, fontWeight: FontWeight.bold, fontSize: 20),
+                  ),
+                ),
+              ),
+              const SizedBox(height: 6),
+              Text(p.name, style: const TextStyle(fontSize: 11, color: Colors.black87)),
+            ],
+          ),
+        );
+      }).toList(),
+    );
+  }
+
+  Color _parseColor(String hex) {
+    try {
+      return Color(int.parse(hex.replaceFirst('#', '0xff')));
+    } catch (_) {
+      return Colors.blue;
+    }
+  }
+}

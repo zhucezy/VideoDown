@@ -1,1 +1,20 @@
-PHZpZXcgY2xhc3M9InBnIj4KICA8dmlldyBjbGFzcz0icGctaGVhZCI+CiAgICA8dGV4dCBjbGFzcz0icGctdGl0bGUiPuaUr+aMgeW5s+WPsDwvdGV4dD4KICAgIDx0ZXh0IGNsYXNzPSJwZy1zdWIiPueymOi0tOmTvuaOpeiHquWKqOivhuWIqzwvdGV4dD4KICA8L3ZpZXc+CiAgPHZpZXcgY2xhc3M9InBnLWxpc3QiPgogICAgPHZpZXcKICAgICAgY2xhc3M9InBnLWl0ZW0iCiAgICAgIHd4OmZvcj0ie3tsaXN0fX0iCiAgICAgIHd4OmtleT0ia2V5IgogICAgICBkYXRhLWtleT0ie3tpdGVtLmtleX19IgogICAgICBiaW5kdGFwPSJvblRhcCIKICAgID4KICAgICAgPHZpZXcgY2xhc3M9InBnLWxvZ28iIHN0eWxlPSJiYWNrZ3JvdW5kOnt7aXRlbS5jb2xvcn19OyI+CiAgICAgICAgPHRleHQ+e3tpdGVtLmxldHRlcn19PC90ZXh0PgogICAgICA8L3ZpZXc+CiAgICAgIDx0ZXh0IGNsYXNzPSJwZy1uYW1lIj57e2l0ZW0ubmFtZX19PC90ZXh0PgogICAgPC92aWV3PgogIDwvdmlldz4KPC92aWV3Pgo=
+<view class="pg">
+  <view class="pg-head">
+    <text class="pg-title">支持平台</text>
+    <text class="pg-sub">粘贴链接自动识别</text>
+  </view>
+  <view class="pg-list">
+    <view
+      class="pg-item"
+      wx:for="{{list}}"
+      wx:key="key"
+      data-key="{{item.key}}"
+      bindtap="onTap"
+    >
+      <view class="pg-logo" style="background:{{item.color}};">
+        <text>{{item.letter}}</text>
+      </view>
+      <text class="pg-name">{{item.name}}</text>
+    </view>
+  </view>
+</view>

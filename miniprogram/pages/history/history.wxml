@@ -1,1 +1,56 @@
-PHZpZXcgY2xhc3M9InBhZ2UiPgogIDxuYXYtYmFyIHRpdGxlPSLop6PmnpDorrDlvZUiIGJnPSIjRjRGNUY3IiAvPgoKICA8c2Nyb2xsLXZpZXcgY2xhc3M9InNjcm9sbCIgc2Nyb2xsLXkgZW5oYW5jZWQgc2hvdy1zY3JvbGxiYXI9Int7ZmFsc2V9fSI+CiAgICA8IS0tIOmhtumDqOW5v+WRiuS9jSAtLT4KICAgIDx2aWV3IGNsYXNzPSJhZC1zbG90Ij4KICAgICAgPGFkLWJhbm5lciAvPgogICAgPC92aWV3PgoKICAgIDx2aWV3IHd4OmlmPSJ7e2xpc3QubGVuZ3RofX0iIGNsYXNzPSJjb250YWluZXIiPgogICAgICA8dmlldyBjbGFzcz0iYmFyIj4KICAgICAgICA8dGV4dCBjbGFzcz0iYmFyLWNvdW50Ij7lhbEge3tsaXN0Lmxlbmd0aH19IOadoTwvdGV4dD4KICAgICAgICA8dGV4dCBjbGFzcz0iYmFyLWNsZWFyIiBiaW5kdGFwPSJvbkNsZWFyIj7muIXnqbo8L3RleHQ+CiAgICAgIDwvdmlldz4KCiAgICAgIDx2aWV3IGNsYXNzPSJjYXJkIGxpc3QiPgogICAgICAgIDx2aWV3IGNsYXNzPSJpdGVtIiB3eDpmb3I9Int7bGlzdH19IiB3eDprZXk9InZpZGVvSWQiPgogICAgICAgICAgPHZpZXcgY2xhc3M9Iml0LW1haW4iIGRhdGEtaW5kZXg9Int7aW5kZXh9fSIgYmluZHRhcD0ib25SZXBhcnNlIj4KICAgICAgICAgICAgPGltYWdlIGNsYXNzPSJpdC10aHVtYiIgc3JjPSJ7e2l0ZW0uY292ZXJ9fSIgbW9kZT0iYXNwZWN0RmlsbCIgbGF6eS1sb2FkIC8+CiAgICAgICAgICAgIDx2aWV3IGNsYXNzPSJpdC1pbmZvIj4KICAgICAgICAgICAgICA8dmlldyBjbGFzcz0iaXQtdGl0bGUgZWxsaXBzaXMtMiI+e3tpdGVtLnRpdGxlIHx8ICfmnKrlkb3lkI3op4bpopEnfX08L3ZpZXc+CiAgICAgICAgICAgICAgPHZpZXcgY2xhc3M9Iml0LW1ldGEiPgogICAgICAgICAgICAgICAgPHRleHQgY2xhc3M9Iml0LXR5cGUiIHN0eWxlPSJjb2xvcjp7e2l0ZW0ucGxhdENvbG9yfX07Ij57e2l0ZW0udHlwZUxhYmVsfX08L3RleHQ+CiAgICAgICAgICAgICAgICA8dGV4dCBjbGFzcz0iaXQtcGxhdCIgc3R5bGU9ImNvbG9yOnt7aXRlbS5wbGF0Q29sb3J9fTsiPnt7aXRlbS5wbGF0Zm9ybU5hbWV9fTwvdGV4dD4KICAgICAgICAgICAgICAgIDx0ZXh0IGNsYXNzPSJpdC1kb3QiPsK3PC90ZXh0PgogICAgICAgICAgICAgICAgPHRleHQ+e3tpdGVtLnRpbWVUZXh0fX08L3RleHQ+CiAgICAgICAgICAgICAgICA8dGV4dCB3eDppZj0ie3tpdGVtLmJlc3RMYWJlbH19IiBjbGFzcz0iaXQtZG90Ij7CtzwvdGV4dD4KICAgICAgICAgICAgICAgIDx0ZXh0IHd4OmlmPSJ7e2l0ZW0uYmVzdExhYmVsfX0iPnt7aXRlbS5iZXN0TGFiZWx9fTwvdGV4dD4KICAgICAgICAgICAgICAgIDx0ZXh0IHd4OmlmPSJ7e2l0ZW0uaW1nQ291bnR9fSIgY2xhc3M9Iml0LWRvdCI+wrc8L3RleHQ+CiAgICAgICAgICAgICAgICA8dGV4dCB3eDppZj0ie3tpdGVtLmltZ0NvdW50fX0iPnt7aXRlbS5pbWdDb3VudH195Zu+PC90ZXh0PgogICAgICAgICAgICAgIDwvdmlldz4KICAgICAgICAgICAgPC92aWV3PgogICAgICAgICAgPC92aWV3PgogICAgICAgICAgPHZpZXcgY2xhc3M9Iml0LW9wcyI+CiAgICAgICAgICAgIDx2aWV3IGNsYXNzPSJvcCIgZGF0YS1pbmRleD0ie3tpbmRleH19IiBjYXRjaHRhcD0ib25Db3B5Ij7lpI3liLbpk77mjqU8L3ZpZXc+CiAgICAgICAgICAgIDx2aWV3IGNsYXNzPSJvcCBvcC1kYW5nZXIiIGRhdGEtaW5kZXg9Int7aW5kZXh9fSIgY2F0Y2h0YXA9Im9uUmVtb3ZlIj7liKDpmaQ8L3ZpZXc+CiAgICAgICAgICA8L3ZpZXc+CiAgICAgICAgPC92aWV3PgogICAgICA8L3ZpZXc+CiAgICA8L3ZpZXc+CgogICAgPCEtLSDnqbrmgIEgLS0+CiAgICA8dmlldyB3eDplbHNlIGNsYXNzPSJlbXB0eSI+CiAgICAgIDx2aWV3IGNsYXNzPSJlbS1pbGx1Ij4KICAgICAgICA8dmlldyBjbGFzcz0iZW0tYm94Ij48L3ZpZXc+CiAgICAgICAgPHZpZXcgY2xhc3M9ImVtLWxpbmUiPjwvdmlldz4KICAgICAgICA8dmlldyBjbGFzcz0iZW0tbGluZSBzaG9ydCI+PC92aWV3PgogICAgICA8L3ZpZXc+CiAgICAgIDx2aWV3IGNsYXNzPSJlbS10aXRsZSI+6L+Y5rKh5pyJ6Kej5p6Q6K6w5b2VPC92aWV3PgogICAgICA8dmlldyBjbGFzcz0iZW0tc3ViIj7ljrvpppbpobXnspjotLTkuIDmnaHop4bpopHpk77mjqXor5Xor5U8L3ZpZXc+CiAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBlbS1idG4iIGJpbmR0YXA9ImdvSW5kZXgiPuWOu+ino+aekDwvYnV0dG9uPgogICAgPC92aWV3PgoKICAgIDx2aWV3IGNsYXNzPSJzYWZlLWJvdHRvbSI+PC92aWV3PgogIDwvc2Nyb2xsLXZpZXc+Cjwvdmlldz4K
+<view class="page">
+  <nav-bar title="解析记录" bg="#F4F5F7" />
+
+  <scroll-view class="scroll" scroll-y enhanced show-scrollbar="{{false}}">
+    <!-- 顶部广告位 -->
+    <view class="ad-slot">
+      <ad-banner />
+    </view>
+
+    <view wx:if="{{list.length}}" class="container">
+      <view class="bar">
+        <text class="bar-count">共 {{list.length}} 条</text>
+        <text class="bar-clear" bindtap="onClear">清空</text>
+      </view>
+
+      <view class="card list">
+        <view class="item" wx:for="{{list}}" wx:key="videoId">
+          <view class="it-main" data-index="{{index}}" bindtap="onReparse">
+            <image class="it-thumb" src="{{item.cover}}" mode="aspectFill" lazy-load />
+            <view class="it-info">
+              <view class="it-title ellipsis-2">{{item.title || '未命名视频'}}</view>
+              <view class="it-meta">
+                <text class="it-type" style="color:{{item.platColor}};">{{item.typeLabel}}</text>
+                <text class="it-plat" style="color:{{item.platColor}};">{{item.platformName}}</text>
+                <text class="it-dot">·</text>
+                <text>{{item.timeText}}</text>
+                <text wx:if="{{item.bestLabel}}" class="it-dot">·</text>
+                <text wx:if="{{item.bestLabel}}">{{item.bestLabel}}</text>
+                <text wx:if="{{item.imgCount}}" class="it-dot">·</text>
+                <text wx:if="{{item.imgCount}}">{{item.imgCount}}图</text>
+              </view>
+            </view>
+          </view>
+          <view class="it-ops">
+            <view class="op" data-index="{{index}}" catchtap="onCopy">复制链接</view>
+            <view class="op op-danger" data-index="{{index}}" catchtap="onRemove">删除</view>
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <!-- 空态 -->
+    <view wx:else class="empty">
+      <view class="em-illu">
+        <view class="em-box"></view>
+        <view class="em-line"></view>
+        <view class="em-line short"></view>
+      </view>
+      <view class="em-title">还没有解析记录</view>
+      <view class="em-sub">去首页粘贴一条视频链接试试</view>
+      <button class="btn btn-primary em-btn" bindtap="goIndex">去解析</button>
+    </view>
+
+    <view class="safe-bottom"></view>
+  </scroll-view>
+</view>

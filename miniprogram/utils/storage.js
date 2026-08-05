@@ -1,1 +1,45 @@
-Y29uc3QgeyBDT05GSUcgfSA9IHJlcXVpcmUoJy4vY29uZmlnJyk7Cgpjb25zdCBISVNUT1JZX0tFWSA9ICdwYXJzZV9oaXN0b3J5JzsKCmZ1bmN0aW9uIGdldEhpc3RvcnkoKSB7CiAgdHJ5IHsKICAgIGNvbnN0IGxpc3QgPSB3eC5nZXRTdG9yYWdlU3luYyhISVNUT1JZX0tFWSk7CiAgICByZXR1cm4gQXJyYXkuaXNBcnJheShsaXN0KSA/IGxpc3QgOiBbXTsKICB9IGNhdGNoIChlKSB7CiAgICByZXR1cm4gW107CiAgfQp9CgovKiog5paw5aKe5LiA5p2h6K6w5b2V77yM5oyJIHZpZGVvSWQvdXJsIOWOu+mHjeW5tue9rumhtiAqLwpmdW5jdGlvbiBhZGRIaXN0b3J5KGl0ZW0pIHsKICBpZiAoIWl0ZW0pIHJldHVybiBnZXRIaXN0b3J5KCk7CiAgY29uc3QgbGlzdCA9IGdldEhpc3RvcnkoKTsKICBjb25zdCBpZCA9IGl0ZW0udmlkZW9JZCB8fCBpdGVtLnNvdXJjZVVybDsKICBjb25zdCBmaWx0ZXJlZCA9IGxpc3QuZmlsdGVyKCh2KSA9PiAodi52aWRlb0lkIHx8IHYuc291cmNlVXJsKSAhPT0gaWQpOwogIGZpbHRlcmVkLnVuc2hpZnQoCiAgICBPYmplY3QuYXNzaWduKHt9LCBpdGVtLCB7IHNhdmVkQXQ6IGl0ZW0uc2F2ZWRBdCB8fCBEYXRlLm5vdygpIH0pCiAgKTsKICBjb25zdCBuZXh0ID0gZmlsdGVyZWQuc2xpY2UoMCwgQ09ORklHLmhpc3RvcnlMaW1pdCk7CiAgdHJ5IHsKICAgIHd4LnNldFN0b3JhZ2VTeW5jKEhJU1RPUllfS0VZLCBuZXh0KTsKICB9IGNhdGNoIChlKSB7fQogIHJldHVybiBuZXh0Owp9CgpmdW5jdGlvbiByZW1vdmVIaXN0b3J5KGlkKSB7CiAgY29uc3QgbmV4dCA9IGdldEhpc3RvcnkoKS5maWx0ZXIoKHYpID0+ICh2LnZpZGVvSWQgfHwgdi5zb3VyY2VVcmwpICE9PSBpZCk7CiAgdHJ5IHsKICAgIHd4LnNldFN0b3JhZ2VTeW5jKEhJU1RPUllfS0VZLCBuZXh0KTsKICB9IGNhdGNoIChlKSB7fQogIHJldHVybiBuZXh0Owp9CgpmdW5jdGlvbiBjbGVhckhpc3RvcnkoKSB7CiAgdHJ5IHsKICAgIHd4LnJlbW92ZVN0b3JhZ2VTeW5jKEhJU1RPUllfS0VZKTsKICB9IGNhdGNoIChlKSB7fQogIHJldHVybiBbXTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7IGdldEhpc3RvcnksIGFkZEhpc3RvcnksIHJlbW92ZUhpc3RvcnksIGNsZWFySGlzdG9yeSB9Owo=
+const { CONFIG } = require('./config');
+
+const HISTORY_KEY = 'parse_history';
+
+function getHistory() {
+  try {
+    const list = wx.getStorageSync(HISTORY_KEY);
+    return Array.isArray(list) ? list : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+/** 新增一条记录，按 videoId/url 去重并置顶 */
+function addHistory(item) {
+  if (!item) return getHistory();
+  const list = getHistory();
+  const id = item.videoId || item.sourceUrl;
+  const filtered = list.filter((v) => (v.videoId || v.sourceUrl) !== id);
+  filtered.unshift(
+    Object.assign({}, item, { savedAt: item.savedAt || Date.now() })
+  );
+  const next = filtered.slice(0, CONFIG.historyLimit);
+  try {
+    wx.setStorageSync(HISTORY_KEY, next);
+  } catch (e) {}
+  return next;
+}
+
+function removeHistory(id) {
+  const next = getHistory().filter((v) => (v.videoId || v.sourceUrl) !== id);
+  try {
+    wx.setStorageSync(HISTORY_KEY, next);
+  } catch (e) {}
+  return next;
+}
+
+function clearHistory() {
+  try {
+    wx.removeStorageSync(HISTORY_KEY);
+  } catch (e) {}
+  return [];
+}
+
+module.exports = { getHistory, addHistory, removeHistory, clearHistory };

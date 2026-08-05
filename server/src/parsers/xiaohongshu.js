@@ -1,1 +1,153 @@
-Y29uc3QgeyBnZXRUZXh0LCByZXNvbHZlUmVkaXJlY3QsIFVBIH0gPSByZXF1aXJlKCcuLi91dGlscy9odHRwJyk7CmNvbnN0IHsKICBCaXpFcnJvciwKICBFUlIsCiAgcmVzb2x1dGlvbkxhYmVsLAogIGNsZWFuVGl0bGUsCiAgZHVyYXRpb25UZXh0LAogIHNhZmVKc29uUGFyc2UsCn0gPSByZXF1aXJlKCcuLi91dGlscy9jb21tb24nKTsKY29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlnJyk7Cgpjb25zdCBLRVkgPSAneGlhb2hvbmdzaHUnOwpjb25zdCBOQU1FID0gJ+Wwj+e6ouS5pic7CgpmdW5jdGlvbiBtYXRjaCh1cmwpIHsKICByZXR1cm4gL3hpYW9ob25nc2h1XC5jb218eGhzbGlua1wuY29tLy50ZXN0KHVybCk7Cn0KCi8qKgogKiDlsI/nuqLkuabnrJTorrDpobXmiorlrozmlbTmlbDmja7mjILlnKggd2luZG93Ll9fSU5JVElBTF9TVEFURV9fIOS4iuOAggogKiDms6jmhI/vvJrov5nmrrXmmK8gSlMg5a2X6Z2i6YeP77yM6YeM6Z2i5Lya5Ye6546w6KO4IHVuZGVmaW5lZO+8jOW/hemhu+abv+aNouWQjuaJjeiDvSBKU09OLnBhcnNl44CCCiAqLwpmdW5jdGlvbiBleHRyYWN0U3RhdGUoaHRtbCkgewogIGNvbnN0IG0gPSBodG1sLm1hdGNoKAogICAgL3dpbmRvd1wuX19JTklUSUFMX1NUQVRFX19ccyo9XHMqKFx7W1xzXFNdKj9cfSlccyo8XC9zY3JpcHQ+LwogICk7CiAgaWYgKCFtKSByZXR1cm4gbnVsbDsKICByZXR1cm4gc2FmZUpzb25QYXJzZShtWzFdKTsKfQoKYXN5bmMgZnVuY3Rpb24gcGFyc2UodXJsKSB7CiAgbGV0IHRhcmdldCA9IHVybDsKCiAgLy8geGhzbGluayDnn63pk77pnIDopoHlsZXlvIDvvIzlsZXlvIDlkI7nmoTlnLDlnYDluKYgeHNlY190b2tlbu+8jOe8uuS6huS8miA0MDQKICBpZiAoL3hoc2xpbmtcLmNvbS8udGVzdCh1cmwpKSB7CiAgICBjb25zdCB7IGZpbmFsVXJsIH0gPSBhd2FpdCByZXNvbHZlUmVkaXJlY3QodXJsLCB7IHVhOiBVQS5pb3MgfSk7CiAgICB0YXJnZXQgPSBmaW5hbFVybDsKICB9CgogIGNvbnN0IGlkTWF0Y2ggPSB0YXJnZXQubWF0Y2goCiAgICAvKD86ZXhwbG9yZXxkaXNjb3ZlcnlcL2l0ZW18aXRlbSlcLyhbMC05YS1mXXsyNH0pL2kKICApOwogIGlmICghaWRNYXRjaCkgewogICAgdGhyb3cgbmV3IEJpekVycm9yKEVSUi5CQURfVVJMLCAn5pyq6IO96K+G5Yir5bCP57qi5Lmm56yU6K6wIElEJyk7CiAgfQogIGNvbnN0IG5vdGVJZCA9IGlkTWF0Y2hbMV07CgogIGNvbnN0IHsgdGV4dDogaHRtbCB9ID0gYXdhaXQgZ2V0VGV4dCh0YXJnZXQsIHsKICAgIHVhOiBVQS5pb3MsCiAgICBoZWFkZXJzOiB7CiAgICAgIFJlZmVyZXI6ICdodHRwczovL3d3dy54aWFvaG9uZ3NodS5jb20vJywKICAgICAgQ29va2llOiBjb25maWcuY29va2llcy54aWFvaG9uZ3NodSB8fCAnJywKICAgIH0sCiAgfSk7CgogIGNvbnN0IHN0YXRlID0gZXh0cmFjdFN0YXRlKGh0bWwpOwogIGNvbnN0IG5vdGVNYXAgPQogICAgc3RhdGUgJiYgc3RhdGUubm90ZSAmJiBzdGF0ZS5ub3RlLm5vdGVEZXRhaWxNYXAKICAgICAgPyBzdGF0ZS5ub3RlLm5vdGVEZXRhaWxNYXAKICAgICAgOiBudWxsOwoKICBpZiAoIW5vdGVNYXApIHsKICAgIHRocm93IG5ldyBCaXpFcnJvcigKICAgICAgRVJSLk5PVF9GT1VORCwKICAgICAgJ+eslOiusOS4jeWPr+ingeaIluinpuWPkeS6humjjuaOp++8jOWPr+eojeWQjumHjeivlSAvIOmFjee9rueZu+W9lSBDb29raWUnCiAgICApOwogIH0KCiAgY29uc3QgZW50cnkgPSBub3RlTWFwW25vdGVJZF0gfHwgbm90ZU1hcFtPYmplY3Qua2V5cyhub3RlTWFwKVswXV07CiAgY29uc3Qgbm90ZSA9IGVudHJ5ICYmIGVudHJ5Lm5vdGU7CiAgaWYgKCFub3RlKSB0aHJvdyBuZXcgQml6RXJyb3IoRVJSLk5PVF9GT1VORCwgJ+eslOiusOW3suWIoOmZpOaIluiuvuS4uuengeWvhicpOwoKICBjb25zdCBxdWFsaXRpZXMgPSBbXTsKICBjb25zdCB2aWRlbyA9IG5vdGUudmlkZW87CgogIGlmICh2aWRlbyAmJiB2aWRlby5tZWRpYSAmJiB2aWRlby5tZWRpYS5zdHJlYW0pIHsKICAgIGNvbnN0IHN0cmVhbSA9IHZpZGVvLm1lZGlhLnN0cmVhbTsKICAgIC8vIOS+neasoeWwneivlSBoMjY0IC8gaDI2NSAvIGF2Me+8jOWQjOS4gOaho+S9jeWPr+iDvee7meWkmuS4quWkh+eUqOWfn+WQjQogICAgWydoMjY0JywgJ2gyNjUnLCAnaDI2NicsICdhdjEnXS5mb3JFYWNoKChjb2RlYykgPT4gewogICAgICBjb25zdCBhcnIgPSBzdHJlYW1bY29kZWNdOwogICAgICBpZiAoIUFycmF5LmlzQXJyYXkoYXJyKSkgcmV0dXJuOwogICAgICBhcnIuZm9yRWFjaCgocykgPT4gewogICAgICAgIGNvbnN0IHUgPSBzLm1hc3RlclVybCB8fCAocy5iYWNrdXBVcmxzICYmIHMuYmFja3VwVXJsc1swXSk7CiAgICAgICAgaWYgKCF1KSByZXR1cm47CiAgICAgICAgcXVhbGl0aWVzLnB1c2goewogICAgICAgICAgdXJsOiB1LAogICAgICAgICAgd2lkdGg6IHMud2lkdGggfHwgMCwKICAgICAgICAgIGhlaWdodDogcy5oZWlnaHQgfHwgMCwKICAgICAgICAgIGJpdHJhdGU6IHMudmlkZW9CaXRyYXRlIHx8IDAsCiAgICAgICAgICBzaXplOiBzLnNpemUgfHwgMCwKICAgICAgICAgIGxhYmVsOiBgJHtyZXNvbHV0aW9uTGFiZWwocy53aWR0aCwgcy5oZWlnaHQsIHMucXVhbGl0eVR5cGUpfSR7CiAgICAgICAgICAgIGNvZGVjID09PSAnaDI2NCcgPyAnJyA6IGAgJHtjb2RlYy50b1VwcGVyQ2FzZSgpfWAKICAgICAgICAgIH1gLAogICAgICAgICAgZm9ybWF0OiBzLmZvcm1hdCB8fCAnbXA0JywKICAgICAgICB9KTsKICAgICAgfSk7CiAgICB9KTsKICB9CgogIC8vIOWFnOW6le+8mueUqCBvcmlnaW5WaWRlb0tleSDnm7TmjqXmi7wgQ0ROIOWcsOWdgO+8iOi/meaYr+acgOWOn+Wni+eahOaXoOawtOWNsOa6kO+8iQogIGlmICghcXVhbGl0aWVzLmxlbmd0aCAmJiB2aWRlbyAmJiB2aWRlby5jb25zdW1lciAmJiB2aWRlby5jb25zdW1lci5vcmlnaW5WaWRlb0tleSkgewogICAgcXVhbGl0aWVzLnB1c2goewogICAgICB1cmw6IGBodHRwczovL3Nucy12aWRlby1iZC54aHNjZG4uY29tLyR7dmlkZW8uY29uc3VtZXIub3JpZ2luVmlkZW9LZXl9YCwKICAgICAgd2lkdGg6ICh2aWRlby5pbWFnZSAmJiB2aWRlby5pbWFnZS53aWR0aCkgfHwgMCwKICAgICAgaGVpZ2h0OiAodmlkZW8uaW1hZ2UgJiYgdmlkZW8uaW1hZ2UuaGVpZ2h0KSB8fCAwLAogICAgICBiaXRyYXRlOiAwLAogICAgICBzaXplOiAwLAogICAgICBsYWJlbDogJ+WOn+eUuycsCiAgICAgIGZvcm1hdDogJ21wNCcsCiAgICB9KTsKICB9CgogIC8vIOWbvuaWh+eslOiusO+8muWPluaXoOawtOWNsOWOn+WbvgogIGNvbnN0IGltYWdlcyA9IFtdOwogIChub3RlLmltYWdlTGlzdCB8fCBbXSkuZm9yRWFjaCgoaW1nKSA9PiB7CiAgICAvLyB1cmxEZWZhdWx0IOW4puWOi+e8qeWPguaVsO+8jOeUqCB0cmFjZUlkIOaLvOWOn+WbvuabtOa4heaZsAogICAgbGV0IHUgPSBpbWcudXJsRGVmYXVsdCB8fCBpbWcudXJsIHx8ICcnOwogICAgaWYgKGltZy50cmFjZUlkKSB7CiAgICAgIHUgPSBgaHR0cHM6Ly9zbnMtaW1nLXFjLnhoc2Nkbi5jb20vJHtpbWcudHJhY2VJZH0/aW1hZ2VWaWV3Mi8yL3cvMC9mb3JtYXQvcG5nYDsKICAgIH0KICAgIGlmICh1KSBpbWFnZXMucHVzaCh7IHVybDogdSwgd2lkdGg6IGltZy53aWR0aCwgaGVpZ2h0OiBpbWcuaGVpZ2h0IH0pOwogIH0pOwoKICBpZiAoIXF1YWxpdGllcy5sZW5ndGggJiYgIWltYWdlcy5sZW5ndGgpIHsKICAgIHRocm93IG5ldyBCaXpFcnJvcihFUlIuTk9UX0ZPVU5ELCAn6L+Z5p2h56yU6K6w5rKh5pyJ5Y+v5LiL6L2955qE5YaF5a65Jyk7CiAgfQoKICBjb25zdCB1c2VyID0gbm90ZS51c2VyIHx8IHt9OwogIGNvbnN0IGR1ciA9ICh2aWRlbyAmJiB2aWRlby5jYXBhICYmIHZpZGVvLmNhcGEuZHVyYXRpb24pIHx8IDA7CgogIHJldHVybiB7CiAgICBwbGF0Zm9ybTogS0VZLAogICAgcGxhdGZvcm1OYW1lOiBOQU1FLAogICAgdmlkZW9JZDogYHhoc18ke25vdGVJZH1gLAogICAgdGl0bGU6IGNsZWFuVGl0bGUobm90ZS50aXRsZSB8fCBub3RlLmRlc2MpLAogICAgcmF3VGl0bGU6IGAke25vdGUudGl0bGUgfHwgJyd9XG4ke25vdGUuZGVzYyB8fCAnJ31gLnRyaW0oKSwKICAgIGNvdmVyOgogICAgICAobm90ZS5pbWFnZUxpc3QgJiYgbm90ZS5pbWFnZUxpc3RbMF0gJiYgbm90ZS5pbWFnZUxpc3RbMF0udXJsRGVmYXVsdCkgfHwgJycsCiAgICBhdXRob3I6IHVzZXIubmlja25hbWUgfHwgJycsCiAgICBhdXRob3JBdmF0YXI6IHVzZXIuYXZhdGFyIHx8ICcnLAogICAgZHVyYXRpb246IGR1ciwKICAgIGR1cmF0aW9uVGV4dDogZHVyYXRpb25UZXh0KGR1ciksCiAgICBxdWFsaXRpZXMsCiAgICBpbWFnZXMsCiAgICAvLyDlsI/nuqLkuaYgQ0ROIOaciSBSZWZlcmVyIOagoemqjO+8jOS7o+eQhuaXtuW/hemhu+W4puS4igogICAgcHJveHlIZWFkZXJzOiB7CiAgICAgIFJlZmVyZXI6ICdodHRwczovL3d3dy54aWFvaG9uZ3NodS5jb20vJywKICAgICAgJ1VzZXItQWdlbnQnOiBVQS5pb3MsCiAgICB9LAogIH07Cn0KCm1vZHVsZS5leHBvcnRzID0geyBrZXk6IEtFWSwgbmFtZTogTkFNRSwgbWF0Y2gsIHBhcnNlIH07Cg==
+const { getText, resolveRedirect, UA } = require('../utils/http');
+const {
+  BizError,
+  ERR,
+  resolutionLabel,
+  cleanTitle,
+  durationText,
+  safeJsonParse,
+} = require('../utils/common');
+const config = require('../config');
+
+const KEY = 'xiaohongshu';
+const NAME = '小红书';
+
+function match(url) {
+  return /xiaohongshu\.com|xhslink\.com/.test(url);
+}
+
+/**
+ * 小红书笔记页把完整数据挂在 window.__INITIAL_STATE__ 上。
+ * 注意：这段是 JS 字面量，里面会出现裸 undefined，必须替换后才能 JSON.parse。
+ */
+function extractState(html) {
+  const m = html.match(
+    /window\.__INITIAL_STATE__\s*=\s*(\{[\s\S]*?\})\s*<\/script>/
+  );
+  if (!m) return null;
+  return safeJsonParse(m[1]);
+}
+
+async function parse(url) {
+  let target = url;
+
+  // xhslink 短链需要展开，展开后的地址带 xsec_token，缺了会 404
+  if (/xhslink\.com/.test(url)) {
+    const { finalUrl } = await resolveRedirect(url, { ua: UA.ios });
+    target = finalUrl;
+  }
+
+  const idMatch = target.match(
+    /(?:explore|discovery\/item|item)\/([0-9a-f]{24})/i
+  );
+  if (!idMatch) {
+    throw new BizError(ERR.BAD_URL, '未能识别小红书笔记 ID');
+  }
+  const noteId = idMatch[1];
+
+  const { text: html } = await getText(target, {
+    ua: UA.ios,
+    headers: {
+      Referer: 'https://www.xiaohongshu.com/',
+      Cookie: config.cookies.xiaohongshu || '',
+    },
+  });
+
+  const state = extractState(html);
+  const noteMap =
+    state && state.note && state.note.noteDetailMap
+      ? state.note.noteDetailMap
+      : null;
+
+  if (!noteMap) {
+    throw new BizError(
+      ERR.NOT_FOUND,
+      '笔记不可见或触发了风控，可稍后重试 / 配置登录 Cookie'
+    );
+  }
+
+  const entry = noteMap[noteId] || noteMap[Object.keys(noteMap)[0]];
+  const note = entry && entry.note;
+  if (!note) throw new BizError(ERR.NOT_FOUND, '笔记已删除或设为私密');
+
+  const qualities = [];
+  const video = note.video;
+
+  if (video && video.media && video.media.stream) {
+    const stream = video.media.stream;
+    // 依次尝试 h264 / h265 / av1，同一档位可能给多个备用域名
+    ['h264', 'h265', 'h266', 'av1'].forEach((codec) => {
+      const arr = stream[codec];
+      if (!Array.isArray(arr)) return;
+      arr.forEach((s) => {
+        const u = s.masterUrl || (s.backupUrls && s.backupUrls[0]);
+        if (!u) return;
+        qualities.push({
+          url: u,
+          width: s.width || 0,
+          height: s.height || 0,
+          bitrate: s.videoBitrate || 0,
+          size: s.size || 0,
+          label: `${resolutionLabel(s.width, s.height, s.qualityType)}${
+            codec === 'h264' ? '' : ` ${codec.toUpperCase()}`
+          }`,
+          format: s.format || 'mp4',
+        });
+      });
+    });
+  }
+
+  // 兜底：用 originVideoKey 直接拼 CDN 地址（这是最原始的无水印源）
+  if (!qualities.length && video && video.consumer && video.consumer.originVideoKey) {
+    qualities.push({
+      url: `https://sns-video-bd.xhscdn.com/${video.consumer.originVideoKey}`,
+      width: (video.image && video.image.width) || 0,
+      height: (video.image && video.image.height) || 0,
+      bitrate: 0,
+      size: 0,
+      label: '原画',
+      format: 'mp4',
+    });
+  }
+
+  // 图文笔记：取无水印原图
+  const images = [];
+  (note.imageList || []).forEach((img) => {
+    // urlDefault 带压缩参数，用 traceId 拼原图更清晰
+    let u = img.urlDefault || img.url || '';
+    if (img.traceId) {
+      u = `https://sns-img-qc.xhscdn.com/${img.traceId}?imageView2/2/w/0/format/png`;
+    }
+    if (u) images.push({ url: u, width: img.width, height: img.height });
+  });
+
+  if (!qualities.length && !images.length) {
+    throw new BizError(ERR.NOT_FOUND, '这条笔记没有可下载的内容');
+  }
+
+  const user = note.user || {};
+  const dur = (video && video.capa && video.capa.duration) || 0;
+
+  return {
+    platform: KEY,
+    platformName: NAME,
+    videoId: `xhs_${noteId}`,
+    title: cleanTitle(note.title || note.desc),
+    rawTitle: `${note.title || ''}\n${note.desc || ''}`.trim(),
+    cover:
+      (note.imageList && note.imageList[0] && note.imageList[0].urlDefault) || '',
+    author: user.nickname || '',
+    authorAvatar: user.avatar || '',
+    duration: dur,
+    durationText: durationText(dur),
+    qualities,
+    images,
+    // 小红书 CDN 有 Referer 校验，代理时必须带上
+    proxyHeaders: {
+      Referer: 'https://www.xiaohongshu.com/',
+      'User-Agent': UA.ios,
+    },
+  };
+}
+
+module.exports = { key: KEY, name: NAME, match, parse };

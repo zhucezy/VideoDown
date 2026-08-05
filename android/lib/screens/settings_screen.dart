@@ -1,1 +1,39 @@
-aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7CmltcG9ydCAnLi4vdXRpbHMvY29uZmlnLmRhcnQnOwoKY2xhc3MgU2V0dGluZ3NTY3JlZW4gZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIGNvbnN0IFNldHRpbmdzU2NyZWVuKHtzdXBlci5rZXl9KTsKCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gU2NhZmZvbGQoCiAgICAgIGFwcEJhcjogQXBwQmFyKHRpdGxlOiBjb25zdCBUZXh0KCfmiJHnmoQnKSksCiAgICAgIGJvZHk6IExpc3RWaWV3KAogICAgICAgIHBhZGRpbmc6IGNvbnN0IEVkZ2VJbnNldHMuYWxsKDE2KSwKICAgICAgICBjaGlsZHJlbjogWwogICAgICAgICAgY29uc3QgVGV4dCgn5L2/55So6K+05piOJywgc3R5bGU6IFRleHRTdHlsZShmb250V2VpZ2h0OiBGb250V2VpZ2h0LmJvbGQpKSwKICAgICAgICAgIGNvbnN0IFNpemVkQm94KGhlaWdodDogOCksCiAgICAgICAgICBjb25zdCBUZXh0KAogICAgICAgICAgICAnMS4g5aSN5Yi25ZCE5bmz5Y+w5YiG5Lqr6ZO+5o6lXG4nCiAgICAgICAgICAgICcyLiDlm57liLDpppbpobXoh6rliqgv5omL5Yqo57KY6LS0XG4nCiAgICAgICAgICAgICczLiDngrnlh7vop6PmnpDvvIzpgInmi6nmuIXmmbDluqbmiJbli77pgInlm77niYdcbicKICAgICAgICAgICAgJzQuIOS/neWtmOWIsOebuOWGjCcsCiAgICAgICAgICApLAogICAgICAgICAgY29uc3QgU2l6ZWRCb3goaGVpZ2h0OiAxNiksCiAgICAgICAgICBjb25zdCBUZXh0KCflhY3otKPlo7DmmI4nLCBzdHlsZTogVGV4dFN0eWxlKGZvbnRXZWlnaHQ6IEZvbnRXZWlnaHQuYm9sZCkpLAogICAgICAgICAgY29uc3QgU2l6ZWRCb3goaGVpZ2h0OiA4KSwKICAgICAgICAgIGNvbnN0IFRleHQoCiAgICAgICAgICAgICfmnKzlt6Xlhbfku4XnlKjkuo7kv53lrZjmgqjmi6XmnInniYjmnYPmiJblt7LojrfmjojmnYPnmoTkuKrkurrntKDmnZDvvIzor7fpgbXlrojlkITlubPlj7AnCiAgICAgICAgICAgICfmnI3liqHmnaHmrL7kuI7nm7jlhbPms5Xlvovms5Xop4TvvIzli7/nlKjkuo7kvrXmnYPnlKjpgJTjgIInLAogICAgICAgICAgKSwKICAgICAgICAgIGNvbnN0IFNpemVkQm94KGhlaWdodDogMTYpLAogICAgICAgICAgTGlzdFRpbGUoCiAgICAgICAgICAgIHRpdGxlOiBjb25zdCBUZXh0KCfmnI3liqHnq6/lnLDlnYAnKSwKICAgICAgICAgICAgc3VidGl0bGU6IFRleHQoa0FwaUJhc2VVcmwpLAogICAgICAgICAgICBkZW5zZTogdHJ1ZSwKICAgICAgICAgICksCiAgICAgICAgXSwKICAgICAgKSwKICAgICk7CiAgfQp9Cg==
+import 'package:flutter/material.dart';
+import '../utils/config.dart';
+
+class SettingsScreen extends StatelessWidget {
+  const SettingsScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: const Text('我的')),
+      body: ListView(
+        padding: const EdgeInsets.all(16),
+        children: [
+          const Text('使用说明', style: TextStyle(fontWeight: FontWeight.bold)),
+          const SizedBox(height: 8),
+          const Text(
+            '1. 复制各平台分享链接\n'
+            '2. 回到首页自动/手动粘贴\n'
+            '3. 点击解析，选择清晰度或勾选图片\n'
+            '4. 保存到相册',
+          ),
+          const SizedBox(height: 16),
+          const Text('免责声明', style: TextStyle(fontWeight: FontWeight.bold)),
+          const SizedBox(height: 8),
+          const Text(
+            '本工具仅用于保存您拥有版权或已获授权的个人素材，请遵守各平台'
+            '服务条款与相关法律法规，勿用于侵权用途。',
+          ),
+          const SizedBox(height: 16),
+          ListTile(
+            title: const Text('服务端地址'),
+            subtitle: Text(kApiBaseUrl),
+            dense: true,
+          ),
+        ],
+      ),
+    );
+  }
+}

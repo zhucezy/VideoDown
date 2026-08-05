@@ -1,1 +1,114 @@
-aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7CmltcG9ydCAnLi4vc2VydmljZXMvaGlzdG9yeV9zdG9yYWdlLmRhcnQnOwppbXBvcnQgJy4uL3NlcnZpY2VzL2Rvd25sb2FkX3NlcnZpY2UuZGFydCc7CgpjbGFzcyBIaXN0b3J5U2NyZWVuIGV4dGVuZHMgU3RhdGVmdWxXaWRnZXQgewogIGNvbnN0IEhpc3RvcnlTY3JlZW4oe3N1cGVyLmtleX0pOwoKICBAb3ZlcnJpZGUKICBTdGF0ZTxIaXN0b3J5U2NyZWVuPiBjcmVhdGVTdGF0ZSgpID0+IF9IaXN0b3J5U2NyZWVuU3RhdGUoKTsKfQoKY2xhc3MgX0hpc3RvcnlTY3JlZW5TdGF0ZSBleHRlbmRzIFN0YXRlPEhpc3RvcnlTY3JlZW4+IHsKICBMaXN0PEhpc3RvcnlJdGVtPiBfaXRlbXMgPSBbXTsKICBmaW5hbCBfZGwgPSBEb3dubG9hZFNlcnZpY2UoKTsKCiAgQG92ZXJyaWRlCiAgdm9pZCBpbml0U3RhdGUoKSB7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICAgIF9sb2FkKCk7CiAgfQoKICBGdXR1cmU8dm9pZD4gX2xvYWQoKSBhc3luYyB7CiAgICBfaXRlbXMgPSBhd2FpdCBIaXN0b3J5U3RvcmUubG9hZEFsbCgpOwogICAgaWYgKG1vdW50ZWQpIHNldFN0YXRlKCgpIHt9KTsKICB9CgogIEZ1dHVyZTx2b2lkPiBfY2xlYXIoKSBhc3luYyB7CiAgICBhd2FpdCBIaXN0b3J5U3RvcmUuY2xlYXIoKTsKICAgIF9sb2FkKCk7CiAgfQoKICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKICAgIHJldHVybiBTY2FmZm9sZCgKICAgICAgYXBwQmFyOiBBcHBCYXIoCiAgICAgICAgdGl0bGU6IGNvbnN0IFRleHQoJ+WOhuWPsuiusOW9lScpLAogICAgICAgIGFjdGlvbnM6IFsKICAgICAgICAgIFRleHRCdXR0b24ob25QcmVzc2VkOiBfY2xlYXIsIGNoaWxkOiBjb25zdCBUZXh0KCfmuIXnqbonKSksCiAgICAgICAgXSwKICAgICAgKSwKICAgICAgYm9keTogX2l0ZW1zLmlzRW1wdHkKICAgICAgICAgID8gY29uc3QgQ2VudGVyKGNoaWxkOiBUZXh0KCfmmoLml6DorrDlvZUnKSkKICAgICAgICAgIDogTGlzdFZpZXcoCiAgICAgICAgICAgICAgY2hpbGRyZW46IF9pdGVtcwogICAgICAgICAgICAgICAgICAubWFwKChpdCkgPT4gX0l0ZW1DYXJkKAogICAgICAgICAgICAgICAgICAgICAgICBpdGVtOiBpdCwKICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2VkOiBfbG9hZCwKICAgICAgICAgICAgICAgICAgICAgICAgZGw6IF9kbCwKICAgICAgICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAgIC50b0xpc3QoKSwKICAgICAgICAgICAgKSwKICAgICk7CiAgfQp9CgpjbGFzcyBfSXRlbUNhcmQgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIGZpbmFsIEhpc3RvcnlJdGVtIGl0ZW07CiAgZmluYWwgVm9pZENhbGxiYWNrIG9uQ2hhbmdlZDsKICBmaW5hbCBEb3dubG9hZFNlcnZpY2UgZGw7CgogIGNvbnN0IF9JdGVtQ2FyZCh7CiAgICByZXF1aXJlZCB0aGlzLml0ZW0sCiAgICByZXF1aXJlZCB0aGlzLm9uQ2hhbmdlZCwKICAgIHJlcXVpcmVkIHRoaXMuZGwsCiAgfSk7CgogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIERpc21pc3NpYmxlKAogICAgICBrZXk6IEtleShpdGVtLmlkKSwKICAgICAgZGlyZWN0aW9uOiBEaXNtaXNzRGlyZWN0aW9uLmVuZFRvU3RhcnQsCiAgICAgIG9uRGlzbWlzc2VkOiAoXykgYXN5bmMgewogICAgICAgIGF3YWl0IEhpc3RvcnlTdG9yZS5yZW1vdmUoaXRlbS5pZCk7CiAgICAgICAgb25DaGFuZ2VkKCk7CiAgICAgIH0sCiAgICAgIGJhY2tncm91bmQ6IGNvbnN0IENvbG9yZWRCb3goCiAgICAgICAgY29sb3I6IENvbG9ycy5yZWQsCiAgICAgICAgY2hpbGQ6IEFsaWduKAogICAgICAgICAgYWxpZ25tZW50OiBBbGlnbm1lbnQuY2VudGVyUmlnaHQsCiAgICAgICAgICBjaGlsZDogUGFkZGluZygKICAgICAgICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5vbmx5KHJpZ2h0OiAyMCksCiAgICAgICAgICAgIGNoaWxkOiBJY29uKEljb25zLmRlbGV0ZSwgY29sb3I6IENvbG9ycy53aGl0ZSksCiAgICAgICAgICApLAogICAgICAgICksCiAgICAgICksCiAgICAgIGNoaWxkOiBMaXN0VGlsZSgKICAgICAgICBsZWFkaW5nOiBpdGVtLmNvdmVyLmlzTm90RW1wdHkKICAgICAgICAgICAgPyBJbWFnZS5uZXR3b3JrKGl0ZW0uY292ZXIsCiAgICAgICAgICAgICAgICB3aWR0aDogNTYsIGhlaWdodDogNTYsIGZpdDogQm94Rml0LmNvdmVyKQogICAgICAgICAgICA6IGNvbnN0IEljb24oSWNvbnMudmlkZW9fZmlsZSksCiAgICAgICAgdGl0bGU6IFRleHQoCiAgICAgICAgICBpdGVtLnRpdGxlLmlzRW1wdHkgPyAn5pyq5ZG95ZCNJyA6IGl0ZW0udGl0bGUsCiAgICAgICAgICBtYXhMaW5lczogMSwKICAgICAgICAgIG92ZXJmbG93OiBUZXh0T3ZlcmZsb3cuZWxsaXBzaXMsCiAgICAgICAgKSwKICAgICAgICBzdWJ0aXRsZTogVGV4dCgKICAgICAgICAgICcke2l0ZW0ucGxhdGZvcm1OYW1lfSDCtyAke190eXBlTGFiZWwoaXRlbS5jb250ZW50VHlwZSl9JywKICAgICAgICAgIHN0eWxlOiBjb25zdCBUZXh0U3R5bGUoZm9udFNpemU6IDEyKSwKICAgICAgICApLAogICAgICAgIHRyYWlsaW5nOiBJY29uQnV0dG9uKAogICAgICAgICAgaWNvbjogY29uc3QgSWNvbihJY29ucy5kb3dubG9hZCksCiAgICAgICAgICBvblByZXNzZWQ6ICgpIGFzeW5jIHsKICAgICAgICAgICAgaWYgKGl0ZW0ucXVhbGl0aWVzLmlzTm90RW1wdHkpIHsKICAgICAgICAgICAgICBhd2FpdCBkbC5zYXZlVmlkZW8oaXRlbS5xdWFsaXRpZXMuZmlyc3QpOwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICksCiAgICAgICksCiAgICApOwogIH0KCiAgU3RyaW5nIF90eXBlTGFiZWwoU3RyaW5nIGN0KSA9PgogICAgICBjdCA9PSAnaW1hZ2UnID8gJ+WbvueJhycgOiBjdCA9PSAnbWl4ZWQnID8gJ+WbvuaWhycgOiAn6KeG6aKRJzsKfQo=
+import 'package:flutter/material.dart';
+import '../services/history_storage.dart';
+import '../services/download_service.dart';
+
+class HistoryScreen extends StatefulWidget {
+  const HistoryScreen({super.key});
+
+  @override
+  State<HistoryScreen> createState() => _HistoryScreenState();
+}
+
+class _HistoryScreenState extends State<HistoryScreen> {
+  List<HistoryItem> _items = [];
+  final _dl = DownloadService();
+
+  @override
+  void initState() {
+    super.initState();
+    _load();
+  }
+
+  Future<void> _load() async {
+    _items = await HistoryStore.loadAll();
+    if (mounted) setState(() {});
+  }
+
+  Future<void> _clear() async {
+    await HistoryStore.clear();
+    _load();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('历史记录'),
+        actions: [
+          TextButton(onPressed: _clear, child: const Text('清空')),
+        ],
+      ),
+      body: _items.isEmpty
+          ? const Center(child: Text('暂无记录'))
+          : ListView(
+              children: _items
+                  .map((it) => _ItemCard(
+                        item: it,
+                        onChanged: _load,
+                        dl: _dl,
+                      ))
+                  .toList(),
+            ),
+    );
+  }
+}
+
+class _ItemCard extends StatelessWidget {
+  final HistoryItem item;
+  final VoidCallback onChanged;
+  final DownloadService dl;
+
+  const _ItemCard({
+    required this.item,
+    required this.onChanged,
+    required this.dl,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Dismissible(
+      key: Key(item.id),
+      direction: DismissDirection.endToStart,
+      onDismissed: (_) async {
+        await HistoryStore.remove(item.id);
+        onChanged();
+      },
+      background: const ColoredBox(
+        color: Colors.red,
+        child: Align(
+          alignment: Alignment.centerRight,
+          child: Padding(
+            padding: EdgeInsets.only(right: 20),
+            child: Icon(Icons.delete, color: Colors.white),
+          ),
+        ),
+      ),
+      child: ListTile(
+        leading: item.cover.isNotEmpty
+            ? Image.network(item.cover,
+                width: 56, height: 56, fit: BoxFit.cover)
+            : const Icon(Icons.video_file),
+        title: Text(
+          item.title.isEmpty ? '未命名' : item.title,
+          maxLines: 1,
+          overflow: TextOverflow.ellipsis,
+        ),
+        subtitle: Text(
+          '${item.platformName} · ${_typeLabel(item.contentType)}',
+          style: const TextStyle(fontSize: 12),
+        ),
+        trailing: IconButton(
+          icon: const Icon(Icons.download),
+          onPressed: () async {
+            if (item.qualities.isNotEmpty) {
+              await dl.saveVideo(item.qualities.first);
+            }
+          },
+        ),
+      ),
+    );
+  }
+
+  String _typeLabel(String ct) =>
+      ct == 'image' ? '图片' : ct == 'mixed' ? '图文' : '视频';
+}

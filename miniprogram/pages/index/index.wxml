@@ -1,1 +1,159 @@
-PHZpZXcgY2xhc3M9InBhZ2UiPgogIDwhLS0g6aG26YOo5riQ5Y+Y6IOM5pmvIC0tPgogIDx2aWV3IGNsYXNzPSJoZXJvLWJnIj48L3ZpZXc+CgogIDxuYXYtYmFyIHRpdGxlPSLop4bpopHop6PmnpAiIGJnPSJ0cmFuc3BhcmVudCIgY29sb3I9IiMxNjE4MUQiIC8+CgogIDxzY3JvbGwtdmlldyBjbGFzcz0ic2Nyb2xsIiBzY3JvbGwteSBlbmhhbmNlZCBzaG93LXNjcm9sbGJhcj0ie3tmYWxzZX19Ij4KICAgIDwhLS0gPT09PT0gMS4g6aG26YOo5bm/5ZGK5L2N77yI6auY5bqm6ZqP5bm/5ZGK57Sg5p2Q6Ieq6YCC5bqU77yM5peg5aGr5YWF5pe26Ieq5Yqo5pS26LW377yJID09PT09IC0tPgogICAgPHZpZXcgY2xhc3M9ImFkLXNsb3QiPgogICAgICA8YWQtYmFubmVyIGJpbmRhZHN0YXRlPSJvbkFkU3RhdGUiIC8+CiAgICA8L3ZpZXc+CgogICAgPCEtLSA9PT09PSAyLiDovpPlhaXljaHniYcgPT09PT0gLS0+CiAgICA8dmlldyBjbGFzcz0iY29udGFpbmVyIj4KICAgICAgPHZpZXcgY2xhc3M9ImlucHV0LWNhcmQgY2FyZCI+CiAgICAgICAgPHZpZXcgY2xhc3M9ImljLWhlYWQiPgogICAgICAgICAgPHRleHQgY2xhc3M9ImljLXRpdGxlIj7nspjotLTop4bpopHpk77mjqU8L3RleHQ+CiAgICAgICAgICA8dmlldyBjbGFzcz0iaWMtdGlwIiBiaW5kdGFwPSJvblNob3dIZWxwIj4KICAgICAgICAgICAgPHRleHQ+5oCO5LmI6I635Y+W77yfPC90ZXh0PgogICAgICAgICAgPC92aWV3PgogICAgICAgIDwvdmlldz4KCiAgICAgICAgPHZpZXcgY2xhc3M9ImljLWJveCB7e2ZvY3VzID8gJ2ZvY3VzZWQnIDogJyd9fSI+CiAgICAgICAgICA8dGV4dGFyZWEKICAgICAgICAgICAgY2xhc3M9ImljLWlucHV0IgogICAgICAgICAgICB2YWx1ZT0ie3tpbnB1dH19IgogICAgICAgICAgICBwbGFjZWhvbGRlcj0i5pSv5oyB55u05o6l57KY6LS05pW05q615YiG5Lqr5paH5qGI77yM6Ieq5Yqo5o+Q5Y+W6ZO+5o6lIgogICAgICAgICAgICBwbGFjZWhvbGRlci1jbGFzcz0icGgiCiAgICAgICAgICAgIG1heGxlbmd0aD0iMTAwMCIKICAgICAgICAgICAgYXV0by1oZWlnaHQKICAgICAgICAgICAgc2hvdy1jb25maXJtLWJhcj0ie3tmYWxzZX19IgogICAgICAgICAgICBhZGp1c3QtcG9zaXRpb249Int7dHJ1ZX19IgogICAgICAgICAgICBjdXJzb3Itc3BhY2luZz0iMjQiCiAgICAgICAgICAgIGRpc2FibGUtZGVmYXVsdC1wYWRkaW5nPSJ7e3RydWV9fSIKICAgICAgICAgICAgYmluZGlucHV0PSJvbklucHV0IgogICAgICAgICAgICBiaW5kZm9jdXM9Im9uRm9jdXMiCiAgICAgICAgICAgIGJpbmRibHVyPSJvbkJsdXIiCiAgICAgICAgICA+PC90ZXh0YXJlYT4KCiAgICAgICAgICA8dmlldyB3eDppZj0ie3tpbnB1dH19IiBjbGFzcz0iaWMtY2xlYXIiIGNhdGNodGFwPSJvbkNsZWFyIj4KICAgICAgICAgICAgPHRleHQ+w5c8L3RleHQ+CiAgICAgICAgICA8L3ZpZXc+CiAgICAgICAgPC92aWV3PgoKICAgICAgICA8IS0tIOivhuWIq+WIsOeahOW5s+WPsOaPkOekuiAtLT4KICAgICAgICA8dmlldyBjbGFzcz0iaWMtZGV0ZWN0IiB3eDppZj0ie3tkZXRlY3RlZH19Ij4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJkdC1sb2dvIiBzdHlsZT0iYmFja2dyb3VuZDp7e2RldGVjdGVkLmNvbG9yfX07Ij57e2RldGVjdGVkLmxldHRlcn19PC92aWV3PgogICAgICAgICAgPHRleHQgY2xhc3M9ImR0LXRleHQiPuW3suivhuWIq++8mnt7ZGV0ZWN0ZWQubmFtZX19PC90ZXh0PgogICAgICAgIDwvdmlldz4KCiAgICAgICAgPHZpZXcgY2xhc3M9ImljLWFjdGlvbnMiPgogICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wbGFpbiBpYy1wYXN0ZSIgYmluZHRhcD0ib25QYXN0ZSI+CiAgICAgICAgICAgIDx0ZXh0PueymOi0tDwvdGV4dD4KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGljLXBhcnNlIgogICAgICAgICAgICBsb2FkaW5nPSJ7e3BhcnNpbmd9fSIKICAgICAgICAgICAgZGlzYWJsZWQ9Int7cGFyc2luZyB8fCAhaW5wdXR9fSIKICAgICAgICAgICAgYmluZHRhcD0ib25QYXJzZSIKICAgICAgICAgID4KICAgICAgICAgICAge3twYXJzaW5nID8gJ+ino+aekOS4reKApicgOiAn56uL5Y2z6Kej5p6QJ319CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L3ZpZXc+CgogICAgICAgIDx2aWV3IGNsYXNzPSJpYy1ub3RlIj4KICAgICAgICAgIDx0ZXh0Puino+aekOWQjuWPr+mAieaLqeacgOmrmOWIhui+qOeOh+S/neWtmO+8jOWOu+mZpOW5s+WPsOawtOWNsDwvdGV4dD4KICAgICAgICA8L3ZpZXc+CiAgICAgIDwvdmlldz4KICAgIDwvdmlldz4KCiAgICA8IS0tID09PT09IDMuIOino+aekOS4remqqOaetiA9PT09PSAtLT4KICAgIDx2aWV3IGNsYXNzPSJjb250YWluZXIiIHd4OmlmPSJ7e3BhcnNpbmd9fSI+CiAgICAgIDx2aWV3IGNsYXNzPSJjYXJkIHNrLWNhcmQiPgogICAgICAgIDx2aWV3IGNsYXNzPSJzay1yb3ciPgogICAgICAgICAgPHZpZXcgY2xhc3M9InNrZWxldG9uIHNrLWNvdmVyIj48L3ZpZXc+CiAgICAgICAgICA8dmlldyBjbGFzcz0ic2stbGluZXMiPgogICAgICAgICAgICA8dmlldyBjbGFzcz0ic2tlbGV0b24gc2stbGluZSB3OTAiPjwvdmlldz4KICAgICAgICAgICAgPHZpZXcgY2xhc3M9InNrZWxldG9uIHNrLWxpbmUgdzcwIj48L3ZpZXc+CiAgICAgICAgICAgIDx2aWV3IGNsYXNzPSJza2VsZXRvbiBzay1saW5lIHc0MCI+PC92aWV3PgogICAgICAgICAgPC92aWV3PgogICAgICAgIDwvdmlldz4KICAgICAgICA8dmlldyBjbGFzcz0ic2tlbGV0b24gc2stYnRuIj48L3ZpZXc+CiAgICAgIDwvdmlldz4KICAgIDwvdmlldz4KCiAgICA8IS0tID09PT09IDQuIOino+aekOe7k+aenCA9PT09PSAtLT4KICAgIDx2aWV3IGNsYXNzPSJjb250YWluZXIiIHd4OmlmPSJ7e3Jlc3VsdCAmJiAhcGFyc2luZ319Ij4KICAgICAgPHJlc3VsdC1jYXJkCiAgICAgICAgZGF0YT0ie3tyZXN1bHR9fSIKICAgICAgICBiaW5kc2F2ZWQ9Im9uU2F2ZWQiCiAgICAgICAgYmluZHByZXZpZXc9Im9uUHJldmlldyIKICAgICAgLz4KICAgIDwvdmlldz4KCiAgICA8IS0tID09PT09IDUuIOmUmeivr+aPkOekuiA9PT09PSAtLT4KICAgIDx2aWV3IGNsYXNzPSJjb250YWluZXIiIHd4OmlmPSJ7e2Vycm9yTXNnICYmICFwYXJzaW5nfX0iPgogICAgICA8dmlldyBjbGFzcz0iZXJyLWNhcmQgY2FyZCI+CiAgICAgICAgPHZpZXcgY2xhc3M9ImVyci1pY29uIj4hPC92aWV3PgogICAgICAgIDx2aWV3IGNsYXNzPSJlcnItYm9keSI+CiAgICAgICAgICA8dmlldyBjbGFzcz0iZXJyLXRpdGxlIj57e2Vycm9yTXNnfX08L3ZpZXc+CiAgICAgICAgICA8dmlldyBjbGFzcz0iZXJyLXRpcCI+e3tlcnJvclRpcH19PC92aWV3PgogICAgICAgIDwvdmlldz4KICAgICAgICA8dmlldyBjbGFzcz0iZXJyLXJldHJ5IiBiaW5kdGFwPSJvblBhcnNlIj7ph43or5U8L3ZpZXc+CiAgICAgIDwvdmlldz4KICAgIDwvdmlldz4KCiAgICA8IS0tID09PT09IDYuIOaUr+aMgeW5s+WPsCA9PT09PSAtLT4KICAgIDx2aWV3IGNsYXNzPSJjb250YWluZXIiPgogICAgICA8dmlldyBjbGFzcz0iY2FyZCI+CiAgICAgICAgPHBsYXRmb3JtLWdyaWQgbWF4PSIxMiIgLz4KICAgICAgPC92aWV3PgogICAgPC92aWV3PgoKICAgIDwhLS0gPT09PT0gNy4g5L2/55So5q2l6aqkID09PT09IC0tPgogICAgPHZpZXcgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgIDx2aWV3IGNsYXNzPSJjYXJkIHN0ZXBzIj4KICAgICAgICA8dmlldyBjbGFzcz0ic3QtdGl0bGUiPuS4ieatpeaQnuWumjwvdmlldz4KICAgICAgICA8dmlldyBjbGFzcz0ic3QtaXRlbSIgd3g6Zm9yPSJ7e3N0ZXBzfX0iIHd4OmtleT0iaWR4Ij4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJzdC1udW0iPnt7aW5kZXggKyAxfX08L3ZpZXc+CiAgICAgICAgICA8dmlldyBjbGFzcz0ic3QtYm9keSI+CiAgICAgICAgICAgIDx2aWV3IGNsYXNzPSJzdC1oIj57e2l0ZW0uaH19PC92aWV3PgogICAgICAgICAgICA8dmlldyBjbGFzcz0ic3QtcCI+e3tpdGVtLnB9fTwvdmlldz4KICAgICAgICAgIDwvdmlldz4KICAgICAgICA8L3ZpZXc+CiAgICAgIDwvdmlldz4KICAgIDwvdmlldz4KCiAgICA8IS0tID09PT09IDguIOacgOi/keino+aekCA9PT09PSAtLT4KICAgIDx2aWV3IGNsYXNzPSJjb250YWluZXIiIHd4OmlmPSJ7e3JlY2VudC5sZW5ndGh9fSI+CiAgICAgIDx2aWV3IGNsYXNzPSJjYXJkIHJlY2VudCI+CiAgICAgICAgPHZpZXcgY2xhc3M9InJjLWhlYWQiPgogICAgICAgICAgPHRleHQgY2xhc3M9InJjLWgiPuacgOi/keino+aekDwvdGV4dD4KICAgICAgICAgIDx0ZXh0IGNsYXNzPSJyYy1tb3JlIiBiaW5kdGFwPSJnb0hpc3RvcnkiPuWFqOmDqCDigLo8L3RleHQ+CiAgICAgICAgPC92aWV3PgogICAgICAgIDx2aWV3CiAgICAgICAgICBjbGFzcz0icmMtaXRlbSIKICAgICAgICAgIHd4OmZvcj0ie3tyZWNlbnR9fSIKICAgICAgICAgIHd4OmtleT0idmlkZW9JZCIKICAgICAgICAgIGRhdGEtaW5kZXg9Int7aW5kZXh9fSIKICAgICAgICAgIGJpbmR0YXA9Im9uUmVjZW50VGFwIgogICAgICAgID4KICAgICAgICAgIDxpbWFnZSBjbGFzcz0icmMtdGh1bWIiIHNyYz0ie3tpdGVtLmNvdmVyfX0iIG1vZGU9ImFzcGVjdEZpbGwiIGxhenktbG9hZCAvPgogICAgICAgICAgPHZpZXcgY2xhc3M9InJjLWluZm8iPgogICAgICAgICAgICA8dmlldyBjbGFzcz0icmMtdCBlbGxpcHNpcy0xIj57e2l0ZW0udGl0bGUgfHwgJ+acquWRveWQjeinhumikSd9fTwvdmlldz4KICAgICAgICAgICAgPHZpZXcgY2xhc3M9InJjLW0iPnt7aXRlbS5wbGF0Zm9ybU5hbWV9fSDCtyB7e2l0ZW0udGltZVRleHR9fTwvdmlldz4KICAgICAgICAgIDwvdmlldz4KICAgICAgICAgIDx2aWV3IGNsYXNzPSJyYy1hcnJvdyI+4oC6PC92aWV3PgogICAgICAgIDwvdmlldz4KICAgICAgPC92aWV3PgogICAgPC92aWV3PgoKICAgIDx2aWV3IGNsYXNzPSJmb290ZXIiPgogICAgICA8dGV4dD7mnKzlt6Xlhbfku4XkvpvkuKrkurrlrabkuaDkuI7ntKDmnZDlpIfku73kvb/nlKg8L3RleHQ+CiAgICAgIDx0ZXh0Puivt+WwiumHjeWOn+S9nOiAheeJiOadg++8jOWLv+eUqOS6juWVhuS4muS8oOaSrTwvdGV4dD4KICAgIDwvdmlldz4KCiAgICA8dmlldyBjbGFzcz0ic2FmZS1ib3R0b20iPjwvdmlldz4KICA8L3Njcm9sbC12aWV3Pgo8L3ZpZXc+Cg==
+<view class="page">
+  <!-- 顶部渐变背景 -->
+  <view class="hero-bg"></view>
+
+  <nav-bar title="视频解析" bg="transparent" color="#16181D" />
+
+  <scroll-view class="scroll" scroll-y enhanced show-scrollbar="{{false}}">
+    <!-- ===== 1. 顶部广告位（高度随广告素材自适应，无填充时自动收起） ===== -->
+    <view class="ad-slot">
+      <ad-banner bindadstate="onAdState" />
+    </view>
+
+    <!-- ===== 2. 输入卡片 ===== -->
+    <view class="container">
+      <view class="input-card card">
+        <view class="ic-head">
+          <text class="ic-title">粘贴视频链接</text>
+          <view class="ic-tip" bindtap="onShowHelp">
+            <text>怎么获取？</text>
+          </view>
+        </view>
+
+        <view class="ic-box {{focus ? 'focused' : ''}}">
+          <textarea
+            class="ic-input"
+            value="{{input}}"
+            placeholder="支持直接粘贴整段分享文案，自动提取链接"
+            placeholder-class="ph"
+            maxlength="1000"
+            auto-height
+            show-confirm-bar="{{false}}"
+            adjust-position="{{true}}"
+            cursor-spacing="24"
+            disable-default-padding="{{true}}"
+            bindinput="onInput"
+            bindfocus="onFocus"
+            bindblur="onBlur"
+          ></textarea>
+
+          <view wx:if="{{input}}" class="ic-clear" catchtap="onClear">
+            <text>×</text>
+          </view>
+        </view>
+
+        <!-- 识别到的平台提示 -->
+        <view class="ic-detect" wx:if="{{detected}}">
+          <view class="dt-logo" style="background:{{detected.color}};">{{detected.letter}}</view>
+          <text class="dt-text">已识别：{{detected.name}}</text>
+        </view>
+
+        <view class="ic-actions">
+          <button class="btn btn-plain ic-paste" bindtap="onPaste">
+            <text>粘贴</text>
+          </button>
+          <button
+            class="btn btn-primary ic-parse"
+            loading="{{parsing}}"
+            disabled="{{parsing || !input}}"
+            bindtap="onParse"
+          >
+            {{parsing ? '解析中…' : '立即解析'}}
+          </button>
+        </view>
+
+        <view class="ic-note">
+          <text>解析后可选择最高分辨率保存，去除平台水印</text>
+        </view>
+      </view>
+    </view>
+
+    <!-- ===== 3. 解析中骨架 ===== -->
+    <view class="container" wx:if="{{parsing}}">
+      <view class="card sk-card">
+        <view class="sk-row">
+          <view class="skeleton sk-cover"></view>
+          <view class="sk-lines">
+            <view class="skeleton sk-line w90"></view>
+            <view class="skeleton sk-line w70"></view>
+            <view class="skeleton sk-line w40"></view>
+          </view>
+        </view>
+        <view class="skeleton sk-btn"></view>
+      </view>
+    </view>
+
+    <!-- ===== 4. 解析结果 ===== -->
+    <view class="container" wx:if="{{result && !parsing}}">
+      <result-card
+        data="{{result}}"
+        bindsaved="onSaved"
+        bindpreview="onPreview"
+      />
+    </view>
+
+    <!-- ===== 5. 错误提示 ===== -->
+    <view class="container" wx:if="{{errorMsg && !parsing}}">
+      <view class="err-card card">
+        <view class="err-icon">!</view>
+        <view class="err-body">
+          <view class="err-title">{{errorMsg}}</view>
+          <view class="err-tip">{{errorTip}}</view>
+        </view>
+        <view class="err-retry" bindtap="onParse">重试</view>
+      </view>
+    </view>
+
+    <!-- ===== 6. 支持平台 ===== -->
+    <view class="container">
+      <view class="card">
+        <platform-grid max="12" />
+      </view>
+    </view>
+
+    <!-- ===== 7. 使用步骤 ===== -->
+    <view class="container">
+      <view class="card steps">
+        <view class="st-title">三步搞定</view>
+        <view class="st-item" wx:for="{{steps}}" wx:key="idx">
+          <view class="st-num">{{index + 1}}</view>
+          <view class="st-body">
+            <view class="st-h">{{item.h}}</view>
+            <view class="st-p">{{item.p}}</view>
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <!-- ===== 8. 最近解析 ===== -->
+    <view class="container" wx:if="{{recent.length}}">
+      <view class="card recent">
+        <view class="rc-head">
+          <text class="rc-h">最近解析</text>
+          <text class="rc-more" bindtap="goHistory">全部 ›</text>
+        </view>
+        <view
+          class="rc-item"
+          wx:for="{{recent}}"
+          wx:key="videoId"
+          data-index="{{index}}"
+          bindtap="onRecentTap"
+        >
+          <image class="rc-thumb" src="{{item.cover}}" mode="aspectFill" lazy-load />
+          <view class="rc-info">
+            <view class="rc-t ellipsis-1">{{item.title || '未命名视频'}}</view>
+            <view class="rc-m">{{item.platformName}} · {{item.timeText}}</view>
+          </view>
+          <view class="rc-arrow">›</view>
+        </view>
+      </view>
+    </view>
+
+    <view class="footer">
+      <text>本工具仅供个人学习与素材备份使用</text>
+      <text>请尊重原作者版权，勿用于商业传播</text>
+    </view>
+
+    <view class="safe-bottom"></view>
+  </scroll-view>
+</view>

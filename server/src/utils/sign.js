@@ -1,1 +1,67 @@
-Y29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7CmNvbnN0IGNvbmZpZyA9IHJlcXVpcmUoJy4uL2NvbmZpZycpOwoKZnVuY3Rpb24gYjY0dXJsKGlucHV0KSB7CiAgcmV0dXJuIEJ1ZmZlci5mcm9tKGlucHV0LCAndXRmOCcpCiAgICAudG9TdHJpbmcoJ2Jhc2U2NCcpCiAgICAucmVwbGFjZSgvXCsvZywgJy0nKQogICAgLnJlcGxhY2UoL1wvL2csICdfJykKICAgIC5yZXBsYWNlKC89KyQvLCAnJyk7Cn0KCmZ1bmN0aW9uIHVuYjY0dXJsKGlucHV0KSB7CiAgY29uc3QgcyA9IFN0cmluZyhpbnB1dCkucmVwbGFjZSgvLS9nLCAnKycpLnJlcGxhY2UoL18vZywgJy8nKTsKICByZXR1cm4gQnVmZmVyLmZyb20ocywgJ2Jhc2U2NCcpLnRvU3RyaW5nKCd1dGY4Jyk7Cn0KCmZ1bmN0aW9uIGhtYWMocGF5bG9hZCkgewogIHJldHVybiBjcnlwdG8KICAgIC5jcmVhdGVIbWFjKCdzaGEyNTYnLCBjb25maWcuc2lnblNlY3JldCkKICAgIC51cGRhdGUocGF5bG9hZCkKICAgIC5kaWdlc3QoJ2Jhc2U2NCcpCiAgICAucmVwbGFjZSgvXCsvZywgJy0nKQogICAgLnJlcGxhY2UoL1wvL2csICdfJykKICAgIC5yZXBsYWNlKC89KyQvLCAnJykKICAgIC5zbGljZSgwLCAyNCk7Cn0KCi8qKgogKiDnlJ/miJDluKbnrb7lkI3nmoTku6PnkIbnm7Tpk77jgIIKICog5bCP56iL5bqP56uv5Y+q5YWB6K646K+35rGC55m95ZCN5Y2V5Z+f5ZCN77yM5omA5Lul5omA5pyJ6KeG6aKRL+WbvueJh+mDveW/hemhu+e7j+eUseacrOacjeWKoeS4rei9rOOAggogKi8KZnVuY3Rpb24gYnVpbGRQcm94eVVybCh0YXJnZXRVcmwsIG9wdHMgPSB7fSkgewogIGNvbnN0IGV4cCA9IE1hdGguZmxvb3IoRGF0ZS5ub3coKSAvIDEwMDApICsgKG9wdHMudHRsIHx8IGNvbmZpZy5zaWduVHRsKTsKICBjb25zdCB1ID0gYjY0dXJsKHRhcmdldFVybCk7CiAgY29uc3QgcCA9IG9wdHMucGxhdGZvcm0gfHwgJyc7CiAgY29uc3QgbmFtZSA9IG9wdHMuZmlsZW5hbWUgfHwgJyc7CiAgY29uc3QgcmF3ID0gYCR7dX0uJHtleHB9LiR7cH1gOwogIGNvbnN0IHMgPSBobWFjKHJhdyk7CgogIGNvbnN0IHFzID0gWwogICAgYHU9JHt1fWAsCiAgICBgZT0ke2V4cH1gLAogICAgcCA/IGBwPSR7ZW5jb2RlVVJJQ29tcG9uZW50KHApfWAgOiAnJywKICAgIG5hbWUgPyBgbj0ke2VuY29kZVVSSUNvbXBvbmVudChuYW1lKX1gIDogJycsCiAgICBgcz0ke3N9YCwKICBdCiAgICAuZmlsdGVyKEJvb2xlYW4pCiAgICAuam9pbignJicpOwoKICByZXR1cm4gYCR7Y29uZmlnLnB1YmxpY0Jhc2V9L2FwaS9kbD8ke3FzfWA7Cn0KCmZ1bmN0aW9uIHZlcmlmeVByb3h5KHF1ZXJ5KSB7CiAgY29uc3QgeyB1LCBlLCBwID0gJycsIHMgfSA9IHF1ZXJ5OwogIGlmICghdSB8fCAhZSB8fCAhcykgcmV0dXJuIHsgb2s6IGZhbHNlLCByZWFzb246ICflj4LmlbDnvLrlpLEnIH07CiAgaWYgKE51bWJlcihlKSA8IE1hdGguZmxvb3IoRGF0ZS5ub3coKSAvIDEwMDApKQogICAgcmV0dXJuIHsgb2s6IGZhbHNlLCByZWFzb246ICfpk77mjqXlt7Lov4fmnJ8nIH07CiAgY29uc3QgcmF3ID0gYCR7dX0uJHtlfS4ke3B9YDsKICBpZiAoaG1hYyhyYXcpICE9PSBzKSByZXR1cm4geyBvazogZmFsc2UsIHJlYXNvbjogJ+etvuWQjeaXoOaViCcgfTsKICB0cnkgewogICAgcmV0dXJuIHsgb2s6IHRydWUsIHVybDogdW5iNjR1cmwodSksIHBsYXRmb3JtOiBwIH07CiAgfSBjYXRjaCAoZXJyKSB7CiAgICByZXR1cm4geyBvazogZmFsc2UsIHJlYXNvbjogJ+WcsOWdgOino+eggeWksei0pScgfTsKICB9Cn0KCm1vZHVsZS5leHBvcnRzID0geyBidWlsZFByb3h5VXJsLCB2ZXJpZnlQcm94eSwgYjY0dXJsLCB1bmI2NHVybCB9Owo=
+const crypto = require('crypto');
+const config = require('../config');
+
+function b64url(input) {
+  return Buffer.from(input, 'utf8')
+    .toString('base64')
+    .replace(/\+/g, '-')
+    .replace(/\//g, '_')
+    .replace(/=+$/, '');
+}
+
+function unb64url(input) {
+  const s = String(input).replace(/-/g, '+').replace(/_/g, '/');
+  return Buffer.from(s, 'base64').toString('utf8');
+}
+
+function hmac(payload) {
+  return crypto
+    .createHmac('sha256', config.signSecret)
+    .update(payload)
+    .digest('base64')
+    .replace(/\+/g, '-')
+    .replace(/\//g, '_')
+    .replace(/=+$/, '')
+    .slice(0, 24);
+}
+
+/**
+ * 生成带签名的代理直链。
+ * 小程序端只允许请求白名单域名，所以所有视频/图片都必须经由本服务中转。
+ */
+function buildProxyUrl(targetUrl, opts = {}) {
+  const exp = Math.floor(Date.now() / 1000) + (opts.ttl || config.signTtl);
+  const u = b64url(targetUrl);
+  const p = opts.platform || '';
+  const name = opts.filename || '';
+  const raw = `${u}.${exp}.${p}`;
+  const s = hmac(raw);
+
+  const qs = [
+    `u=${u}`,
+    `e=${exp}`,
+    p ? `p=${encodeURIComponent(p)}` : '',
+    name ? `n=${encodeURIComponent(name)}` : '',
+    `s=${s}`,
+  ]
+    .filter(Boolean)
+    .join('&');
+
+  return `${config.publicBase}/api/dl?${qs}`;
+}
+
+function verifyProxy(query) {
+  const { u, e, p = '', s } = query;
+  if (!u || !e || !s) return { ok: false, reason: '参数缺失' };
+  if (Number(e) < Math.floor(Date.now() / 1000))
+    return { ok: false, reason: '链接已过期' };
+  const raw = `${u}.${e}.${p}`;
+  if (hmac(raw) !== s) return { ok: false, reason: '签名无效' };
+  try {
+    return { ok: true, url: unb64url(u), platform: p };
+  } catch (err) {
+    return { ok: false, reason: '地址解码失败' };
+  }
+}
+
+module.exports = { buildProxyUrl, verifyProxy, b64url, unb64url };

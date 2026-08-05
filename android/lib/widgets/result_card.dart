@@ -1,1 +1,267 @@
-aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7CmltcG9ydCAnLi4vbW9kZWxzL3BhcnNlX3Jlc3VsdC5kYXJ0JzsKCi8vLyDop6PmnpDnu5PmnpzljaHniYfvvJrlsIHpnaIgKyDmoIfpopggKyDlubPlj7Av57G75Z6L6KeS5qCHICsg5riF5pmw5bqm6YCJ5oupICsg5Zu+54mH5aSa6YCJICsg5L+d5a2YCmNsYXNzIFJlc3VsdENhcmQgZXh0ZW5kcyBTdGF0ZWZ1bFdpZGdldCB7CiAgZmluYWwgUGFyc2VSZXN1bHQgcmVzdWx0OwogIGZpbmFsIEZ1dHVyZTx2b2lkPiBGdW5jdGlvbihTdHJpbmcgdXJsKSBvblNhdmVWaWRlbzsKICBmaW5hbCBGdXR1cmU8dm9pZD4gRnVuY3Rpb24oTGlzdDxTdHJpbmc+IHVybHMpIG9uU2F2ZUltYWdlczsKICBmaW5hbCBWb2lkQ2FsbGJhY2s/IG9uUHJldmlldzsKCiAgY29uc3QgUmVzdWx0Q2FyZCh7CiAgICBzdXBlci5rZXksCiAgICByZXF1aXJlZCB0aGlzLnJlc3VsdCwKICAgIHJlcXVpcmVkIHRoaXMub25TYXZlVmlkZW8sCiAgICByZXF1aXJlZCB0aGlzLm9uU2F2ZUltYWdlcywKICAgIHRoaXMub25QcmV2aWV3LAogIH0pOwoKICBAb3ZlcnJpZGUKICBTdGF0ZTxSZXN1bHRDYXJkPiBjcmVhdGVTdGF0ZSgpID0+IF9SZXN1bHRDYXJkU3RhdGUoKTsKfQoKY2xhc3MgX1Jlc3VsdENhcmRTdGF0ZSBleHRlbmRzIFN0YXRlPFJlc3VsdENhcmQ+IHsKICBpbnQgX3F1YWxpdHlJbmRleCA9IDA7CiAgZmluYWwgU2V0PGludD4gX3NlbGVjdGVkSW1hZ2VzID0ge307CiAgYm9vbCBfc2F2aW5nID0gZmFsc2U7CgogIEBvdmVycmlkZQogIHZvaWQgaW5pdFN0YXRlKCkgewogICAgc3VwZXIuaW5pdFN0YXRlKCk7CiAgICAvLyDpu5jorqTlhajpgInlm77niYfvvIjnuq/lm77niYfpobXkuIDplK7kv53lrZjmm7TpobrmiYvvvIkKICAgIGlmICh3aWRnZXQucmVzdWx0Lmhhc0ltYWdlcykgewogICAgICBfc2VsZWN0ZWRJbWFnZXMuYWRkQWxsKExpc3QuZ2VuZXJhdGUod2lkZ2V0LnJlc3VsdC5pbWFnZXMubGVuZ3RoLCAoaSkgPT4gaSkpOwogICAgfQogIH0KCiAgdm9pZCBfdG9nZ2xlSW1hZ2UoaW50IGkpIHsKICAgIHNldFN0YXRlKCgpIHsKICAgICAgaWYgKF9zZWxlY3RlZEltYWdlcy5jb250YWlucyhpKSkgewogICAgICAgIF9zZWxlY3RlZEltYWdlcy5yZW1vdmUoaSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgX3NlbGVjdGVkSW1hZ2VzLmFkZChpKTsKICAgICAgfQogICAgfSk7CiAgfQoKICBGdXR1cmU8dm9pZD4gX3NhdmUoKSBhc3luYyB7CiAgICBpZiAoX3NhdmluZykgcmV0dXJuOwogICAgc2V0U3RhdGUoKCkgPT4gX3NhdmluZyA9IHRydWUpOwogICAgdHJ5IHsKICAgICAgaWYgKHdpZGdldC5yZXN1bHQuaGFzVmlkZW8pIHsKICAgICAgICBhd2FpdCB3aWRnZXQub25TYXZlVmlkZW8od2lkZ2V0LnJlc3VsdC5xdWFsaXRpZXNbX3F1YWxpdHlJbmRleF0udXJsKTsKICAgICAgfQogICAgICBmaW5hbCB1cmxzID0gX3NlbGVjdGVkSW1hZ2VzLm1hcCgoaSkgPT4gd2lkZ2V0LnJlc3VsdC5pbWFnZXNbaV0udXJsKS50b0xpc3QoKTsKICAgICAgaWYgKHVybHMuaXNOb3RFbXB0eSkgewogICAgICAgIGF3YWl0IHdpZGdldC5vblNhdmVJbWFnZXModXJscyk7CiAgICAgIH0KICAgICAgaWYgKG1vdW50ZWQpIHsKICAgICAgICBTY2FmZm9sZE1lc3Nlbmdlci5vZihjb250ZXh0KQogICAgICAgICAgICAuc2hvd1NuYWNrQmFyKGNvbnN0IFNuYWNrQmFyKGNvbnRlbnQ6IFRleHQoJ+W3suS/neWtmOWIsOebuOWGjCcpKSk7CiAgICAgIH0KICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgaWYgKG1vdW50ZWQpIHsKICAgICAgICBTY2FmZm9sZE1lc3Nlbmdlci5vZihjb250ZXh0KQogICAgICAgICAgICAuc2hvd1NuYWNrQmFyKFNuYWNrQmFyKGNvbnRlbnQ6IFRleHQoJ+S/neWtmOWksei0pe+8miRlJykpKTsKICAgICAgfQogICAgfSBmaW5hbGx5IHsKICAgICAgaWYgKG1vdW50ZWQpIHNldFN0YXRlKCgpID0+IF9zYXZpbmcgPSBmYWxzZSk7CiAgICB9CiAgfQoKICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKICAgIGZpbmFsIHIgPSB3aWRnZXQucmVzdWx0OwogICAgcmV0dXJuIENhcmQoCiAgICAgIG1hcmdpbjogY29uc3QgRWRnZUluc2V0cy5hbGwoMTYpLAogICAgICBzaGFwZTogUm91bmRlZFJlY3RhbmdsZUJvcmRlcihib3JkZXJSYWRpdXM6IEJvcmRlclJhZGl1cy5jaXJjdWxhcigxNikpLAogICAgICBjaGlsZDogQ29sdW1uKAogICAgICAgIGNyb3NzQXhpc0FsaWdubWVudDogQ3Jvc3NBeGlzQWxpZ25tZW50LnN0YXJ0LAogICAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAgICBpZiAoci5jb3Zlci5pc05vdEVtcHR5KQogICAgICAgICAgICBHZXN0dXJlRGV0ZWN0b3IoCiAgICAgICAgICAgICAgb25UYXA6IHdpZGdldC5vblByZXZpZXcsCiAgICAgICAgICAgICAgY2hpbGQ6IENsaXBSUmVjdCgKICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czoKICAgICAgICAgICAgICAgICAgICBjb25zdCBCb3JkZXJSYWRpdXMudmVydGljYWwodG9wOiBSYWRpdXMuY2lyY3VsYXIoMTYpKSwKICAgICAgICAgICAgICAgIGNoaWxkOiBJbWFnZS5uZXR3b3JrKAogICAgICAgICAgICAgICAgICByLmNvdmVyLAogICAgICAgICAgICAgICAgICBoZWlnaHQ6IDIwMCwKICAgICAgICAgICAgICAgICAgd2lkdGg6IGRvdWJsZS5pbmZpbml0eSwKICAgICAgICAgICAgICAgICAgZml0OiBCb3hGaXQuY292ZXIsCiAgICAgICAgICAgICAgICAgIGVycm9yQnVpbGRlcjogKF8sIF9fLCBfX18pID0+IENvbnRhaW5lcigKICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDIwMCwKICAgICAgICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLmdyZXkuc2hhZGUyMDAsCiAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IGNvbnN0IEljb24oSWNvbnMuYnJva2VuX2ltYWdlKSwKICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgKSwKICAgICAgICAgIFBhZGRpbmcoCiAgICAgICAgICAgIHBhZGRpbmc6IGNvbnN0IEVkZ2VJbnNldHMuYWxsKDE2KSwKICAgICAgICAgICAgY2hpbGQ6IENvbHVtbigKICAgICAgICAgICAgICBjcm9zc0F4aXNBbGlnbm1lbnQ6IENyb3NzQXhpc0FsaWdubWVudC5zdGFydCwKICAgICAgICAgICAgICBjaGlsZHJlbjogWwogICAgICAgICAgICAgICAgUm93KGNoaWxkcmVuOiBbCiAgICAgICAgICAgICAgICAgIENvbnRhaW5lcigKICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOgogICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBFZGdlSW5zZXRzLnN5bW1ldHJpYyhob3Jpem9udGFsOiA4LCB2ZXJ0aWNhbDogMyksCiAgICAgICAgICAgICAgICAgICAgZGVjb3JhdGlvbjogQm94RGVjb3JhdGlvbigKICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiBDb2xvcnMuYmx1ZS5zaGFkZTUwLAogICAgICAgICAgICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiBCb3JkZXJSYWRpdXMuY2lyY3VsYXIoNiksCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICBjaGlsZDogVGV4dChyLnBsYXRmb3JtTmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU6IGNvbnN0IFRleHRTdHlsZShmb250U2l6ZTogMTIsIGNvbG9yOiBDb2xvcnMuYmx1ZSkpLAogICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICBjb25zdCBTaXplZEJveCh3aWR0aDogOCksCiAgICAgICAgICAgICAgICAgIENvbnRhaW5lcigKICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOgogICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBFZGdlSW5zZXRzLnN5bW1ldHJpYyhob3Jpem9udGFsOiA4LCB2ZXJ0aWNhbDogMyksCiAgICAgICAgICAgICAgICAgICAgZGVjb3JhdGlvbjogQm94RGVjb3JhdGlvbigKICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiBDb2xvcnMuZ3JlZW4uc2hhZGU1MCwKICAgICAgICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czogQm9yZGVyUmFkaXVzLmNpcmN1bGFyKDYpLAogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IFRleHQoX3R5cGVMYWJlbChyLmNvbnRlbnRUeXBlKSwKICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU6IGNvbnN0IFRleHRTdHlsZShmb250U2l6ZTogMTIsIGNvbG9yOiBDb2xvcnMuZ3JlZW4pKSwKICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIF0pLAogICAgICAgICAgICAgICAgY29uc3QgU2l6ZWRCb3goaGVpZ2h0OiA4KSwKICAgICAgICAgICAgICAgIFRleHQoCiAgICAgICAgICAgICAgICAgIHIudGl0bGUuaXNFbXB0eSA/ICfmnKrlkb3lkI3kvZzlk4EnIDogci50aXRsZSwKICAgICAgICAgICAgICAgICAgbWF4TGluZXM6IDIsCiAgICAgICAgICAgICAgICAgIG92ZXJmbG93OiBUZXh0T3ZlcmZsb3cuZWxsaXBzaXMsCiAgICAgICAgICAgICAgICAgIHN0eWxlOiBjb25zdCBUZXh0U3R5bGUoZm9udFdlaWdodDogRm9udFdlaWdodC53NjAwLCBmb250U2l6ZTogMTUpLAogICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgIGlmIChyLmF1dGhvci5pc05vdEVtcHR5KQogICAgICAgICAgICAgICAgICBQYWRkaW5nKAogICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IGNvbnN0IEVkZ2VJbnNldHMub25seSh0b3A6IDQpLAogICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KCdAJHtyLmF1dGhvcn0nLAogICAgICAgICAgICAgICAgICAgICAgICBzdHlsZTogY29uc3QgVGV4dFN0eWxlKGZvbnRTaXplOiAxMiwgY29sb3I6IENvbG9ycy5ncmV5KSksCiAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBjb25zdCBTaXplZEJveChoZWlnaHQ6IDEyKSwKICAgICAgICAgICAgICAgIGlmIChyLmhhc1ZpZGVvKSAuLi5bCiAgICAgICAgICAgICAgICAgIGNvbnN0IFRleHQoJ+a4heaZsOW6pu+8iOm7mOiupOacgOmrmO+8iScsCiAgICAgICAgICAgICAgICAgICAgICBzdHlsZTogVGV4dFN0eWxlKGZvbnRTaXplOiAxMywgY29sb3I6IENvbG9ycy5ncmV5KSksCiAgICAgICAgICAgICAgICAgIGNvbnN0IFNpemVkQm94KGhlaWdodDogOCksCiAgICAgICAgICAgICAgICAgIFdyYXAoCiAgICAgICAgICAgICAgICAgICAgc3BhY2luZzogOCwKICAgICAgICAgICAgICAgICAgICBydW5TcGFjaW5nOiA4LAogICAgICAgICAgICAgICAgICAgIGNoaWxkcmVuOiByLnF1YWxpdGllcy5hc01hcCgpLmVudHJpZXMubWFwKChlKSB7CiAgICAgICAgICAgICAgICAgICAgICBmaW5hbCBpID0gZS5rZXk7CiAgICAgICAgICAgICAgICAgICAgICBmaW5hbCBxID0gZS52YWx1ZTsKICAgICAgICAgICAgICAgICAgICAgIGZpbmFsIHNlbGVjdGVkID0gaSA9PSBfcXVhbGl0eUluZGV4OwogICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIENob2ljZUNoaXAoCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsOiBUZXh0KHEubGFiZWwgKyAoaSA9PSAwID8gJyDCtyDmnIDpq5gnIDogJycpKSwKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0ZWQ6IHNlbGVjdGVkLAogICAgICAgICAgICAgICAgICAgICAgICBvblNlbGVjdGVkOiAoXykgPT4gc2V0U3RhdGUoKCkgPT4gX3F1YWxpdHlJbmRleCA9IGkpLAogICAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgICAgICB9KS50b0xpc3QoKSwKICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgY29uc3QgU2l6ZWRCb3goaGVpZ2h0OiAxMiksCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgaWYgKHIuaGFzSW1hZ2VzKSAuLi5bCiAgICAgICAgICAgICAgICAgIFJvdyhjaGlsZHJlbjogWwogICAgICAgICAgICAgICAgICAgIGNvbnN0IFRleHQoJ+WbvueJhycsCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiBUZXh0U3R5bGUoZm9udFNpemU6IDEzLCBjb2xvcjogQ29sb3JzLmdyZXkpKSwKICAgICAgICAgICAgICAgICAgICBjb25zdCBTcGFjZXIoKSwKICAgICAgICAgICAgICAgICAgICBUZXh0QnV0dG9uKAogICAgICAgICAgICAgICAgICAgICAgb25QcmVzc2VkOiAoKSA9PiBzZXRTdGF0ZSgoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChfc2VsZWN0ZWRJbWFnZXMubGVuZ3RoID09IHIuaW1hZ2VzLmxlbmd0aCkgewogICAgICAgICAgICAgICAgICAgICAgICAgIF9zZWxlY3RlZEltYWdlcy5jbGVhcigpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgIF9zZWxlY3RlZEltYWdlcy5hZGRBbGwoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3QuZ2VuZXJhdGUoci5pbWFnZXMubGVuZ3RoLCAoaSkgPT4gaSkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICB9KSwKICAgICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KF9zZWxlY3RlZEltYWdlcy5sZW5ndGggPT0gci5pbWFnZXMubGVuZ3RoCiAgICAgICAgICAgICAgICAgICAgICAgICAgPyAn5Y+W5raI5YWo6YCJJwogICAgICAgICAgICAgICAgICAgICAgICAgIDogJ+WFqOmAiScpLAogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgIF0pLAogICAgICAgICAgICAgICAgICBjb25zdCBTaXplZEJveChoZWlnaHQ6IDgpLAogICAgICAgICAgICAgICAgICBHcmlkVmlldy5idWlsZGVyKAogICAgICAgICAgICAgICAgICAgIHNocmlua1dyYXA6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgcGh5c2ljczogY29uc3QgTmV2ZXJTY3JvbGxhYmxlU2Nyb2xsUGh5c2ljcygpLAogICAgICAgICAgICAgICAgICAgIGdyaWREZWxlZ2F0ZTogY29uc3QgU2xpdmVyR3JpZERlbGVnYXRlV2l0aEZpeGVkQ3Jvc3NBeGlzQ291bnQoCiAgICAgICAgICAgICAgICAgICAgICBjcm9zc0F4aXNDb3VudDogMywKICAgICAgICAgICAgICAgICAgICAgIGNyb3NzQXhpc1NwYWNpbmc6IDgsCiAgICAgICAgICAgICAgICAgICAgICBtYWluQXhpc1NwYWNpbmc6IDgsCiAgICAgICAgICAgICAgICAgICAgICBjaGlsZEFzcGVjdFJhdGlvOiAxLAogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgaXRlbUNvdW50OiByLmltYWdlcy5sZW5ndGgsCiAgICAgICAgICAgICAgICAgICAgaXRlbUJ1aWxkZXI6IChjdHgsIGkpIHsKICAgICAgICAgICAgICAgICAgICAgIGZpbmFsIHNlbGVjdGVkID0gX3NlbGVjdGVkSW1hZ2VzLmNvbnRhaW5zKGkpOwogICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEdlc3R1cmVEZXRlY3RvcigKICAgICAgICAgICAgICAgICAgICAgICAgb25UYXA6ICgpID0+IF90b2dnbGVJbWFnZShpKSwKICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IFN0YWNrKGNoaWxkcmVuOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgUG9zaXRpb25lZC5maWxsKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IEltYWdlLm5ldHdvcmsoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHIuaW1hZ2VzW2ldLnVybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZml0OiBCb3hGaXQuY292ZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yQnVpbGRlcjogKF8sIF9fLCBfX18pID0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb250YWluZXIoY29sb3I6IENvbG9ycy5ncmV5LnNoYWRlMjAwKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoc2VsZWN0ZWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBQb3NpdGlvbmVkKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3A6IDQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJpZ2h0OiA0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGlsZDogQ29udGFpbmVyKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlY29yYXRpb246IGNvbnN0IEJveERlY29yYXRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiBDb2xvcnMuYmx1ZSwgc2hhcGU6IEJveFNoYXBlLmNpcmNsZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IGNvbnN0IEljb24oSWNvbnMuY2hlY2ssCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiBDb2xvcnMud2hpdGUsIHNpemU6IDE2KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgICAgIF0pLAogICAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICBjb25zdCBTaXplZEJveChoZWlnaHQ6IDEyKSwKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBTaXplZEJveCgKICAgICAgICAgICAgICAgICAgd2lkdGg6IGRvdWJsZS5pbmZpbml0eSwKICAgICAgICAgICAgICAgICAgY2hpbGQ6IEVsZXZhdGVkQnV0dG9uLmljb24oCiAgICAgICAgICAgICAgICAgICAgb25QcmVzc2VkOiBfc2F2aW5nID8gbnVsbCA6IF9zYXZlLAogICAgICAgICAgICAgICAgICAgIGljb246IF9zYXZpbmcKICAgICAgICAgICAgICAgICAgICAgICAgPyBjb25zdCBTaXplZEJveCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxNiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGlsZDogQ2lyY3VsYXJQcm9ncmVzc0luZGljYXRvcigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJva2VXaWR0aDogMiwgY29sb3I6IENvbG9ycy53aGl0ZSkpCiAgICAgICAgICAgICAgICAgICAgICAgIDogY29uc3QgSWNvbihJY29ucy5kb3dubG9hZCksCiAgICAgICAgICAgICAgICAgICAgbGFiZWw6IFRleHQoX3NhdmVMYWJlbChyLCBfc2VsZWN0ZWRJbWFnZXMubGVuZ3RoKSksCiAgICAgICAgICAgICAgICAgICAgc3R5bGU6IEVsZXZhdGVkQnV0dG9uLnN0eWxlRnJvbSgKICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IGNvbnN0IEVkZ2VJbnNldHMuc3ltbWV0cmljKHZlcnRpY2FsOiAxMiksCiAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9ycy5ibHVlLAogICAgICAgICAgICAgICAgICAgICAgZm9yZWdyb3VuZENvbG9yOiBDb2xvcnMud2hpdGUsCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgXSwKICAgICAgKSwKICAgICk7CiAgfQoKICBTdHJpbmcgX3R5cGVMYWJlbChTdHJpbmcgY3QpIHsKICAgIHN3aXRjaCAoY3QpIHsKICAgICAgY2FzZSAnaW1hZ2UnOgogICAgICAgIHJldHVybiAn5Zu+54mHJzsKICAgICAgY2FzZSAnbWl4ZWQnOgogICAgICAgIHJldHVybiAn5Zu+5paHJzsKICAgICAgZGVmYXVsdDoKICAgICAgICByZXR1cm4gJ+inhumikSc7CiAgICB9CiAgfQoKICBTdHJpbmcgX3NhdmVMYWJlbChQYXJzZVJlc3VsdCByLCBpbnQgc2VsKSB7CiAgICBpZiAoci5oYXNWaWRlbyAmJiAhci5oYXNJbWFnZXMpIHJldHVybiAn5L+d5a2Y5peg5rC05Y2w6KeG6aKRJzsKICAgIGlmICghci5oYXNWaWRlbyAmJiByLmhhc0ltYWdlcykgewogICAgICByZXR1cm4gc2VsID4gMCA/ICfkv53lrZjpgInkuK3lm77niYcoJHNlbCknIDogJ+S/neWtmOWbvueJhygke3IuaW1hZ2VzLmxlbmd0aH0pJzsKICAgIH0KICAgIHJldHVybiAn5L+d5a2Y6KeG6aKRK+mAieS4reWbvueJhyc7CiAgfQp9Cg==
+import 'package:flutter/material.dart';
+import '../models/parse_result.dart';
+
+/// 解析结果卡片：封面 + 标题 + 平台/类型角标 + 清晰度选择 + 图片多选 + 保存
+class ResultCard extends StatefulWidget {
+  final ParseResult result;
+  final Future<void> Function(String url) onSaveVideo;
+  final Future<void> Function(List<String> urls) onSaveImages;
+  final VoidCallback? onPreview;
+
+  const ResultCard({
+    super.key,
+    required this.result,
+    required this.onSaveVideo,
+    required this.onSaveImages,
+    this.onPreview,
+  });
+
+  @override
+  State<ResultCard> createState() => _ResultCardState();
+}
+
+class _ResultCardState extends State<ResultCard> {
+  int _qualityIndex = 0;
+  final Set<int> _selectedImages = {};
+  bool _saving = false;
+
+  @override
+  void initState() {
+    super.initState();
+    // 默认全选图片（纯图片页一键保存更顺手）
+    if (widget.result.hasImages) {
+      _selectedImages.addAll(List.generate(widget.result.images.length, (i) => i));
+    }
+  }
+
+  void _toggleImage(int i) {
+    setState(() {
+      if (_selectedImages.contains(i)) {
+        _selectedImages.remove(i);
+      } else {
+        _selectedImages.add(i);
+      }
+    });
+  }
+
+  Future<void> _save() async {
+    if (_saving) return;
+    setState(() => _saving = true);
+    try {
+      if (widget.result.hasVideo) {
+        await widget.onSaveVideo(widget.result.qualities[_qualityIndex].url);
+      }
+      final urls = _selectedImages.map((i) => widget.result.images[i].url).toList();
+      if (urls.isNotEmpty) {
+        await widget.onSaveImages(urls);
+      }
+      if (mounted) {
+        ScaffoldMessenger.of(context)
+            .showSnackBar(const SnackBar(content: Text('已保存到相册')));
+      }
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context)
+            .showSnackBar(SnackBar(content: Text('保存失败：$e')));
+      }
+    } finally {
+      if (mounted) setState(() => _saving = false);
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final r = widget.result;
+    return Card(
+      margin: const EdgeInsets.all(16),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          if (r.cover.isNotEmpty)
+            GestureDetector(
+              onTap: widget.onPreview,
+              child: ClipRRect(
+                borderRadius:
+                    const BorderRadius.vertical(top: Radius.circular(16)),
+                child: Image.network(
+                  r.cover,
+                  height: 200,
+                  width: double.infinity,
+                  fit: BoxFit.cover,
+                  errorBuilder: (_, __, ___) => Container(
+                    height: 200,
+                    color: Colors.grey.shade200,
+                    child: const Icon(Icons.broken_image),
+                  ),
+                ),
+              ),
+            ),
+          Padding(
+            padding: const EdgeInsets.all(16),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(children: [
+                  Container(
+                    padding:
+                        const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                    decoration: BoxDecoration(
+                      color: Colors.blue.shade50,
+                      borderRadius: BorderRadius.circular(6),
+                    ),
+                    child: Text(r.platformName,
+                        style: const TextStyle(fontSize: 12, color: Colors.blue)),
+                  ),
+                  const SizedBox(width: 8),
+                  Container(
+                    padding:
+                        const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                    decoration: BoxDecoration(
+                      color: Colors.green.shade50,
+                      borderRadius: BorderRadius.circular(6),
+                    ),
+                    child: Text(_typeLabel(r.contentType),
+                        style: const TextStyle(fontSize: 12, color: Colors.green)),
+                  ),
+                ]),
+                const SizedBox(height: 8),
+                Text(
+                  r.title.isEmpty ? '未命名作品' : r.title,
+                  maxLines: 2,
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(fontWeight: FontWeight.w600, fontSize: 15),
+                ),
+                if (r.author.isNotEmpty)
+                  Padding(
+                    padding: const EdgeInsets.only(top: 4),
+                    child: Text('@${r.author}',
+                        style: const TextStyle(fontSize: 12, color: Colors.grey)),
+                  ),
+                const SizedBox(height: 12),
+                if (r.hasVideo) ...[
+                  const Text('清晰度（默认最高）',
+                      style: TextStyle(fontSize: 13, color: Colors.grey)),
+                  const SizedBox(height: 8),
+                  Wrap(
+                    spacing: 8,
+                    runSpacing: 8,
+                    children: r.qualities.asMap().entries.map((e) {
+                      final i = e.key;
+                      final q = e.value;
+                      final selected = i == _qualityIndex;
+                      return ChoiceChip(
+                        label: Text(q.label + (i == 0 ? ' · 最高' : '')),
+                        selected: selected,
+                        onSelected: (_) => setState(() => _qualityIndex = i),
+                      );
+                    }).toList(),
+                  ),
+                  const SizedBox(height: 12),
+                ],
+                if (r.hasImages) ...[
+                  Row(children: [
+                    const Text('图片',
+                        style: TextStyle(fontSize: 13, color: Colors.grey)),
+                    const Spacer(),
+                    TextButton(
+                      onPressed: () => setState(() {
+                        if (_selectedImages.length == r.images.length) {
+                          _selectedImages.clear();
+                        } else {
+                          _selectedImages.addAll(
+                              List.generate(r.images.length, (i) => i));
+                        }
+                      }),
+                      child: Text(_selectedImages.length == r.images.length
+                          ? '取消全选'
+                          : '全选'),
+                    ),
+                  ]),
+                  const SizedBox(height: 8),
+                  GridView.builder(
+                    shrinkWrap: true,
+                    physics: const NeverScrollableScrollPhysics(),
+                    gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                      crossAxisCount: 3,
+                      crossAxisSpacing: 8,
+                      mainAxisSpacing: 8,
+                      childAspectRatio: 1,
+                    ),
+                    itemCount: r.images.length,
+                    itemBuilder: (ctx, i) {
+                      final selected = _selectedImages.contains(i);
+                      return GestureDetector(
+                        onTap: () => _toggleImage(i),
+                        child: Stack(children: [
+                          Positioned.fill(
+                            child: Image.network(
+                              r.images[i].url,
+                              fit: BoxFit.cover,
+                              errorBuilder: (_, __, ___) =>
+                                  Container(color: Colors.grey.shade200),
+                            ),
+                          ),
+                          if (selected)
+                            Positioned(
+                              top: 4,
+                              right: 4,
+                              child: Container(
+                                decoration: const BoxDecoration(
+                                    color: Colors.blue, shape: BoxShape.circle),
+                                child: const Icon(Icons.check,
+                                    color: Colors.white, size: 16),
+                              ),
+                            ),
+                        ]),
+                      );
+                    },
+                  ),
+                  const SizedBox(height: 12),
+                ],
+                SizedBox(
+                  width: double.infinity,
+                  child: ElevatedButton.icon(
+                    onPressed: _saving ? null : _save,
+                    icon: _saving
+                        ? const SizedBox(
+                            width: 16,
+                            height: 16,
+                            child: CircularProgressIndicator(
+                                strokeWidth: 2, color: Colors.white))
+                        : const Icon(Icons.download),
+                    label: Text(_saveLabel(r, _selectedImages.length)),
+                    style: ElevatedButton.styleFrom(
+                      padding: const EdgeInsets.symmetric(vertical: 12),
+                      backgroundColor: Colors.blue,
+                      foregroundColor: Colors.white,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  String _typeLabel(String ct) {
+    switch (ct) {
+      case 'image':
+        return '图片';
+      case 'mixed':
+        return '图文';
+      default:
+        return '视频';
+    }
+  }
+
+  String _saveLabel(ParseResult r, int sel) {
+    if (r.hasVideo && !r.hasImages) return '保存无水印视频';
+    if (!r.hasVideo && r.hasImages) {
+      return sel > 0 ? '保存选中图片($sel)' : '保存图片(${r.images.length})';
+    }
+    return '保存视频+选中图片';
+  }
+}

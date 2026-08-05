@@ -1,1 +1,31 @@
-Y29uc3QgeyBQTEFURk9STVMsIGdldFBsYXRmb3JtIH0gPSByZXF1aXJlKCcuLi8uLi91dGlscy9wbGF0Zm9ybXMnKTsKCkNvbXBvbmVudCh7CiAgcHJvcGVydGllczogewogICAgbWF4OiB7IHR5cGU6IE51bWJlciwgdmFsdWU6IDEyIH0sCiAgfSwKCiAgZGF0YTogewogICAgbGlzdDogW10sCiAgfSwKCiAgbGlmZXRpbWVzOiB7CiAgICBhdHRhY2hlZCgpIHsKICAgICAgdGhpcy5zZXREYXRhKHsgbGlzdDogUExBVEZPUk1TLnNsaWNlKDAsIHRoaXMuZGF0YS5tYXgpIH0pOwogICAgfSwKICB9LAoKICBtZXRob2RzOiB7CiAgICBvblRhcChlKSB7CiAgICAgIGNvbnN0IGtleSA9IGUuY3VycmVudFRhcmdldC5kYXRhc2V0LmtleTsKICAgICAgY29uc3QgcCA9IGdldFBsYXRmb3JtKGtleSk7CiAgICAgIGlmICghcCkgcmV0dXJuOwogICAgICB3eC5zaG93VG9hc3QoewogICAgICAgIHRpdGxlOiBwLnRpcCB8fCBg5pSv5oyBJHtwLm5hbWV977yM55u05o6l57KY6LS06ZO+5o6l5Y2z5Y+vYCwKICAgICAgICBpY29uOiAnbm9uZScsCiAgICAgICAgZHVyYXRpb246IDIyMDAsCiAgICAgIH0pOwogICAgICB0aGlzLnRyaWdnZXJFdmVudCgnc2VsZWN0JywgeyBrZXkgfSk7CiAgICB9LAogIH0sCn0pOwo=
+const { PLATFORMS, getPlatform } = require('../../utils/platforms');
+
+Component({
+  properties: {
+    max: { type: Number, value: 12 },
+  },
+
+  data: {
+    list: [],
+  },
+
+  lifetimes: {
+    attached() {
+      this.setData({ list: PLATFORMS.slice(0, this.data.max) });
+    },
+  },
+
+  methods: {
+    onTap(e) {
+      const key = e.currentTarget.dataset.key;
+      const p = getPlatform(key);
+      if (!p) return;
+      wx.showToast({
+        title: p.tip || `支持${p.name}，直接粘贴链接即可`,
+        icon: 'none',
+        duration: 2200,
+      });
+      this.triggerEvent('select', { key });
+    },
+  },
+});

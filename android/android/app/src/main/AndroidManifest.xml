@@ -1,1 +1,34 @@
-PG1hbmlmZXN0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+CiAgICA8IS0tIOe9kee7nO+8mum7mOiupOmcgOimgSAtLT4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4KICAgIDwhLS0g5a2Y5YKo77ya5L+d5a2Y6KeG6aKRL+WbvueJh+WIsOebuOWGjO+8iGdhbGxlcnlfc2F2ZXIg6ZyA6KaB77yJIC0tPgogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5SRUFEX0VYVEVSTkFMX1NUT1JBR0UiIGFuZHJvaWQ6bWF4U2RrVmVyc2lvbj0iMzIiLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfRVhURVJOQUxfU1RPUkFHRSIgYW5kcm9pZDptYXhTZGtWZXJzaW9uPSIyOSIvPgogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5SRUFEX01FRElBX0lNQUdFUyIvPgogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5SRUFEX01FRElBX1ZJREVPIi8+CgogICAgPGFwcGxpY2F0aW9uCiAgICAgICAgYW5kcm9pZDpsYWJlbD0iVmlkZW9Eb3duIgogICAgICAgIGFuZHJvaWQ6bmFtZT0iJHthcHBsaWNhdGlvbk5hbWV9IgogICAgICAgIGFuZHJvaWQ6aWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlciI+CiAgICAgICAgPGFjdGl2aXR5CiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iLk1haW5BY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXVuY2hNb2RlPSJzaW5nbGVUb3AiCiAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9MYXVuY2hUaGVtZSIKICAgICAgICAgICAgYW5kcm9pZDpjb25maWdDaGFuZ2VzPSJvcmllbnRhdGlvbnxrZXlib2FyZEhpZGRlbnxrZXlib2FyZHxzY3JlZW5TaXplfHNtYWxsZXN0U2NyZWVuU2l6ZXxsb2NhbGV8bGF5b3V0RGlyZWN0aW9ufGZvbnRTY2FsZXxzY3JlZW5MYXlvdXR8ZGVuc2l0eXx1aU1vZGUiCiAgICAgICAgICAgIGFuZHJvaWQ6aGFyZHdhcmVBY2NlbGVyYXRlZD0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDp3aW5kb3dTb2Z0SW5wdXRNb2RlPSJhZGp1c3RSZXNpemUiPgogICAgICAgICAgICA8bWV0YS1kYXRhCiAgICAgICAgICAgICAgICBhbmRyb2lkOm5hbWU9ImlvLmZsdXR0ZXIuZW1iZWRkaW5nLmFuZHJvaWQuTm9ybWFsVGhlbWUiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnJlc291cmNlPSJAc3R5bGUvTm9ybWFsVGhlbWUiLz4KICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4KICAgICAgICA8L2FjdGl2aXR5PgogICAgICAgIDxtZXRhLWRhdGEKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJmbHV0dGVyRW1iZWRkaW5nIgogICAgICAgICAgICBhbmRyb2lkOnZhbHVlPSIyIi8+CiAgICA8L2FwcGxpY2F0aW9uPgo8L21hbmlmZXN0Pgo=
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 网络：默认需要 -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <!-- 存储：保存视频/图片到相册（gallery_saver 需要） -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="29"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO"/>
+
+    <application
+        android:label="VideoDown"
+        android:name="${applicationName}"
+        android:icon="@mipmap/ic_launcher">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@style/LaunchTheme"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+            android:hardwareAccelerated="true"
+            android:windowSoftInputMode="adjustResize">
+            <meta-data
+                android:name="io.flutter.embedding.android.NormalTheme"
+                android:resource="@style/NormalTheme"/>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="flutterEmbedding"
+            android:value="2"/>
+    </application>
+</manifest>

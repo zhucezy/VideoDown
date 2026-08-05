@@ -1,1 +1,73 @@
-IyDop4bpopHop6PmnpDmnI3liqHnq6/vvIjop6PmnpAgLyDku6PnkIbkuK3ovazvvIkKCuS4uuWJjeerr++8iOW+ruS/oeWwj+eoi+W6jyAvIOWuieWNkyBBUFDvvInmj5DkvpvlpJrlubPlj7Dop4bpopHkuI7lm77niYfnmoTml6DmsLTljbDop6PmnpDvvIzlubbku6UgSE1BQyDnrb7lkI3ku6PnkIbnu5XlvIDlkITlubPlj7AgQ0ROIOmYsuebl+mTvuOAggoK5pys55uu5b2V5pivKirni6znq4vlj6/pg6jnvbLljZXlhYMqKu+8muWPr+ebtOaOpeaOqOWIsCBHaXRIdWIg5ZCO55SoIFJhaWx3YXkg6YOo572y77yM5Lmf5Y+v5pys5py6IGBub2RlIHNyYy9pbmRleC5qc2Ag6L+Q6KGM44CCCgojIyDmioDmnK/moIgKCi0gTm9kZS5qcyDiiaUgMTjvvIjlt7LlhpnlhaUgYHBhY2thZ2UuanNvbmAg55qEIGBlbmdpbmVzYO+8iQotIEV4cHJlc3MgKyBjb3JzICsgZG90ZW52Ci0g5peg5pWw5o2u5bqT77yM6ZmQ5rWB5LiO562+5ZCN5Z2H5Zyo5YaF5a2YL+eOr+Wig+WPmOmHj+WxguWujOaIkAoKIyMg55uu5b2VCgpgYGAKc2VydmVyLwrilJzilIDilIAgc3JjLwrilIIgICDilJzilIDilIAgaW5kZXguanMgICAgICAgICBFeHByZXNzIOWFpeWPo++8mi9hcGkvcGFyc2XjgIEvYXBpL2Rs44CBL2FwaS9wbGF0Zm9ybXPjgIEvaGVhbHRoCuKUgiAgIOKUnOKUgOKUgCBwcm94eS5qcyAgICAgICAgIOinhumikea1geW8j+S4rei9rO+8iOW4piBSZWZlcmVyL1VBIOWbnua6kO+8jOmAj+S8oCBSYW5nZe+8iQrilIIgICDilJzilIDilIAgcGFyc2Vycy8gICAgICAgICA4IOS4quW5s+WPsOmAgumFjeWZqCArIOmAmueUqOWFnOW6lQrilIIgICDilJTilIDilIAgdXRpbHMvICAgICAgICAgICBodHRwIC8gc2lnbihITUFDKSAvIGNvbW1vbgrilJzilIDilIAgcmFpbHdheS5qc29uICAgICAgICAg4piFIFJhaWx3YXkg6YOo572y6YWN572u77yIbml4cGFja3MgKyDoh6rliqjms6jlhaUgUFVCTElDX0JBU0XvvIkK4pSc4pSA4pSAIFByb2NmaWxlICAgICAgICAgICAgIOWFnOW6leWQr+WKqOWRveS7pO+8iHdlYjogbm9kZSBzcmMvaW5kZXguanPvvIkK4pSc4pSA4pSAIC5lbnYuZXhhbXBsZSAgICAgICAgIOeOr+Wig+WPmOmHj+aooeadvwrilJTilIDilIAgcGFja2FnZS5qc29uCmBgYAoKIyMg5pys5Zyw6L+Q6KGMCgpgYGBiYXNoCmNkIHNlcnZlcgpjcCAuZW52LmV4YW1wbGUgLmVudiAgICAgICMg6Iez5bCR5pS5IFNJR05fU0VDUkVUIOWSjCBQVUJMSUNfQkFTRQpucG0gaW5zdGFsbApucG0gc3RhcnQgICAgICAgICAgICAgICAgIyDpu5jorqQgaHR0cDovL2xvY2FsaG9zdDozMDAwCmBgYAoK5YGl5bq35qOA5p+l77yaYEdFVCAvaGVhbHRoYCDihpIgYHsiY29kZSI6MCwiZGF0YSI6eyJzdGF0dXMiOiJvayJ9fWAKCiMjIOmDqOe9suWIsCBSYWlsd2F577yIR2l0SHViIOmbhuaIkO+8iQoKMS4g5oqK5pW05LiqIFZpZGVvRG93biDku5PlupPmjqjliLAgR2l0SHViCjIuIFJhaWx3YXkg5paw5bu6IFByb2plY3Qg4oaSIERlcGxveSBmcm9tIEdpdEh1YiDihpIg6YCJ5oup5pys5LuT5bqT77yMUm9vdCBEaXJlY3Rvcnkg5aGrIGBzZXJ2ZXJgCjMuIGByYWlsd2F5Lmpzb25gIOW3sumFjee9ru+8mgogICAtIGJ1aWxkZXI6IGBuaXhwYWNrc2DvvIjoh6rliqjor7sgYHBhY2thZ2UuanNvbmAg55qEIGBzdGFydGAg6ISa5pys77yJCiAgIC0g6Ieq5Yqo5rOo5YWlIGBQVUJMSUNfQkFTRT1odHRwczovLyR7e1JBSUxXQVlfUFVCTElDX0RPTUFJTn19YO+8iOWfn+WQjeiHquWKqOivhuWIq++8iQogICAtIOazqOWFpSBgSE9TVD0wLjAuMC4wYO+8jOW5tuWjsOaYjiBgL2hlYWx0aGAg5YGl5bq35qOA5p+lCjQuIOmDqOe9suWujOaIkOWQjuW+l+WIsCBgaHR0cHM6Ly94eHgudXAucmFpbHdheS5hcHBg77yM5aGr5Yiw5YmN56uvIGBCQVNFX1VSTGAKCj4g5Lmf5Y+v55SoIGBQcm9jZmlsZWAg5YWc5bqV77yaYHdlYjogbm9kZSBzcmMvaW5kZXguanNg44CC5Lik6ICF5bm25a2Y5pe2IFJhaWx3YXkg5LyY5YWI55SoIGByYWlsd2F5Lmpzb25g44CCCgojIyDnjq/looPlj5jph4/vvIjop4EgLmVudi5leGFtcGxl77yJCgp8IOWPmOmHjyB8IOivtOaYjiB8CnwtLS0tLS18LS0tLS0tfAp8IGBQT1JUYCB8IOebkeWQrOerr+WPo++8jOm7mOiupCAzMDAwIHwKfCBgUFVCTElDX0JBU0VgIHwg5a+55aSW6K6/6Zeu5Zyw5Z2A77yM5b+F6aG75LiO6L+U5Zue57uZ5YmN56uv55qE5Luj55CG55u06ZO+5Z+f5ZCN5LiA6Ie0IHwKfCBgU0lHTl9TRUNSRVRgIHwg5Luj55CG55u06ZO+IEhNQUMg562+5ZCN5a+G6ZKl77yMKirliqHlv4XmlLnmiJDpmo/mnLrplb/lrZfnrKbkuLIqKiB8CnwgYFNJR05fVFRMYCB8IOS7o+eQhuebtOmTvuacieaViOacn++8iOenku+8ie+8jOm7mOiupCA3MjAwIHwKfCBgSE9TVGAgfCDnu5HlrprlnLDlnYDvvIzpg6jnvbLnjq/looPloasgYDAuMC4wLjBgIHwKfCBgUkFURV9NQVhgIHwg5Y2VIElQIOavj+WIhumSn+ino+aekOS4iumZkO+8jOm7mOiupCAyMCB8CnwgYEZFVENIX1RJTUVPVVRgIHwg5oqT5Y+W6LaF5pe277yI5q+r56eS77yJ77yM6buY6K6kIDEyMDAwIHwKfCBgQ09PS0lFXypgIHwg5ZCE5bmz5Y+w55m75b2VIENvb2tpZe+8iOWPr+mAie+8jOmFjeWQjuaIkOWKn+eOh+aYvuiRl+aPkOWNh++8iSB8CgojIyDmjqXlj6PlpZHnuqYKCnwg5pa55rOVIHwg6Lev5b6EIHwg6K+05piOIHwKfC0tLS0tLXwtLS0tLS18LS0tLS0tfAp8IFBPU1QgfCBgL2FwaS9wYXJzZWAgfCBib2R5OiBge3VybH1gIOKGkiDov5Tlm54gcXVhbGl0aWVzKOinhumikeWkmuahoykgKyBpbWFnZXMo5Zu+54mH5pWw57uEKe+8jOebtOmTvuWdh+aUueWGmeS4uuetvuWQjeS7o+eQhuWcsOWdgCB8CnwgR0VUICB8IGAvYXBpL2RsP3U9Li4uJnM9Li4uYCB8IOetvuWQjeS7o+eQhuS4i+i9vS/kuK3ovazvvIzluKbnrb7lkI3kuI7mnInmlYjmnJ/moKHpqowgfAp8IEdFVCAgfCBgL2FwaS9wbGF0Zm9ybXNgIHwg6L+U5Zue5pSv5oyB55qE5bmz5Y+w5YiX6KGoIHwKfCBHRVQgIHwgYC9oZWFsdGhgIHwg5YGl5bq35qOA5p+lIHwKCuivpue7huW5s+WPsOaUr+aMgeS4jumjjuaOp+ivtOaYjuingeS7k+W6k+aguSBSRUFETUUg55qE44CM5bmz5Y+w5pSv5oyB5oOF5Ya144CN56ug6IqC44CCCg==
+# 视频解析服务端（解析 / 代理中转）
+
+为前端（微信小程序 / 安卓 APP）提供多平台视频与图片的无水印解析，并以 HMAC 签名代理绕开各平台 CDN 防盗链。
+
+本目录是**独立可部署单元**：可直接推到 GitHub 后用 Railway 部署，也可本机 `node src/index.js` 运行。
+
+## 技术栈
+
+- Node.js ≥ 18（已写入 `package.json` 的 `engines`）
+- Express + cors + dotenv
+- 无数据库，限流与签名均在内存/环境变量层完成
+
+## 目录
+
+```
+server/
+├── src/
+│   ├── index.js         Express 入口：/api/parse、/api/dl、/api/platforms、/health
+│   ├── proxy.js         视频流式中转（带 Referer/UA 回源，透传 Range）
+│   ├── parsers/         8 个平台适配器 + 通用兜底
+│   └── utils/           http / sign(HMAC) / common
+├── railway.json         ★ Railway 部署配置（nixpacks + 自动注入 PUBLIC_BASE）
+├── Procfile             兜底启动命令（web: node src/index.js）
+├── .env.example         环境变量模板
+└── package.json
+```
+
+## 本地运行
+
+```bash
+cd server
+cp .env.example .env      # 至少改 SIGN_SECRET 和 PUBLIC_BASE
+npm install
+npm start                # 默认 http://localhost:3000
+```
+
+健康检查：`GET /health` → `{"code":0,"data":{"status":"ok"}}`
+
+## 部署到 Railway（GitHub 集成）
+
+1. 把整个 VideoDown 仓库推到 GitHub
+2. Railway 新建 Project → Deploy from GitHub → 选择本仓库，Root Directory 填 `server`
+3. `railway.json` 已配置：
+   - builder: `nixpacks`（自动读 `package.json` 的 `start` 脚本）
+   - 自动注入 `PUBLIC_BASE=https://${{RAILWAY_PUBLIC_DOMAIN}}`（域名自动识别）
+   - 注入 `HOST=0.0.0.0`，并声明 `/health` 健康检查
+4. 部署完成后得到 `https://xxx.up.railway.app`，填到前端 `BASE_URL`
+
+> 也可用 `Procfile` 兜底：`web: node src/index.js`。两者并存时 Railway 优先用 `railway.json`。
+
+## 环境变量（见 .env.example）
+
+| 变量 | 说明 |
+|------|------|
+| `PORT` | 监听端口，默认 3000 |
+| `PUBLIC_BASE` | 对外访问地址，必须与返回给前端的代理直链域名一致 |
+| `SIGN_SECRET` | 代理直链 HMAC 签名密钥，**务必改成随机长字符串** |
+| `SIGN_TTL` | 代理直链有效期（秒），默认 7200 |
+| `HOST` | 绑定地址，部署环境填 `0.0.0.0` |
+| `RATE_MAX` | 单 IP 每分钟解析上限，默认 20 |
+| `FETCH_TIMEOUT` | 抓取超时（毫秒），默认 12000 |
+| `COOKIE_*` | 各平台登录 Cookie（可选，配后成功率显著提升） |
+
+## 接口契约
+
+| 方法 | 路径 | 说明 |
+|------|------|------|
+| POST | `/api/parse` | body: `{url}` → 返回 qualities(视频多档) + images(图片数组)，直链均改写为签名代理地址 |
+| GET  | `/api/dl?u=...&s=...` | 签名代理下载/中转，带签名与有效期校验 |
+| GET  | `/api/platforms` | 返回支持的平台列表 |
+| GET  | `/health` | 健康检查 |
+
+详细平台支持与风控说明见仓库根 README 的「平台支持情况」章节。

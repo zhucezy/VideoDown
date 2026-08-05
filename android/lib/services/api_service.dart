@@ -1,1 +1,78 @@
-aW1wb3J0ICdkYXJ0OmNvbnZlcnQnOwppbXBvcnQgJ3BhY2thZ2U6aHR0cC9odHRwLmRhcnQnIGFzIGh0dHA7CmltcG9ydCAnLi4vdXRpbHMvY29uZmlnLmRhcnQnOwppbXBvcnQgJy4uL21vZGVscy9wYXJzZV9yZXN1bHQuZGFydCc7CgovLy8g6LCD55SoIC4uL3NlcnZlciDnmoQgUkVTVCDmjqXlj6MKY2xhc3MgQXBpRXhjZXB0aW9uIGltcGxlbWVudHMgRXhjZXB0aW9uIHsKICBmaW5hbCBTdHJpbmcgbWVzc2FnZTsKICBBcGlFeGNlcHRpb24odGhpcy5tZXNzYWdlKTsKICBAb3ZlcnJpZGUKICBTdHJpbmcgdG9TdHJpbmcoKSA9PiBtZXNzYWdlOwp9CgpjbGFzcyBQbGF0Zm9ybUluZm8gewogIGZpbmFsIFN0cmluZyBrZXk7CiAgZmluYWwgU3RyaW5nIG5hbWU7CiAgZmluYWwgU3RyaW5nIGNvbG9yOwogIGZpbmFsIFN0cmluZyBpY29uOwogIFBsYXRmb3JtSW5mbyh7cmVxdWlyZWQgdGhpcy5rZXksIHJlcXVpcmVkIHRoaXMubmFtZSwgcmVxdWlyZWQgdGhpcy5jb2xvciwgcmVxdWlyZWQgdGhpcy5pY29ufSk7CgogIGZhY3RvcnkgUGxhdGZvcm1JbmZvLmZyb21Kc29uKE1hcDxTdHJpbmcsIGR5bmFtaWM+IGpzb24pID0+IFBsYXRmb3JtSW5mbygKICAgICAgICBrZXk6IGpzb25bJ2tleSddPy50b1N0cmluZygpID8/ICcnLAogICAgICAgIG5hbWU6IGpzb25bJ25hbWUnXT8udG9TdHJpbmcoKSA/PyAnJywKICAgICAgICBjb2xvcjoganNvblsnY29sb3InXT8udG9TdHJpbmcoKSA/PyAnIzVCNjI3MCcsCiAgICAgICAgaWNvbjoganNvblsnaWNvbiddPy50b1N0cmluZygpID8/ICcnLAogICAgICApOwp9CgpjbGFzcyBBcGlTZXJ2aWNlIHsKICBzdGF0aWMgY29uc3QgX3RpbWVvdXQgPSBEdXJhdGlvbihzZWNvbmRzOiAzMCk7CgogIC8vLyDop6PmnpDop4bpopEv5Zu+54mH6ZO+5o6lCiAgRnV0dXJlPFBhcnNlUmVzdWx0PiBwYXJzZShTdHJpbmcgaW5wdXRVcmwpIGFzeW5jIHsKICAgIGZpbmFsIHVyaSA9IFVyaS5wYXJzZSgnJGtBcGlCYXNlVXJsL2FwaS9wYXJzZScpOwogICAgdHJ5IHsKICAgICAgZmluYWwgcmVzcCA9IGF3YWl0IGh0dHAKICAgICAgICAgIC5wb3N0KAogICAgICAgICAgICB1cmksCiAgICAgICAgICAgIGhlYWRlcnM6IHsnY29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nfSwKICAgICAgICAgICAgYm9keToganNvbkVuY29kZSh7J3VybCc6IGlucHV0VXJsfSksCiAgICAgICAgICApCiAgICAgICAgICAudGltZW91dChfdGltZW91dCk7CiAgICAgIGZpbmFsIGpzb24gPSBqc29uRGVjb2RlKHJlc3AuYm9keSkgYXMgTWFwPFN0cmluZywgZHluYW1pYz47CiAgICAgIGlmIChqc29uWydjb2RlJ10gIT0gMCkgewogICAgICAgIHRocm93IEFwaUV4Y2VwdGlvbihqc29uWydtZXNzYWdlJ10/LnRvU3RyaW5nKCkgPz8gJ+ino+aekOWksei0pScpOwogICAgICB9CiAgICAgIHJldHVybiBQYXJzZVJlc3VsdC5mcm9tSnNvbihqc29uKTsKICAgIH0gb24gQXBpRXhjZXB0aW9uIHsKICAgICAgcmV0aHJvdzsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgdGhyb3cgQXBpRXhjZXB0aW9uKCfnvZHnu5zor7fmsYLlpLHotKXvvIzor7fmo4Dmn6XmnI3liqHnq6/lnLDlnYDmiJbnvZHnu5zvvJokZScpOwogICAgfQogIH0KCiAgLy8vIOaUr+aMgeeahOW5s+WPsOWIl+ihqO+8iOeUqOS6jummlumhteWbvuagh+Wime+8iQogIEZ1dHVyZTxMaXN0PFBsYXRmb3JtSW5mbz4+IHBsYXRmb3JtcygpIGFzeW5jIHsKICAgIGZpbmFsIHVyaSA9IFVyaS5wYXJzZSgnJGtBcGlCYXNlVXJsL2FwaS9wbGF0Zm9ybXMnKTsKICAgIHRyeSB7CiAgICAgIGZpbmFsIHJlc3AgPSBhd2FpdCBodHRwLmdldCh1cmkpLnRpbWVvdXQoX3RpbWVvdXQpOwogICAgICBmaW5hbCBqc29uID0ganNvbkRlY29kZShyZXNwLmJvZHkpIGFzIE1hcDxTdHJpbmcsIGR5bmFtaWM+OwogICAgICBpZiAoanNvblsnY29kZSddICE9IDApIHJldHVybiBbXTsKICAgICAgZmluYWwgbGlzdCA9IGpzb25bJ2RhdGEnXT9bJ3BsYXRmb3JtcyddIGFzIExpc3Q/ID8/IFtdOwogICAgICByZXR1cm4gbGlzdC5tYXAoKGUpID0+IFBsYXRmb3JtSW5mby5mcm9tSnNvbihlIGFzIE1hcDxTdHJpbmcsIGR5bmFtaWM+KSkudG9MaXN0KCk7CiAgICB9IGNhdGNoIChfKSB7CiAgICAgIHJldHVybiBbXTsKICAgIH0KICB9CgogIC8vLyDlgaXlurfmo4Dmn6UKICBGdXR1cmU8Ym9vbD4gaGVhbHRoKCkgYXN5bmMgewogICAgdHJ5IHsKICAgICAgZmluYWwgcmVzcCA9IGF3YWl0IGh0dHAuZ2V0KFVyaS5wYXJzZSgnJGtBcGlCYXNlVXJsL2hlYWx0aCcpKS50aW1lb3V0KGNvbnN0IER1cmF0aW9uKHNlY29uZHM6IDUpKTsKICAgICAgcmV0dXJuIHJlc3Auc3RhdHVzQ29kZSA9PSAyMDA7CiAgICB9IGNhdGNoIChfKSB7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KICB9Cn0K
+import 'dart:convert';
+import 'package:http/http.dart' as http;
+import '../utils/config.dart';
+import '../models/parse_result.dart';
+
+/// 调用 ../server 的 REST 接口
+class ApiException implements Exception {
+  final String message;
+  ApiException(this.message);
+  @override
+  String toString() => message;
+}
+
+class PlatformInfo {
+  final String key;
+  final String name;
+  final String color;
+  final String icon;
+  PlatformInfo({required this.key, required this.name, required this.color, required this.icon});
+
+  factory PlatformInfo.fromJson(Map<String, dynamic> json) => PlatformInfo(
+        key: json['key']?.toString() ?? '',
+        name: json['name']?.toString() ?? '',
+        color: json['color']?.toString() ?? '#5B6270',
+        icon: json['icon']?.toString() ?? '',
+      );
+}
+
+class ApiService {
+  static const _timeout = Duration(seconds: 30);
+
+  /// 解析视频/图片链接
+  Future<ParseResult> parse(String inputUrl) async {
+    final uri = Uri.parse('$kApiBaseUrl/api/parse');
+    try {
+      final resp = await http
+          .post(
+            uri,
+            headers: {'content-type': 'application/json'},
+            body: jsonEncode({'url': inputUrl}),
+          )
+          .timeout(_timeout);
+      final json = jsonDecode(resp.body) as Map<String, dynamic>;
+      if (json['code'] != 0) {
+        throw ApiException(json['message']?.toString() ?? '解析失败');
+      }
+      return ParseResult.fromJson(json);
+    } on ApiException {
+      rethrow;
+    } catch (e) {
+      throw ApiException('网络请求失败，请检查服务端地址或网络：$e');
+    }
+  }
+
+  /// 支持的平台列表（用于首页图标墙）
+  Future<List<PlatformInfo>> platforms() async {
+    final uri = Uri.parse('$kApiBaseUrl/api/platforms');
+    try {
+      final resp = await http.get(uri).timeout(_timeout);
+      final json = jsonDecode(resp.body) as Map<String, dynamic>;
+      if (json['code'] != 0) return [];
+      final list = json['data']?['platforms'] as List? ?? [];
+      return list.map((e) => PlatformInfo.fromJson(e as Map<String, dynamic>)).toList();
+    } catch (_) {
+      return [];
+    }
+  }
+
+  /// 健康检查
+  Future<bool> health() async {
+    try {
+      final resp = await http.get(Uri.parse('$kApiBaseUrl/health')).timeout(const Duration(seconds: 5));
+      return resp.statusCode == 200;
+    } catch (_) {
+      return false;
+    }
+  }
+}

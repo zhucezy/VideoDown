@@ -1,1 +1,180 @@
-Y29uc3QgeyByZXEsIGdldFRleHQsIHJlc29sdmVSZWRpcmVjdCwgVUEgfSA9IHJlcXVpcmUoJy4uL3V0aWxzL2h0dHAnKTsKY29uc3QgewogIEJpekVycm9yLAogIEVSUiwKICByZXNvbHV0aW9uTGFiZWwsCiAgY2xlYW5UaXRsZSwKICBkdXJhdGlvblRleHQsCiAgc2FmZUpzb25QYXJzZSwKfSA9IHJlcXVpcmUoJy4uL3V0aWxzL2NvbW1vbicpOwpjb25zdCBjb25maWcgPSByZXF1aXJlKCcuLi9jb25maWcnKTsKCmNvbnN0IEtFWSA9ICdkb3V5aW4nOwpjb25zdCBOQU1FID0gJ+aKlumfsyc7Cgpjb25zdCBIT1NUUyA9IFsnZG91eWluLmNvbScsICdpZXNkb3V5aW4uY29tJywgJ2RvdXlpbnZvZC5jb20nXTsKCmZ1bmN0aW9uIG1hdGNoKHVybCkgewogIHJldHVybiBIT1NUUy5zb21lKChoKSA9PiB1cmwuaW5jbHVkZXMoaCkpOwp9CgovKiog5LuO5ZCE56eN5b2i5oCB55qE5oqW6Z+z6ZO+5o6l6YeM5oqg5Ye6IGF3ZW1lX2lkICovCmFzeW5jIGZ1bmN0aW9uIHJlc29sdmVBd2VtZUlkKHVybCkgewogIGxldCB0YXJnZXQgPSB1cmw7CgogIC8vIHYuZG91eWluLmNvbSAvIHd3dy5pZXNkb3V5aW4uY29tL3NoYXJlIOefremTvumcgOimgeWFiOWxleW8gAogIGlmICgvdlwuZG91eWluXC5jb218ZG91eWluXC5jb21cL1thLXpBLVowLTldezYsfVwvPyQvLnRlc3QodXJsKSkgewogICAgY29uc3QgeyBmaW5hbFVybCB9ID0gYXdhaXQgcmVzb2x2ZVJlZGlyZWN0KHVybCwgeyB1YTogVUEuaW9zIH0pOwogICAgdGFyZ2V0ID0gZmluYWxVcmw7CiAgfQoKICBjb25zdCBwYXR0ZXJucyA9IFsKICAgIC92aWRlb1wvKFxkezE1LH0pLywKICAgIC9ub3RlXC8oXGR7MTUsfSkvLAogICAgL21vZGFsX2lkPShcZHsxNSx9KS8sCiAgICAvYXdlbWVfaWQ9KFxkezE1LH0pLywKICAgIC9cLyhcZHsxNSx9KS8sCiAgXTsKICBmb3IgKGNvbnN0IHJlIG9mIHBhdHRlcm5zKSB7CiAgICBjb25zdCBtID0gdGFyZ2V0Lm1hdGNoKHJlKTsKICAgIGlmIChtKSByZXR1cm4geyBhd2VtZUlkOiBtWzFdLCBmaW5hbFVybDogdGFyZ2V0IH07CiAgfQogIHRocm93IG5ldyBCaXpFcnJvcihFUlIuQkFEX1VSTCwgJ+acquiDveS7jumTvuaOpeS4reivhuWIq+aKlumfs+S9nOWTgSBJRCcpOwp9CgovKioKICog5oqW6Z+z5YiG5Lqr6aG16YeM5oyC552A5a6M5pW055qE5L2c5ZOBIEpTT07vvIh3aW5kb3cuX1JPVVRFUl9EQVRB77yJ44CCCiAqIOavlOebtOaOpeaJk+aOpeWPo+eos+Wumu+8jOaOpeWPo+etvuWQjeetlueVpeWPmOWKqOmikee5geOAggogKi8KYXN5bmMgZnVuY3Rpb24gZmV0Y2hEZXRhaWwoYXdlbWVJZCkgewogIGNvbnN0IHNoYXJlVXJsID0gYGh0dHBzOi8vd3d3Lmllc2RvdXlpbi5jb20vc2hhcmUvdmlkZW8vJHthd2VtZUlkfS9gOwogIGNvbnN0IHsgdGV4dCB9ID0gYXdhaXQgZ2V0VGV4dChzaGFyZVVybCwgewogICAgdWE6IFVBLmlvcywKICAgIGhlYWRlcnM6IHsKICAgICAgUmVmZXJlcjogJ2h0dHBzOi8vd3d3LmRvdXlpbi5jb20vJywKICAgICAgQ29va2llOiBjb25maWcuY29va2llcy5kb3V5aW4gfHwgJycsCiAgICB9LAogIH0pOwoKICBjb25zdCBtID0gdGV4dC5tYXRjaCgvd2luZG93XC5fUk9VVEVSX0RBVEFccyo9XHMqKFx7W1xzXFNdKj9cfSk7P1xzKjxcL3NjcmlwdD4vKTsKICBpZiAoIW0pIHsKICAgIHRocm93IG5ldyBCaXpFcnJvcigKICAgICAgRVJSLk5PVF9GT1VORCwKICAgICAgJ+aKlumfs+mhtemdoue7k+aehOW3suWPmOWMluaIluS9nOWTgeS4jeWPr+inge+8jOivt+ehruiupOmTvuaOpeacieaViCcKICAgICk7CiAgfQoKICBjb25zdCBkYXRhID0gc2FmZUpzb25QYXJzZShtWzFdKTsKICBjb25zdCBsb2FkZXIgPSAoZGF0YSAmJiBkYXRhLmxvYWRlckRhdGEpIHx8IHt9OwogIC8vIGtleSDlvaLlpoIgdmlkZW9fKGlkKS9wYWdlIOaIliBub3RlXyhpZCkvcGFnZe+8jOebtOaOpeaJvuesrOS4gOS4quW4piB2aWRlb0luZm9SZXMg55qECiAgY29uc3QgcGFnZUtleSA9IE9iamVjdC5rZXlzKGxvYWRlcikuZmluZCgKICAgIChrKSA9PiBsb2FkZXJba10gJiYgbG9hZGVyW2tdLnZpZGVvSW5mb1JlcwogICk7CiAgaWYgKCFwYWdlS2V5KSB0aHJvdyBuZXcgQml6RXJyb3IoRVJSLk5PVF9GT1VORCwgJ+acquiOt+WPluWIsOS9nOWTgeS/oeaBrycpOwoKICBjb25zdCBsaXN0ID0gbG9hZGVyW3BhZ2VLZXldLnZpZGVvSW5mb1Jlcy5pdGVtX2xpc3QgfHwgW107CiAgaWYgKCFsaXN0Lmxlbmd0aCkgewogICAgY29uc3QgZmlsdGVyID0gbG9hZGVyW3BhZ2VLZXldLnZpZGVvSW5mb1Jlcy5maWx0ZXJfbGlzdCB8fCBbXTsKICAgIGNvbnN0IHJlYXNvbiA9IGZpbHRlclswXSAmJiAoZmlsdGVyWzBdLmRldGFpbF9tc2cgfHwgZmlsdGVyWzBdLm5vdGljZSk7CiAgICB0aHJvdyBuZXcgQml6RXJyb3IoRVJSLk5PVF9GT1VORCwgcmVhc29uIHx8ICfkvZzlk4Hlt7LliKDpmaTmiJbkuI3lj6/op4EnKTsKICB9CiAgcmV0dXJuIGxpc3RbMF07Cn0KCi8qKiDljrvmsLTljbDmoLjlv4PvvJrmioogcGxheXdtIOaNouaIkCBwbGF577yM5bm26Lef6ZqPIDMwMiDmi7/liLDnnJ/lrp4gbXA0ICovCmZ1bmN0aW9uIGRld2F0ZXJtYXJrKHVybCkgewogIHJldHVybiBTdHJpbmcodXJsIHx8ICcnKQogICAgLnJlcGxhY2UoJy9wbGF5d20vJywgJy9wbGF5LycpCiAgICAucmVwbGFjZSgncGxheXdtJywgJ3BsYXknKQogICAgLnJlcGxhY2UoJ3dhdGVybWFyaz0xJywgJ3dhdGVybWFyaz0wJyk7Cn0KCmFzeW5jIGZ1bmN0aW9uIHBhcnNlKHVybCkgewogIGNvbnN0IHsgYXdlbWVJZCB9ID0gYXdhaXQgcmVzb2x2ZUF3ZW1lSWQodXJsKTsKICBjb25zdCBpdGVtID0gYXdhaXQgZmV0Y2hEZXRhaWwoYXdlbWVJZCk7CgogIGNvbnN0IHZpZGVvID0gaXRlbS52aWRlbyB8fCB7fTsKICBjb25zdCBjb3ZlciA9CiAgICAodmlkZW8uY292ZXIgJiYgdmlkZW8uY292ZXIudXJsX2xpc3QgJiYgdmlkZW8uY292ZXIudXJsX2xpc3RbMF0pIHx8CiAgICAodmlkZW8ub3JpZ2luX2NvdmVyICYmCiAgICAgIHZpZGVvLm9yaWdpbl9jb3Zlci51cmxfbGlzdCAmJgogICAgICB2aWRlby5vcmlnaW5fY292ZXIudXJsX2xpc3RbMF0pIHx8CiAgICAnJzsKCiAgY29uc3QgcXVhbGl0aWVzID0gW107CgogIC8vIDEpIGJpdF9yYXRlIOaVsOe7hOmHjOaYr+WQhOaho+S9jeeahOWOn+eUu+a1ge+8jOeUu+i0qOS/oeaBr+acgOWFqAogIGNvbnN0IGJpdFJhdGVzID0gQXJyYXkuaXNBcnJheSh2aWRlby5iaXRfcmF0ZSkgPyB2aWRlby5iaXRfcmF0ZSA6IFtdOwogIGJpdFJhdGVzLmZvckVhY2goKGJyKSA9PiB7CiAgICBjb25zdCBwYSA9IGJyLnBsYXlfYWRkciB8fCB7fTsKICAgIGNvbnN0IHUgPSAocGEudXJsX2xpc3QgfHwgW10pLmZpbmQoKHgpID0+IHgpOwogICAgaWYgKCF1KSByZXR1cm47CiAgICBxdWFsaXRpZXMucHVzaCh7CiAgICAgIHVybDogZGV3YXRlcm1hcmsodSksCiAgICAgIHdpZHRoOiBwYS53aWR0aCB8fCB2aWRlby53aWR0aCB8fCAwLAogICAgICBoZWlnaHQ6IHBhLmhlaWdodCB8fCB2aWRlby5oZWlnaHQgfHwgMCwKICAgICAgYml0cmF0ZTogYnIuYml0X3JhdGUgfHwgMCwKICAgICAgc2l6ZTogcGEuZGF0YV9zaXplIHx8IDAsCiAgICAgIGxhYmVsOiByZXNvbHV0aW9uTGFiZWwocGEud2lkdGgsIHBhLmhlaWdodCwgYnIuZ2Vhcl9uYW1lKSwKICAgICAgZm9ybWF0OiBici5mb3JtYXQgfHwgJ21wNCcsCiAgICB9KTsKICB9KTsKCiAgLy8gMikg5YWc5bqV77yacGxheV9hZGRy77yI6YCa5bi45piv6buY6K6k5qGj77yJCiAgaWYgKCFxdWFsaXRpZXMubGVuZ3RoKSB7CiAgICBjb25zdCBwYSA9IHZpZGVvLnBsYXlfYWRkciB8fCB7fTsKICAgIGNvbnN0IHUgPSAocGEudXJsX2xpc3QgfHwgW10pLmZpbmQoKHgpID0+IHgpOwogICAgaWYgKHUpIHsKICAgICAgcXVhbGl0aWVzLnB1c2goewogICAgICAgIHVybDogZGV3YXRlcm1hcmsodSksCiAgICAgICAgd2lkdGg6IHBhLndpZHRoIHx8IHZpZGVvLndpZHRoIHx8IDAsCiAgICAgICAgaGVpZ2h0OiBwYS5oZWlnaHQgfHwgdmlkZW8uaGVpZ2h0IHx8IDAsCiAgICAgICAgYml0cmF0ZTogMCwKICAgICAgICBzaXplOiBwYS5kYXRhX3NpemUgfHwgMCwKICAgICAgICBsYWJlbDogcmVzb2x1dGlvbkxhYmVsKHBhLndpZHRoLCBwYS5oZWlnaHQsICfljp/nlLsnKSwKICAgICAgICBmb3JtYXQ6ICdtcDQnLAogICAgICB9KTsKICAgIH0KICB9CgogIC8vIDMpIOWbvuaWh+eslOiusAogIGNvbnN0IGltYWdlcyA9IFtdOwogIGlmIChBcnJheS5pc0FycmF5KGl0ZW0uaW1hZ2VzKSkgewogICAgaXRlbS5pbWFnZXMuZm9yRWFjaCgoaW1nKSA9PiB7CiAgICAgIGNvbnN0IHUgPSAoaW1nLnVybF9saXN0IHx8IFtdKS5maW5kKCh4KSA9PiB4KTsKICAgICAgaWYgKHUpIGltYWdlcy5wdXNoKHsgdXJsOiB1LCB3aWR0aDogaW1nLndpZHRoLCBoZWlnaHQ6IGltZy5oZWlnaHQgfSk7CiAgICB9KTsKICB9CgogIGlmICghcXVhbGl0aWVzLmxlbmd0aCAmJiAhaW1hZ2VzLmxlbmd0aCkgewogICAgdGhyb3cgbmV3IEJpekVycm9yKEVSUi5OT1RfRk9VTkQsICfor6XkvZzlk4HmsqHmnInlj6/kuIvovb3nmoTop4bpopHmiJblm77niYcnKTsKICB9CgogIGNvbnN0IGF1dGhvciA9IGl0ZW0uYXV0aG9yIHx8IHt9OwoKICByZXR1cm4gewogICAgcGxhdGZvcm06IEtFWSwKICAgIHBsYXRmb3JtTmFtZTogTkFNRSwKICAgIHZpZGVvSWQ6IGBkeV8ke2F3ZW1lSWR9YCwKICAgIHRpdGxlOiBjbGVhblRpdGxlKGl0ZW0uZGVzYyksCiAgICByYXdUaXRsZTogaXRlbS5kZXNjIHx8ICcnLAogICAgY292ZXIsCiAgICBhdXRob3I6IGF1dGhvci5uaWNrbmFtZSB8fCAnJywKICAgIGF1dGhvckF2YXRhcjoKICAgICAgKGF1dGhvci5hdmF0YXJfdGh1bWIgJiYKICAgICAgICBhdXRob3IuYXZhdGFyX3RodW1iLnVybF9saXN0ICYmCiAgICAgICAgYXV0aG9yLmF2YXRhcl90aHVtYi51cmxfbGlzdFswXSkgfHwKICAgICAgJycsCiAgICBkdXJhdGlvbjogTWF0aC5yb3VuZCgodmlkZW8uZHVyYXRpb24gfHwgaXRlbS5kdXJhdGlvbiB8fCAwKSAvIDEwMDApLAogICAgZHVyYXRpb25UZXh0OiBkdXJhdGlvblRleHQoKHZpZGVvLmR1cmF0aW9uIHx8IGl0ZW0uZHVyYXRpb24gfHwgMCkgLyAxMDAwKSwKICAgIHF1YWxpdGllcywKICAgIGltYWdlcywKICAgIC8vIOaKlumfsyBDRE4g5a+5IFJlZmVyZXIg5LiN5pWP5oSf77yM5L2G5bim5LiK5pu056izCiAgICBwcm94eUhlYWRlcnM6IHsKICAgICAgUmVmZXJlcjogJ2h0dHBzOi8vd3d3LmRvdXlpbi5jb20vJywKICAgICAgJ1VzZXItQWdlbnQnOiBVQS5pb3MsCiAgICB9LAogIH07Cn0KCm1vZHVsZS5leHBvcnRzID0geyBrZXk6IEtFWSwgbmFtZTogTkFNRSwgbWF0Y2gsIHBhcnNlIH07Cg==
+const { req, getText, resolveRedirect, UA } = require('../utils/http');
+const {
+  BizError,
+  ERR,
+  resolutionLabel,
+  cleanTitle,
+  durationText,
+  safeJsonParse,
+} = require('../utils/common');
+const config = require('../config');
+
+const KEY = 'douyin';
+const NAME = '抖音';
+
+const HOSTS = ['douyin.com', 'iesdouyin.com', 'douyinvod.com'];
+
+function match(url) {
+  return HOSTS.some((h) => url.includes(h));
+}
+
+/** 从各种形态的抖音链接里抠出 aweme_id */
+async function resolveAwemeId(url) {
+  let target = url;
+
+  // v.douyin.com / www.iesdouyin.com/share 短链需要先展开
+  if (/v\.douyin\.com|douyin\.com\/[a-zA-Z0-9]{6,}\/?$/.test(url)) {
+    const { finalUrl } = await resolveRedirect(url, { ua: UA.ios });
+    target = finalUrl;
+  }
+
+  const patterns = [
+    /video\/(\d{15,})/,
+    /note\/(\d{15,})/,
+    /modal_id=(\d{15,})/,
+    /aweme_id=(\d{15,})/,
+    /\/(\d{15,})/,
+  ];
+  for (const re of patterns) {
+    const m = target.match(re);
+    if (m) return { awemeId: m[1], finalUrl: target };
+  }
+  throw new BizError(ERR.BAD_URL, '未能从链接中识别抖音作品 ID');
+}
+
+/**
+ * 抖音分享页里挂着完整的作品 JSON（window._ROUTER_DATA）。
+ * 比直接打接口稳定，接口签名策略变动频繁。
+ */
+async function fetchDetail(awemeId) {
+  const shareUrl = `https://www.iesdouyin.com/share/video/${awemeId}/`;
+  const { text } = await getText(shareUrl, {
+    ua: UA.ios,
+    headers: {
+      Referer: 'https://www.douyin.com/',
+      Cookie: config.cookies.douyin || '',
+    },
+  });
+
+  const m = text.match(/window\._ROUTER_DATA\s*=\s*(\{[\s\S]*?\});?\s*<\/script>/);
+  if (!m) {
+    throw new BizError(
+      ERR.NOT_FOUND,
+      '抖音页面结构已变化或作品不可见，请确认链接有效'
+    );
+  }
+
+  const data = safeJsonParse(m[1]);
+  const loader = (data && data.loaderData) || {};
+  // key 形如 video_(id)/page 或 note_(id)/page，直接找第一个带 videoInfoRes 的
+  const pageKey = Object.keys(loader).find(
+    (k) => loader[k] && loader[k].videoInfoRes
+  );
+  if (!pageKey) throw new BizError(ERR.NOT_FOUND, '未获取到作品信息');
+
+  const list = loader[pageKey].videoInfoRes.item_list || [];
+  if (!list.length) {
+    const filter = loader[pageKey].videoInfoRes.filter_list || [];
+    const reason = filter[0] && (filter[0].detail_msg || filter[0].notice);
+    throw new BizError(ERR.NOT_FOUND, reason || '作品已删除或不可见');
+  }
+  return list[0];
+}
+
+/** 去水印核心：把 playwm 换成 play，并跟随 302 拿到真实 mp4 */
+function dewatermark(url) {
+  return String(url || '')
+    .replace('/playwm/', '/play/')
+    .replace('playwm', 'play')
+    .replace('watermark=1', 'watermark=0');
+}
+
+async function parse(url) {
+  const { awemeId } = await resolveAwemeId(url);
+  const item = await fetchDetail(awemeId);
+
+  const video = item.video || {};
+  const cover =
+    (video.cover && video.cover.url_list && video.cover.url_list[0]) ||
+    (video.origin_cover &&
+      video.origin_cover.url_list &&
+      video.origin_cover.url_list[0]) ||
+    '';
+
+  const qualities = [];
+
+  // 1) bit_rate 数组里是各档位的原画流，画质信息最全
+  const bitRates = Array.isArray(video.bit_rate) ? video.bit_rate : [];
+  bitRates.forEach((br) => {
+    const pa = br.play_addr || {};
+    const u = (pa.url_list || []).find((x) => x);
+    if (!u) return;
+    qualities.push({
+      url: dewatermark(u),
+      width: pa.width || video.width || 0,
+      height: pa.height || video.height || 0,
+      bitrate: br.bit_rate || 0,
+      size: pa.data_size || 0,
+      label: resolutionLabel(pa.width, pa.height, br.gear_name),
+      format: br.format || 'mp4',
+    });
+  });
+
+  // 2) 兜底：play_addr（通常是默认档）
+  if (!qualities.length) {
+    const pa = video.play_addr || {};
+    const u = (pa.url_list || []).find((x) => x);
+    if (u) {
+      qualities.push({
+        url: dewatermark(u),
+        width: pa.width || video.width || 0,
+        height: pa.height || video.height || 0,
+        bitrate: 0,
+        size: pa.data_size || 0,
+        label: resolutionLabel(pa.width, pa.height, '原画'),
+        format: 'mp4',
+      });
+    }
+  }
+
+  // 3) 图文笔记
+  const images = [];
+  if (Array.isArray(item.images)) {
+    item.images.forEach((img) => {
+      const u = (img.url_list || []).find((x) => x);
+      if (u) images.push({ url: u, width: img.width, height: img.height });
+    });
+  }
+
+  if (!qualities.length && !images.length) {
+    throw new BizError(ERR.NOT_FOUND, '该作品没有可下载的视频或图片');
+  }
+
+  const author = item.author || {};
+
+  return {
+    platform: KEY,
+    platformName: NAME,
+    videoId: `dy_${awemeId}`,
+    title: cleanTitle(item.desc),
+    rawTitle: item.desc || '',
+    cover,
+    author: author.nickname || '',
+    authorAvatar:
+      (author.avatar_thumb &&
+        author.avatar_thumb.url_list &&
+        author.avatar_thumb.url_list[0]) ||
+      '',
+    duration: Math.round((video.duration || item.duration || 0) / 1000),
+    durationText: durationText((video.duration || item.duration || 0) / 1000),
+    qualities,
+    images,
+    // 抖音 CDN 对 Referer 不敏感，但带上更稳
+    proxyHeaders: {
+      Referer: 'https://www.douyin.com/',
+      'User-Agent': UA.ios,
+    },
+  };
+}
+
+module.exports = { key: KEY, name: NAME, match, parse };

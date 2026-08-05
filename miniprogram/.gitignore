@@ -1,1 +1,6 @@
-IyDlvq7kv6HlsI/nqIvluo8KbWluaXByb2dyYW1fbnBtLwpub2RlX21vZHVsZXMvCnByb2plY3QucHJpdmF0ZS5jb25maWcuanNvbgoqLmxvZwouRFNfU3RvcmUK
+# 微信小程序
+miniprogram_npm/
+node_modules/
+project.private.config.json
+*.log
+.DS_Store

@@ -1,1 +1,199 @@
-aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7CmltcG9ydCAncGFja2FnZTpjbGlwYm9hcmQvY2xpcGJvYXJkLmRhcnQnOwppbXBvcnQgJy4uL3V0aWxzL2NvbmZpZy5kYXJ0JzsKaW1wb3J0ICcuLi9zZXJ2aWNlcy9hcGlfc2VydmljZS5kYXJ0JzsKaW1wb3J0ICcuLi9zZXJ2aWNlcy9kb3dubG9hZF9zZXJ2aWNlLmRhcnQnOwppbXBvcnQgJy4uL3NlcnZpY2VzL2hpc3Rvcnlfc3RvcmFnZS5kYXJ0JzsKaW1wb3J0ICcuLi93aWRnZXRzL2FkX2Jhbm5lci5kYXJ0JzsKaW1wb3J0ICcuLi93aWRnZXRzL3BsYXRmb3JtX2dyaWQuZGFydCc7CmltcG9ydCAnLi4vd2lkZ2V0cy9yZXN1bHRfY2FyZC5kYXJ0JzsKCmNsYXNzIEhvbWVTY3JlZW4gZXh0ZW5kcyBTdGF0ZWZ1bFdpZGdldCB7CiAgY29uc3QgSG9tZVNjcmVlbih7c3VwZXIua2V5fSk7CgogIEBvdmVycmlkZQogIFN0YXRlPEhvbWVTY3JlZW4+IGNyZWF0ZVN0YXRlKCkgPT4gX0hvbWVTY3JlZW5TdGF0ZSgpOwp9CgpjbGFzcyBfSG9tZVNjcmVlblN0YXRlIGV4dGVuZHMgU3RhdGU8SG9tZVNjcmVlbj4gewogIGZpbmFsIF9hcGkgPSBBcGlTZXJ2aWNlKCk7CiAgZmluYWwgX2RsID0gRG93bmxvYWRTZXJ2aWNlKCk7CiAgZmluYWwgX2N0cmwgPSBUZXh0RWRpdGluZ0NvbnRyb2xsZXIoKTsKICBQYXJzZVJlc3VsdD8gX3Jlc3VsdDsKICBib29sIF9sb2FkaW5nID0gZmFsc2U7CiAgU3RyaW5nPyBfZXJyb3I7CiAgTGlzdDxQbGF0Zm9ybUluZm8+IF9wbGF0Zm9ybXMgPSBbXTsKCiAgQG92ZXJyaWRlCiAgdm9pZCBpbml0U3RhdGUoKSB7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICAgIF9hcGkucGxhdGZvcm1zKCkudGhlbigocCkgPT4gbW91bnRlZCA/IHNldFN0YXRlKCgpID0+IF9wbGF0Zm9ybXMgPSBwKSA6IG51bGwpOwogICAgX3RyeUNsaXBib2FyZCgpOwogIH0KCiAgRnV0dXJlPHZvaWQ+IF90cnlDbGlwYm9hcmQoKSBhc3luYyB7CiAgICB0cnkgewogICAgICBmaW5hbCB0ZXh0ID0gYXdhaXQgRmx1dHRlckNsaXBib2FyZC5wYXN0ZSgpOwogICAgICBpZiAodGV4dC5jb250YWlucygnaHR0cCcpICYmIF9jdHJsLnRleHQuaXNFbXB0eSkgewogICAgICAgIHNldFN0YXRlKCgpID0+IF9jdHJsLnRleHQgPSB0ZXh0LnRyaW0oKSk7CiAgICAgIH0KICAgIH0gY2F0Y2ggKF8pIHt9CiAgfQoKICBGdXR1cmU8dm9pZD4gX3BhcnNlKCkgYXN5bmMgewogICAgZmluYWwgdXJsID0gX2N0cmwudGV4dC50cmltKCk7CiAgICBpZiAodXJsLmlzRW1wdHkpIHsKICAgICAgc2V0U3RhdGUoKCkgPT4gX2Vycm9yID0gJ+ivt+WFiOeymOi0tOinhumikS/lm77niYfpk77mjqUnKTsKICAgICAgcmV0dXJuOwogICAgfQogICAgc2V0U3RhdGUoKCkgewogICAgICBfbG9hZGluZyA9IHRydWU7CiAgICAgIF9lcnJvciA9IG51bGw7CiAgICAgIF9yZXN1bHQgPSBudWxsOwogICAgfSk7CiAgICB0cnkgewogICAgICBmaW5hbCByID0gYXdhaXQgX2FwaS5wYXJzZSh1cmwpOwogICAgICBhd2FpdCBIaXN0b3J5U3RvcmUuYWRkKHIsIHVybCk7CiAgICAgIHNldFN0YXRlKCgpID0+IF9yZXN1bHQgPSByKTsKICAgIH0gb24gQXBpRXhjZXB0aW9uIGNhdGNoIChlKSB7CiAgICAgIHNldFN0YXRlKCgpID0+IF9lcnJvciA9IGUubWVzc2FnZSk7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIHNldFN0YXRlKCgpID0+IF9lcnJvciA9IGUudG9TdHJpbmcoKSk7CiAgICB9IGZpbmFsbHkgewogICAgICBzZXRTdGF0ZSgoKSA9PiBfbG9hZGluZyA9IGZhbHNlKTsKICAgIH0KICB9CgogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIFNjYWZmb2xkKAogICAgICBib2R5OiBTYWZlQXJlYSgKICAgICAgICBjaGlsZDogTGlzdFZpZXcoCiAgICAgICAgICBjaGlsZHJlbjogWwogICAgICAgICAgICBfSGVhZGVyKCksCiAgICAgICAgICAgIGNvbnN0IEFkQmFubmVyKCksCiAgICAgICAgICAgIFBhZGRpbmcoCiAgICAgICAgICAgICAgcGFkZGluZzogY29uc3QgRWRnZUluc2V0cy5hbGwoMTYpLAogICAgICAgICAgICAgIGNoaWxkOiBDb2x1bW4oCiAgICAgICAgICAgICAgICBjcm9zc0F4aXNBbGlnbm1lbnQ6IENyb3NzQXhpc0FsaWdubWVudC5zdGFydCwKICAgICAgICAgICAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAgICAgICAgICAgIFRleHRGaWVsZCgKICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVyOiBfY3RybCwKICAgICAgICAgICAgICAgICAgICBkZWNvcmF0aW9uOiBJbnB1dERlY29yYXRpb24oCiAgICAgICAgICAgICAgICAgICAgICBoaW50VGV4dDogJ+eymOi0tOinhumikS/lm77niYfpk77mjqUnLAogICAgICAgICAgICAgICAgICAgICAgYm9yZGVyOiBPdXRsaW5lSW5wdXRCb3JkZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiBCb3JkZXJSYWRpdXMuY2lyY3VsYXIoMTIpKSwKICAgICAgICAgICAgICAgICAgICAgIHN1ZmZpeEljb246IEljb25CdXR0b24oCiAgICAgICAgICAgICAgICAgICAgICAgIGljb246IGNvbnN0IEljb24oSWNvbnMuY2xlYXIpLAogICAgICAgICAgICAgICAgICAgICAgICBvblByZXNzZWQ6IF9jdHJsLmNsZWFyLAogICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgIG1heExpbmVzOiAyLAogICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICBjb25zdCBTaXplZEJveChoZWlnaHQ6IDEyKSwKICAgICAgICAgICAgICAgICAgU2l6ZWRCb3goCiAgICAgICAgICAgICAgICAgICAgd2lkdGg6IGRvdWJsZS5pbmZpbml0eSwKICAgICAgICAgICAgICAgICAgICBjaGlsZDogRWxldmF0ZWRCdXR0b24oCiAgICAgICAgICAgICAgICAgICAgICBvblByZXNzZWQ6IF9sb2FkaW5nID8gbnVsbCA6IF9wYXJzZSwKICAgICAgICAgICAgICAgICAgICAgIGNoaWxkOiBfbG9hZGluZwogICAgICAgICAgICAgICAgICAgICAgICAgID8gY29uc3QgU2l6ZWRCb3goCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxOCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAxOCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IENpcmN1bGFyUHJvZ3Jlc3NJbmRpY2F0b3IoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJva2VXaWR0aDogMiwgY29sb3I6IENvbG9ycy53aGl0ZSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgOiBjb25zdCBUZXh0KCfop6PmnpAnKSwKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiBFbGV2YXRlZEJ1dHRvbi5zdHlsZUZyb20oCiAgICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IGNvbnN0IEVkZ2VJbnNldHMuc3ltbWV0cmljKHZlcnRpY2FsOiAxNCksCiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogQ29sb3JzLmJsdWUsCiAgICAgICAgICAgICAgICAgICAgICAgIGZvcmVncm91bmRDb2xvcjogQ29sb3JzLndoaXRlLAogICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICBpZiAoX2Vycm9yICE9IG51bGwpCiAgICAgICAgICAgICAgICAgICAgUGFkZGluZygKICAgICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IGNvbnN0IEVkZ2VJbnNldHMub25seSh0b3A6IDEwKSwKICAgICAgICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KF9lcnJvciEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU6IGNvbnN0IFRleHRTdHlsZShjb2xvcjogQ29sb3JzLnJlZCwgZm9udFNpemU6IDEzKSksCiAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgY29uc3QgU2l6ZWRCb3goaGVpZ2h0OiAxNiksCiAgICAgICAgICAgICAgICAgIGlmIChfcGxhdGZvcm1zLmlzTm90RW1wdHkpIC4uLlsKICAgICAgICAgICAgICAgICAgICBjb25zdCBBbGlnbigKICAgICAgICAgICAgICAgICAgICAgIGFsaWdubWVudDogQWxpZ25tZW50LmNlbnRlckxlZnQsCiAgICAgICAgICAgICAgICAgICAgICBjaGlsZDogVGV4dCgn5pSv5oyB5bmz5Y+wJywKICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZTogVGV4dFN0eWxlKGZvbnRXZWlnaHQ6IEZvbnRXZWlnaHQudzYwMCkpLAogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgY29uc3QgU2l6ZWRCb3goaGVpZ2h0OiAxMiksCiAgICAgICAgICAgICAgICAgICAgUGxhdGZvcm1HcmlkKHBsYXRmb3JtczogX3BsYXRmb3JtcyksCiAgICAgICAgICAgICAgICAgICAgY29uc3QgU2l6ZWRCb3goaGVpZ2h0OiAxNiksCiAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgIGNvbnN0IF9TdGVwcygpLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICApLAogICAgICAgICAgICApLAogICAgICAgICAgICBpZiAoX3Jlc3VsdCAhPSBudWxsKQogICAgICAgICAgICAgIFJlc3VsdENhcmQoCiAgICAgICAgICAgICAgICByZXN1bHQ6IF9yZXN1bHQhLAogICAgICAgICAgICAgICAgb25TYXZlVmlkZW86ICh1cmwpID0+IF9kbC5zYXZlVmlkZW8odXJsKSwKICAgICAgICAgICAgICAgIG9uU2F2ZUltYWdlczogKHVybHMpID0+IF9kbC5zYXZlSW1hZ2VzKHVybHMpLAogICAgICAgICAgICAgICAgb25QcmV2aWV3OiAoKSB7fSwKICAgICAgICAgICAgICApLAogICAgICAgICAgXSwKICAgICAgICApLAogICAgICApLAogICAgKTsKICB9Cn0KCmNsYXNzIF9IZWFkZXIgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIENvbnRhaW5lcigKICAgICAgcGFkZGluZzogY29uc3QgRWRnZUluc2V0cy5mcm9tTFRSQigyMCwgMjAsIDIwLCAxNiksCiAgICAgIGRlY29yYXRpb246IGNvbnN0IEJveERlY29yYXRpb24oCiAgICAgICAgZ3JhZGllbnQ6IExpbmVhckdyYWRpZW50KAogICAgICAgICAgY29sb3JzOiBbQ29sb3IoMHhGRjRBOTBFMiksIENvbG9yKDB4RkYzNTdBQkQpXSwKICAgICAgICApLAogICAgICApLAogICAgICBjaGlsZDogY29uc3QgQ29sdW1uKAogICAgICAgIGNyb3NzQXhpc0FsaWdubWVudDogQ3Jvc3NBeGlzQWxpZ25tZW50LnN0YXJ0LAogICAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAgICBUZXh0KCfop4bpopHop6PmnpDkuIvovb0nLAogICAgICAgICAgICAgIHN0eWxlOiBUZXh0U3R5bGUoCiAgICAgICAgICAgICAgICAgIGNvbG9yOiBDb2xvcnMud2hpdGUsCiAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAyMiwKICAgICAgICAgICAgICAgICAgZm9udFdlaWdodDogRm9udFdlaWdodC5ib2xkKSksCiAgICAgICAgICBTaXplZEJveChoZWlnaHQ6IDQpLAogICAgICAgICAgVGV4dCgn57KY6LS06ZO+5o6l77yM5LiL6L295peg5rC05Y2w5Y6f54mHJywKICAgICAgICAgICAgICBzdHlsZTogVGV4dFN0eWxlKGNvbG9yOiBDb2xvcnMud2hpdGU3MCwgZm9udFNpemU6IDEzKSksCiAgICAgICAgXSwKICAgICAgKSwKICAgICk7CiAgfQp9CgpjbGFzcyBfU3RlcHMgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgZmluYWwgc3RlcHMgPSBbJ+WkjeWItuWIhuS6q+mTvuaOpScsICfnspjotLTliLDkuIrmlrknLCAn5LiA6ZSu6Kej5p6Q5LiL6L29J107CiAgICByZXR1cm4gUm93KAogICAgICBjaGlsZHJlbjogc3RlcHMuYXNNYXAoKS5lbnRyaWVzLm1hcCgoZSkgewogICAgICAgIGZpbmFsIGkgPSBlLmtleTsKICAgICAgICBmaW5hbCB0ID0gZS52YWx1ZTsKICAgICAgICByZXR1cm4gRXhwYW5kZWQoCiAgICAgICAgICBjaGlsZDogQ29sdW1uKAogICAgICAgICAgICBjaGlsZHJlbjogWwogICAgICAgICAgICAgIENpcmNsZUF2YXRhcigKICAgICAgICAgICAgICAgIHJhZGl1czogMTQsCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9ycy5ibHVlLnNoYWRlNTAsCiAgICAgICAgICAgICAgICBjaGlsZDogVGV4dCgnJHtpICsgMX0nLAogICAgICAgICAgICAgICAgICAgIHN0eWxlOiBjb25zdCBUZXh0U3R5bGUoY29sb3I6IENvbG9ycy5ibHVlLCBmb250U2l6ZTogMTIpKSwKICAgICAgICAgICAgICApLAogICAgICAgICAgICAgIGNvbnN0IFNpemVkQm94KGhlaWdodDogNCksCiAgICAgICAgICAgICAgVGV4dCh0LCBzdHlsZTogY29uc3QgVGV4dFN0eWxlKGZvbnRTaXplOiAxMSwgY29sb3I6IENvbG9ycy5ncmV5KSksCiAgICAgICAgICAgIF0sCiAgICAgICAgICApLAogICAgICAgICk7CiAgICAgIH0pLnRvTGlzdCgpLAogICAgKTsKICB9Cn0K
+import 'package:flutter/material.dart';
+import 'package:clipboard/clipboard.dart';
+import '../utils/config.dart';
+import '../services/api_service.dart';
+import '../services/download_service.dart';
+import '../services/history_storage.dart';
+import '../widgets/ad_banner.dart';
+import '../widgets/platform_grid.dart';
+import '../widgets/result_card.dart';
+
+class HomeScreen extends StatefulWidget {
+  const HomeScreen({super.key});
+
+  @override
+  State<HomeScreen> createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
+  final _api = ApiService();
+  final _dl = DownloadService();
+  final _ctrl = TextEditingController();
+  ParseResult? _result;
+  bool _loading = false;
+  String? _error;
+  List<PlatformInfo> _platforms = [];
+
+  @override
+  void initState() {
+    super.initState();
+    _api.platforms().then((p) => mounted ? setState(() => _platforms = p) : null);
+    _tryClipboard();
+  }
+
+  Future<void> _tryClipboard() async {
+    try {
+      final text = await FlutterClipboard.paste();
+      if (text.contains('http') && _ctrl.text.isEmpty) {
+        setState(() => _ctrl.text = text.trim());
+      }
+    } catch (_) {}
+  }
+
+  Future<void> _parse() async {
+    final url = _ctrl.text.trim();
+    if (url.isEmpty) {
+      setState(() => _error = '请先粘贴视频/图片链接');
+      return;
+    }
+    setState(() {
+      _loading = true;
+      _error = null;
+      _result = null;
+    });
+    try {
+      final r = await _api.parse(url);
+      await HistoryStore.add(r, url);
+      setState(() => _result = r);
+    } on ApiException catch (e) {
+      setState(() => _error = e.message);
+    } catch (e) {
+      setState(() => _error = e.toString());
+    } finally {
+      setState(() => _loading = false);
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: SafeArea(
+        child: ListView(
+          children: [
+            _Header(),
+            const AdBanner(),
+            Padding(
+              padding: const EdgeInsets.all(16),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  TextField(
+                    controller: _ctrl,
+                    decoration: InputDecoration(
+                      hintText: '粘贴视频/图片链接',
+                      border: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(12)),
+                      suffixIcon: IconButton(
+                        icon: const Icon(Icons.clear),
+                        onPressed: _ctrl.clear,
+                      ),
+                    ),
+                    maxLines: 2,
+                  ),
+                  const SizedBox(height: 12),
+                  SizedBox(
+                    width: double.infinity,
+                    child: ElevatedButton(
+                      onPressed: _loading ? null : _parse,
+                      child: _loading
+                          ? const SizedBox(
+                              width: 18,
+                              height: 18,
+                              child: CircularProgressIndicator(
+                                  strokeWidth: 2, color: Colors.white))
+                          : const Text('解析'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(vertical: 14),
+                        backgroundColor: Colors.blue,
+                        foregroundColor: Colors.white,
+                      ),
+                    ),
+                  ),
+                  if (_error != null)
+                    Padding(
+                      padding: const EdgeInsets.only(top: 10),
+                      child: Text(_error!,
+                          style: const TextStyle(color: Colors.red, fontSize: 13)),
+                    ),
+                  const SizedBox(height: 16),
+                  if (_platforms.isNotEmpty) ...[
+                    const Align(
+                      alignment: Alignment.centerLeft,
+                      child: Text('支持平台',
+                          style: TextStyle(fontWeight: FontWeight.w600)),
+                    ),
+                    const SizedBox(height: 12),
+                    PlatformGrid(platforms: _platforms),
+                    const SizedBox(height: 16),
+                  ],
+                  const _Steps(),
+                ],
+              ),
+            ),
+            if (_result != null)
+              ResultCard(
+                result: _result!,
+                onSaveVideo: (url) => _dl.saveVideo(url),
+                onSaveImages: (urls) => _dl.saveImages(urls),
+                onPreview: () {},
+              ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _Header extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.fromLTRB(20, 20, 20, 16),
+      decoration: const BoxDecoration(
+        gradient: LinearGradient(
+          colors: [Color(0xFF4A90E2), Color(0xFF357ABD)],
+        ),
+      ),
+      child: const Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text('视频解析下载',
+              style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 22,
+                  fontWeight: FontWeight.bold)),
+          SizedBox(height: 4),
+          Text('粘贴链接，下载无水印原片',
+              style: TextStyle(color: Colors.white70, fontSize: 13)),
+        ],
+      ),
+    );
+  }
+}
+
+class _Steps extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    final steps = ['复制分享链接', '粘贴到上方', '一键解析下载'];
+    return Row(
+      children: steps.asMap().entries.map((e) {
+        final i = e.key;
+        final t = e.value;
+        return Expanded(
+          child: Column(
+            children: [
+              CircleAvatar(
+                radius: 14,
+                backgroundColor: Colors.blue.shade50,
+                child: Text('${i + 1}',
+                    style: const TextStyle(color: Colors.blue, fontSize: 12)),
+              ),
+              const SizedBox(height: 4),
+              Text(t, style: const TextStyle(fontSize: 11, color: Colors.grey)),
+            ],
+          ),
+        );
+      }).toList(),
+    );
+  }
+}

@@ -1,1 +1,153 @@
-Y29uc3QgeyBnZXRUZXh0LCBwcm9iZSwgVUEgfSA9IHJlcXVpcmUoJy4uL3V0aWxzL2h0dHAnKTsKY29uc3QgewogIEJpekVycm9yLAogIEVSUiwKICByZXNvbHV0aW9uTGFiZWwsCiAgY2xlYW5UaXRsZSwKICBkdXJhdGlvblRleHQsCn0gPSByZXF1aXJlKCcuLi91dGlscy9jb21tb24nKTsKCmNvbnN0IEtFWSA9ICd3eGNoYW5uZWxzJzsKY29uc3QgTkFNRSA9ICflvq7kv6Hop4bpopHlj7cnOwoKZnVuY3Rpb24gbWF0Y2godXJsKSB7CiAgcmV0dXJuIC9jaGFubmVsc1wud2VpeGluXC5xcVwuY29tfGZpbmRlclwudmlkZW9cLnFxXC5jb2185Y+R546w6aG1Lirop4bpopHlj7cvLnRlc3QoCiAgICB1cmwKICApOwp9CgovKioKICog4pqg77iPIOWFs+S6juinhumikeWPt+eahOaKgOacr+eOsOWunu+8iOivt+WKoeW/hemYheivu++8iQogKgogKiDop4bpopHlj7fmsqHmnInku7vkvZXlhazlvIDnmoQgV2ViIOino+aekOaOpeWPo+OAguWug+eahOWqkuS9k+a1ge+8mgogKiAgIDEuIOi1sCBmaW5kZXIudmlkZW8ucXEuY29t77yM5Zyw5Z2A5b2i5aaCIC8yNTEvMjAzMDIvc3RvZG93bmxvYWQ/ZW5jZmlsZWtleT0uLi4mdG9rZW49Li4uCiAqICAgMi4g6KeG6aKR5YaF5a655pys6Lqr5pivIEFFUy1DQkMg5Yqg5a+G55qE77yM6Kej5a+G6ZyA6KaB5a6i5oi356uv5Zyo5pKt5pS+5pe25LiL5Y+R55qEIGRlY29kZV9rZXkKICogICAzLiBlbmNmaWxla2V5IC8gdG9rZW4g5pyJ5pe25pWI77yM5LiU5LiO6K+35rGC5pa555qE55m75b2V5oCB57uR5a6aCiAqCiAqIOWboOatpOacrOino+aekOWZqOaUr+aMgeS4pOenjei+k+WFpe+8mgogKgogKiAgIEEpIOebtOaOpeeymOi0tCBmaW5kZXIudmlkZW8ucXEuY29tIOeahOWujOaVtOebtOmTvu+8iOWQqyBlbmNmaWxla2V5ICYgdG9rZW7vvIkKICogICAgICDihpIg5Y+v5Lul5Lit6L2s5LiL6L2944CC6Iul6K+l6KeG6aKR5pyq5Yqg5a+G77yI5aSn6YeP5YWs5byA5Y+35YaF5a655pyq5Yqg5a+G77yJ5Y2z5Y+v55u05o6l5pKt5pS+77ybCiAqICAgICAgICDoi6XliqDlr4bvvIzpnIDopoHpop3lpJbmj5DkvpsgZGVjb2RlX2tleSDmiY3og73ov5jljp/jgIIKICoKICogICBCKSDnspjotLQgY2hhbm5lbHMud2VpeGluLnFxLmNvbSDliIbkuqvpobXpk77mjqUKICogICAgICDihpIg5bCd6K+V5LuO5YiG5Lqr6aG1IFNTUiDmlbDmja7kuK3mj5Dlj5Ygb2JqZWN0SWQgLyBvYmplY3ROb25jZUlkIC8g5aqS5L2T5L+h5oGv44CCCiAqICAgICAgICDlvq7kv6Hlr7nor6XpobXpnaLmnInkuKXmoLznmoQgVUEg5LiO55m75b2V5oCB5qCh6aqM77yM5pyN5Yqh56uv55u06L+e5aSn5qaC546H5ou/5LiN5Yiw5pWw5o2u77yMCiAqICAgICAgICDmraTml7bnu5nlh7rmmI7noa7nmoTmk43kvZzmjIflvJXvvIzogIzkuI3mmK/lkKvns4rmiqXplJnjgIIKICovCmFzeW5jIGZ1bmN0aW9uIHBhcnNlKHVybCkgewogIC8vID09PT09IOW9ouaAgSBB77yaZmluZGVyIOebtOmTviA9PT09PQogIGlmICgvZmluZGVyXC52aWRlb1wucXFcLmNvbS8udGVzdCh1cmwpKSB7CiAgICBjb25zdCB7IHNpemUsIGZpbmFsVXJsIH0gPSBhd2FpdCBwcm9iZSh1cmwsIHsKICAgICAgUmVmZXJlcjogJ2h0dHBzOi8vY2hhbm5lbHMud2VpeGluLnFxLmNvbS8nLAogICAgICAnVXNlci1BZ2VudCc6IFVBLndlY2hhdCwKICAgIH0pOwoKICAgIGlmICghc2l6ZSkgewogICAgICB0aHJvdyBuZXcgQml6RXJyb3IoCiAgICAgICAgRVJSLk5PVF9GT1VORCwKICAgICAgICAn6K+l6KeG6aKR5Y+355u06ZO+5bey5aSx5pWI77yIZW5jZmlsZWtleS90b2tlbiDov4fmnJ/vvInvvIzor7fph43mlrDlpI3liLYnCiAgICAgICk7CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgcGxhdGZvcm06IEtFWSwKICAgICAgcGxhdGZvcm1OYW1lOiBOQU1FLAogICAgICB2aWRlb0lkOiBgd3hjXyR7QnVmZmVyLmZyb20odXJsKS50b1N0cmluZygnYmFzZTY0Jykuc2xpY2UoMCwgMTYpfWAsCiAgICAgIHRpdGxlOiAn6KeG6aKR5Y+35L2c5ZOBJywKICAgICAgcmF3VGl0bGU6ICcnLAogICAgICBjb3ZlcjogJycsCiAgICAgIGF1dGhvcjogJycsCiAgICAgIGF1dGhvckF2YXRhcjogJycsCiAgICAgIGR1cmF0aW9uOiAwLAogICAgICBkdXJhdGlvblRleHQ6ICcnLAogICAgICBxdWFsaXRpZXM6IFsKICAgICAgICB7CiAgICAgICAgICB1cmw6IGZpbmFsVXJsLAogICAgICAgICAgd2lkdGg6IDAsCiAgICAgICAgICBoZWlnaHQ6IDAsCiAgICAgICAgICBiaXRyYXRlOiAwLAogICAgICAgICAgc2l6ZSwKICAgICAgICAgIGxhYmVsOiAn5Y6f55S7JywKICAgICAgICAgIGZvcm1hdDogJ21wNCcsCiAgICAgICAgfSwKICAgICAgXSwKICAgICAgaW1hZ2VzOiBbXSwKICAgICAgcHJveHlIZWFkZXJzOiB7CiAgICAgICAgUmVmZXJlcjogJ2h0dHBzOi8vY2hhbm5lbHMud2VpeGluLnFxLmNvbS8nLAogICAgICAgICdVc2VyLUFnZW50JzogVUEud2VjaGF0LAogICAgICB9LAogICAgICBub3RpY2U6ICfop4bpopHlj7flhoXlrrnlj6/og73nu4/ov4fliqDlr4bvvIzoi6Xkv53lrZjlkI7ml6Dms5Xmkq3mlL7lsZ7kuo7lubPlj7DpmZDliLYnLAogICAgfTsKICB9CgogIC8vID09PT09IOW9ouaAgSBC77ya5YiG5Lqr6aG1ID09PT09CiAgbGV0IGh0bWwgPSAnJzsKICB0cnkgewogICAgY29uc3QgciA9IGF3YWl0IGdldFRleHQodXJsLCB7CiAgICAgIHVhOiBVQS53ZWNoYXQsCiAgICAgIGhlYWRlcnM6IHsgUmVmZXJlcjogJ2h0dHBzOi8vY2hhbm5lbHMud2VpeGluLnFxLmNvbS8nIH0sCiAgICB9KTsKICAgIGh0bWwgPSByLnRleHQ7CiAgfSBjYXRjaCAoZSkgewogICAgaHRtbCA9ICcnOwogIH0KCiAgLy8g5YiG5Lqr6aG15YG25bCU5Lya5oqKIG9iamVjdElkIOS4juWqkuS9k+S/oeaBr+WGheiBlOWHuuadpQogIGNvbnN0IG9iamVjdElkID0gKGh0bWwubWF0Y2goL1siJ11vYmplY3RJZFsiJ11ccyo6XHMqWyInXShbXiInXSspWyInXS8pIHx8IFtdKVsxXTsKICBjb25zdCBtZWRpYVVybCA9IChodG1sLm1hdGNoKAogICAgL2h0dHBzPzpcXD9cL1xcP1wvZmluZGVyXC52aWRlb1wucXFcLmNvbVteIidcc10rLwogICkgfHwgW10pWzBdOwoKICBpZiAobWVkaWFVcmwpIHsKICAgIGNvbnN0IGNsZWFuID0gbWVkaWFVcmwucmVwbGFjZSgvXFx1MDAyRi9nLCAnLycpLnJlcGxhY2UoL1xcXC8vZywgJy8nKTsKICAgIGNvbnN0IGRlc2MgPQogICAgICAoaHRtbC5tYXRjaCgvWyInXWRlc2NbIiddXHMqOlxzKlsiJ10oW14iJ117MCwyMDB9KVsiJ10vKSB8fCBbXSlbMV0gfHwgJyc7CiAgICBjb25zdCBuaWNrbmFtZSA9CiAgICAgIChodG1sLm1hdGNoKC9bIiddbmlja25hbWVbIiddXHMqOlxzKlsiJ10oW14iJ117MCw2NH0pWyInXS8pIHx8IFtdKVsxXSB8fCAnJzsKICAgIGNvbnN0IHsgc2l6ZSB9ID0gYXdhaXQgcHJvYmUoY2xlYW4sIHsKICAgICAgUmVmZXJlcjogJ2h0dHBzOi8vY2hhbm5lbHMud2VpeGluLnFxLmNvbS8nLAogICAgICAnVXNlci1BZ2VudCc6IFVBLndlY2hhdCwKICAgIH0pOwoKICAgIHJldHVybiB7CiAgICAgIHBsYXRmb3JtOiBLRVksCiAgICAgIHBsYXRmb3JtTmFtZTogTkFNRSwKICAgICAgdmlkZW9JZDogYHd4Y18ke29iamVjdElkIHx8IERhdGUubm93KCl9YCwKICAgICAgdGl0bGU6IGNsZWFuVGl0bGUoZGVzYyksCiAgICAgIHJhd1RpdGxlOiBkZXNjLAogICAgICBjb3ZlcjoKICAgICAgICAoaHRtbC5tYXRjaCgKICAgICAgICAgIC88bWV0YVtePl0rcHJvcGVydHk9WyInXW9nOmltYWdlWyInXVtePl0rY29udGVudD1bIiddKFteIiddKylbIiddL2kKICAgICAgICApIHx8IFtdKVsxXSB8fCAnJywKICAgICAgYXV0aG9yOiBuaWNrbmFtZSwKICAgICAgYXV0aG9yQXZhdGFyOiAnJywKICAgICAgZHVyYXRpb246IDAsCiAgICAgIGR1cmF0aW9uVGV4dDogJycsCiAgICAgIHF1YWxpdGllczogWwogICAgICAgIHsKICAgICAgICAgIHVybDogY2xlYW4sCiAgICAgICAgICB3aWR0aDogMCwKICAgICAgICAgIGhlaWdodDogMCwKICAgICAgICAgIGJpdHJhdGU6IDAsCiAgICAgICAgICBzaXplLAogICAgICAgICAgbGFiZWw6ICfljp/nlLsnLAogICAgICAgICAgZm9ybWF0OiAnbXA0JywKICAgICAgICB9LAogICAgICBdLAogICAgICBpbWFnZXM6IFtdLAogICAgICBwcm94eUhlYWRlcnM6IHsKICAgICAgICBSZWZlcmVyOiAnaHR0cHM6Ly9jaGFubmVscy53ZWl4aW4ucXEuY29tLycsCiAgICAgICAgJ1VzZXItQWdlbnQnOiBVQS53ZWNoYXQsCiAgICAgIH0sCiAgICB9OwogIH0KCiAgdGhyb3cgbmV3IEJpekVycm9yKAogICAgRVJSLlVOU1VQUE9SVEVELAogICAgJ+inhumikeWPt+WIhuS6q+mhteaXoOazleebtOaOpeino+aekOOAguivt+WcqOeUteiEkeerr+W+ruS/oeaJk+W8gOivpeinhumike+8jCcgKwogICAgICAn5Y+z6ZSu5aSN5Yi26KeG6aKR5Zyw5Z2A77yIZmluZGVyLnZpZGVvLnFxLmNvbSDlvIDlpLTvvInlkI7lho3nspjotLTov5vmnaUnCiAgKTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7IGtleTogS0VZLCBuYW1lOiBOQU1FLCBtYXRjaCwgcGFyc2UgfTsK
+const { getText, probe, UA } = require('../utils/http');
+const {
+  BizError,
+  ERR,
+  resolutionLabel,
+  cleanTitle,
+  durationText,
+} = require('../utils/common');
+
+const KEY = 'wxchannels';
+const NAME = '微信视频号';
+
+function match(url) {
+  return /channels\.weixin\.qq\.com|finder\.video\.qq\.com|发现页.*视频号/.test(
+    url
+  );
+}
+
+/**
+ * ⚠️ 关于视频号的技术现实（请务必阅读）
+ *
+ * 视频号没有任何公开的 Web 解析接口。它的媒体流：
+ *   1. 走 finder.video.qq.com，地址形如 /251/20302/stodownload?encfilekey=...&token=...
+ *   2. 视频内容本身是 AES-CBC 加密的，解密需要客户端在播放时下发的 decode_key
+ *   3. encfilekey / token 有时效，且与请求方的登录态绑定
+ *
+ * 因此本解析器支持两种输入：
+ *
+ *   A) 直接粘贴 finder.video.qq.com 的完整直链（含 encfilekey & token）
+ *      → 可以中转下载。若该视频未加密（大量公开号内容未加密）即可直接播放；
+ *        若加密，需要额外提供 decode_key 才能还原。
+ *
+ *   B) 粘贴 channels.weixin.qq.com 分享页链接
+ *      → 尝试从分享页 SSR 数据中提取 objectId / objectNonceId / 媒体信息。
+ *        微信对该页面有严格的 UA 与登录态校验，服务端直连大概率拿不到数据，
+ *        此时给出明确的操作指引，而不是含糊报错。
+ */
+async function parse(url) {
+  // ===== 形态 A：finder 直链 =====
+  if (/finder\.video\.qq\.com/.test(url)) {
+    const { size, finalUrl } = await probe(url, {
+      Referer: 'https://channels.weixin.qq.com/',
+      'User-Agent': UA.wechat,
+    });
+
+    if (!size) {
+      throw new BizError(
+        ERR.NOT_FOUND,
+        '该视频号直链已失效（encfilekey/token 过期），请重新复制'
+      );
+    }
+
+    return {
+      platform: KEY,
+      platformName: NAME,
+      videoId: `wxc_${Buffer.from(url).toString('base64').slice(0, 16)}`,
+      title: '视频号作品',
+      rawTitle: '',
+      cover: '',
+      author: '',
+      authorAvatar: '',
+      duration: 0,
+      durationText: '',
+      qualities: [
+        {
+          url: finalUrl,
+          width: 0,
+          height: 0,
+          bitrate: 0,
+          size,
+          label: '原画',
+          format: 'mp4',
+        },
+      ],
+      images: [],
+      proxyHeaders: {
+        Referer: 'https://channels.weixin.qq.com/',
+        'User-Agent': UA.wechat,
+      },
+      notice: '视频号内容可能经过加密，若保存后无法播放属于平台限制',
+    };
+  }
+
+  // ===== 形态 B：分享页 =====
+  let html = '';
+  try {
+    const r = await getText(url, {
+      ua: UA.wechat,
+      headers: { Referer: 'https://channels.weixin.qq.com/' },
+    });
+    html = r.text;
+  } catch (e) {
+    html = '';
+  }
+
+  // 分享页偶尔会把 objectId 与媒体信息内联出来
+  const objectId = (html.match(/["']objectId["']\s*:\s*["']([^"']+)["']/) || [])[1];
+  const mediaUrl = (html.match(
+    /https?:\\?\/\\?\/finder\.video\.qq\.com[^"'\s]+/
+  ) || [])[0];
+
+  if (mediaUrl) {
+    const clean = mediaUrl.replace(/\\u002F/g, '/').replace(/\\\//g, '/');
+    const desc =
+      (html.match(/["']desc["']\s*:\s*["']([^"']{0,200})["']/) || [])[1] || '';
+    const nickname =
+      (html.match(/["']nickname["']\s*:\s*["']([^"']{0,64})["']/) || [])[1] || '';
+    const { size } = await probe(clean, {
+      Referer: 'https://channels.weixin.qq.com/',
+      'User-Agent': UA.wechat,
+    });
+
+    return {
+      platform: KEY,
+      platformName: NAME,
+      videoId: `wxc_${objectId || Date.now()}`,
+      title: cleanTitle(desc),
+      rawTitle: desc,
+      cover:
+        (html.match(
+          /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i
+        ) || [])[1] || '',
+      author: nickname,
+      authorAvatar: '',
+      duration: 0,
+      durationText: '',
+      qualities: [
+        {
+          url: clean,
+          width: 0,
+          height: 0,
+          bitrate: 0,
+          size,
+          label: '原画',
+          format: 'mp4',
+        },
+      ],
+      images: [],
+      proxyHeaders: {
+        Referer: 'https://channels.weixin.qq.com/',
+        'User-Agent': UA.wechat,
+      },
+    };
+  }
+
+  throw new BizError(
+    ERR.UNSUPPORTED,
+    '视频号分享页无法直接解析。请在电脑端微信打开该视频，' +
+      '右键复制视频地址（finder.video.qq.com 开头）后再粘贴进来'
+  );
+}
+
+module.exports = { key: KEY, name: NAME, match, parse };

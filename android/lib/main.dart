@@ -1,1 +1,48 @@
-aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7CmltcG9ydCAnc2NyZWVucy9ob21lX3NjcmVlbi5kYXJ0JzsKaW1wb3J0ICdzY3JlZW5zL2hpc3Rvcnlfc2NyZWVuLmRhcnQnOwppbXBvcnQgJ3NjcmVlbnMvc2V0dGluZ3Nfc2NyZWVuLmRhcnQnOwoKdm9pZCBtYWluKCkgPT4gcnVuQXBwKGNvbnN0IE15QXBwKCkpOwoKY2xhc3MgTXlBcHAgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIGNvbnN0IE15QXBwKHtzdXBlci5rZXl9KTsKCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gTWF0ZXJpYWxBcHAoCiAgICAgIHRpdGxlOiAnVmlkZW9Eb3duJywKICAgICAgdGhlbWU6IFRoZW1lRGF0YShwcmltYXJ5U3dhdGNoOiBDb2xvcnMuYmx1ZSwgdXNlTWF0ZXJpYWwzOiB0cnVlKSwKICAgICAgaG9tZTogY29uc3QgX01haW5QYWdlKCksCiAgICAgIGRlYnVnU2hvd0NoZWNrZWRNb2RlQmFubmVyOiBmYWxzZSwKICAgICk7CiAgfQp9CgpjbGFzcyBfTWFpblBhZ2UgZXh0ZW5kcyBTdGF0ZWZ1bFdpZGdldCB7CiAgY29uc3QgX01haW5QYWdlKCk7CgogIEBvdmVycmlkZQogIFN0YXRlPF9NYWluUGFnZT4gY3JlYXRlU3RhdGUoKSA9PiBfTWFpblBhZ2VTdGF0ZSgpOwp9CgpjbGFzcyBfTWFpblBhZ2VTdGF0ZSBleHRlbmRzIFN0YXRlPF9NYWluUGFnZT4gewogIGludCBfaWR4ID0gMDsKICBmaW5hbCBfcGFnZXMgPSBjb25zdCBbSG9tZVNjcmVlbigpLCBIaXN0b3J5U2NyZWVuKCksIFNldHRpbmdzU2NyZWVuKCldOwoKICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKICAgIHJldHVybiBTY2FmZm9sZCgKICAgICAgYm9keTogX3BhZ2VzW19pZHhdLAogICAgICBib3R0b21OYXZpZ2F0aW9uQmFyOiBCb3R0b21OYXZpZ2F0aW9uQmFyKAogICAgICAgIGN1cnJlbnRJbmRleDogX2lkeCwKICAgICAgICBvblRhcDogKGkpID0+IHNldFN0YXRlKCgpID0+IF9pZHggPSBpKSwKICAgICAgICBpdGVtczogY29uc3QgWwogICAgICAgICAgQm90dG9tTmF2aWdhdGlvbkJhckl0ZW0oaWNvbjogSWNvbihJY29ucy5ob21lKSwgbGFiZWw6ICfpppbpobUnKSwKICAgICAgICAgIEJvdHRvbU5hdmlnYXRpb25CYXJJdGVtKGljb246IEljb24oSWNvbnMuaGlzdG9yeSksIGxhYmVsOiAn5Y6G5Y+yJyksCiAgICAgICAgICBCb3R0b21OYXZpZ2F0aW9uQmFySXRlbShpY29uOiBJY29uKEljb25zLnBlcnNvbiksIGxhYmVsOiAn5oiR55qEJyksCiAgICAgICAgXSwKICAgICAgKSwKICAgICk7CiAgfQp9Cg==
+import 'package:flutter/material.dart';
+import 'screens/home_screen.dart';
+import 'screens/history_screen.dart';
+import 'screens/settings_screen.dart';
+
+void main() => runApp(const MyApp());
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'VideoDown',
+      theme: ThemeData(primarySwatch: Colors.blue, useMaterial3: true),
+      home: const _MainPage(),
+      debugShowCheckedModeBanner: false,
+    );
+  }
+}
+
+class _MainPage extends StatefulWidget {
+  const _MainPage();
+
+  @override
+  State<_MainPage> createState() => _MainPageState();
+}
+
+class _MainPageState extends State<_MainPage> {
+  int _idx = 0;
+  final _pages = const [HomeScreen(), HistoryScreen(), SettingsScreen()];
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: _pages[_idx],
+      bottomNavigationBar: BottomNavigationBar(
+        currentIndex: _idx,
+        onTap: (i) => setState(() => _idx = i),
+        items: const [
+          BottomNavigationBarItem(icon: Icon(Icons.home), label: '首页'),
+          BottomNavigationBarItem(icon: Icon(Icons.history), label: '历史'),
+          BottomNavigationBarItem(icon: Icon(Icons.person), label: '我的'),
+        ],
+      ),
+    );
+  }
+}

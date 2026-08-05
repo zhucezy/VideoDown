@@ -1,1 +1,144 @@
-PHZpZXcgY2xhc3M9InJjIGNhcmQiIHd4OmlmPSJ7e2RhdGF9fSI+CiAgPCEtLSDpobbpg6jvvJrlubPlj7DmoIfnrb4gKyDlhoXlrrnnsbvlnovlvr3moIcgLS0+CiAgPHZpZXcgY2xhc3M9InJjLXRvcCI+CiAgICA8dmlldyBjbGFzcz0icmMtcGxhdCIgc3R5bGU9ImJhY2tncm91bmQ6e3twbGF0Q29sb3J9fTsiPnt7ZGF0YS5wbGF0Zm9ybU5hbWV9fTwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJyYy1iYWRnZSI+CiAgICAgIDx0ZXh0IGNsYXNzPSJkb3QiPjwvdGV4dD4KICAgICAgPHRleHQ+e3tjb250ZW50VHlwZSA9PT0gJ2ltYWdlJyA/ICfml6DljovnvKnljp/lm74nIDogJ+aXoOawtOWNsCd9fTwvdGV4dD4KICAgIDwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJyYy1zcGFjZXIiPjwvdmlldz4KICAgIDx2aWV3IGNsYXNzPSJyYy10aW1lIj57e2RhdGEuZHVyYXRpb25UZXh0IHx8IChoYXNJbWFnZXMgJiYgIWhhc1ZpZGVvID8gaW1hZ2VDb3VudCArICcg5bygJyA6ICcnKX19PC92aWV3PgogIDwvdmlldz4KCiAgPCEtLSDpooTop4jljLogLS0+CiAgPHZpZXcgY2xhc3M9InJjLXByZXZpZXciPgogICAgPHZpZXcgY2xhc3M9InJjLWNvdmVyIiBiaW5kdGFwPSJvbkNvdmVyVGFwIiBkYXRhLWluZGV4PSIwIj4KICAgICAgPGltYWdlCiAgICAgICAgY2xhc3M9ImNvdmVyLWltZyIKICAgICAgICBzcmM9Int7ZGF0YS5jb3Zlcn19IgogICAgICAgIG1vZGU9ImFzcGVjdEZpbGwiCiAgICAgICAgbGF6eS1sb2FkCiAgICAgICAgYmluZGVycm9yPSJvbkNvdmVyRXJyb3IiCiAgICAgIC8+CiAgICAgIDx2aWV3IGNsYXNzPSJjb3Zlci1tYXNrIiB3eDppZj0ie3toYXNWaWRlb319Ij4KICAgICAgICA8dmlldyBjbGFzcz0icGxheS1idG4iPgogICAgICAgICAgPHZpZXcgY2xhc3M9InBsYXktdHJpIj48L3ZpZXc+CiAgICAgICAgPC92aWV3PgogICAgICA8L3ZpZXc+CiAgICAgIDx2aWV3IGNsYXNzPSJjb3Zlci1yZXMiIHd4OmlmPSJ7e2hhc1ZpZGVvICYmIGN1cnJlbnRRdWFsaXR5LmxhYmVsfX0iPnt7Y3VycmVudFF1YWxpdHkubGFiZWx9fTwvdmlldz4KICAgICAgPHZpZXcgY2xhc3M9ImNvdmVyLWNvdW50IiB3eDppZj0ie3toYXNJbWFnZXMgJiYgIWhhc1ZpZGVvfX0iPnt7aW1hZ2VDb3VudH19IOW8oDwvdmlldz4KICAgIDwvdmlldz4KCiAgICA8dmlldyBjbGFzcz0icmMtbWV0YSI+CiAgICAgIDx2aWV3IGNsYXNzPSJyYy10aXRsZSBlbGxpcHNpcy0yIj57e2RhdGEudGl0bGUgfHwgJ+acquiOt+WPluWIsOagh+mimCd9fTwvdmlldz4KICAgICAgPHZpZXcgY2xhc3M9InJjLWF1dGhvciIgd3g6aWY9Int7ZGF0YS5hdXRob3J9fSI+CiAgICAgICAgPGltYWdlIGNsYXNzPSJhdmF0YXIiIHd4OmlmPSJ7e2RhdGEuYXV0aG9yQXZhdGFyfX0iIHNyYz0ie3tkYXRhLmF1dGhvckF2YXRhcn19IiBtb2RlPSJhc3BlY3RGaWxsIiAvPgogICAgICAgIDx0ZXh0IGNsYXNzPSJlbGxpcHNpcy0xIj57e2RhdGEuYXV0aG9yfX08L3RleHQ+CiAgICAgIDwvdmlldz4KICAgICAgPHZpZXcgY2xhc3M9InJjLXN0YXRzIj4KICAgICAgICA8dGV4dCB3eDppZj0ie3tjdXJyZW50UXVhbGl0eS5zaXplVGV4dH19Ij57e2N1cnJlbnRRdWFsaXR5LnNpemVUZXh0fX08L3RleHQ+CiAgICAgICAgPHRleHQgd3g6aWY9Int7Y3VycmVudFF1YWxpdHkuc2l6ZVRleHQgJiYgaGFzSW1hZ2VzfX0iPiDCtyA8L3RleHQ+CiAgICAgICAgPHRleHQgd3g6aWY9Int7aGFzSW1hZ2VzfX0iPnt7aW1hZ2VDb3VudH19IOW8oOWbvueJhzwvdGV4dD4KICAgICAgICA8dGV4dCB3eDppZj0ie3shY3VycmVudFF1YWxpdHkuc2l6ZVRleHQgJiYgIWhhc0ltYWdlc319Ij7mlK/mjIHmnIDpq5jliIbovqjnjoc8L3RleHQ+CiAgICAgIDwvdmlldz4KICAgIDwvdmlldz4KICA8L3ZpZXc+CgogIDwhLS0g5riF5pmw5bqm6YCJ5oup77ya6buY6K6k6YCJ5Lit5pyA6auY77yI5LuF6KeG6aKR5YaF5a6577yJIC0tPgogIDx2aWV3IGNsYXNzPSJyYy1xdWEiIHd4OmlmPSJ7e2hhc1ZpZGVvICYmIGRhdGEucXVhbGl0aWVzLmxlbmd0aCA+IDF9fSI+CiAgICA8dmlldyBjbGFzcz0icXVhLWxhYmVsIj7muIXmmbDluqY8L3ZpZXc+CiAgICA8c2Nyb2xsLXZpZXcgY2xhc3M9InF1YS1zY3JvbGwiIHNjcm9sbC14IGVuaGFuY2VkIHNob3ctc2Nyb2xsYmFyPSJ7e2ZhbHNlfX0iPgogICAgICA8dmlldyBjbGFzcz0icXVhLWxpc3QiPgogICAgICAgIDx2aWV3CiAgICAgICAgICBjbGFzcz0icXVhLWl0ZW0ge3tpbmRleCA9PT0gcXVhbGl0eUluZGV4ID8gJ2FjdGl2ZScgOiAnJ319IgogICAgICAgICAgd3g6Zm9yPSJ7e2RhdGEucXVhbGl0aWVzfX0iCiAgICAgICAgICB3eDprZXk9InVybCIKICAgICAgICAgIGRhdGEtaW5kZXg9Int7aW5kZXh9fSIKICAgICAgICAgIGJpbmR0YXA9Im9uU2VsZWN0UXVhbGl0eSIKICAgICAgICA+CiAgICAgICAgICA8dGV4dCBjbGFzcz0icXVhLW5hbWUiPnt7aXRlbS5sYWJlbH19PC90ZXh0PgogICAgICAgICAgPHRleHQgY2xhc3M9InF1YS1zaXplIiB3eDppZj0ie3tpdGVtLnNpemVUZXh0fX0iPnt7aXRlbS5zaXplVGV4dH19PC90ZXh0PgogICAgICAgICAgPHZpZXcgY2xhc3M9InF1YS1iZXN0IiB3eDppZj0ie3tpbmRleCA9PT0gMH19Ij7mnIDpq5g8L3ZpZXc+CiAgICAgICAgPC92aWV3PgogICAgICA8L3ZpZXc+CiAgICA8L3Njcm9sbC12aWV3PgogIDwvdmlldz4KCiAgPCEtLSA9PT09PSDlm77niYfnvZHmoLzvvIjlm77pm4YgLyDnuq/lm77niYfpobXvvIzlj6/li77pgInkuIvovb3vvIkgPT09PT0gLS0+CiAgPHZpZXcgY2xhc3M9InJjLWltZ3MiIHd4OmlmPSJ7e2hhc0ltYWdlc319Ij4KICAgIDx2aWV3IGNsYXNzPSJpbWctaGVhZCI+CiAgICAgIDx0ZXh0IGNsYXNzPSJpbWctdGl0bGUiPuWbvueJh++8iOWFsSB7e2ltYWdlQ291bnR9fSDlvKDvvIk8L3RleHQ+CiAgICAgIDx2aWV3IGNsYXNzPSJpbWctc2VsYWxsIiBiaW5kdGFwPSJvblRvZ2dsZUFsbCI+CiAgICAgICAge3tzZWxlY3RlZENvdW50ID09PSBpbWFnZUNvdW50ID8gJ+WPlua2iOWFqOmAiScgOiAn5YWo6YCJJ319CiAgICAgIDwvdmlldz4KICAgIDwvdmlldz4KCiAgICA8dmlldyBjbGFzcz0iaW1nLWdyaWQiPgogICAgICA8dmlldwogICAgICAgIGNsYXNzPSJpbWctY2VsbCB7e3NlbGVjdGVkSW1hZ2VzW2luZGV4XSA/ICdvbicgOiAnJ319IgogICAgICAgIHd4OmZvcj0ie3tkYXRhLmltYWdlc319IgogICAgICAgIHd4OmtleT0idXJsIgogICAgICAgIGRhdGEtaW5kZXg9Int7aW5kZXh9fSIKICAgICAgICBiaW5kdGFwPSJvblRvZ2dsZUltYWdlIgogICAgICA+CiAgICAgICAgPGltYWdlCiAgICAgICAgICBjbGFzcz0iaW1nLXRodW1iIgogICAgICAgICAgc3JjPSJ7e2l0ZW0udXJsfX0iCiAgICAgICAgICBtb2RlPSJhc3BlY3RGaWxsIgogICAgICAgICAgbGF6eS1sb2FkCiAgICAgICAgLz4KICAgICAgICA8dmlldyBjbGFzcz0iaW1nLWNoZWNrIHt7c2VsZWN0ZWRJbWFnZXNbaW5kZXhdID8gJ29uJyA6ICcnfX0iPgogICAgICAgICAgPHRleHQgd3g6aWY9Int7c2VsZWN0ZWRJbWFnZXNbaW5kZXhdfX0iPuKckzwvdGV4dD4KICAgICAgICA8L3ZpZXc+CiAgICAgICAgPHZpZXcgY2xhc3M9ImltZy1pZHgiPnt7aW5kZXggKyAxfX08L3ZpZXc+CiAgICAgIDwvdmlldz4KICAgIDwvdmlldz4KCiAgICA8YnV0dG9uCiAgICAgIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgaW1nLXNhdmUiCiAgICAgIGRpc2FibGVkPSJ7e2ltZ1NhdmluZyB8fCBzZWxlY3RlZENvdW50ID09PSAwfX0iCiAgICAgIGxvYWRpbmc9Int7aW1nU2F2aW5nfX0iCiAgICAgIGJpbmR0YXA9Im9uU2F2ZUltYWdlcyIKICAgID4KICAgICAge3tpbWdTYXZpbmcgPyAn5L+d5a2Y5LitICcgKyBpbWdQcm9ncmVzc1RleHQgOiAoc2VsZWN0ZWRDb3VudCA/ICfkv53lrZjpgInkuK3lm77niYcoJyArIHNlbGVjdGVkQ291bnQgKyAnKScgOiAn6K+36YCJ5oup5Zu+54mHJyl9fQogICAgPC9idXR0b24+CiAgPC92aWV3PgoKICA8IS0tIOS4i+i9vei/m+W6pu+8iOinhumike+8iSAtLT4KICA8dmlldyBjbGFzcz0icmMtcHJvZ3Jlc3MiIHd4OmlmPSJ7e2Rvd25sb2FkaW5nfX0iPgogICAgPHZpZXcgY2xhc3M9InBnLWJhciI+CiAgICAgIDx2aWV3IGNsYXNzPSJwZy1maWxsIiBzdHlsZT0id2lkdGg6e3twZXJjZW50fX0lOyI+PC92aWV3PgogICAgPC92aWV3PgogICAgPHZpZXcgY2xhc3M9InBnLXRleHQiPgogICAgICA8dGV4dD57e3Byb2dyZXNzVGV4dH19PC90ZXh0PgogICAgICA8dGV4dD57e3BlcmNlbnR9fSU8L3RleHQ+CiAgICA8L3ZpZXc+CiAgPC92aWV3PgoKICA8IS0tIOS4u+aTjeS9nCAtLT4KICA8dmlldyBjbGFzcz0icmMtYWN0aW9ucyI+CiAgICA8YnV0dG9uCiAgICAgIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgcmMtc2F2ZSIKICAgICAgZGlzYWJsZWQ9Int7ZG93bmxvYWRpbmcgfHwgaW1nU2F2aW5nfX0iCiAgICAgIGJpbmR0YXA9Im9uU2F2ZVByaW1hcnkiCiAgICA+CiAgICAgIHt7cHJpbWFyeUxhYmVsfX0KICAgIDwvYnV0dG9uPgogIDwvdmlldz4KCiAgPCEtLSDmrKHnuqfmk43kvZwgLS0+CiAgPHZpZXcgY2xhc3M9InJjLXN1Yi1hY3Rpb25zIj4KICAgIDx2aWV3IGNsYXNzPSJzYS1pdGVtIiB3eDppZj0ie3tkYXRhLmNvdmVyfX0iIGJpbmR0YXA9Im9uU2F2ZUNvdmVyIj4KICAgICAgPHZpZXcgY2xhc3M9InNhLWljb24iPuWbvjwvdmlldz4KICAgICAgPHRleHQ+5a2Y5bCB6Z2iPC90ZXh0PgogICAgPC92aWV3PgogICAgPHZpZXcgY2xhc3M9InNhLWl0ZW0iIGJpbmR0YXA9Im9uQ29weVRpdGxlIj4KICAgICAgPHZpZXcgY2xhc3M9InNhLWljb24iPuaWhzwvdmlldz4KICAgICAgPHRleHQ+5aSN5Yi25paH5qGIPC90ZXh0PgogICAgPC92aWV3PgogICAgPHZpZXcgY2xhc3M9InNhLWl0ZW0iIGJpbmR0YXA9Im9uQ29weVVybCI+CiAgICAgIDx2aWV3IGNsYXNzPSJzYS1pY29uIj7pk748L3ZpZXc+CiAgICAgIDx0ZXh0PuWkjeWItuebtOmTvjwvdGV4dD4KICAgIDwvdmlldz4KICA8L3ZpZXc+Cjwvdmlldz4K
+<view class="rc card" wx:if="{{data}}">
+  <!-- 顶部：平台标签 + 内容类型徽标 -->
+  <view class="rc-top">
+    <view class="rc-plat" style="background:{{platColor}};">{{data.platformName}}</view>
+    <view class="rc-badge">
+      <text class="dot"></text>
+      <text>{{contentType === 'image' ? '无压缩原图' : '无水印'}}</text>
+    </view>
+    <view class="rc-spacer"></view>
+    <view class="rc-time">{{data.durationText || (hasImages && !hasVideo ? imageCount + ' 张' : '')}}</view>
+  </view>
+
+  <!-- 预览区 -->
+  <view class="rc-preview">
+    <view class="rc-cover" bindtap="onCoverTap" data-index="0">
+      <image
+        class="cover-img"
+        src="{{data.cover}}"
+        mode="aspectFill"
+        lazy-load
+        binderror="onCoverError"
+      />
+      <view class="cover-mask" wx:if="{{hasVideo}}">
+        <view class="play-btn">
+          <view class="play-tri"></view>
+        </view>
+      </view>
+      <view class="cover-res" wx:if="{{hasVideo && currentQuality.label}}">{{currentQuality.label}}</view>
+      <view class="cover-count" wx:if="{{hasImages && !hasVideo}}">{{imageCount}} 张</view>
+    </view>
+
+    <view class="rc-meta">
+      <view class="rc-title ellipsis-2">{{data.title || '未获取到标题'}}</view>
+      <view class="rc-author" wx:if="{{data.author}}">
+        <image class="avatar" wx:if="{{data.authorAvatar}}" src="{{data.authorAvatar}}" mode="aspectFill" />
+        <text class="ellipsis-1">{{data.author}}</text>
+      </view>
+      <view class="rc-stats">
+        <text wx:if="{{currentQuality.sizeText}}">{{currentQuality.sizeText}}</text>
+        <text wx:if="{{currentQuality.sizeText && hasImages}}"> · </text>
+        <text wx:if="{{hasImages}}">{{imageCount}} 张图片</text>
+        <text wx:if="{{!currentQuality.sizeText && !hasImages}}">支持最高分辨率</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 清晰度选择：默认选中最高（仅视频内容） -->
+  <view class="rc-qua" wx:if="{{hasVideo && data.qualities.length > 1}}">
+    <view class="qua-label">清晰度</view>
+    <scroll-view class="qua-scroll" scroll-x enhanced show-scrollbar="{{false}}">
+      <view class="qua-list">
+        <view
+          class="qua-item {{index === qualityIndex ? 'active' : ''}}"
+          wx:for="{{data.qualities}}"
+          wx:key="url"
+          data-index="{{index}}"
+          bindtap="onSelectQuality"
+        >
+          <text class="qua-name">{{item.label}}</text>
+          <text class="qua-size" wx:if="{{item.sizeText}}">{{item.sizeText}}</text>
+          <view class="qua-best" wx:if="{{index === 0}}">最高</view>
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
+  <!-- ===== 图片网格（图集 / 纯图片页，可勾选下载） ===== -->
+  <view class="rc-imgs" wx:if="{{hasImages}}">
+    <view class="img-head">
+      <text class="img-title">图片（共 {{imageCount}} 张）</text>
+      <view class="img-selall" bindtap="onToggleAll">
+        {{selectedCount === imageCount ? '取消全选' : '全选'}}
+      </view>
+    </view>
+
+    <view class="img-grid">
+      <view
+        class="img-cell {{selectedImages[index] ? 'on' : ''}}"
+        wx:for="{{data.images}}"
+        wx:key="url"
+        data-index="{{index}}"
+        bindtap="onToggleImage"
+      >
+        <image
+          class="img-thumb"
+          src="{{item.url}}"
+          mode="aspectFill"
+          lazy-load
+        />
+        <view class="img-check {{selectedImages[index] ? 'on' : ''}}">
+          <text wx:if="{{selectedImages[index]}}">✓</text>
+        </view>
+        <view class="img-idx">{{index + 1}}</view>
+      </view>
+    </view>
+
+    <button
+      class="btn btn-primary img-save"
+      disabled="{{imgSaving || selectedCount === 0}}"
+      loading="{{imgSaving}}"
+      bindtap="onSaveImages"
+    >
+      {{imgSaving ? '保存中 ' + imgProgressText : (selectedCount ? '保存选中图片(' + selectedCount + ')' : '请选择图片')}}
+    </button>
+  </view>
+
+  <!-- 下载进度（视频） -->
+  <view class="rc-progress" wx:if="{{downloading}}">
+    <view class="pg-bar">
+      <view class="pg-fill" style="width:{{percent}}%;"></view>
+    </view>
+    <view class="pg-text">
+      <text>{{progressText}}</text>
+      <text>{{percent}}%</text>
+    </view>
+  </view>
+
+  <!-- 主操作 -->
+  <view class="rc-actions">
+    <button
+      class="btn btn-primary rc-save"
+      disabled="{{downloading || imgSaving}}"
+      bindtap="onSavePrimary"
+    >
+      {{primaryLabel}}
+    </button>
+  </view>
+
+  <!-- 次级操作 -->
+  <view class="rc-sub-actions">
+    <view class="sa-item" wx:if="{{data.cover}}" bindtap="onSaveCover">
+      <view class="sa-icon">图</view>
+      <text>存封面</text>
+    </view>
+    <view class="sa-item" bindtap="onCopyTitle">
+      <view class="sa-icon">文</view>
+      <text>复制文案</text>
+    </view>
+    <view class="sa-item" bindtap="onCopyUrl">
+      <view class="sa-icon">链</view>
+      <text>复制直链</text>
+    </view>
+  </view>
+</view>

@@ -1,1 +1,123 @@
-Y29uc3QgeyBSZWFkYWJsZSB9ID0gcmVxdWlyZSgnc3RyZWFtJyk7CmNvbnN0IHsgdmVyaWZ5UHJveHkgfSA9IHJlcXVpcmUoJy4vdXRpbHMvc2lnbicpOwpjb25zdCB7IHJlcSB9ID0gcmVxdWlyZSgnLi91dGlscy9odHRwJyk7CgovKiog5bmz5Y+wIOKGkiDlm57mupDml7bpnIDopoHmkLrluKbnmoTor7fmsYLlpLTvvIjpmLLnm5fpk77nu5Xov4fvvIkgKi8KY29uc3QgUkVGRVJFUl9NQVAgPSB7CiAgZG91eWluOiB7CiAgICBSZWZlcmVyOiAnaHR0cHM6Ly93d3cuZG91eWluLmNvbS8nLAogICAgJ1VzZXItQWdlbnQnOgogICAgICAnTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN18wIGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xNy4wIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xJywKICB9LAogIHdlaWJvOiB7IFJlZmVyZXI6ICdodHRwczovL3dlaWJvLmNvbS8nIH0sCiAgeGlhb2hvbmdzaHU6IHsgUmVmZXJlcjogJ2h0dHBzOi8vd3d3LnhpYW9ob25nc2h1LmNvbS8nIH0sCiAga3VhaXNob3U6IHsgUmVmZXJlcjogJ2h0dHBzOi8vd3d3Lmt1YWlzaG91LmNvbS8nIH0sCiAgYmlsaWJpbGk6IHsKICAgIFJlZmVyZXI6ICdodHRwczovL3d3dy5iaWxpYmlsaS5jb20vJywKICAgICdVc2VyLUFnZW50JzoKICAgICAgJ01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNicsCiAgfSwKICBqaW1lbmc6IHsgUmVmZXJlcjogJ2h0dHBzOi8vamltZW5nLmppYW55aW5nLmNvbS8nIH0sCiAgd3hjaGFubmVsczogewogICAgUmVmZXJlcjogJ2h0dHBzOi8vY2hhbm5lbHMud2VpeGluLnFxLmNvbS8nLAogICAgJ1VzZXItQWdlbnQnOgogICAgICAnTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN18wIGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgTW9iaWxlLzE1RTE0OCBNaWNyb01lc3Nlbmdlci84LjAuNDQnLAogIH0sCn07CgovKioKICog6KeG6aKRL+WbvueJh+a1geW8j+S4rei9rAogKgogKiDkuLrku4DkuYjlv4XpobvkuK3ovazvvJoKICogICAxLiDlsI/nqIvluo8gd3guZG93bmxvYWRGaWxlIOWPquWFgeiuuOivt+axguOAjGRvd25sb2FkRmlsZSDlkIjms5Xln5/lkI3jgI3vvIwKICogICAgICDogIzlkITlubPlj7AgQ0ROIOWfn+WQjeaIkOeZvuS4iuWNg+S4lOmaj+aXtuWPmOWMlu+8jOaXoOazlemAkOS4gOWKoOeZveWQjeWNlQogKiAgIDIuIOWkmuaVsCBDRE4g5pyJIFJlZmVyZXIgLyBVQSDpmLLnm5fpk77vvIzlsI/nqIvluo/nq6/ml6Dms5Xoh6rlrprkuYkgUmVmZXJlcgogKiAgIDMuIOS4rei9rOWxguWPr+S7pee7n+S4gOWBmuetvuWQjeagoemqjOOAgemZkOmAn+S4juWuoeiuoQogKi8KYXN5bmMgZnVuY3Rpb24gaGFuZGxlUHJveHkocmVxdWVzdCwgcmVzcG9uc2UpIHsKICBjb25zdCBjaGVjayA9IHZlcmlmeVByb3h5KHJlcXVlc3QucXVlcnkpOwogIGlmICghY2hlY2sub2spIHsKICAgIHJlc3BvbnNlLnN0YXR1cyg0MDMpLmpzb24oeyBjb2RlOiA0MDAzLCBtZXNzYWdlOiBjaGVjay5yZWFzb24gfSk7CiAgICByZXR1cm47CiAgfQoKICBjb25zdCB0YXJnZXRVcmwgPSBjaGVjay51cmw7CiAgY29uc3QgcGxhdGZvcm0gPSBjaGVjay5wbGF0Zm9ybTsKICBjb25zdCBmaWxlbmFtZSA9IHJlcXVlc3QucXVlcnkubiB8fCAndmlkZW8ubXA0JzsKCiAgY29uc3QgaGVhZGVycyA9IE9iamVjdC5hc3NpZ24oCiAgICB7CiAgICAgIEFjY2VwdDogJyovKicsCiAgICAgICdBY2NlcHQtRW5jb2RpbmcnOiAnaWRlbnRpdHknLAogICAgfSwKICAgIFJFRkVSRVJfTUFQW3BsYXRmb3JtXSB8fCB7fQogICk7CgogIC8vIOmAj+S8oCBSYW5nZe+8jOaUr+aMgeaWreeCuee7reS8oOS4juaSreaUvuWZqOaLluWKqAogIGlmIChyZXF1ZXN0LmhlYWRlcnMucmFuZ2UpIGhlYWRlcnMuUmFuZ2UgPSByZXF1ZXN0LmhlYWRlcnMucmFuZ2U7CgogIGxldCB1cHN0cmVhbTsKICB0cnkgewogICAgdXBzdHJlYW0gPSBhd2FpdCByZXEodGFyZ2V0VXJsLCB7CiAgICAgIG1ldGhvZDogJ0dFVCcsCiAgICAgIGhlYWRlcnMsCiAgICAgIHJlZGlyZWN0OiAnZm9sbG93JywKICAgICAgdGltZW91dDogMzAwMDAsCiAgICB9KTsKICB9IGNhdGNoIChlKSB7CiAgICByZXNwb25zZS5zdGF0dXMoNTAyKS5qc29uKHsgY29kZTogNTAwMiwgbWVzc2FnZTogJ+Wbnua6kOWksei0pe+8micgKyBlLm1lc3NhZ2UgfSk7CiAgICByZXR1cm47CiAgfQoKICBpZiAoIXVwc3RyZWFtLm9rICYmIHVwc3RyZWFtLnN0YXR1cyAhPT0gMjA2KSB7CiAgICByZXNwb25zZQogICAgICAuc3RhdHVzKHVwc3RyZWFtLnN0YXR1cyA9PT0gNDA0ID8gNDA0IDogNTAyKQogICAgICAuanNvbih7IGNvZGU6IDUwMDIsIG1lc3NhZ2U6IGDmupDnq5nov5Tlm54gJHt1cHN0cmVhbS5zdGF0dXN9YCB9KTsKICAgIHJldHVybjsKICB9CgogIC8vIOmAj+S8oOWFs+mUruWTjeW6lOWktAogIGNvbnN0IHBhc3N0aHJvdWdoID0gWwogICAgJ2NvbnRlbnQtdHlwZScsCiAgICAnY29udGVudC1sZW5ndGgnLAogICAgJ2NvbnRlbnQtcmFuZ2UnLAogICAgJ2FjY2VwdC1yYW5nZXMnLAogICAgJ2V0YWcnLAogICAgJ2xhc3QtbW9kaWZpZWQnLAogIF07CiAgcGFzc3Rocm91Z2guZm9yRWFjaCgoaCkgPT4gewogICAgY29uc3QgdiA9IHVwc3RyZWFtLmhlYWRlcnMuZ2V0KGgpOwogICAgaWYgKHYpIHJlc3BvbnNlLnNldEhlYWRlcihoLCB2KTsKICB9KTsKCiAgaWYgKCF1cHN0cmVhbS5oZWFkZXJzLmdldCgnY29udGVudC10eXBlJykpIHsKICAgIHJlc3BvbnNlLnNldEhlYWRlcigKICAgICAgJ2NvbnRlbnQtdHlwZScsCiAgICAgIC9cLihqcGd8anBlZ3xwbmd8d2VicCkvaS50ZXN0KHRhcmdldFVybCkgPyAnaW1hZ2UvanBlZycgOiAndmlkZW8vbXA0JwogICAgKTsKICB9CiAgcmVzcG9uc2Uuc2V0SGVhZGVyKCdhY2NlcHQtcmFuZ2VzJywgJ2J5dGVzJyk7CiAgcmVzcG9uc2Uuc2V0SGVhZGVyKCdjYWNoZS1jb250cm9sJywgJ3B1YmxpYywgbWF4LWFnZT0zNjAwJyk7CiAgcmVzcG9uc2Uuc2V0SGVhZGVyKAogICAgJ2NvbnRlbnQtZGlzcG9zaXRpb24nLAogICAgYGF0dGFjaG1lbnQ7IGZpbGVuYW1lPSIke2VuY29kZVVSSUNvbXBvbmVudChmaWxlbmFtZSl9ImAKICApOwoKICByZXNwb25zZS5zdGF0dXModXBzdHJlYW0uc3RhdHVzID09PSAyMDYgPyAyMDYgOiAyMDApOwoKICBpZiAoIXVwc3RyZWFtLmJvZHkpIHsKICAgIHJlc3BvbnNlLmVuZCgpOwogICAgcmV0dXJuOwogIH0KCiAgLy8gV0hBVFdHIFJlYWRhYmxlU3RyZWFtIOKGkiBOb2RlIFJlYWRhYmxlCiAgY29uc3Qgbm9kZVN0cmVhbSA9IFJlYWRhYmxlLmZyb21XZWIodXBzdHJlYW0uYm9keSk7CiAgbm9kZVN0cmVhbS5vbignZXJyb3InLCAoKSA9PiB7CiAgICBpZiAoIXJlc3BvbnNlLmhlYWRlcnNTZW50KSByZXNwb25zZS5zdGF0dXMoNTAyKTsKICAgIHJlc3BvbnNlLmVuZCgpOwogIH0pOwogIHJlcXVlc3Qub24oJ2Nsb3NlJywgKCkgPT4gbm9kZVN0cmVhbS5kZXN0cm95KCkpOwogIG5vZGVTdHJlYW0ucGlwZShyZXNwb25zZSk7Cn0KCm1vZHVsZS5leHBvcnRzID0geyBoYW5kbGVQcm94eSwgUkVGRVJFUl9NQVAgfTsK
+const { Readable } = require('stream');
+const { verifyProxy } = require('./utils/sign');
+const { req } = require('./utils/http');
+
+/** 平台 → 回源时需要携带的请求头（防盗链绕过） */
+const REFERER_MAP = {
+  douyin: {
+    Referer: 'https://www.douyin.com/',
+    'User-Agent':
+      'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1',
+  },
+  weibo: { Referer: 'https://weibo.com/' },
+  xiaohongshu: { Referer: 'https://www.xiaohongshu.com/' },
+  kuaishou: { Referer: 'https://www.kuaishou.com/' },
+  bilibili: {
+    Referer: 'https://www.bilibili.com/',
+    'User-Agent':
+      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  },
+  jimeng: { Referer: 'https://jimeng.jianying.com/' },
+  wxchannels: {
+    Referer: 'https://channels.weixin.qq.com/',
+    'User-Agent':
+      'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.44',
+  },
+};
+
+/**
+ * 视频/图片流式中转
+ *
+ * 为什么必须中转：
+ *   1. 小程序 wx.downloadFile 只允许请求「downloadFile 合法域名」，
+ *      而各平台 CDN 域名成百上千且随时变化，无法逐一加白名单
+ *   2. 多数 CDN 有 Referer / UA 防盗链，小程序端无法自定义 Referer
+ *   3. 中转层可以统一做签名校验、限速与审计
+ */
+async function handleProxy(request, response) {
+  const check = verifyProxy(request.query);
+  if (!check.ok) {
+    response.status(403).json({ code: 4003, message: check.reason });
+    return;
+  }
+
+  const targetUrl = check.url;
+  const platform = check.platform;
+  const filename = request.query.n || 'video.mp4';
+
+  const headers = Object.assign(
+    {
+      Accept: '*/*',
+      'Accept-Encoding': 'identity',
+    },
+    REFERER_MAP[platform] || {}
+  );
+
+  // 透传 Range，支持断点续传与播放器拖动
+  if (request.headers.range) headers.Range = request.headers.range;
+
+  let upstream;
+  try {
+    upstream = await req(targetUrl, {
+      method: 'GET',
+      headers,
+      redirect: 'follow',
+      timeout: 30000,
+    });
+  } catch (e) {
+    response.status(502).json({ code: 5002, message: '回源失败：' + e.message });
+    return;
+  }
+
+  if (!upstream.ok && upstream.status !== 206) {
+    response
+      .status(upstream.status === 404 ? 404 : 502)
+      .json({ code: 5002, message: `源站返回 ${upstream.status}` });
+    return;
+  }
+
+  // 透传关键响应头
+  const passthrough = [
+    'content-type',
+    'content-length',
+    'content-range',
+    'accept-ranges',
+    'etag',
+    'last-modified',
+  ];
+  passthrough.forEach((h) => {
+    const v = upstream.headers.get(h);
+    if (v) response.setHeader(h, v);
+  });
+
+  if (!upstream.headers.get('content-type')) {
+    response.setHeader(
+      'content-type',
+      /\.(jpg|jpeg|png|webp)/i.test(targetUrl) ? 'image/jpeg' : 'video/mp4'
+    );
+  }
+  response.setHeader('accept-ranges', 'bytes');
+  response.setHeader('cache-control', 'public, max-age=3600');
+  response.setHeader(
+    'content-disposition',
+    `attachment; filename="${encodeURIComponent(filename)}"`
+  );
+
+  response.status(upstream.status === 206 ? 206 : 200);
+
+  if (!upstream.body) {
+    response.end();
+    return;
+  }
+
+  // WHATWG ReadableStream → Node Readable
+  const nodeStream = Readable.fromWeb(upstream.body);
+  nodeStream.on('error', () => {
+    if (!response.headersSent) response.status(502);
+    response.end();
+  });
+  request.on('close', () => nodeStream.destroy());
+  nodeStream.pipe(response);
+}
+
+module.exports = { handleProxy, REFERER_MAP };

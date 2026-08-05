@@ -1,1 +1,46 @@
-aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7CmltcG9ydCAnLi4vdXRpbHMvY29uZmlnLmRhcnQnOwoKLy8vIOmhtumDqOW5v+WRiuS9jQovLy8g6auY5bqm6ZqP57Sg5p2Q6Ieq6YCC5bqU77yb5peg5aGr5YWF77yIX2FkTG9hZGVkPWZhbHNlIOaIluWFs+mXre+8ieaXtuaVtOWdl+aUtui1t+S4uiAwIOmrmOW6puOAggovLy8g5b2T5YmN5Li65Y2g5L2N5a6e546w77yM5o6l5YWlIEFkTW9iIOaXtuaKiuWNoOS9jSBib2R5IOabv+aNouS4uiBBZFdpZGdldCDljbPlj6/vvIwKLy8vIOW5tueUseW5v+WRiuWbnuiwg+aOp+WItiBfYWRMb2FkZWTvvIjliqDovb3lpLHotKUgPT4gU2l6ZWRCb3guc2hyaW5rIOaUtui1t++8ieOAggpjbGFzcyBBZEJhbm5lciBleHRlbmRzIFN0YXRlZnVsV2lkZ2V0IHsKICBjb25zdCBBZEJhbm5lcih7c3VwZXIua2V5fSk7CgogIEBvdmVycmlkZQogIFN0YXRlPEFkQmFubmVyPiBjcmVhdGVTdGF0ZSgpID0+IF9BZEJhbm5lclN0YXRlKCk7Cn0KCmNsYXNzIF9BZEJhbm5lclN0YXRlIGV4dGVuZHMgU3RhdGU8QWRCYW5uZXI+IHsKICAvLyDljaDkvY3vvJrnnJ/lrp7mjqXlhaXlub/lkYogU0RLIOWQjueUsSBvbkFkRmFpbGVkVG9Mb2FkIOe9riBmYWxzZQogIGJvb2wgX2FkTG9hZGVkID0gdHJ1ZTsKCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICBpZiAoIWtFbmFibGVBZCB8fCAhX2FkTG9hZGVkKSByZXR1cm4gY29uc3QgU2l6ZWRCb3guc2hyaW5rKCk7CgogICAgLy8g6auY5bqm55Sx5YaF5a656Ieq6YCC5bqU77yM5LiN6K6+5q276auY5bqmCiAgICByZXR1cm4gQ29udGFpbmVyKAogICAgICBtYXJnaW46IGNvbnN0IEVkZ2VJbnNldHMuZnJvbUxUUkIoMTYsIDEyLCAxNiwgMCksCiAgICAgIHBhZGRpbmc6IGNvbnN0IEVkZ2VJbnNldHMuc3ltbWV0cmljKHZlcnRpY2FsOiAxMCwgaG9yaXpvbnRhbDogMTQpLAogICAgICBkZWNvcmF0aW9uOiBCb3hEZWNvcmF0aW9uKAogICAgICAgIGNvbG9yOiBDb2xvcnMuYW1iZXIuc2hhZGU1MCwKICAgICAgICBib3JkZXJSYWRpdXM6IEJvcmRlclJhZGl1cy5jaXJjdWxhcigxMiksCiAgICAgICAgYm9yZGVyOiBCb3JkZXIuYWxsKGNvbG9yOiBDb2xvcnMuYW1iZXIuc2hhZGUyMDApLAogICAgICApLAogICAgICBjaGlsZDogY29uc3QgUm93KAogICAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAgICBJY29uKEljb25zLmNhbXBhaWduX291dGxpbmVkLCBjb2xvcjogQ29sb3JzLmFtYmVyLCBzaXplOiAxOCksCiAgICAgICAgICBTaXplZEJveCh3aWR0aDogOCksCiAgICAgICAgICBFeHBhbmRlZCgKICAgICAgICAgICAgY2hpbGQ6IFRleHQoCiAgICAgICAgICAgICAgJ+W5v+WRiuS9jSDCtyDpq5jluqboh6rpgILlupTvvIjmjqXlhaUgQWRNb2Ig5ZCO55Sx57Sg5p2Q5bC65a+45pKR5byA77yJJywKICAgICAgICAgICAgICBzdHlsZTogVGV4dFN0eWxlKGZvbnRTaXplOiAxMiwgY29sb3I6IENvbG9ycy5hbWJlciksCiAgICAgICAgICAgICksCiAgICAgICAgICApLAogICAgICAgIF0sCiAgICAgICksCiAgICApOwogIH0KfQo=
+import 'package:flutter/material.dart';
+import '../utils/config.dart';
+
+/// 顶部广告位
+/// 高度随素材自适应；无填充（_adLoaded=false 或关闭）时整块收起为 0 高度。
+/// 当前为占位实现，接入 AdMob 时把占位 body 替换为 AdWidget 即可，
+/// 并由广告回调控制 _adLoaded（加载失败 => SizedBox.shrink 收起）。
+class AdBanner extends StatefulWidget {
+  const AdBanner({super.key});
+
+  @override
+  State<AdBanner> createState() => _AdBannerState();
+}
+
+class _AdBannerState extends State<AdBanner> {
+  // 占位：真实接入广告 SDK 后由 onAdFailedToLoad 置 false
+  bool _adLoaded = true;
+
+  @override
+  Widget build(BuildContext context) {
+    if (!kEnableAd || !_adLoaded) return const SizedBox.shrink();
+
+    // 高度由内容自适应，不设死高度
+    return Container(
+      margin: const EdgeInsets.fromLTRB(16, 12, 16, 0),
+      padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 14),
+      decoration: BoxDecoration(
+        color: Colors.amber.shade50,
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.amber.shade200),
+      ),
+      child: const Row(
+        children: [
+          Icon(Icons.campaign_outlined, color: Colors.amber, size: 18),
+          SizedBox(width: 8),
+          Expanded(
+            child: Text(
+              '广告位 · 高度自适应（接入 AdMob 后由素材尺寸撑开）',
+              style: TextStyle(fontSize: 12, color: Colors.amber),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}

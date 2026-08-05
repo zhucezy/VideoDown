@@ -1,1 +1,17 @@
-ewogICJkZXNjIjogIuWFs+S6juacrOaWh+S7tueahOabtOWkmuS/oeaBr++8jOivt+WPguiAg+aWh+ahoyBodHRwczovL2RldmVsb3BlcnMud2VpeGluLnFxLmNvbS9taW5pcHJvZ3JhbS9kZXYvZnJhbWV3b3JrL3NpdGVtYXAuaHRtbCIsCiAgInJ1bGVzIjogWwogICAgewogICAgICAiYWN0aW9uIjogImFsbG93IiwKICAgICAgInBhZ2UiOiAicGFnZXMvaW5kZXgvaW5kZXgiCiAgICB9LAogICAgewogICAgICAiYWN0aW9uIjogImRpc2FsbG93IiwKICAgICAgInBhZ2UiOiAicGFnZXMvaGlzdG9yeS9oaXN0b3J5IgogICAgfSwKICAgIHsKICAgICAgImFjdGlvbiI6ICJkaXNhbGxvdyIsCiAgICAgICJwYWdlIjogInBhZ2VzL21pbmUvbWluZSIKICAgIH0KICBdCn0K
+{
+  "desc": "关于本文件的更多信息，请参考文档 https://developers.weixin.qq.com/miniprogram/dev/framework/sitemap.html",
+  "rules": [
+    {
+      "action": "allow",
+      "page": "pages/index/index"
+    },
+    {
+      "action": "disallow",
+      "page": "pages/history/history"
+    },
+    {
+      "action": "disallow",
+      "page": "pages/mine/mine"
+    }
+  ]
+}

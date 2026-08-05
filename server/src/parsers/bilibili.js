@@ -1,1 +1,127 @@
-Y29uc3QgeyBnZXRKc29uLCByZXNvbHZlUmVkaXJlY3QsIFVBIH0gPSByZXF1aXJlKCcuLi91dGlscy9odHRwJyk7CmNvbnN0IHsKICBCaXpFcnJvciwKICBFUlIsCiAgcmVzb2x1dGlvbkxhYmVsLAogIGNsZWFuVGl0bGUsCiAgZHVyYXRpb25UZXh0LAp9ID0gcmVxdWlyZSgnLi4vdXRpbHMvY29tbW9uJyk7CmNvbnN0IGNvbmZpZyA9IHJlcXVpcmUoJy4uL2NvbmZpZycpOwoKY29uc3QgS0VZID0gJ2JpbGliaWxpJzsKY29uc3QgTkFNRSA9ICflk5Tlk6nlk5Tlk6knOwoKZnVuY3Rpb24gbWF0Y2godXJsKSB7CiAgcmV0dXJuIC9iaWxpYmlsaVwuY29tfGIyM1wudHZ8YWNnXC50di8udGVzdCh1cmwpOwp9CgovKioKICog5riF5pmw5bqm56CB6KGo77yIcW7vvIkKICog5rOo5oSP77yaMTA4MFArIC8gNEsg6ZyA6KaB55m75b2V55Sa6Iez5aSn5Lya5ZGY77yM5pyq6YWN572uIENvb2tpZSDml7bmnIDpq5jliLAgMTA4MFDvvIhxbj04MO+8iQogKi8KY29uc3QgUU5fTUFQID0gewogIDEyNzogeyBsYWJlbDogJzhLJywgaGVpZ2h0OiA0MzIwIH0sCiAgMTIwOiB7IGxhYmVsOiAnNEsnLCBoZWlnaHQ6IDIxNjAgfSwKICAxMTY6IHsgbGFiZWw6ICcxMDgwUDYwJywgaGVpZ2h0OiAxMDgwIH0sCiAgMTEyOiB7IGxhYmVsOiAnMTA4MFArJywgaGVpZ2h0OiAxMDgwIH0sCiAgODA6IHsgbGFiZWw6ICcxMDgwUCcsIGhlaWdodDogMTA4MCB9LAogIDY0OiB7IGxhYmVsOiAnNzIwUCcsIGhlaWdodDogNzIwIH0sCiAgMzI6IHsgbGFiZWw6ICc0ODBQJywgaGVpZ2h0OiA0ODAgfSwKICAxNjogeyBsYWJlbDogJzM2MFAnLCBoZWlnaHQ6IDM2MCB9LAp9OwoKYXN5bmMgZnVuY3Rpb24gcGFyc2UodXJsKSB7CiAgbGV0IHRhcmdldCA9IHVybDsKICBpZiAoL2IyM1wudHZ8YWNnXC50di8udGVzdCh1cmwpKSB7CiAgICBjb25zdCB7IGZpbmFsVXJsIH0gPSBhd2FpdCByZXNvbHZlUmVkaXJlY3QodXJsLCB7IHVhOiBVQS5pb3MgfSk7CiAgICB0YXJnZXQgPSBmaW5hbFVybDsKICB9CgogIGNvbnN0IGJ2ID0gdGFyZ2V0Lm1hdGNoKC8oQlZbMC05QS1aYS16XXsxMH0pLyk7CiAgY29uc3QgYXYgPSB0YXJnZXQubWF0Y2goL1wvYXYoXGQrKS9pKTsKICBpZiAoIWJ2ICYmICFhdikgdGhyb3cgbmV3IEJpekVycm9yKEVSUi5CQURfVVJMLCAn5pyq6K+G5Yir5YiwIEJWIC8gQVYg5Y+3Jyk7CgogIGNvbnN0IGlkUXVlcnkgPSBidiA/IGBidmlkPSR7YnZbMV19YCA6IGBhaWQ9JHthdlsxXX1gOwogIGNvbnN0IGhlYWRlcnMgPSB7CiAgICBSZWZlcmVyOiAnaHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tLycsCiAgICBDb29raWU6IGNvbmZpZy5jb29raWVzLmJpbGliaWxpIHx8ICcnLAogIH07CgogIGNvbnN0IHZpZXcgPSBhd2FpdCBnZXRKc29uKAogICAgYGh0dHBzOi8vYXBpLmJpbGliaWxpLmNvbS94L3dlYi1pbnRlcmZhY2Uvdmlldz8ke2lkUXVlcnl9YCwKICAgIHsgdWE6IFVBLnBjLCBoZWFkZXJzIH0KICApOwoKICBpZiAodmlldy5jb2RlICE9PSAwIHx8ICF2aWV3LmRhdGEpIHsKICAgIHRocm93IG5ldyBCaXpFcnJvcihFUlIuTk9UX0ZPVU5ELCB2aWV3Lm1lc3NhZ2UgfHwgJ+inhumikeS4jeWtmOWcqOaIluW3suS4i+aeticpOwogIH0KCiAgY29uc3QgaW5mbyA9IHZpZXcuZGF0YTsKICBjb25zdCBjaWQgPSBpbmZvLmNpZCB8fCAoaW5mby5wYWdlcyAmJiBpbmZvLnBhZ2VzWzBdICYmIGluZm8ucGFnZXNbMF0uY2lkKTsKICBpZiAoIWNpZCkgdGhyb3cgbmV3IEJpekVycm9yKEVSUi5OT1RfRk9VTkQsICfmnKrojrflj5bliLDliIZQ5L+h5oGvJyk7CgogIGNvbnN0IHF1YWxpdGllcyA9IFtdOwoKICAvKioKICAgKiDnlKggcGxhdGZvcm09aHRtbDUg6K+35rGC77yM6L+U5Zue55qE5piv5Y+v55u05o6l5pKt5pS+55qE5a6M5pW0IE1QNO+8iGR1cmzvvInvvIwKICAgKiDkuI3pnIDopoHlg48gREFTSCDpgqPmoLfmiorpn7Pop4bpopHmtYHlkIjlubbigJTigJTlsI/nqIvluo/nq6/msqHmnInlkIjmtYHog73lipvjgIIKICAgKiDku6Pku7fmmK/mnKrnmbvlvZXml7bkuIrpmZDkuLogNzIwUC8xMDgwUOOAggogICAqLwogIGNvbnN0IHRyeVFuID0gWzEyMCwgMTE2LCA4MCwgNjQsIDMyXTsKICBmb3IgKGNvbnN0IHFuIG9mIHRyeVFuKSB7CiAgICB0cnkgewogICAgICBjb25zdCBwbGF5ID0gYXdhaXQgZ2V0SnNvbigKICAgICAgICBgaHR0cHM6Ly9hcGkuYmlsaWJpbGkuY29tL3gvcGxheWVyL3BsYXl1cmw/JHtpZFF1ZXJ5fSZjaWQ9JHtjaWR9YCArCiAgICAgICAgICBgJnFuPSR7cW59JmZudmFsPTAmZm52ZXI9MCZmb3Vyaz0xJnBsYXRmb3JtPWh0bWw1JmhpZ2hfcXVhbGl0eT0xYCwKICAgICAgICB7IHVhOiBVQS5wYywgaGVhZGVycyB9CiAgICAgICk7CiAgICAgIGlmIChwbGF5LmNvZGUgIT09IDAgfHwgIXBsYXkuZGF0YSkgY29udGludWU7CiAgICAgIGNvbnN0IGR1cmwgPSBwbGF5LmRhdGEuZHVybCB8fCBbXTsKICAgICAgaWYgKCFkdXJsLmxlbmd0aCB8fCAhZHVybFswXS51cmwpIGNvbnRpbnVlOwoKICAgICAgY29uc3QgcmVhbFFuID0gcGxheS5kYXRhLnF1YWxpdHkgfHwgcW47CiAgICAgIGNvbnN0IG1ldGEgPSBRTl9NQVBbcmVhbFFuXSB8fCB7IGxhYmVsOiBgJHtyZWFsUW59YCwgaGVpZ2h0OiAwIH07CgogICAgICBxdWFsaXRpZXMucHVzaCh7CiAgICAgICAgdXJsOiBkdXJsWzBdLnVybCwKICAgICAgICB3aWR0aDogMCwKICAgICAgICBoZWlnaHQ6IG1ldGEuaGVpZ2h0LAogICAgICAgIGJpdHJhdGU6IDAsCiAgICAgICAgc2l6ZTogZHVybFswXS5zaXplIHx8IDAsCiAgICAgICAgbGFiZWw6IG1ldGEubGFiZWwsCiAgICAgICAgZm9ybWF0OiAnbXA0JywKICAgICAgfSk7CgogICAgICAvLyDlt7Lnu4/mi7/liLDlvZPliY3otKblj7fmnYPpmZDkuIvnmoTmnIDpq5jmoaPvvIzkuI3lv4Xlho3lvoDkuIvor5UKICAgICAgaWYgKHJlYWxRbiA+PSBxbikgYnJlYWs7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIC8vIOWNleaho+Wksei0pee7p+e7reWwneivleS4i+S4gOahowogICAgfQogIH0KCiAgaWYgKCFxdWFsaXRpZXMubGVuZ3RoKSB7CiAgICB0aHJvdyBuZXcgQml6RXJyb3IoRVJSLlVQU1RSRUFNLCAnQuermeaSreaUvuWcsOWdgOiOt+WPluWksei0pe+8jOWPr+iDvemcgOimgeeZu+W9lSBDb29raWUnKTsKICB9CgogIHJldHVybiB7CiAgICBwbGF0Zm9ybTogS0VZLAogICAgcGxhdGZvcm1OYW1lOiBOQU1FLAogICAgdmlkZW9JZDogYGJpbGlfJHtpbmZvLmJ2aWQgfHwgaW5mby5haWR9YCwKICAgIHRpdGxlOiBjbGVhblRpdGxlKGluZm8udGl0bGUpLAogICAgcmF3VGl0bGU6IGluZm8udGl0bGUgfHwgJycsCiAgICBjb3ZlcjogaW5mby5waWMgfHwgJycsCiAgICBhdXRob3I6IChpbmZvLm93bmVyICYmIGluZm8ub3duZXIubmFtZSkgfHwgJycsCiAgICBhdXRob3JBdmF0YXI6IChpbmZvLm93bmVyICYmIGluZm8ub3duZXIuZmFjZSkgfHwgJycsCiAgICBkdXJhdGlvbjogaW5mby5kdXJhdGlvbiB8fCAwLAogICAgZHVyYXRpb25UZXh0OiBkdXJhdGlvblRleHQoaW5mby5kdXJhdGlvbiksCiAgICBxdWFsaXRpZXMsCiAgICBpbWFnZXM6IFtdLAogICAgLy8gQuermSBDRE4g5by65Yi25qCh6aqMIFJlZmVyZXLvvIzlv4XpobvnlLHmnI3liqHnq6/ku6PnkIbluKbkuIoKICAgIHByb3h5SGVhZGVyczogewogICAgICBSZWZlcmVyOiAnaHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tLycsCiAgICAgICdVc2VyLUFnZW50JzogVUEucGMsCiAgICB9LAogIH07Cn0KCm1vZHVsZS5leHBvcnRzID0geyBrZXk6IEtFWSwgbmFtZTogTkFNRSwgbWF0Y2gsIHBhcnNlIH07Cg==
+const { getJson, resolveRedirect, UA } = require('../utils/http');
+const {
+  BizError,
+  ERR,
+  resolutionLabel,
+  cleanTitle,
+  durationText,
+} = require('../utils/common');
+const config = require('../config');
+
+const KEY = 'bilibili';
+const NAME = '哔哩哔哩';
+
+function match(url) {
+  return /bilibili\.com|b23\.tv|acg\.tv/.test(url);
+}
+
+/**
+ * 清晰度码表（qn）
+ * 注意：1080P+ / 4K 需要登录甚至大会员，未配置 Cookie 时最高到 1080P（qn=80）
+ */
+const QN_MAP = {
+  127: { label: '8K', height: 4320 },
+  120: { label: '4K', height: 2160 },
+  116: { label: '1080P60', height: 1080 },
+  112: { label: '1080P+', height: 1080 },
+  80: { label: '1080P', height: 1080 },
+  64: { label: '720P', height: 720 },
+  32: { label: '480P', height: 480 },
+  16: { label: '360P', height: 360 },
+};
+
+async function parse(url) {
+  let target = url;
+  if (/b23\.tv|acg\.tv/.test(url)) {
+    const { finalUrl } = await resolveRedirect(url, { ua: UA.ios });
+    target = finalUrl;
+  }
+
+  const bv = target.match(/(BV[0-9A-Za-z]{10})/);
+  const av = target.match(/\/av(\d+)/i);
+  if (!bv && !av) throw new BizError(ERR.BAD_URL, '未识别到 BV / AV 号');
+
+  const idQuery = bv ? `bvid=${bv[1]}` : `aid=${av[1]}`;
+  const headers = {
+    Referer: 'https://www.bilibili.com/',
+    Cookie: config.cookies.bilibili || '',
+  };
+
+  const view = await getJson(
+    `https://api.bilibili.com/x/web-interface/view?${idQuery}`,
+    { ua: UA.pc, headers }
+  );
+
+  if (view.code !== 0 || !view.data) {
+    throw new BizError(ERR.NOT_FOUND, view.message || '视频不存在或已下架');
+  }
+
+  const info = view.data;
+  const cid = info.cid || (info.pages && info.pages[0] && info.pages[0].cid);
+  if (!cid) throw new BizError(ERR.NOT_FOUND, '未获取到分P信息');
+
+  const qualities = [];
+
+  /**
+   * 用 platform=html5 请求，返回的是可直接播放的完整 MP4（durl），
+   * 不需要像 DASH 那样把音视频流合并——小程序端没有合流能力。
+   * 代价是未登录时上限为 720P/1080P。
+   */
+  const tryQn = [120, 116, 80, 64, 32];
+  for (const qn of tryQn) {
+    try {
+      const play = await getJson(
+        `https://api.bilibili.com/x/player/playurl?${idQuery}&cid=${cid}` +
+          `&qn=${qn}&fnval=0&fnver=0&fourk=1&platform=html5&high_quality=1`,
+        { ua: UA.pc, headers }
+      );
+      if (play.code !== 0 || !play.data) continue;
+      const durl = play.data.durl || [];
+      if (!durl.length || !durl[0].url) continue;
+
+      const realQn = play.data.quality || qn;
+      const meta = QN_MAP[realQn] || { label: `${realQn}`, height: 0 };
+
+      qualities.push({
+        url: durl[0].url,
+        width: 0,
+        height: meta.height,
+        bitrate: 0,
+        size: durl[0].size || 0,
+        label: meta.label,
+        format: 'mp4',
+      });
+
+      // 已经拿到当前账号权限下的最高档，不必再往下试
+      if (realQn >= qn) break;
+    } catch (e) {
+      // 单档失败继续尝试下一档
+    }
+  }
+
+  if (!qualities.length) {
+    throw new BizError(ERR.UPSTREAM, 'B站播放地址获取失败，可能需要登录 Cookie');
+  }
+
+  return {
+    platform: KEY,
+    platformName: NAME,
+    videoId: `bili_${info.bvid || info.aid}`,
+    title: cleanTitle(info.title),
+    rawTitle: info.title || '',
+    cover: info.pic || '',
+    author: (info.owner && info.owner.name) || '',
+    authorAvatar: (info.owner && info.owner.face) || '',
+    duration: info.duration || 0,
+    durationText: durationText(info.duration),
+    qualities,
+    images: [],
+    // B站 CDN 强制校验 Referer，必须由服务端代理带上
+    proxyHeaders: {
+      Referer: 'https://www.bilibili.com/',
+      'User-Agent': UA.pc,
+    },
+  };
+}
+
+module.exports = { key: KEY, name: NAME, match, parse };

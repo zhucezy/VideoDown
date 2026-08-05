@@ -1,1 +1,198 @@
-Y29uc3QgeyBnZXRIaXN0b3J5IH0gPSByZXF1aXJlKCcuLi8uLi91dGlscy9zdG9yYWdlJyk7CmNvbnN0IHsgY29weVRleHQgfSA9IHJlcXVpcmUoJy4uLy4uL3V0aWxzL2Rvd25sb2FkJyk7CgpQYWdlKHsKICBkYXRhOiB7CiAgICB2ZXJzaW9uOiAnMS4wLjAnLAogICAgc3RhdDogeyB0b3RhbDogMCwgcGxhdGZvcm1zOiAwLCB0b2RheTogMCB9LAogICAgbWVudXM6IFsKICAgICAgewogICAgICAgIGtleTogJ2d1aWRlJywKICAgICAgICBpY29uOiAn5oyHJywKICAgICAgICB0aXRsZTogJ+S9v+eUqOaVmeeoiycsCiAgICAgICAgZGVzYzogJ+WQhOW5s+WPsOmTvuaOpeiOt+WPluaWueW8jycsCiAgICAgICAgYmc6ICdyZ2JhKDQzLDEwOSwyNDYsMC4wOCknLAogICAgICAgIGNvbG9yOiAnIzJCNkRGNicsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBrZXk6ICdmZWVkYmFjaycsCiAgICAgICAgaWNvbjogJ+WPjScsCiAgICAgICAgdGl0bGU6ICfpl67popjlj43ppognLAogICAgICAgIGRlc2M6ICfop6PmnpDlpLHotKUgLyDmg7PmlK/mjIHmlrDlubPlj7AnLAogICAgICAgIGJnOiAncmdiYSgxOCwxODMsMTA2LDAuMSknLAogICAgICAgIGNvbG9yOiAnIzEyQjc2QScsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBrZXk6ICdjbGVhckNhY2hlJywKICAgICAgICBpY29uOiAn5riFJywKICAgICAgICB0aXRsZTogJ+a4heeQhue8k+WtmCcsCiAgICAgICAgZGVzYzogJ+a4hemZpOS4tOaXtuaWh+S7tuS4juacrOWcsOiusOW9lScsCiAgICAgICAgYmc6ICdyZ2JhKDI1NSwxMzgsNjEsMC4xMiknLAogICAgICAgIGNvbG9yOiAnI0ZGOEEzRCcsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBrZXk6ICdhYm91dCcsCiAgICAgICAgaWNvbjogJ+WFsycsCiAgICAgICAgdGl0bGU6ICflhbPkuo7miJHku6wnLAogICAgICAgIGRlc2M6ICfmnI3liqHmnaHmrL7kuI7pmpDnp4HmlL/nrZYnLAogICAgICAgIGJnOiAncmdiYSgxMzgsMTQ3LDE2MCwwLjEyKScsCiAgICAgICAgY29sb3I6ICcjNUI2MjcwJywKICAgICAgfSwKICAgIF0sCiAgICBmYXFzOiBbCiAgICAgIHsKICAgICAgICBxOiAn5Li65LuA5LmI5pyJ55qE6KeG6aKR6Kej5p6Q5LiN5Ye65p2l77yfJywKICAgICAgICBhOiAn5bi46KeB5Y6f5Zug77ya5YaF5a656KKr5L2c6ICF5Yig6Zmk5oiW6K6+5Li656eB5a+G44CB6ZyA6KaB55m75b2V5omN6IO95p+l55yL44CB5bmz5Y+w6L+R5pyf6LCD5pW05LqG5o6l5Y+j44CC5Y+v5Lul5YWI5o2i5LiA5p2h6ZO+5o6l6K+V6K+V77yM5oiW6YCa6L+H44CM6Zeu6aKY5Y+N6aaI44CN5oqK6ZO+5o6l5Y+R57uZ5oiR5Lus44CCJywKICAgICAgICBvcGVuOiBmYWxzZSwKICAgICAgfSwKICAgICAgewogICAgICAgIHE6ICfkv53lrZjkuIvmnaXnmoTov5jmmK/mnInmsLTljbDvvJ8nLAogICAgICAgIGE6ICfmnKzlt6Xlhbfojrflj5bnmoTmmK/lubPlj7DmnI3liqHlmajkuIrnmoTljp/lp4vop4bpopHmtYHvvIzpgJrluLjkuI3luKblubPlj7DmsLTljbDjgILkvYblpoLmnpzkvZzogIXlnKjliarovpHml7boh6rlt7HljovliLbkuobmsLTljbDmiJbniYflsL7vvIzov5npg6jliIblsZ7kuo7op4bpopHnlLvpnaLlhoXlrrnvvIzmioDmnK/kuIrml6Dms5XljrvpmaTjgIInLAogICAgICAgIG9wZW46IGZhbHNlLAogICAgICB9LAogICAgICB7CiAgICAgICAgcTogJ+S4uuS7gOS5iOS4i+i9vemAn+W6puaFou+8nycsCiAgICAgICAgYTogJ+inhumikeS7juWOn+W5s+WPsCBDRE4g5Lit6L2s6I635Y+W77yM6YCf5bqm5Y+X5rqQ56uZ6ZmQ6YCf5LiO5L2g55qE572R57uc5b2x5ZON44CC5aSn5paH5Lu25bu66K6u5ZyoIFdpLUZpIOS4i+i9ve+8jOaIlumAieaLqeeojeS9juS4gOaho+eahOa4heaZsOW6puOAgicsCiAgICAgICAgb3BlbjogZmFsc2UsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBxOiAn6buY6K6k5LiL6L2955qE5piv5pyA6auY5riF5pmw5bqm5ZCX77yfJywKICAgICAgICBhOiAn5piv44CC6Kej5p6Q57uT5p6c5oyJ5YiG6L6o546H5LiO56CB546H5LuO6auY5Yiw5L2O5o6S5bqP77yM6buY6K6k6YCJ5Lit56ys5LiA6aG55Y2z5bmz5Y+w5o+Q5L6b55qE5pyA6auY55S76LSo77yb5aaC5p6c6ZyA6KaB6IqC55yB5rWB6YeP77yM5Y+v5Lul5omL5Yqo5YiH5o2i5Yiw6L6D5L2O5qGj5L2N44CCJywKICAgICAgICBvcGVuOiBmYWxzZSwKICAgICAgfSwKICAgICAgewogICAgICAgIHE6ICfop4bpopHkv53lrZjliLDlk6rph4zkuobvvJ8nLAogICAgICAgIGE6ICfkv53lrZjmiJDlip/lkI7kvJrlhpnlhaXmiYvmnLrns7vnu5/nm7jlhozvvIzlnKjjgIznm7jlhowgLyDlm77lupPjgI3nmoTop4bpopHliIbnsbvkuK3ljbPlj6/nnIvliLDjgIInLAogICAgICAgIG9wZW46IGZhbHNlLAogICAgICB9LAogICAgXSwKICAgIG5vdGljZXM6IFsKICAgICAgJ+acrOW3peWFt+S7heS+m+S4quS6uuWtpuS5oOOAgeeglOeptuS4jue0oOadkOWkh+S7veS9v+eUqOOAgicsCiAgICAgICfop6PmnpDlhoXlrrnnmoTokZfkvZzmnYPlvZLljp/kvZzogIXmiYDmnInvvIzor7fli7/nlKjkuo7llYbkuJrnlKjpgJTmiJbkuozmrKHliIblj5HjgIInLAogICAgICAn6K+36YG15a6I5ZCE5YaF5a655bmz5Y+w55qE55So5oi35Y2P6K6u5LiO55u45YWz5rOV5b6L5rOV6KeE44CCJywKICAgICAgJ+aJgOacieino+aekOiusOW9leS7heS/neWtmOWcqOS9oOeahOaJi+acuuacrOWcsO+8jOS4jeS8muS4iuS8oOacjeWKoeWZqOOAgicsCiAgICAgICflm6Dkvb/nlKjmnKzlt6XlhbfkuqfnlJ/nmoTniYjmnYPnuqDnurfvvIznlLHkvb/nlKjogIXoh6rooYzmib/mi4XjgIInLAogICAgXSwKICB9LAoKICBvblNob3coKSB7CiAgICB0aGlzLmNhbGNTdGF0KCk7CiAgfSwKCiAgY2FsY1N0YXQoKSB7CiAgICBjb25zdCBsaXN0ID0gZ2V0SGlzdG9yeSgpOwogICAgY29uc3QgcGxhdFNldCA9IHt9OwogICAgbGV0IHRvZGF5ID0gMDsKICAgIGNvbnN0IHN0YXJ0ID0gbmV3IERhdGUoKTsKICAgIHN0YXJ0LnNldEhvdXJzKDAsIDAsIDAsIDApOwogICAgY29uc3Qgc3RhcnRUcyA9IHN0YXJ0LmdldFRpbWUoKTsKCiAgICBsaXN0LmZvckVhY2goKHYpID0+IHsKICAgICAgaWYgKHYucGxhdGZvcm0pIHBsYXRTZXRbdi5wbGF0Zm9ybV0gPSAxOwogICAgICBpZiAoTnVtYmVyKHYuc2F2ZWRBdCkgPj0gc3RhcnRUcykgdG9kYXkgKz0gMTsKICAgIH0pOwoKICAgIHRoaXMuc2V0RGF0YSh7CiAgICAgIHN0YXQ6IHsKICAgICAgICB0b3RhbDogbGlzdC5sZW5ndGgsCiAgICAgICAgcGxhdGZvcm1zOiBPYmplY3Qua2V5cyhwbGF0U2V0KS5sZW5ndGgsCiAgICAgICAgdG9kYXksCiAgICAgIH0sCiAgICB9KTsKICB9LAoKICB0b2dnbGVGYXEoZSkgewogICAgY29uc3QgaW5kZXggPSBOdW1iZXIoZS5jdXJyZW50VGFyZ2V0LmRhdGFzZXQuaW5kZXgpOwogICAgY29uc3Qga2V5ID0gYGZhcXNbJHtpbmRleH1dLm9wZW5gOwogICAgdGhpcy5zZXREYXRhKHsgW2tleV06ICF0aGlzLmRhdGEuZmFxc1tpbmRleF0ub3BlbiB9KTsKICB9LAoKICBvbk1lbnUoZSkgewogICAgY29uc3Qga2V5ID0gZS5jdXJyZW50VGFyZ2V0LmRhdGFzZXQua2V5OwogICAgY29uc3QgaGFuZGxlcnMgPSB7CiAgICAgIGd1aWRlOiAoKSA9PiB0aGlzLnNob3dHdWlkZSgpLAogICAgICBmZWVkYmFjazogKCkgPT4gdGhpcy5zaG93RmVlZGJhY2soKSwKICAgICAgY2xlYXJDYWNoZTogKCkgPT4gdGhpcy5jbGVhckNhY2hlKCksCiAgICAgIGFib3V0OiAoKSA9PiB0aGlzLnNob3dBYm91dCgpLAogICAgfTsKICAgIChoYW5kbGVyc1trZXldIHx8ICgoKSA9PiB7fSkpKCk7CiAgfSwKCiAgc2hvd0d1aWRlKCkgewogICAgd3guc2hvd01vZGFsKHsKICAgICAgdGl0bGU6ICfpk77mjqXojrflj5bmlrnlvI8nLAogICAgICBjb250ZW50OgogICAgICAgICfmipbpn7PvvJrkvZzlk4Hlj7PkuIvop5LjgIzliIbkuqvjgI3ihpIg5aSN5Yi26ZO+5o6lXG4nICsKICAgICAgICAn5b6u5Y2a77ya6KeG6aKR5Y+z5LiK6KeS44CM4oCm44CN4oaSIOWkjeWItumTvuaOpVxuJyArCiAgICAgICAgJ+Wwj+e6ouS5pu+8muWPs+S4iuinkuOAjOWIhuS6q+OAjeKGkiDlpI3liLbpk77mjqVcbicgKwogICAgICAgICfop4bpopHlj7fvvJrlj7PkuIvop5LjgIzliIbkuqvjgI3ihpIg5aSN5Yi26ZO+5o6lXG4nICsKICAgICAgICAn5Y2z5qKm77ya5L2c5ZOB6K+m5oOF6aG144CM5YiG5Lqr44CN4oaSIOWkjeWItumTvuaOpVxuJyArCiAgICAgICAgJ+W/q+aJiy9C56uZ77ya5YiG5LqrIOKGkiDlpI3liLbpk77mjqVcblxuJyArCiAgICAgICAgJ+W4puaWh+Wtl+eahOaVtOauteWIhuS6q+WPo+S7pOWPr+S7peebtOaOpeeymOi0tO+8jOS8muiHquWKqOaPkOWPluWFtuS4reeahOmTvuaOpeOAgicsCiAgICAgIHNob3dDYW5jZWw6IGZhbHNlLAogICAgICBjb25maXJtVGV4dDogJ+efpemBk+S6hicsCiAgICAgIGNvbmZpcm1Db2xvcjogJyMyQjZERjYnLAogICAgfSk7CiAgfSwKCiAgc2hvd0ZlZWRiYWNrKCkgewogICAgd3guc2hvd0FjdGlvblNoZWV0KHsKICAgICAgaXRlbUxpc3Q6IFsn5aSN5Yi25Y+N6aaI6YKu566xJywgJ+WkjeWItuWuouacjeW+ruS/oSddLAogICAgICBzdWNjZXNzOiAocmVzKSA9PiB7CiAgICAgICAgaWYgKHJlcy50YXBJbmRleCA9PT0gMCkgY29weVRleHQoJ3N1cHBvcnRAeW91cmRvbWFpbi5jb20nLCAn6YKu566x5bey5aSN5Yi2Jyk7CiAgICAgICAgZWxzZSBjb3B5VGV4dCgneW91cl93ZWNoYXRfaWQnLCAn5b6u5L+h5Y+35bey5aSN5Yi2Jyk7CiAgICAgIH0sCiAgICAgIGZhaWw6ICgpID0+IHt9LAogICAgfSk7CiAgfSwKCiAgY2xlYXJDYWNoZSgpIHsKICAgIHd4LnNob3dNb2RhbCh7CiAgICAgIHRpdGxlOiAn5riF55CG57yT5a2YJywKICAgICAgY29udGVudDogJ+Wwhua4hemZpOacrOWcsOino+aekOiusOW9leS4juS4tOaXtuaWh+S7tu+8jOW3suS/neWtmOWIsOebuOWGjOeahOinhumikeS4jeWPl+W9seWTjeOAgicsCiAgICAgIGNvbmZpcm1Db2xvcjogJyNGNTQ4M0InLAogICAgICBzdWNjZXNzOiAobSkgPT4gewogICAgICAgIGlmICghbS5jb25maXJtKSByZXR1cm47CiAgICAgICAgdHJ5IHsKICAgICAgICAgIGNvbnN0IGZzID0gd3guZ2V0RmlsZVN5c3RlbU1hbmFnZXIoKTsKICAgICAgICAgIGNvbnN0IHsgZGF0YVBhdGggfSA9IHd4LmVudiA/IHsgZGF0YVBhdGg6IHd4LmVudi5VU0VSX0RBVEFfUEFUSCB9IDoge307CiAgICAgICAgICBpZiAoZGF0YVBhdGgpIHsKICAgICAgICAgICAgY29uc3QgZmlsZXMgPSBmcy5yZWFkZGlyU3luYyhkYXRhUGF0aCk7CiAgICAgICAgICAgIGZpbGVzLmZvckVhY2goKGYpID0+IHsKICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgZnMudW5saW5rU3luYyhgJHtkYXRhUGF0aH0vJHtmfWApOwogICAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHt9CiAgICAgICAgICAgIH0pOwogICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKGUpIHt9CgogICAgICAgIHRyeSB7CiAgICAgICAgICB3eC5yZW1vdmVTdG9yYWdlU3luYygncGFyc2VfaGlzdG9yeScpOwogICAgICAgIH0gY2F0Y2ggKGUpIHt9CgogICAgICAgIHRoaXMuY2FsY1N0YXQoKTsKICAgICAgICB3eC5zaG93VG9hc3QoeyB0aXRsZTogJ+W3sua4heeQhicsIGljb246ICdzdWNjZXNzJyB9KTsKICAgICAgfSwKICAgIH0pOwogIH0sCgogIHNob3dBYm91dCgpIHsKICAgIHd4LnNob3dNb2RhbCh7CiAgICAgIHRpdGxlOiAn5YWz5LqOJywKICAgICAgY29udGVudDoKICAgICAgICAn5pys5bCP56iL5bqP5piv5LiA5Liq6KeG6aKR57Sg5p2Q5aSH5Lu95bel5YW377yM5biu5Yqp5L2g5Zyo6I635b6X5o6I5p2D55qE5YmN5o+Q5LiL5aSH5Lu96Ieq5bex5oiW5LuW5Lq65YWs5byA5Y+R5biD55qE6KeG6aKR5YaF5a6544CCXG5cbicgKwogICAgICAgICfmiJHku6zkuI3lrZjlgqjku7vkvZXop4bpopHmlofku7bvvIzop6PmnpDnu5Pmnpzlrp7ml7bnlJ/miJDjgIHljbPml7blpLHmlYjjgIJcblxuJyArCiAgICAgICAgJ+ino+aekOiusOW9leS7heS/neWtmOWcqOS9oOeahOiuvuWkh+acrOWcsOOAgicsCiAgICAgIHNob3dDYW5jZWw6IGZhbHNlLAogICAgICBjb25maXJtVGV4dDogJ+WlveeahCcsCiAgICAgIGNvbmZpcm1Db2xvcjogJyMyQjZERjYnLAogICAgfSk7CiAgfSwKCiAgb25TaGFyZUFwcE1lc3NhZ2UoKSB7CiAgICByZXR1cm4gewogICAgICB0aXRsZTogJ+S4gOmUruino+aekOaXoOawtOWNsOinhumike+8jOaUr+aMgeaKlumfsy/lvq7ljZov5bCP57qi5LmmJywKICAgICAgcGF0aDogJy9wYWdlcy9pbmRleC9pbmRleCcsCiAgICB9OwogIH0sCn0pOwo=
+const { getHistory } = require('../../utils/storage');
+const { copyText } = require('../../utils/download');
+
+Page({
+  data: {
+    version: '1.0.0',
+    stat: { total: 0, platforms: 0, today: 0 },
+    menus: [
+      {
+        key: 'guide',
+        icon: '指',
+        title: '使用教程',
+        desc: '各平台链接获取方式',
+        bg: 'rgba(43,109,246,0.08)',
+        color: '#2B6DF6',
+      },
+      {
+        key: 'feedback',
+        icon: '反',
+        title: '问题反馈',
+        desc: '解析失败 / 想支持新平台',
+        bg: 'rgba(18,183,106,0.1)',
+        color: '#12B76A',
+      },
+      {
+        key: 'clearCache',
+        icon: '清',
+        title: '清理缓存',
+        desc: '清除临时文件与本地记录',
+        bg: 'rgba(255,138,61,0.12)',
+        color: '#FF8A3D',
+      },
+      {
+        key: 'about',
+        icon: '关',
+        title: '关于我们',
+        desc: '服务条款与隐私政策',
+        bg: 'rgba(138,147,160,0.12)',
+        color: '#5B6270',
+      },
+    ],
+    faqs: [
+      {
+        q: '为什么有的视频解析不出来？',
+        a: '常见原因：内容被作者删除或设为私密、需要登录才能查看、平台近期调整了接口。可以先换一条链接试试，或通过「问题反馈」把链接发给我们。',
+        open: false,
+      },
+      {
+        q: '保存下来的还是有水印？',
+        a: '本工具获取的是平台服务器上的原始视频流，通常不带平台水印。但如果作者在剪辑时自己压制了水印或片尾，这部分属于视频画面内容，技术上无法去除。',
+        open: false,
+      },
+      {
+        q: '为什么下载速度慢？',
+        a: '视频从原平台 CDN 中转获取，速度受源站限速与你的网络影响。大文件建议在 Wi-Fi 下载，或选择稍低一档的清晰度。',
+        open: false,
+      },
+      {
+        q: '默认下载的是最高清晰度吗？',
+        a: '是。解析结果按分辨率与码率从高到低排序，默认选中第一项即平台提供的最高画质；如果需要节省流量，可以手动切换到较低档位。',
+        open: false,
+      },
+      {
+        q: '视频保存到哪里了？',
+        a: '保存成功后会写入手机系统相册，在「相册 / 图库」的视频分类中即可看到。',
+        open: false,
+      },
+    ],
+    notices: [
+      '本工具仅供个人学习、研究与素材备份使用。',
+      '解析内容的著作权归原作者所有，请勿用于商业用途或二次分发。',
+      '请遵守各内容平台的用户协议与相关法律法规。',
+      '所有解析记录仅保存在你的手机本地，不会上传服务器。',
+      '因使用本工具产生的版权纠纷，由使用者自行承担。',
+    ],
+  },
+
+  onShow() {
+    this.calcStat();
+  },
+
+  calcStat() {
+    const list = getHistory();
+    const platSet = {};
+    let today = 0;
+    const start = new Date();
+    start.setHours(0, 0, 0, 0);
+    const startTs = start.getTime();
+
+    list.forEach((v) => {
+      if (v.platform) platSet[v.platform] = 1;
+      if (Number(v.savedAt) >= startTs) today += 1;
+    });
+
+    this.setData({
+      stat: {
+        total: list.length,
+        platforms: Object.keys(platSet).length,
+        today,
+      },
+    });
+  },
+
+  toggleFaq(e) {
+    const index = Number(e.currentTarget.dataset.index);
+    const key = `faqs[${index}].open`;
+    this.setData({ [key]: !this.data.faqs[index].open });
+  },
+
+  onMenu(e) {
+    const key = e.currentTarget.dataset.key;
+    const handlers = {
+      guide: () => this.showGuide(),
+      feedback: () => this.showFeedback(),
+      clearCache: () => this.clearCache(),
+      about: () => this.showAbout(),
+    };
+    (handlers[key] || (() => {}))();
+  },
+
+  showGuide() {
+    wx.showModal({
+      title: '链接获取方式',
+      content:
+        '抖音：作品右下角「分享」→ 复制链接\n' +
+        '微博：视频右上角「…」→ 复制链接\n' +
+        '小红书：右上角「分享」→ 复制链接\n' +
+        '视频号：右下角「分享」→ 复制链接\n' +
+        '即梦：作品详情页「分享」→ 复制链接\n' +
+        '快手/B站：分享 → 复制链接\n\n' +
+        '带文字的整段分享口令可以直接粘贴，会自动提取其中的链接。',
+      showCancel: false,
+      confirmText: '知道了',
+      confirmColor: '#2B6DF6',
+    });
+  },
+
+  showFeedback() {
+    wx.showActionSheet({
+      itemList: ['复制反馈邮箱', '复制客服微信'],
+      success: (res) => {
+        if (res.tapIndex === 0) copyText('support@yourdomain.com', '邮箱已复制');
+        else copyText('your_wechat_id', '微信号已复制');
+      },
+      fail: () => {},
+    });
+  },
+
+  clearCache() {
+    wx.showModal({
+      title: '清理缓存',
+      content: '将清除本地解析记录与临时文件，已保存到相册的视频不受影响。',
+      confirmColor: '#F5483B',
+      success: (m) => {
+        if (!m.confirm) return;
+        try {
+          const fs = wx.getFileSystemManager();
+          const { dataPath } = wx.env ? { dataPath: wx.env.USER_DATA_PATH } : {};
+          if (dataPath) {
+            const files = fs.readdirSync(dataPath);
+            files.forEach((f) => {
+              try {
+                fs.unlinkSync(`${dataPath}/${f}`);
+              } catch (e) {}
+            });
+          }
+        } catch (e) {}
+
+        try {
+          wx.removeStorageSync('parse_history');
+        } catch (e) {}
+
+        this.calcStat();
+        wx.showToast({ title: '已清理', icon: 'success' });
+      },
+    });
+  },
+
+  showAbout() {
+    wx.showModal({
+      title: '关于',
+      content:
+        '本小程序是一个视频素材备份工具，帮助你在获得授权的前提下备份自己或他人公开发布的视频内容。\n\n' +
+        '我们不存储任何视频文件，解析结果实时生成、即时失效。\n\n' +
+        '解析记录仅保存在你的设备本地。',
+      showCancel: false,
+      confirmText: '好的',
+      confirmColor: '#2B6DF6',
+    });
+  },
+
+  onShareAppMessage() {
+    return {
+      title: '一键解析无水印视频，支持抖音/微博/小红书',
+      path: '/pages/index/index',
+    };
+  },
+});

@@ -1,1 +1,81 @@
-LmFkLXdyYXAgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKICB3aWR0aDogMTAwJTsKICBvdmVyZmxvdzogaGlkZGVuOwogIGJvcmRlci1yYWRpdXM6IDIwcnB4OwogIGJhY2tncm91bmQ6ICNmZmY7CiAgLyog5YWz6ZSu77ya5LiN5YaZ5q276auY5bqm77yM5Lqk55SxIDxhZD4g5YaF5a655pKR5byAICovCiAgdHJhbnNpdGlvbjogaGVpZ2h0IDAuMjJzIGVhc2UsIG9wYWNpdHkgMC4yMnMgZWFzZSwgbWFyZ2luIDAuMjJzIGVhc2U7Cn0KCi5hZC13cmFwLmlzLWhpZGRlbiB7CiAgaGVpZ2h0OiAwICFpbXBvcnRhbnQ7CiAgb3BhY2l0eTogMDsKICBtYXJnaW46IDA7CiAgcG9pbnRlci1ldmVudHM6IG5vbmU7Cn0KCi5hZC1pbm5lciB7CiAgd2lkdGg6IDEwMCU7CiAgb3ZlcmZsb3c6IGhpZGRlbjsKICBib3JkZXItcmFkaXVzOiAyMHJweDsKfQoKLmFkLWlubmVyIGFkIHsKICBkaXNwbGF5OiBibG9jazsKICB3aWR0aDogMTAwJTsKfQoKLyog5Yqg6L295Lit55qE562J5q+U6aqo5p6277yM5oyJ5bi46KeBIGJhbm5lciDmr5Tkvovnu5nkuIDkuKrmuKnlkozljaDkvY0gKi8KLmFkLXNrZWxldG9uIHsKICB3aWR0aDogMTAwJTsKICBoZWlnaHQ6IDE2MHJweDsKICBib3JkZXItcmFkaXVzOiAyMHJweDsKfQoKLmFkLXdyYXAuaXMtbG9hZGVkIC5hZC1za2VsZXRvbiB7CiAgZGlzcGxheTogbm9uZTsKfQoKLyog5byA5Y+R5pyf5Y2g5L2NICovCi5hZC1wbGFjZWhvbGRlciB7CiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgZ2FwOiAxMHJweDsKICBoZWlnaHQ6IDE2MHJweDsKICBib3JkZXI6IDJycHggZGFzaGVkICNkOGRjZTM7CiAgYm9yZGVyLXJhZGl1czogMjBycHg7CiAgYmFja2dyb3VuZDogI2ZhZmJmYzsKfQoKLnBoLWJhZGdlIHsKICBwYWRkaW5nOiA0cnB4IDE2cnB4OwogIGJvcmRlci1yYWRpdXM6IDk5OXJweDsKICBiYWNrZ3JvdW5kOiAjZWVmMmZiOwogIGNvbG9yOiAjMmI2ZGY2OwogIGZvbnQtc2l6ZTogMjJycHg7CiAgZm9udC13ZWlnaHQ6IDYwMDsKfQoKLnBoLXRleHQgewogIGZvbnQtc2l6ZTogMjJycHg7CiAgY29sb3I6ICM5YWEwYTY7CiAgcGFkZGluZzogMCA0MHJweDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCi5hZC1jbG9zZSB7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHRvcDogOHJweDsKICByaWdodDogOHJweDsKICB3aWR0aDogNDBycHg7CiAgaGVpZ2h0OiA0MHJweDsKICBib3JkZXItcmFkaXVzOiA1MCU7CiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjMyKTsKICBjb2xvcjogI2ZmZjsKICBmb250LXNpemU6IDI4cnB4OwogIGxpbmUtaGVpZ2h0OiAzNnJweDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0K
+.ad-wrap {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 20rpx;
+  background: #fff;
+  /* 关键：不写死高度，交由 <ad> 内容撑开 */
+  transition: height 0.22s ease, opacity 0.22s ease, margin 0.22s ease;
+}
+
+.ad-wrap.is-hidden {
+  height: 0 !important;
+  opacity: 0;
+  margin: 0;
+  pointer-events: none;
+}
+
+.ad-inner {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 20rpx;
+}
+
+.ad-inner ad {
+  display: block;
+  width: 100%;
+}
+
+/* 加载中的等比骨架，按常见 banner 比例给一个温和占位 */
+.ad-skeleton {
+  width: 100%;
+  height: 160rpx;
+  border-radius: 20rpx;
+}
+
+.ad-wrap.is-loaded .ad-skeleton {
+  display: none;
+}
+
+/* 开发期占位 */
+.ad-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10rpx;
+  height: 160rpx;
+  border: 2rpx dashed #d8dce3;
+  border-radius: 20rpx;
+  background: #fafbfc;
+}
+
+.ph-badge {
+  padding: 4rpx 16rpx;
+  border-radius: 999rpx;
+  background: #eef2fb;
+  color: #2b6df6;
+  font-size: 22rpx;
+  font-weight: 600;
+}
+
+.ph-text {
+  font-size: 22rpx;
+  color: #9aa0a6;
+  padding: 0 40rpx;
+  text-align: center;
+}
+
+.ad-close {
+  position: absolute;
+  top: 8rpx;
+  right: 8rpx;
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.32);
+  color: #fff;
+  font-size: 28rpx;
+  line-height: 36rpx;
+  text-align: center;
+}

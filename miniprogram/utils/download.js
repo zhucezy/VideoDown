@@ -1,1 +1,129 @@
-Y29uc3QgeyBDT05GSUcgfSA9IHJlcXVpcmUoJy4vY29uZmlnJyk7CgovKioKICog55u45YaM5YaZ5YWl5o6I5p2D77yaCiAqIOmmluasoeebtOaOpeiwg+eUqOS/neWtmCBBUEkg5Lya6Ieq5Yqo5by556qX77yb55So5oi35ouS57ud6L+H5LmL5ZCO5b+F6aG75byV5a+85Y676K6+572u6aG15byA5ZCv44CCCiAqLwpmdW5jdGlvbiBlbnN1cmVBbGJ1bUF1dGgoKSB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIHd4LmdldFNldHRpbmcoewogICAgICBzdWNjZXNzOiAocmVzKSA9PiB7CiAgICAgICAgY29uc3Qgc3RhdGUgPSByZXMuYXV0aFNldHRpbmdbJ3Njb3BlLndyaXRlUGhvdG9zQWxidW0nXTsKICAgICAgICBpZiAoc3RhdGUgPT09IHRydWUpIHJldHVybiByZXNvbHZlKHRydWUpOwoKICAgICAgICBpZiAoc3RhdGUgPT09IGZhbHNlKSB7CiAgICAgICAgICB3eC5zaG93TW9kYWwoewogICAgICAgICAgICB0aXRsZTogJ+mcgOimgeebuOWGjOadg+mZkCcsCiAgICAgICAgICAgIGNvbnRlbnQ6ICfkv53lrZjop4bpopHliLDmiYvmnLrpnIDopoHjgIzmt7vliqDliLDnm7jlhozjgI3mnYPpmZDvvIzor7flnKjorr7nva7kuK3lvIDlkK/jgIInLAogICAgICAgICAgICBjb25maXJtVGV4dDogJ+WOu+iuvue9ricsCiAgICAgICAgICAgIGNvbmZpcm1Db2xvcjogJyMyQjZERjYnLAogICAgICAgICAgICBzdWNjZXNzOiAobSkgPT4gewogICAgICAgICAgICAgIGlmICghbS5jb25maXJtKSByZXR1cm4gcmVqZWN0KHsgbWVzc2FnZTogJ+W3suWPlua2iOS/neWtmCcgfSk7CiAgICAgICAgICAgICAgd3gub3BlblNldHRpbmcoewogICAgICAgICAgICAgICAgc3VjY2VzczogKHMpID0+IHsKICAgICAgICAgICAgICAgICAgaWYgKHMuYXV0aFNldHRpbmdbJ3Njb3BlLndyaXRlUGhvdG9zQWxidW0nXSkgcmVzb2x2ZSh0cnVlKTsKICAgICAgICAgICAgICAgICAgZWxzZSByZWplY3QoeyBtZXNzYWdlOiAn5pyq5byA5ZCv55u45YaM5p2D6ZmQJyB9KTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBmYWlsOiAoKSA9PiByZWplY3QoeyBtZXNzYWdlOiAn5omT5byA6K6+572u5aSx6LSlJyB9KSwKICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgZmFpbDogKCkgPT4gcmVqZWN0KHsgbWVzc2FnZTogJ+W3suWPlua2iOS/neWtmCcgfSksCiAgICAgICAgICB9KTsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIC8vIHVuZGVmaW5lZO+8muWwmuacquivoumXrui/h++8jOS6pOe7meezu+e7n+WcqOS/neWtmOaXtuW8ueeqlwogICAgICAgIHJlc29sdmUodHJ1ZSk7CiAgICAgIH0sCiAgICAgIGZhaWw6ICgpID0+IHJlc29sdmUodHJ1ZSksCiAgICB9KTsKICB9KTsKfQoKLyoqCiAqIOS4i+i9veaWh+S7tuW5tuWbnuiwg+i/m+W6pgogKiBAcGFyYW0ge3N0cmluZ30gdXJsICDlv4XpobvmmK8gZG93bmxvYWRGaWxlIOWQiOazleWfn+WQjeS4i+eahOWcsOWdgO+8iOi1sOiHquW7uuS7o+eQhu+8iQogKiBAcGFyYW0ge2Z1bmN0aW9ufSBvblByb2dyZXNzIChwZXJjZW50Om51bWJlciwgd3JpdHRlbk1COnN0cmluZywgdG90YWxNQjpzdHJpbmcpCiAqLwpmdW5jdGlvbiBkb3dubG9hZEZpbGUodXJsLCBvblByb2dyZXNzKSB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGNvbnN0IHRhc2sgPSB3eC5kb3dubG9hZEZpbGUoewogICAgICB1cmwsCiAgICAgIHRpbWVvdXQ6IENPTkZJRy5kb3dubG9hZFRpbWVvdXQsCiAgICAgIHN1Y2Nlc3M6IChyZXMpID0+IHsKICAgICAgICBpZiAocmVzLnN0YXR1c0NvZGUgPT09IDIwMCAmJiByZXMudGVtcEZpbGVQYXRoKSB7CiAgICAgICAgICByZXNvbHZlKHJlcy50ZW1wRmlsZVBhdGgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICByZWplY3QoeyBtZXNzYWdlOiBg5LiL6L295aSx6LSlKCR7cmVzLnN0YXR1c0NvZGV9KWAgfSk7CiAgICAgICAgfQogICAgICB9LAogICAgICBmYWlsOiAoZXJyKSA9PiB7CiAgICAgICAgY29uc3QgbXNnID0gL3RpbWVvdXQvaS50ZXN0KGVyci5lcnJNc2cgfHwgJycpCiAgICAgICAgICA/ICfkuIvovb3otoXml7bvvIzlj6/lsJ3or5XliIfmjaLovoPkvY7muIXmmbDluqYnCiAgICAgICAgICA6ICfkuIvovb3lpLHotKXvvIzpk77mjqXlj6/og73lt7LlpLHmlYgnOwogICAgICAgIHJlamVjdCh7IG1lc3NhZ2U6IG1zZywgZGV0YWlsOiBlcnIgfSk7CiAgICAgIH0sCiAgICB9KTsKCiAgICBpZiAodHlwZW9mIG9uUHJvZ3Jlc3MgPT09ICdmdW5jdGlvbicpIHsKICAgICAgdGFzay5vblByb2dyZXNzVXBkYXRlKChwKSA9PiB7CiAgICAgICAgb25Qcm9ncmVzcygKICAgICAgICAgIHAucHJvZ3Jlc3MsCiAgICAgICAgICAocC50b3RhbEJ5dGVzV3JpdHRlbiAvIDEwNDg1NzYpLnRvRml4ZWQoMSksCiAgICAgICAgICAocC50b3RhbEJ5dGVzRXhwZWN0ZWRUb1dyaXRlIC8gMTA0ODU3NikudG9GaXhlZCgxKQogICAgICAgICk7CiAgICAgIH0pOwogICAgfQogICAgcmV0dXJuIHRhc2s7CiAgfSk7Cn0KCmZ1bmN0aW9uIHNhdmVWaWRlbyh0ZW1wRmlsZVBhdGgpIHsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgd3guc2F2ZVZpZGVvVG9QaG90b3NBbGJ1bSh7CiAgICAgIGZpbGVQYXRoOiB0ZW1wRmlsZVBhdGgsCiAgICAgIHN1Y2Nlc3M6IHJlc29sdmUsCiAgICAgIGZhaWw6IChlcnIpID0+IHsKICAgICAgICBjb25zdCBkZW5pZWQgPSAvYXV0aCBkZW55fGF1dGhvcml6ZXxwZXJtaXNzaW9uL2kudGVzdChlcnIuZXJyTXNnIHx8ICcnKTsKICAgICAgICByZWplY3QoewogICAgICAgICAgbWVzc2FnZTogZGVuaWVkID8gJ+acquaOiOadg+S/neWtmOWIsOebuOWGjCcgOiAn5L+d5a2Y5aSx6LSl77yM6K+36YeN6K+VJywKICAgICAgICAgIGRlbmllZCwKICAgICAgICAgIGRldGFpbDogZXJyLAogICAgICAgIH0pOwogICAgICB9LAogICAgfSk7CiAgfSk7Cn0KCmZ1bmN0aW9uIHNhdmVJbWFnZSh0ZW1wRmlsZVBhdGgpIHsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgd3guc2F2ZUltYWdlVG9QaG90b3NBbGJ1bSh7CiAgICAgIGZpbGVQYXRoOiB0ZW1wRmlsZVBhdGgsCiAgICAgIHN1Y2Nlc3M6IHJlc29sdmUsCiAgICAgIGZhaWw6IChlcnIpID0+IHJlamVjdCh7IG1lc3NhZ2U6ICfkv53lrZjlpLHotKXvvIzor7fph43or5UnLCBkZXRhaWw6IGVyciB9KSwKICAgIH0pOwogIH0pOwp9CgovKiog5aSN5Yi25paH5pysICovCmZ1bmN0aW9uIGNvcHlUZXh0KHRleHQsIHRpcCkgewogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewogICAgd3guc2V0Q2xpcGJvYXJkRGF0YSh7CiAgICAgIGRhdGE6IFN0cmluZyh0ZXh0IHx8ICcnKSwKICAgICAgc3VjY2VzczogKCkgPT4gewogICAgICAgIHd4LmhpZGVUb2FzdCgpOwogICAgICAgIHd4LnNob3dUb2FzdCh7IHRpdGxlOiB0aXAgfHwgJ+W3suWkjeWIticsIGljb246ICdub25lJyB9KTsKICAgICAgICByZXNvbHZlKHRydWUpOwogICAgICB9LAogICAgICBmYWlsOiAoKSA9PiByZXNvbHZlKGZhbHNlKSwKICAgIH0pOwogIH0pOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBlbnN1cmVBbGJ1bUF1dGgsCiAgZG93bmxvYWRGaWxlLAogIHNhdmVWaWRlbywKICBzYXZlSW1hZ2UsCiAgY29weVRleHQsCn07Cg==
+const { CONFIG } = require('./config');
+
+/**
+ * 相册写入授权：
+ * 首次直接调用保存 API 会自动弹窗；用户拒绝过之后必须引导去设置页开启。
+ */
+function ensureAlbumAuth() {
+  return new Promise((resolve, reject) => {
+    wx.getSetting({
+      success: (res) => {
+        const state = res.authSetting['scope.writePhotosAlbum'];
+        if (state === true) return resolve(true);
+
+        if (state === false) {
+          wx.showModal({
+            title: '需要相册权限',
+            content: '保存视频到手机需要「添加到相册」权限，请在设置中开启。',
+            confirmText: '去设置',
+            confirmColor: '#2B6DF6',
+            success: (m) => {
+              if (!m.confirm) return reject({ message: '已取消保存' });
+              wx.openSetting({
+                success: (s) => {
+                  if (s.authSetting['scope.writePhotosAlbum']) resolve(true);
+                  else reject({ message: '未开启相册权限' });
+                },
+                fail: () => reject({ message: '打开设置失败' }),
+              });
+            },
+            fail: () => reject({ message: '已取消保存' }),
+          });
+          return;
+        }
+
+        // undefined：尚未询问过，交给系统在保存时弹窗
+        resolve(true);
+      },
+      fail: () => resolve(true),
+    });
+  });
+}
+
+/**
+ * 下载文件并回调进度
+ * @param {string} url  必须是 downloadFile 合法域名下的地址（走自建代理）
+ * @param {function} onProgress (percent:number, writtenMB:string, totalMB:string)
+ */
+function downloadFile(url, onProgress) {
+  return new Promise((resolve, reject) => {
+    const task = wx.downloadFile({
+      url,
+      timeout: CONFIG.downloadTimeout,
+      success: (res) => {
+        if (res.statusCode === 200 && res.tempFilePath) {
+          resolve(res.tempFilePath);
+        } else {
+          reject({ message: `下载失败(${res.statusCode})` });
+        }
+      },
+      fail: (err) => {
+        const msg = /timeout/i.test(err.errMsg || '')
+          ? '下载超时，可尝试切换较低清晰度'
+          : '下载失败，链接可能已失效';
+        reject({ message: msg, detail: err });
+      },
+    });
+
+    if (typeof onProgress === 'function') {
+      task.onProgressUpdate((p) => {
+        onProgress(
+          p.progress,
+          (p.totalBytesWritten / 1048576).toFixed(1),
+          (p.totalBytesExpectedToWrite / 1048576).toFixed(1)
+        );
+      });
+    }
+    return task;
+  });
+}
+
+function saveVideo(tempFilePath) {
+  return new Promise((resolve, reject) => {
+    wx.saveVideoToPhotosAlbum({
+      filePath: tempFilePath,
+      success: resolve,
+      fail: (err) => {
+        const denied = /auth deny|authorize|permission/i.test(err.errMsg || '');
+        reject({
+          message: denied ? '未授权保存到相册' : '保存失败，请重试',
+          denied,
+          detail: err,
+        });
+      },
+    });
+  });
+}
+
+function saveImage(tempFilePath) {
+  return new Promise((resolve, reject) => {
+    wx.saveImageToPhotosAlbum({
+      filePath: tempFilePath,
+      success: resolve,
+      fail: (err) => reject({ message: '保存失败，请重试', detail: err }),
+    });
+  });
+}
+
+/** 复制文本 */
+function copyText(text, tip) {
+  return new Promise((resolve) => {
+    wx.setClipboardData({
+      data: String(text || ''),
+      success: () => {
+        wx.hideToast();
+        wx.showToast({ title: tip || '已复制', icon: 'none' });
+        resolve(true);
+      },
+      fail: () => resolve(false),
+    });
+  });
+}
+
+module.exports = {
+  ensureAlbumAuth,
+  downloadFile,
+  saveVideo,
+  saveImage,
+  copyText,
+};

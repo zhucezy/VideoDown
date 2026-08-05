@@ -1,1 +1,75 @@
-LyoqCiAqIOS7juWIhuS6q+WPo+S7pCAvIOa3t+adguaWh+ahiOS4reaPkOWPlue6r+WHgCBVUkzjgIIKICog5ZCE5bmz5Y+w5YiG5Lqr5Ye65p2l55qE5paH5pys5b2i5aaC77yaCiAqICAgNy42NSDlpI3liLbmiZPlvIDmipbpn7PvvIznnIvnnIvjgJB4eHjjgJEgaHR0cHM6Ly92LmRvdXlpbi5jb20vaVJ4eHh4LyDlpI3liLbmraTpk77mjqUuLi4KICogICDlj5HnjrDkuIDkuKrmnInotqPnmoTop4bpopEgaHR0cHM6Ly94aHNsaW5rLmNvbS9hL3h4eHh477yM5aSN5Yi25pys5p2h5L+h5oGvLi4uCiAqLwpjb25zdCBVUkxfUkUgPSAvKGh0dHBzPzpcL1wvWy1BLVphLXowLTkrJkAjLyU/PX5ffCE6LC47KCkqJF0rWy1BLVphLXowLTkrJkAjLyU9fl98JF0pL2c7CgovKiog57uT5bC+5bi46KeB55qE5Lit5paH5qCH54K5IC8g5YWo6KeS56ym5Y+377yM6ZyA6KaB5Yml56a7ICovCmNvbnN0IFRBSUxfVFJJTSA9IC9b77yMLOOAguOAge+8mzvvvJo677yBIe+8nz/igJ0i4oCZJ++8iSnjgJFcXVxzXSskLzsKCmZ1bmN0aW9uIGV4dHJhY3RVcmxzKHRleHQpIHsKICBpZiAoIXRleHQpIHJldHVybiBbXTsKICBjb25zdCByYXcgPSBTdHJpbmcodGV4dCkucmVwbGFjZSgvXHUwMEEwL2csICcgJyk7CiAgY29uc3QgZm91bmQgPSByYXcubWF0Y2goVVJMX1JFKSB8fCBbXTsKICByZXR1cm4gZm91bmQKICAgIC5tYXAoKHUpID0+IHUucmVwbGFjZShUQUlMX1RSSU0sICcnKSkKICAgIC5maWx0ZXIoKHUpID0+IHUubGVuZ3RoID4gMTApOwp9CgovKiog5Y+W56ys5LiA5p2h6ZO+5o6l77yb5rKh5pyJIGh0dHAg5YmN57yA5pe25bCd6K+V6KGl5YWo6KO45Z+f5ZCNICovCmZ1bmN0aW9uIGV4dHJhY3RGaXJzdFVybCh0ZXh0KSB7CiAgY29uc3QgbGlzdCA9IGV4dHJhY3RVcmxzKHRleHQpOwogIGlmIChsaXN0Lmxlbmd0aCkgcmV0dXJuIGxpc3RbMF07CgogIGNvbnN0IGJhcmUgPSBTdHJpbmcodGV4dCB8fCAnJykubWF0Y2goCiAgICAvKCg/Oltcdy1dK1wuKSsoPzpjb218Y258dHZ8bmV0fHRvcHx2aXB8bGlua3xxcXx2aWRlbykoPzpcL1teXHPvvIws44CC77ybO++8gSHvvJ8/XSopPykvaQogICk7CiAgaWYgKGJhcmUpIHJldHVybiBgaHR0cHM6Ly8ke2JhcmVbMV0ucmVwbGFjZShUQUlMX1RSSU0sICcnKX1gOwogIHJldHVybiAnJzsKfQoKZnVuY3Rpb24gZ2V0SG9zdCh1cmwpIHsKICBjb25zdCBtID0gU3RyaW5nKHVybCB8fCAnJykubWF0Y2goL15odHRwcz86XC9cLyhbXi8/IzpdKykvaSk7CiAgcmV0dXJuIG0gPyBtWzFdLnRvTG93ZXJDYXNlKCkgOiAnJzsKfQoKLyoqIOWtl+iKguaVsCDihpIg5Y+v6K+75aSn5bCPICovCmZ1bmN0aW9uIGZvcm1hdFNpemUoYnl0ZXMpIHsKICBjb25zdCBuID0gTnVtYmVyKGJ5dGVzKTsKICBpZiAoIW4gfHwgbiA8PSAwKSByZXR1cm4gJyc7CiAgaWYgKG4gPCAxMDI0KSByZXR1cm4gYCR7bn1CYDsKICBpZiAobiA8IDEwMjQgKiAxMDI0KSByZXR1cm4gYCR7KG4gLyAxMDI0KS50b0ZpeGVkKDApfUtCYDsKICByZXR1cm4gYCR7KG4gLyAxMDI0IC8gMTAyNCkudG9GaXhlZCgxKX1NQmA7Cn0KCi8qKiDnp5Ig4oaSIG1tOnNzICovCmZ1bmN0aW9uIGZvcm1hdER1cmF0aW9uKHNlYykgewogIGNvbnN0IHMgPSBNYXRoLnJvdW5kKE51bWJlcihzZWMpIHx8IDApOwogIGlmICghcykgcmV0dXJuICcnOwogIGNvbnN0IG0gPSBNYXRoLmZsb29yKHMgLyA2MCk7CiAgY29uc3QgciA9IHMgJSA2MDsKICByZXR1cm4gYCR7bX06JHtyIDwgMTAgPyAnMCcgOiAnJ30ke3J9YDsKfQoKZnVuY3Rpb24gZm9ybWF0VGltZSh0cykgewogIGNvbnN0IGQgPSBuZXcgRGF0ZShOdW1iZXIodHMpIHx8IERhdGUubm93KCkpOwogIGNvbnN0IHAgPSAobikgPT4gKG4gPCAxMCA/IGAwJHtufWAgOiBgJHtufWApOwogIGNvbnN0IHRvZGF5ID0gbmV3IERhdGUoKTsKICBjb25zdCBzYW1lRGF5ID0KICAgIGQuZ2V0RnVsbFllYXIoKSA9PT0gdG9kYXkuZ2V0RnVsbFllYXIoKSAmJgogICAgZC5nZXRNb250aCgpID09PSB0b2RheS5nZXRNb250aCgpICYmCiAgICBkLmdldERhdGUoKSA9PT0gdG9kYXkuZ2V0RGF0ZSgpOwogIGNvbnN0IGhtID0gYCR7cChkLmdldEhvdXJzKCkpfToke3AoZC5nZXRNaW51dGVzKCkpfWA7CiAgcmV0dXJuIHNhbWVEYXkgPyBg5LuK5aSpICR7aG19YCA6IGAke2QuZ2V0TW9udGgoKSArIDF95pyIJHtkLmdldERhdGUoKX3ml6UgJHtobX1gOwp9Cgptb2R1bGUuZXhwb3J0cyA9IHsKICBleHRyYWN0VXJscywKICBleHRyYWN0Rmlyc3RVcmwsCiAgZ2V0SG9zdCwKICBmb3JtYXRTaXplLAogIGZvcm1hdER1cmF0aW9uLAogIGZvcm1hdFRpbWUsCn07Cg==
+/**
+ * 从分享口令 / 混杂文案中提取纯净 URL。
+ * 各平台分享出来的文本形如：
+ *   7.65 复制打开抖音，看看【xxx】 https://v.douyin.com/iRxxxx/ 复制此链接...
+ *   发现一个有趣的视频 https://xhslink.com/a/xxxxx，复制本条信息...
+ */
+const URL_RE = /(https?:\/\/[-A-Za-z0-9+&@#/%?=~_|!:,.;()*$]+[-A-Za-z0-9+&@#/%=~_|$])/g;
+
+/** 结尾常见的中文标点 / 全角符号，需要剥离 */
+const TAIL_TRIM = /[，,。、；;：:！!？?”"’'）)】\]\s]+$/;
+
+function extractUrls(text) {
+  if (!text) return [];
+  const raw = String(text).replace(/\u00A0/g, ' ');
+  const found = raw.match(URL_RE) || [];
+  return found
+    .map((u) => u.replace(TAIL_TRIM, ''))
+    .filter((u) => u.length > 10);
+}
+
+/** 取第一条链接；没有 http 前缀时尝试补全裸域名 */
+function extractFirstUrl(text) {
+  const list = extractUrls(text);
+  if (list.length) return list[0];
+
+  const bare = String(text || '').match(
+    /((?:[\w-]+\.)+(?:com|cn|tv|net|top|vip|link|qq|video)(?:\/[^\s，,。；;！!？?]*)?)/i
+  );
+  if (bare) return `https://${bare[1].replace(TAIL_TRIM, '')}`;
+  return '';
+}
+
+function getHost(url) {
+  const m = String(url || '').match(/^https?:\/\/([^/?#:]+)/i);
+  return m ? m[1].toLowerCase() : '';
+}
+
+/** 字节数 → 可读大小 */
+function formatSize(bytes) {
+  const n = Number(bytes);
+  if (!n || n <= 0) return '';
+  if (n < 1024) return `${n}B`;
+  if (n < 1024 * 1024) return `${(n / 1024).toFixed(0)}KB`;
+  return `${(n / 1024 / 1024).toFixed(1)}MB`;
+}
+
+/** 秒 → mm:ss */
+function formatDuration(sec) {
+  const s = Math.round(Number(sec) || 0);
+  if (!s) return '';
+  const m = Math.floor(s / 60);
+  const r = s % 60;
+  return `${m}:${r < 10 ? '0' : ''}${r}`;
+}
+
+function formatTime(ts) {
+  const d = new Date(Number(ts) || Date.now());
+  const p = (n) => (n < 10 ? `0${n}` : `${n}`);
+  const today = new Date();
+  const sameDay =
+    d.getFullYear() === today.getFullYear() &&
+    d.getMonth() === today.getMonth() &&
+    d.getDate() === today.getDate();
+  const hm = `${p(d.getHours())}:${p(d.getMinutes())}`;
+  return sameDay ? `今天 ${hm}` : `${d.getMonth() + 1}月${d.getDate()}日 ${hm}`;
+}
+
+module.exports = {
+  extractUrls,
+  extractFirstUrl,
+  getHost,
+  formatSize,
+  formatDuration,
+  formatTime,
+};

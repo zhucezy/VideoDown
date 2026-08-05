@@ -1,1 +1,8 @@
-ewogICJ1c2luZ0NvbXBvbmVudHMiOiB7CiAgICAibmF2LWJhciI6ICIvY29tcG9uZW50cy9uYXYtYmFyL25hdi1iYXIiLAogICAgImFkLWJhbm5lciI6ICIvY29tcG9uZW50cy9hZC1iYW5uZXIvYWQtYmFubmVyIgogIH0sCiAgIm5hdmlnYXRpb25TdHlsZSI6ICJjdXN0b20iLAogICJiYWNrZ3JvdW5kQ29sb3IiOiAiI0Y0RjVGNyIKfQo=
+{
+  "usingComponents": {
+    "nav-bar": "/components/nav-bar/nav-bar",
+    "ad-banner": "/components/ad-banner/ad-banner"
+  },
+  "navigationStyle": "custom",
+  "backgroundColor": "#F4F5F7"
+}

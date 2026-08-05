@@ -1,1 +1,113 @@
-LyoqIOS4muWKoeW8guW4uO+8jOW4puiHquWumuS5iSBjb2RlIOS+m+Wwj+eoi+W6j+err+WBmuW3ruW8guWMluaPkOekuiAqLwpjbGFzcyBCaXpFcnJvciBleHRlbmRzIEVycm9yIHsKICBjb25zdHJ1Y3Rvcihjb2RlLCBtZXNzYWdlKSB7CiAgICBzdXBlcihtZXNzYWdlKTsKICAgIHRoaXMuY29kZSA9IGNvZGU7CiAgfQp9Cgpjb25zdCBFUlIgPSB7CiAgQkFEX1VSTDogNDAwMSwKICBOT1RfRk9VTkQ6IDQwMDQsCiAgUkFURV9MSU1JVDogNDAyOSwKICBVTlNVUFBPUlRFRDogNDA5MCwKICBVUFNUUkVBTTogNTAwMSwKfTsKCi8qKiDku47ku7vmhI/mlofmnKzkuK3mj5Dlj5bnrKzkuIDmnaEgVVJMICovCmZ1bmN0aW9uIHBpY2tVcmwodGV4dCkgewogIGlmICghdGV4dCkgcmV0dXJuICcnOwogIGNvbnN0IG0gPSBTdHJpbmcodGV4dCkubWF0Y2goCiAgICAvaHR0cHM/OlwvXC9bLUEtWmEtejAtOSsmQCMvJT89fl98ITosLjsoKSokXStbLUEtWmEtejAtOSsmQCMvJT1+X3wkXS8KICApOwogIHJldHVybiBtID8gbVswXS5yZXBsYWNlKC9b77yMLOOAguOAge+8mzvvvJo677yBIe+8nz/igJ0i4oCZJ++8iSnjgJFcXV0rJC8sICcnKSA6ICcnOwp9CgovKiog56eSIOKGkiBtbTpzcyAqLwpmdW5jdGlvbiBkdXJhdGlvblRleHQoc2VjKSB7CiAgY29uc3QgcyA9IE1hdGgucm91bmQoTnVtYmVyKHNlYykgfHwgMCk7CiAgaWYgKCFzKSByZXR1cm4gJyc7CiAgY29uc3QgbSA9IE1hdGguZmxvb3IocyAvIDYwKTsKICBjb25zdCByID0gcyAlIDYwOwogIHJldHVybiBgJHttfToke3IgPCAxMCA/ICcwJyA6ICcnfSR7cn1gOwp9CgpmdW5jdGlvbiBzaXplVGV4dChieXRlcykgewogIGNvbnN0IG4gPSBOdW1iZXIoYnl0ZXMpOwogIGlmICghbiB8fCBuIDw9IDApIHJldHVybiAnJzsKICBpZiAobiA8IDEwMjQgKiAxMDI0KSByZXR1cm4gYCR7KG4gLyAxMDI0KS50b0ZpeGVkKDApfUtCYDsKICByZXR1cm4gYCR7KG4gLyAxMDQ4NTc2KS50b0ZpeGVkKDEpfU1CYDsKfQoKLyoqIOaMieefrei+uee7meWHuuS6uuexu+WPr+ivu+eahOa4heaZsOW6puagh+etviAqLwpmdW5jdGlvbiByZXNvbHV0aW9uTGFiZWwod2lkdGgsIGhlaWdodCwgZmFsbGJhY2spIHsKICBjb25zdCB3ID0gTnVtYmVyKHdpZHRoKSB8fCAwOwogIGNvbnN0IGggPSBOdW1iZXIoaGVpZ2h0KSB8fCAwOwogIGlmICghdyB8fCAhaCkgcmV0dXJuIGZhbGxiYWNrIHx8ICfmoIfmuIUnOwogIGNvbnN0IHNob3J0U2lkZSA9IE1hdGgubWluKHcsIGgpOwogIGlmIChzaG9ydFNpZGUgPj0gMjE2MCkgcmV0dXJuICc0Syc7CiAgaWYgKHNob3J0U2lkZSA+PSAxNDQwKSByZXR1cm4gJzJLJzsKICBpZiAoc2hvcnRTaWRlID49IDEwODApIHJldHVybiAnMTA4MFAnOwogIGlmIChzaG9ydFNpZGUgPj0gNzIwKSByZXR1cm4gJzcyMFAnOwogIGlmIChzaG9ydFNpZGUgPj0gNTQwKSByZXR1cm4gJzU0MFAnOwogIGlmIChzaG9ydFNpZGUgPj0gNDgwKSByZXR1cm4gJzQ4MFAnOwogIHJldHVybiBgJHtzaG9ydFNpZGV9UGA7Cn0KCi8qKgogKiDmuIXmmbDluqbljrvph40gKyDlgJLluo/vvJrliIbovqjnjocgPiDnoIHnjocgPiDkvZPnp68KICog5L+d6K+BIHF1YWxpdGllc1swXSDkuIDlrprmmK/lj6/kuIvovb3nmoTmnIDpq5jnlLvotKgKICovCmZ1bmN0aW9uIHNvcnRRdWFsaXRpZXMobGlzdCkgewogIGNvbnN0IHNlZW4gPSBuZXcgU2V0KCk7CiAgcmV0dXJuIGxpc3QKICAgIC5maWx0ZXIoKHEpID0+IHsKICAgICAgaWYgKCFxIHx8ICFxLnVybCkgcmV0dXJuIGZhbHNlOwogICAgICBjb25zdCBrZXkgPSBgJHtxLndpZHRofXgke3EuaGVpZ2h0fV8ke3EuYml0cmF0ZSB8fCAwfWA7CiAgICAgIGlmIChzZWVuLmhhcyhrZXkpKSByZXR1cm4gZmFsc2U7CiAgICAgIHNlZW4uYWRkKGtleSk7CiAgICAgIHJldHVybiB0cnVlOwogICAgfSkKICAgIC5zb3J0KChhLCBiKSA9PiB7CiAgICAgIGNvbnN0IHJhID0gKGEud2lkdGggfHwgMCkgKiAoYS5oZWlnaHQgfHwgMCk7CiAgICAgIGNvbnN0IHJiID0gKGIud2lkdGggfHwgMCkgKiAoYi5oZWlnaHQgfHwgMCk7CiAgICAgIGlmIChyYiAhPT0gcmEpIHJldHVybiByYiAtIHJhOwogICAgICBpZiAoKGIuYml0cmF0ZSB8fCAwKSAhPT0gKGEuYml0cmF0ZSB8fCAwKSkKICAgICAgICByZXR1cm4gKGIuYml0cmF0ZSB8fCAwKSAtIChhLmJpdHJhdGUgfHwgMCk7CiAgICAgIHJldHVybiAoYi5zaXplIHx8IDApIC0gKGEuc2l6ZSB8fCAwKTsKICAgIH0pOwp9CgovKiog5riF5rSX5qCH6aKY6YeM55qE6K+d6aKY5qCH562+5LiO5o6o5bm/5ZCO57yAICovCmZ1bmN0aW9uIGNsZWFuVGl0bGUocmF3KSB7CiAgcmV0dXJuIFN0cmluZyhyYXcgfHwgJycpCiAgICAucmVwbGFjZSgvI1teXHMjXSsvZywgJycpCiAgICAucmVwbGFjZSgvQFteXHNAXSsvZywgJycpCiAgICAucmVwbGFjZSgvXHN7Mix9L2csICcgJykKICAgIC50cmltKCk7Cn0KCi8qKiBfX0lOSVRJQUxfU1RBVEVfXyDkuYvnsbvnmoQgSlMg5a2X6Z2i6YeP6YeM5bi45pyJIHVuZGVmaW5lZO+8jOmcgOimgeWkhOeQhuWQjuaJjeiDvSBKU09OLnBhcnNlICovCmZ1bmN0aW9uIHNhZmVKc29uUGFyc2UodGV4dCkgewogIHRyeSB7CiAgICByZXR1cm4gSlNPTi5wYXJzZSh0ZXh0KTsKICB9IGNhdGNoIChlKSB7CiAgICB0cnkgewogICAgICByZXR1cm4gSlNPTi5wYXJzZSh0ZXh0LnJlcGxhY2UoL3VuZGVmaW5lZC9nLCAnbnVsbCcpKTsKICAgIH0gY2F0Y2ggKGUyKSB7CiAgICAgIHJldHVybiBudWxsOwogICAgfQogIH0KfQoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgQml6RXJyb3IsCiAgRVJSLAogIHBpY2tVcmwsCiAgZHVyYXRpb25UZXh0LAogIHNpemVUZXh0LAogIHJlc29sdXRpb25MYWJlbCwKICBzb3J0UXVhbGl0aWVzLAogIGNsZWFuVGl0bGUsCiAgc2FmZUpzb25QYXJzZSwKfTsK
+/** 业务异常，带自定义 code 供小程序端做差异化提示 */
+class BizError extends Error {
+  constructor(code, message) {
+    super(message);
+    this.code = code;
+  }
+}
+
+const ERR = {
+  BAD_URL: 4001,
+  NOT_FOUND: 4004,
+  RATE_LIMIT: 4029,
+  UNSUPPORTED: 4090,
+  UPSTREAM: 5001,
+};
+
+/** 从任意文本中提取第一条 URL */
+function pickUrl(text) {
+  if (!text) return '';
+  const m = String(text).match(
+    /https?:\/\/[-A-Za-z0-9+&@#/%?=~_|!:,.;()*$]+[-A-Za-z0-9+&@#/%=~_|$]/
+  );
+  return m ? m[0].replace(/[，,。、；;：:！!？?”"’'）)】\]]+$/, '') : '';
+}
+
+/** 秒 → mm:ss */
+function durationText(sec) {
+  const s = Math.round(Number(sec) || 0);
+  if (!s) return '';
+  const m = Math.floor(s / 60);
+  const r = s % 60;
+  return `${m}:${r < 10 ? '0' : ''}${r}`;
+}
+
+function sizeText(bytes) {
+  const n = Number(bytes);
+  if (!n || n <= 0) return '';
+  if (n < 1024 * 1024) return `${(n / 1024).toFixed(0)}KB`;
+  return `${(n / 1048576).toFixed(1)}MB`;
+}
+
+/** 按短边给出人类可读的清晰度标签 */
+function resolutionLabel(width, height, fallback) {
+  const w = Number(width) || 0;
+  const h = Number(height) || 0;
+  if (!w || !h) return fallback || '标清';
+  const shortSide = Math.min(w, h);
+  if (shortSide >= 2160) return '4K';
+  if (shortSide >= 1440) return '2K';
+  if (shortSide >= 1080) return '1080P';
+  if (shortSide >= 720) return '720P';
+  if (shortSide >= 540) return '540P';
+  if (shortSide >= 480) return '480P';
+  return `${shortSide}P`;
+}
+
+/**
+ * 清晰度去重 + 倒序：分辨率 > 码率 > 体积
+ * 保证 qualities[0] 一定是可下载的最高画质
+ */
+function sortQualities(list) {
+  const seen = new Set();
+  return list
+    .filter((q) => {
+      if (!q || !q.url) return false;
+      const key = `${q.width}x${q.height}_${q.bitrate || 0}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
+    .sort((a, b) => {
+      const ra = (a.width || 0) * (a.height || 0);
+      const rb = (b.width || 0) * (b.height || 0);
+      if (rb !== ra) return rb - ra;
+      if ((b.bitrate || 0) !== (a.bitrate || 0))
+        return (b.bitrate || 0) - (a.bitrate || 0);
+      return (b.size || 0) - (a.size || 0);
+    });
+}
+
+/** 清洗标题里的话题标签与推广后缀 */
+function cleanTitle(raw) {
+  return String(raw || '')
+    .replace(/#[^\s#]+/g, '')
+    .replace(/@[^\s@]+/g, '')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+
+/** __INITIAL_STATE__ 之类的 JS 字面量里常有 undefined，需要处理后才能 JSON.parse */
+function safeJsonParse(text) {
+  try {
+    return JSON.parse(text);
+  } catch (e) {
+    try {
+      return JSON.parse(text.replace(/undefined/g, 'null'));
+    } catch (e2) {
+      return null;
+    }
+  }
+}
+
+module.exports = {
+  BizError,
+  ERR,
+  pickUrl,
+  durationText,
+  sizeText,
+  resolutionLabel,
+  sortQualities,
+  cleanTitle,
+  safeJsonParse,
+};

@@ -1,1 +1,50 @@
-ewogICJwYWdlcyI6IFsKICAgICJwYWdlcy9pbmRleC9pbmRleCIsCiAgICAicGFnZXMvaGlzdG9yeS9oaXN0b3J5IiwKICAgICJwYWdlcy9taW5lL21pbmUiCiAgXSwKICAid2luZG93IjogewogICAgIm5hdmlnYXRpb25TdHlsZSI6ICJjdXN0b20iLAogICAgImJhY2tncm91bmRDb2xvciI6ICIjRjRGNUY3IiwKICAgICJiYWNrZ3JvdW5kQ29sb3JUb3AiOiAiI0Y0RjVGNyIsCiAgICAiYmFja2dyb3VuZENvbG9yQm90dG9tIjogIiNGNEY1RjciLAogICAgImJhY2tncm91bmRUZXh0U3R5bGUiOiAiZGFyayIsCiAgICAiZW5hYmxlUHVsbERvd25SZWZyZXNoIjogZmFsc2UKICB9LAogICJ0YWJCYXIiOiB7CiAgICAiY29sb3IiOiAiIzlBQTBBNiIsCiAgICAic2VsZWN0ZWRDb2xvciI6ICIjMkI2REY2IiwKICAgICJiYWNrZ3JvdW5kQ29sb3IiOiAiI0ZGRkZGRiIsCiAgICAiYm9yZGVyU3R5bGUiOiAid2hpdGUiLAogICAgImxpc3QiOiBbCiAgICAgIHsKICAgICAgICAicGFnZVBhdGgiOiAicGFnZXMvaW5kZXgvaW5kZXgiLAogICAgICAgICJ0ZXh0IjogIuino+aekCIsCiAgICAgICAgImljb25QYXRoIjogImFzc2V0cy90YWJiYXIvaG9tZS5wbmciLAogICAgICAgICJzZWxlY3RlZEljb25QYXRoIjogImFzc2V0cy90YWJiYXIvaG9tZS1hY3RpdmUucG5nIgogICAgICB9LAogICAgICB7CiAgICAgICAgInBhZ2VQYXRoIjogInBhZ2VzL2hpc3RvcnkvaGlzdG9yeSIsCiAgICAgICAgInRleHQiOiAi6K6w5b2VIiwKICAgICAgICAiaWNvblBhdGgiOiAiYXNzZXRzL3RhYmJhci9oaXN0b3J5LnBuZyIsCiAgICAgICAgInNlbGVjdGVkSWNvblBhdGgiOiAiYXNzZXRzL3RhYmJhci9oaXN0b3J5LWFjdGl2ZS5wbmciCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAicGFnZVBhdGgiOiAicGFnZXMvbWluZS9taW5lIiwKICAgICAgICAidGV4dCI6ICLmiJHnmoQiLAogICAgICAgICJpY29uUGF0aCI6ICJhc3NldHMvdGFiYmFyL21pbmUucG5nIiwKICAgICAgICAic2VsZWN0ZWRJY29uUGF0aCI6ICJhc3NldHMvdGFiYmFyL21pbmUtYWN0aXZlLnBuZyIKICAgICAgfQogICAgXQogIH0sCiAgInBlcm1pc3Npb24iOiB7CiAgICAic2NvcGUud3JpdGVQaG90b3NBbGJ1bSI6IHsKICAgICAgImRlc2MiOiAi55So5LqO5bCG5L2g6Kej5p6Q5Ye655qE6KeG6aKR5LiO5bCB6Z2i5Zu+5L+d5a2Y5Yiw5omL5py655u45YaMIgogICAgfQogIH0sCiAgInJlcXVpcmVkQmFja2dyb3VuZE1vZGVzIjogW10sCiAgInNpdGVtYXBMb2NhdGlvbiI6ICJzaXRlbWFwLmpzb24iLAogICJsYXp5Q29kZUxvYWRpbmciOiAicmVxdWlyZWRDb21wb25lbnRzIiwKICAic3R5bGUiOiAidjIiCn0K
+{
+  "pages": [
+    "pages/index/index",
+    "pages/history/history",
+    "pages/mine/mine"
+  ],
+  "window": {
+    "navigationStyle": "custom",
+    "backgroundColor": "#F4F5F7",
+    "backgroundColorTop": "#F4F5F7",
+    "backgroundColorBottom": "#F4F5F7",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "color": "#9AA0A6",
+    "selectedColor": "#2B6DF6",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "解析",
+        "iconPath": "assets/tabbar/home.png",
+        "selectedIconPath": "assets/tabbar/home-active.png"
+      },
+      {
+        "pagePath": "pages/history/history",
+        "text": "记录",
+        "iconPath": "assets/tabbar/history.png",
+        "selectedIconPath": "assets/tabbar/history-active.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "assets/tabbar/mine.png",
+        "selectedIconPath": "assets/tabbar/mine-active.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.writePhotosAlbum": {
+      "desc": "用于将你解析出的视频与封面图保存到手机相册"
+    }
+  },
+  "requiredBackgroundModes": [],
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents",
+  "style": "v2"
+}

@@ -1,1 +1,10 @@
-ewogICJ1c2luZ0NvbXBvbmVudHMiOiB7CiAgICAibmF2LWJhciI6ICIvY29tcG9uZW50cy9uYXYtYmFyL25hdi1iYXIiLAogICAgImFkLWJhbm5lciI6ICIvY29tcG9uZW50cy9hZC1iYW5uZXIvYWQtYmFubmVyIiwKICAgICJwbGF0Zm9ybS1ncmlkIjogIi9jb21wb25lbnRzL3BsYXRmb3JtLWdyaWQvcGxhdGZvcm0tZ3JpZCIsCiAgICAicmVzdWx0LWNhcmQiOiAiL2NvbXBvbmVudHMvcmVzdWx0LWNhcmQvcmVzdWx0LWNhcmQiCiAgfSwKICAibmF2aWdhdGlvblN0eWxlIjogImN1c3RvbSIsCiAgImJhY2tncm91bmRDb2xvciI6ICIjRjRGNUY3Igp9Cg==
+{
+  "usingComponents": {
+    "nav-bar": "/components/nav-bar/nav-bar",
+    "ad-banner": "/components/ad-banner/ad-banner",
+    "platform-grid": "/components/platform-grid/platform-grid",
+    "result-card": "/components/result-card/result-card"
+  },
+  "navigationStyle": "custom",
+  "backgroundColor": "#F4F5F7"
+}

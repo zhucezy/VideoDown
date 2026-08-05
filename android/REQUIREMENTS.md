@@ -1,1 +1,51 @@
-IyBWaWRlb0Rvd24gQW5kcm9pZCDigJTigJQg6ZyA5rGC5LiO5Yaz562W5oC757uTCgo+IOacrOaWh+aho+eUqOS6jui3qOmhueebriAvIOi3qOS8muivneeVmeWtmOWFs+mUrumcgOaxgu+8jOmYsuatouaNoumhueebruWQjumBl+W/mOOAggo+IOmFjeWll+acjeWKoeerr+S7o+eggeS9jeS6jiBgLi4vc2VydmVyL2DvvIhOb2RlLmpzIEV4cHJlc3PvvIw4IOS4quW5s+WPsOmAgumFjeWZqCArIEhNQUMg562+5ZCN5Luj55CG77yJ77yM5a6J5Y2T5a6i5oi356uv5aSN55So5YW2IFJFU1Qg5o6l5Y+j77yM5peg6ZyA6YeN5YaZ6Kej5p6Q6YC76L6R44CCCgojIyDkuIDjgIHkuqflk4Hnm67moIcKCui+k+WFpeWQhOW5s+WPsCoq6KeG6aKR6aG16Z2i6ZO+5o6lKirvvIzop6PmnpDlh7rml6DmsLTljbDljp/niYfvvIzmjIkqKuWPr+S4i+i9veeahOacgOmrmOWIhui+qOeOhyoq5L+d5a2Y5Yiw5omL5py655u45YaM44CCCumZpOinhumikeWklu+8jOi/mOmcgOaUr+aMgSoq5Zu+54mHIC8g5Zu+5paH5re35ZCIIC8g57qv5Zu+54mHKirpobXpnaLvvIzkuJTmlK/mjIEqKueUqOaIt+WLvumAieS4i+i9vSoq44CCCgojIyDkuozjgIHlip/og73pnIDmsYLmuIXljZUKCnwgIyB8IOmcgOaxgiB8IOivtOaYjiB8CnwtLS18LS0tLS0tfC0tLS0tLXwKfCBGMSB8IOmTvuaOpeino+aekCB8IOeymOi0tCAvIOiHquWKqOaPkOWPluWJqui0tOadv+mTvuaOpSDihpIg6LCD55So5pyN5Yqh56uvIGAvYXBpL3BhcnNlYCB8CnwgRjIgfCDmnIDpq5jliIbovqjnjocgfCDmuIXmmbDluqbmjInjgIzliIbovqjnjocgPiDnoIHnjocgPiDkvZPnp6/jgI3kuInnuqfmjpLluo/vvIzpu5jorqTpgInmnIDpq5jlubbmoIfjgIzmnIDpq5jjgI0gfAp8IEYzIHwg5peg5rC05Y2wIHwg5L6d6LWW5pyN5Yqh56uv6Kej5p6Q5Ye655qE5Y6f54mH55u06ZO+77yI5bey55Sx5Luj55CG5Lit6L2s77yM57uV6L+HIENETiDpmLLnm5fpk77vvIkgfAp8IEY0IHwg5aSa5bmz5Y+wIHwg5b6u5Y2a44CB5oqW6Z+z44CB5b6u5L+h6KeG6aKR5Y+344CB5bCP57qi5Lmm44CB5Y2z5qKm77yI5pyN5Yqh56uv5Y+m5bey5omp5bGV5b+r5omLIC8gQuermSAvIOmAmueUqOWFnOW6lSAzMCvvvIkgfAp8IEY1IHwg5Zu+54mH5pSv5oyBIHwg5Zu+5paH5re35ZCI5ZCM6aG177ya6KeG6aKR5riF5pmw5bqm6YCJ5oupICsg5Zu+54mH572R5qC85aSa6YCJ77yb57qv5Zu+54mH6aG177ya5Li75oyJ6ZKu5Y+Y44CM5L+d5a2Y5Zu+54mH44CNIHwKfCBGNiB8IOmAieaLqeS4i+i9vSB8IOWbvueJh+e9keagvOaUr+aMgeWLvumAiSAvIOWFqOmAiSAvIOaMiemAieaLqeS/neWtmO+8m+inhumikeS/neWtmOaVtOadoSB8CnwgRjcgfCDljoblj7LorrDlvZUgfCDmnKzlnLDlrZjlgqjop6PmnpDljoblj7LvvIzljLrliIbjgIzop4bpopEgLyDlm77mlocgLyDlm77niYfjgI3nsbvlnovvvIzlj6/ph43mlrDkv53lrZggLyDliKDpmaQgLyDmuIXnqbogfAp8IEY4IHwg6aG26YOo5bm/5ZGK5L2NIHwg55WM6Z2i5LiK5pa55bm/5ZGK5L2N77yMKirpq5jluqbpmo/ntKDmnZDoh6rpgILlupQqKu+8jOaXoOWhq+WFheiHquWKqOaUtui1t++8iOWPguiAg+W4uOingeWOu+awtOWNsCBhcHAg5biD5bGA77yJIHwKfCBGOSB8IOeVjOmdoumjjuagvCB8IOWAn+mJtOS4u+a1geaXoOawtOWNsOinhumikeS4i+i9vSBhcHDvvJrpobbpg6jmuJDlj5gg4oaSIOW5v+WRiuS9jSDihpIg6L6T5YWl5Y2h54mHIOKGkiDlubPlj7Dlm77moIflopkg4oaSIOatpemqpOW8leWvvCDihpIg5pyA6L+R6Kej5p6QIHwKCiMjIOS4ieOAgeW5s+WPsCAvIOaKgOacr+mAieWei+WGs+etlu+8iOW3suWumu+8iQoKLSAqKui3r+e6vyoq77ya5LuO5b6u5L+h5bCP56iL5bqP6L2s5ZCRKirlronljZMgQVBQKirvvIjljp/lm6DvvJrlsI/nqIvluo/ln5/lkI3nmb3lkI3ljZUgKyBJQ1Ag5aSH5qGIICsg5a6h5qC45LilICsg5peg5rOV6Ieq5a6a5LmJIFJlZmVyZXIvVUHvvIkKLSAqKuWJjeerr+ahhuaetioq77yaKipGbHV0dGVy77yIRGFydO+8iSoq77yI6buY6K6k6YCJ5oup77yb5aaC5pS5IEtvdGxpbiDljp/nlJ/or7fmmI7noa7vvIkKLSAqKuacjeWKoeerr+mDqOe9sioq77yaKipSYWlsd2F5KirvvIjlhY3otLkgTm9kZSDmiZjnrqHvvIzoh6rluKblrZDln58gKyDoh6rliqggSFRUUFPvvJvlronljZPkuI3mn6XlpIfmoYjvvIxrZXN1Zy5jb20g5pyq5aSH5qGI5LiN5p6E5oiQ6Zqc56KN77yJCi0gKirmnI3liqHnq6/lpI3nlKgqKu+8mueOsOaciSBgLi4vc2VydmVyL2AgTm9kZSDku6PnoIEqKumbtuaUueWKqCoq6YOo572y5YiwIFJhaWx3YXnvvIjliqAgYHJhaWx3YXkuanNvbmAg5Y2z5Y+v77yJCi0gKiror7fmsYLlnLDlnYAqKu+8muWuieWNk+WuouaIt+erryBgYmFzZVVybGAg5oyH5ZCRIFJhaWx3YXkg5o+Q5L6b55qEIGBodHRwczovL3h4eC51cC5yYWlsd2F5LmFwcGAKLSAqKuS4i+i9vemTvui3ryoq77ya5omA5pyJ6KeG6aKRL+WbvueJh+ebtOmTvue7j+acjeWKoeerryBgL2FwaS9kbD91PS4uLiZzPUhNQUNgIOetvuWQjeS7o+eQhu+8jOWuouaIt+err+WPquivt+axguacjeWKoeerr+Wfn+WQje+8iOaXoOmcgOmAkOS4quWKoOW5s+WPsCBDRE4g55m95ZCN5Y2V77yJCgojIyDlm5vjgIHpg6jnvbLnuqbmnZ/kuI7lt7Lnn6Xpo47pmakKCjEuICoqUmFpbHdheSDotKblj7fpnIDnlKjmiLfoh6rlt7Hms6jlhowqKu+8iOmCrueuseeZu+W9lSArIOWFjei0ueWxgue7keS/oeeUqOWNoeWBmiAkNSDpop3luqbpqozor4HvvInvvJsgYWdlbnQg5LiN6IO95Luj5rOo5YaM44CCCjIuICoqSFRUUFMg5b+F6ZyAKirvvJrlronljZPvvIhBbmRyb2lkIDkr77yJ6buY6K6k5Y+q6K6kIEhUVFBT77ybUmFpbHdheSDoh6rliqjlj5Hor4HkuabvvIzml6Dng6bmgbzjgIIKMy4gKirlubPlj7Dpo47mjqcqKu+8muino+aekOmAu+i+keW/hemhu+eVmeWcqOacjeWKoeerr++8iOWuouaIt+err+ebtOi/nuW5s+WPsCBDRE4g5piT6KKr5bCBIElQ77yJ77yb5L+d55WZ5Luj55CG5Lit6L2s44CCCjQuICoq5ZCI6KeEKirvvJrlrprkvY3kuLrjgIzkuKrkurrntKDmnZDnrqHnkIblt6XlhbfjgI3vvIzlkKvniYjmnYPlo7DmmI7kuI7nlKjmiLflvZLlsZ7noa7orqTvvJvljrvmsLTljbAgLyDop4bpopHkuIvovb3nsbvlnKjkuLvmtYHlupTnlKjllYblupfkuIrmnrblm7Dpmr7vvIzlronljZPlj68qKuebtOaOpeWIhuWPkSBBUEsg5L6n6L29Kirnu5Xov4fllYblupfjgIIKNS4gKirop4bpopHlj7cqKu+8muS7heaUr+aMgeeymOi0tCBgZmluZGVyLnZpZGVvLnFxLmNvbWAg55u06ZO+77yM5YiG5Lqr6aG15peg5rOV6Kej5p6Q77yI5bmz5Y+w6ZmQ5Yi277yM5LiN5YGa6Jma5YGH5om/6K+677yJ44CCCgojIyDkupTjgIHmnI3liqHnq6/mjqXlj6PlpZHnuqbvvIjlronljZPlrqLmiLfnq6/kvp3otZbvvIkKCnwg5o6l5Y+jIHwg5pa55rOVIHwg6K+05piOIHwKfC0tLS0tLXwtLS0tLS18LS0tLS0tfAp8IGAvYXBpL3BsYXRmb3Jtc2AgfCBHRVQgfCDov5Tlm57mlK/mjIHlubPlj7DliJfooajvvIhuYW1lIC8ga2V5IC8gY29sb3IgLyBpY29u77yJIHwKfCBgL2FwaS9wYXJzZWAgfCBQT1NUIGB7dXJsfWAgfCDov5Tlm54gYHtjb2RlLCBkYXRhOntwbGF0Zm9ybSwgdGl0bGUsIGNvdmVyLCBxdWFsaXRpZXNbXSwgaW1hZ2VzW10sIGNvbnRlbnRUeXBlfX1gIHwKfCBgL2FwaS9kbD91PTznm7Tpk74+JnM9PEhNQUPnrb7lkI0+Ji4uLmAgfCBHRVQgfCDop4bpopHmtYHlvI/kuK3ovazvvIznrb7lkI3luKYgMmgg5pyJ5pWI5pyf77yM6Ziy5Yi3IHwKfCBgL2hlYWx0aGAgfCBHRVQgfCDlgaXlurfmo4Dmn6UgfAoK6K+m6KeBIGAuLi9SRUFETUUubWRgIOS4jiBgLi4vc2VydmVyL3NyYy9g44CCCg==
+# VideoDown Android —— 需求与决策总结
+
+> 本文档用于跨项目 / 跨会话留存关键需求，防止换项目后遗忘。
+> 配套服务端代码位于 `../server/`（Node.js Express，8 个平台适配器 + HMAC 签名代理），安卓客户端复用其 REST 接口，无需重写解析逻辑。
+
+## 一、产品目标
+
+输入各平台**视频页面链接**，解析出无水印原片，按**可下载的最高分辨率**保存到手机相册。
+除视频外，还需支持**图片 / 图文混合 / 纯图片**页面，且支持**用户勾选下载**。
+
+## 二、功能需求清单
+
+| # | 需求 | 说明 |
+|---|------|------|
+| F1 | 链接解析 | 粘贴 / 自动提取剪贴板链接 → 调用服务端 `/api/parse` |
+| F2 | 最高分辨率 | 清晰度按「分辨率 > 码率 > 体积」三级排序，默认选最高并标「最高」 |
+| F3 | 无水印 | 依赖服务端解析出的原片直链（已由代理中转，绕过 CDN 防盗链） |
+| F4 | 多平台 | 微博、抖音、微信视频号、小红书、即梦（服务端另已扩展快手 / B站 / 通用兜底 30+） |
+| F5 | 图片支持 | 图文混合同页：视频清晰度选择 + 图片网格多选；纯图片页：主按钮变「保存图片」 |
+| F6 | 选择下载 | 图片网格支持勾选 / 全选 / 按选择保存；视频保存整条 |
+| F7 | 历史记录 | 本地存储解析历史，区分「视频 / 图文 / 图片」类型，可重新保存 / 删除 / 清空 |
+| F8 | 顶部广告位 | 界面上方广告位，**高度随素材自适应**，无填充自动收起（参考常见去水印 app 布局） |
+| F9 | 界面风格 | 借鉴主流无水印视频下载 app：顶部渐变 → 广告位 → 输入卡片 → 平台图标墙 → 步骤引导 → 最近解析 |
+
+## 三、平台 / 技术选型决策（已定）
+
+- **路线**：从微信小程序转向**安卓 APP**（原因：小程序域名白名单 + ICP 备案 + 审核严 + 无法自定义 Referer/UA）
+- **前端框架**：**Flutter（Dart）**（默认选择；如改 Kotlin 原生请明确）
+- **服务端部署**：**Railway**（免费 Node 托管，自带子域 + 自动 HTTPS；安卓不查备案，kesug.com 未备案不构成障碍）
+- **服务端复用**：现有 `../server/` Node 代码**零改动**部署到 Railway（加 `railway.json` 即可）
+- **请求地址**：安卓客户端 `baseUrl` 指向 Railway 提供的 `https://xxx.up.railway.app`
+- **下载链路**：所有视频/图片直链经服务端 `/api/dl?u=...&s=HMAC` 签名代理，客户端只请求服务端域名（无需逐个加平台 CDN 白名单）
+
+## 四、部署约束与已知风险
+
+1. **Railway 账号需用户自己注册**（邮箱登录 + 免费层绑信用卡做 $5 额度验证）； agent 不能代注册。
+2. **HTTPS 必需**：安卓（Android 9+）默认只认 HTTPS；Railway 自动发证书，无烦恼。
+3. **平台风控**：解析逻辑必须留在服务端（客户端直连平台 CDN 易被封 IP）；保留代理中转。
+4. **合规**：定位为「个人素材管理工具」，含版权声明与用户归属确认；去水印 / 视频下载类在主流应用商店上架困难，安卓可**直接分发 APK 侧载**绕过商店。
+5. **视频号**：仅支持粘贴 `finder.video.qq.com` 直链，分享页无法解析（平台限制，不做虚假承诺）。
+
+## 五、服务端接口契约（安卓客户端依赖）
+
+| 接口 | 方法 | 说明 |
+|------|------|------|
+| `/api/platforms` | GET | 返回支持平台列表（name / key / color / icon） |
+| `/api/parse` | POST `{url}` | 返回 `{code, data:{platform, title, cover, qualities[], images[], contentType}}` |
+| `/api/dl?u=<直链>&s=<HMAC签名>&...` | GET | 视频流式中转，签名带 2h 有效期，防刷 |
+| `/health` | GET | 健康检查 |
+
+详见 `../README.md` 与 `../server/src/`。

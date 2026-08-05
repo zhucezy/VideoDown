@@ -1,1 +1,16 @@
-Ly8vIOacjeWKoeerr+WcsOWdgOmFjee9rgovLy8KLy8vIOmAmui/hyBgZmx1dHRlciBydW4gLS1kYXJ0LWRlZmluZT1CQVNFX1VSTD1odHRwczovL3h4eC51cC5yYWlsd2F5LmFwcGAg6KaG55uW44CCCi8vLyDpu5jorqTlgLzmmK8gUmFpbHdheSDpg6jnvbLlkI7nmoTljaDkvY3lnLDlnYDvvIzkuIrnur/liY3or7fmlLnkuLrnnJ/lrp7lnLDlnYDjgIIKLy8vIOacrOWcsOiBlOiwg++8mmZsdXR0ZXIgcnVuIC0tZGFydC1kZWZpbmU9QkFTRV9VUkw9aHR0cDovLzE5Mi4xNjguMS4xMDozMDAwCmNvbnN0IFN0cmluZyBrQXBpQmFzZVVybCA9IFN0cmluZy5mcm9tRW52aXJvbm1lbnQoCiAgJ0JBU0VfVVJMJywKICBkZWZhdWx0VmFsdWU6ICdodHRwczovL3lvdXItcHJvamVjdC51cC5yYWlsd2F5LmFwcCcsCik7CgovLy8g5bm/5ZGK5L2N6YWN572u77yI5rWB6YeP5Li7IC8gQWRNb2Ig562J77yM5oyJ6ZyA5pu/5o2i77yJCi8vLyDlronljZPnq6/lj6/nm7TmjqXpm4bmiJAgQWRNb2LvvIzmraTlpITlhYjnlZnmjqXlj6PkvY3vvIznlLEgQWRCYW5uZXIgd2lkZ2V0IOa4suafkwpjb25zdCBib29sIGtFbmFibGVBZCA9IHRydWU7CgovLy8g5piv5ZCm5byA5Y+R5qih5byP77yI5omT5Y2w572R57uc5pel5b+X77yJCmNvbnN0IGJvb2wga0RlYnVnID0gYm9vbC5mcm9tRW52aXJvbm1lbnQoJ0RFQlVHJywgZGVmYXVsdFZhbHVlOiBmYWxzZSk7Cg==
+/// 服务端地址配置
+///
+/// 通过 `flutter run --dart-define=BASE_URL=https://xxx.up.railway.app` 覆盖。
+/// 默认值是 Railway 部署后的占位地址，上线前请改为真实地址。
+/// 本地联调：flutter run --dart-define=BASE_URL=http://192.168.1.10:3000
+const String kApiBaseUrl = String.fromEnvironment(
+  'BASE_URL',
+  defaultValue: 'https://your-project.up.railway.app',
+);
+
+/// 广告位配置（流量主 / AdMob 等，按需替换）
+/// 安卓端可直接集成 AdMob，此处先留接口位，由 AdBanner widget 渲染
+const bool kEnableAd = true;
+
+/// 是否开发模式（打印网络日志）
+const bool kDebug = bool.fromEnvironment('DEBUG', defaultValue: false);

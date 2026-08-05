@@ -1,1 +1,101 @@
-IyDmnKzmnLrogZTosIPmjIfljZfvvIhMb2NhbCBEZWJ1Z++8iQoK5oqKIGBWaWRlb0Rvd25gIOWcqCoq5L2g6Ieq5bex55qE55S16ISRKirkuIrot5HotbfmnaXvvIznlKjlvq7kv6HlvIDlj5HogIXlt6Xlhbfnm7Tov57osIPor5XvvIzml6DpnIDku7vkvZXmnI3liqHlmagv5Z+f5ZCNL+Wkh+ahiOOAggrpgILlkIjvvJrlhYjnnIvmlYjmnpzjgIHogZTosIPmjqXlj6PjgIHpqozor4Hop6PmnpDkuI7kuIvovb3mtYHnqIvjgIIKCj4g5YmN572u5p2h5Lu277ya55S16ISR5bey6KOFIE5vZGUuanPvvIjiiaUxOO+8ieOAguWRveS7pOihjOiDveaJp+ihjCBgbm9kZSAtdmDjgIIKCi0tLQoKIyMg5LiA44CB5ZCv5Yqo6Kej5p6Q5pyN5Yqh77yI5ZCO56uv77yJCgpgYGBiYXNoCmNkIHNlcnZlcgpucG0gaW5zdGFsbCAgICAgICAgICAjIOmmluasoemcgOimge+8jOW3suijhei/h+WPr+i3s+i/hwpucG0gc3RhcnQgICAgICAgICAgICAjIOaIliBucG0gcnVuIGRldu+8iOaUueS7o+eggeiHquWKqOmHjeWQr++8iQpgYGAKCueci+WIsOWmguS4i+aXpeW/l+WNs+WQr+WKqOaIkOWKn++8mgoKYGBgCuinhumikeino+aekOacjeWKoeW3suWQr+WKqArnm5HlkKzlnLDlnYA6IGh0dHA6Ly8wLjAuMC4wOjMwMDAK5a+55aSW5Zyw5Z2AOiBodHRwOi8vMTI3LjAuMC4xOjMwMDAK5bey5rOo5YaM5bmz5Y+wOiDmipbpn7PjgIHlvq7ljZrjgIHlsI/nuqLkuabjgIHljbPmoqbjgIHlv6vmiYvjgIFC56uZ44CB6KeG6aKR5Y+344CB6YCa55SoCmBgYAoKPiDnq6/lj6Mv5Zyw5Z2A6YO95ZyoIGBzZXJ2ZXIvLmVudmAg6YeM5pS544CCYC5lbnZgIOW3suiiqyBgLmdpdGlnbm9yZWAg5b+955Wl77yM5LiN5Lya6L+b5LuT5bqT44CCCgotLS0KCiMjIOS6jOOAgemFjee9ruWwj+eoi+W6j+aMh+WQkeacrOWcsAoK5paH5Lu2IGBtaW5pcHJvZ3JhbS91dGlscy9jb25maWcuanNgIOW3sum7mOiupCBgRU5WID0gJ2Rldidg77yMYGJhc2VVcmxgIOaMh+WQkSBgaHR0cDovLzEyNy4wLjAuMTozMDAwYOOAggoqKuWPquimgeacjeWKoeWcqOacrOWcsCAzMDAwIOerr+WPo++8jGBjb25maWcuanNgIOS4jeeUqOaUueOAgioqCgrimqDvuI8g5YWz6ZSu5a+56b2Q77yaYGNvbmZpZy5qc2Ag55qEIGBkZXYuYmFzZVVybGAg5b+F6aG7562J5LqOIGBzZXJ2ZXIvLmVudmAg55qEIGBQVUJMSUNfQkFTRWDvvIwK5ZCm5YiZ6Kej5p6Q5Ye65p2l55qE5LiL6L2955u06ZO+5Zyw5Z2A5a+55LiN5LiK77yM5Lya5LiL6L295aSx6LSl44CCCgp8IOiwg+ivleaWueW8jyB8IGRldi5iYXNlVXJsIHwgUFVCTElDX0JBU0UgfAp8LS0tfC0tLXwtLS18Cnwg5byA5Y+R6ICF5bel5YW344CQ5qih5ouf5Zmo44CRIHwgYGh0dHA6Ly8xMjcuMC4wLjE6MzAwMGAgfCBgaHR0cDovLzEyNy4wLjAuMTozMDAwYCB8Cnwg44CQ55yf5py66LCD6K+V44CRIHwgYGh0dHA6Ly8xOTIuMTY4LngueDozMDAwYO+8iOS9oOeUteiEkeWxgOWfn+e9kSBJUO+8iSB8IOWQjOS4iu+8jOW/hemhu+S4gOiHtCB8Cgo+IOafpeeUteiEkeWxgOWfn+e9kSBJUO+8mldpbmRvd3Mg5ZG95Luk6KGMIGBpcGNvbmZpZ2Ag55yL44CMSVB2NCDlnLDlnYDjgI3vvJtNYWMgYGlmY29uZmlnIHwgZ3JlcCBpbmV0YOOAggoKLS0tCgojIyDkuInjgIHlvq7kv6HlvIDlj5HogIXlt6Xlhbfph4zlhbPmjonln5/lkI3moKHpqowKCjEuIOaJk+W8gOW+ruS/oeW8gOWPkeiAheW3peWFtyDihpIg5a+85YWl6aG555uuIOKGkiDnm67lvZXpgIkgYG1pbmlwcm9ncmFtL2DvvIjlkKsgYHByb2plY3QuY29uZmlnLmpzb25gIOeahOebruW9le+8ieOAggoyLiDlj7PkuIrop5LjgIzor6bmg4XjgI3ihpLjgIzmnKzlnLDorr7nva7jgI3ihpIg5Yu+6YCJIOKchSAqKuS4jeagoemqjOWQiOazleWfn+WQjeOAgVRMU+eJiOacrOS7peWPikhUVFBT6K+B5LmmKirjgIIKMy4g57yW6K+R6L+Q6KGM44CCCgo+IOi/meS4gOatpeaYr+iBlOiwg+W/hemcgO+8muacrOWcsOaYryBgaHR0cDovL2DvvIzkuJTln5/lkI3mnKrlpIfmoYjvvIzkuI3li77ov5nkuKrkvJrnm7TmjqUgYHJlcXVlc3Q6ZmFpbCBkb21haW4gbm90IGNvbmZpZ3VyZWRg44CCCgotLS0KCiMjIOWbm+OAgeW8gOWni+a1i+ivlQoKMS4g6aaW6aG157KY6LS05LiA5Liq5oqW6Z+zL+Wwj+e6ouS5pi/lvq7ljZrnrYnliIbkuqvpk77mjqUg4oaSIOeCueOAjOino+aekOOAjeOAggoyLiDmraPluLjkvJrnnIvliLDmuIXmmbDluqbliJfooaggLyDlm77niYfnvZHmoLzvvJvpgInmnIDpq5jliIbovqjnjofmiJbli77pgInlm77niYcg4oaSIOeCueS/neWtmOOAggozLiBgd3guZG93bmxvYWRGaWxlYCDotbDnmoTmmK/mnKzlnLDmnI3liqHnmoTnrb7lkI3ku6PnkIYgYC9hcGkvZGxg77yM55Sx5pyN5Yqh5Zue5rqQ5LiL6L2977yM5YaN5a2Y5Yiw55u45YaM44CCCgotLS0KCiMjIOS6lOOAgeW4uOingemXrumimOaOkuafpQoKKipRMe+8muaooeaLn+WZqOiDvei3ke+8jOecn+acuuiwg+ivleS4i+i9veWksei0pe+8nyoqCuecn+acuuS4iiBgMTI3LjAuMC4xYCDmjIfnmoTmmK/miYvmnLroh6rlt7HvvIzkuI3mmK/nlLXohJHjgILmjInkuIrooajmioogYGRldi5iYXNlVXJsYCDlkowgYFBVQkxJQ19CQVNFYCDpg73mlLnmiJDnlLXohJEqKuWxgOWfn+e9kSBJUCoq77yM5bm256Gu6K6k55S16ISR6Ziy54Gr5aKZ5pS+6KGMIDMwMDAg56uv5Y+j77yIV2luZG93cyAgZGVmZW5kZXIg5YWB6K64IE5vZGUg6YCa6L+H5LiT55So572R57uc77yJ44CCCgoqKlEy77ya6Kej5p6Q5LiA55u06L2s5ZyI5oiW5oql44CM6Kej5p6Q5aSx6LSl44CN77yfKioK5pyN5Yqh5o6n5Yi25Y+w77yI6L+Q6KGMIGBucG0gc3RhcnRgIOeahOeql+WPo++8ieS8muaJk+WNsCBgW3BhcnNlIGZhaWxdIOW5s+WPsCDpk77mjqUg4oaSIOWOn+WboGDjgILlpJrmlbDmmK/lubPlj7Dlj43niKwv6ZyA55m75b2V5oCB77yaCi0g5oqW6Z+z44CB5bCP57qi5Lmm44CB5b+r5omL562J6YOo5YiG5YaF5a656ZyA6KaBIENvb2tpZeOAguWcqCBgc2VydmVyLy5lbnZgIOmHjOWhq+WvueW6lCBgQ09PS0lFXypgIOWQjumHjeWQr+acjeWKoeOAggotIOe6r+WbvueJh+e9kemhtei1sOmAmueUqOino+aekO+8jOS+nei1lumhtemdouaYr+WQpuWFrOW8gOa4suafk+S6huWOn+WbvuWcsOWdgOOAggoKKipRM++8mueCueS/neWtmOaPkOekuuOAjOS/neWtmOWksei0pSAvIOeUqOaIt+WPlua2iOOAje+8nyoqCummluasoeS/neWtmOW+ruS/oeS8muW8ueOAjOS/neWtmOWIsOebuOWGjOOAjeaOiOadg++8jOmcgOeUqOaIt+WFgeiuuOOAguiLpeS5i+WJjeeCueS6huaLkue7ne+8jOWOu+OAjOiuvue9riDihpIg6ZqQ56eBIOKGkiDnm7jlhozjgI3ph43mlrDlvIDlkK/jgIIKCioqUTTvvJrlub/lkYrkvY3nqbrnmb3vvJ8qKgpgY29uZmlnLmpzYCDph4wgYGFkLmJhbm5lclVuaXRJZGAg5piv5Y2g5L2N55qE77yM5rKh5aGr55yf5a6e5rWB6YeP5Li75bm/5ZGK5L2N5bCx5Lya55WZ55m977yI57uE5Lu25bey5YGa5Yqg6L295aSx6LSl6Ieq5Yqo6ZqQ6JeP77yM5LiN5b2x5ZON5Yqf6IO977yJ44CC6IGU6LCD6Zi25q615Y+v5b+955Wl44CCCgoqKlE177ya5pS55LqG5ZCO56uv5Luj56CB6KaB6YeN5ZCv5ZCX77yfKioK55SoIGBucG0gcnVuIGRldmDvvIjln7rkuo4gYG5vZGUgLS13YXRjaGDvvInkvJroh6rliqjph43lkK/vvJvnlKggYG5wbSBzdGFydGAg6ZyA5omL5YqoIEN0cmwrQyDph43lkK/jgIIKCi0tLQoKIyMg5YWt44CB6IGU6LCDIE9LIOS5i+WQjgoKLSDmg7PnnJ/kuIrmnrblvq7kv6HvvJrop4EgUkVBRE1F44CM6YOo572y5LiO5LiK57q/44CN5LiA6IqC44CC5Liq5Lq65Li75L2T5peg5rOV5aSH5qGI5pyN5Yqh5Zmo5Z+f5ZCN77yM5pyA56iz55qE5pivICoq5b6u5L+h5LqR5omY566h77yIY2FsbENvbnRhaW5lcu+8iSoqIOaWueahiOOAggotIOWIh+WbnueUn+S6p++8muaKiiBgbWluaXByb2dyYW0vdXRpbHMvY29uZmlnLmpzYCDnmoQgYEVOVmAg5pS55ZueIGAncHJvZCdg77yM5aGr5aW9IGBwcm9kLmJhc2VVcmxg77yM5bm25Zyo5b6u5L+h5ZCO5Y+w6YWN572uIHJlcXVlc3QgLyBkb3dubG9hZEZpbGUg5ZCI5rOV5Z+f5ZCN44CCCgotLS0KCiMjIOS4g+OAgeebruW9lemAn+afpQoKYGBgCnNlcnZlci8uZW52ICAgICAgICAgICAgICAgICAgICAg5pys5Zyw546v5aKD5Y+Y6YeP77yI56uv5Y+jIC8g5Zyw5Z2AIC8g5a+G6ZKlIC8gQ29va2ll77yJCnNlcnZlci9zcmMvaW5kZXguanMgICAgICAgICAgICAg5pyN5Yqh5YWl5Y+j77yI5bey5pSv5oyBIDAuMC4wLjAg55uR5ZCs77yJCnNlcnZlci9zcmMvY29uZmlnLmpzICAgICAgICAgICAg6K+75Y+WIC5lbnbvvIjlt7Lpm4bmiJAgZG90ZW5277yJCm1pbmlwcm9ncmFtL3V0aWxzL2NvbmZpZy5qcyAgICAg5YmN56uv546v5aKD5YiH5o2i77yIZGV2IC8gcHJvZO+8iQpgYGAK
+# 本机联调指南（Local Debug）
+
+把 `VideoDown` 在**你自己的电脑**上跑起来，用微信开发者工具直连调试，无需任何服务器/域名/备案。
+适合：先看效果、联调接口、验证解析与下载流程。
+
+> 前置条件：电脑已装 Node.js（≥18）。命令行能执行 `node -v`。
+
+---
+
+## 一、启动解析服务（后端）
+
+```bash
+cd server
+npm install          # 首次需要，已装过可跳过
+npm start            # 或 npm run dev（改代码自动重启）
+```
+
+看到如下日志即启动成功：
+
+```
+视频解析服务已启动
+监听地址: http://0.0.0.0:3000
+对外地址: http://127.0.0.1:3000
+已注册平台: 抖音、微博、小红书、即梦、快手、B站、视频号、通用
+```
+
+> 端口/地址都在 `server/.env` 里改。`.env` 已被 `.gitignore` 忽略，不会进仓库。
+
+---
+
+## 二、配置小程序指向本地
+
+文件 `miniprogram/utils/config.js` 已默认 `ENV = 'dev'`，`baseUrl` 指向 `http://127.0.0.1:3000`。
+**只要服务在本地 3000 端口，`config.js` 不用改。**
+
+⚠️ 关键对齐：`config.js` 的 `dev.baseUrl` 必须等于 `server/.env` 的 `PUBLIC_BASE`，
+否则解析出来的下载直链地址对不上，会下载失败。
+
+| 调试方式 | dev.baseUrl | PUBLIC_BASE |
+|---|---|---|
+| 开发者工具【模拟器】 | `http://127.0.0.1:3000` | `http://127.0.0.1:3000` |
+| 【真机调试】 | `http://192.168.x.x:3000`（你电脑局域网 IP） | 同上，必须一致 |
+
+> 查电脑局域网 IP：Windows 命令行 `ipconfig` 看「IPv4 地址」；Mac `ifconfig | grep inet`。
+
+---
+
+## 三、微信开发者工具里关掉域名校验
+
+1. 打开微信开发者工具 → 导入项目 → 目录选 `miniprogram/`（含 `project.config.json` 的目录）。
+2. 右上角「详情」→「本地设置」→ 勾选 ✅ **不校验合法域名、TLS版本以及HTTPS证书**。
+3. 编译运行。
+
+> 这一步是联调必需：本地是 `http://`，且域名未备案，不勾这个会直接 `request:fail domain not configured`。
+
+---
+
+## 四、开始测试
+
+1. 首页粘贴一个抖音/小红书/微博等分享链接 → 点「解析」。
+2. 正常会看到清晰度列表 / 图片网格；选最高分辨率或勾选图片 → 点保存。
+3. `wx.downloadFile` 走的是本地服务的签名代理 `/api/dl`，由服务回源下载，再存到相册。
+
+---
+
+## 五、常见问题排查
+
+**Q1：模拟器能跑，真机调试下载失败？**
+真机上 `127.0.0.1` 指的是手机自己，不是电脑。按上表把 `dev.baseUrl` 和 `PUBLIC_BASE` 都改成电脑**局域网 IP**，并确认电脑防火墙放行 3000 端口（Windows  defender 允许 Node 通过专用网络）。
+
+**Q2：解析一直转圈或报「解析失败」？**
+服务控制台（运行 `npm start` 的窗口）会打印 `[parse fail] 平台 链接 → 原因`。多数是平台反爬/需登录态：
+- 抖音、小红书、快手等部分内容需要 Cookie。在 `server/.env` 里填对应 `COOKIE_*` 后重启服务。
+- 纯图片网页走通用解析，依赖页面是否公开渲染了原图地址。
+
+**Q3：点保存提示「保存失败 / 用户取消」？**
+首次保存微信会弹「保存到相册」授权，需用户允许。若之前点了拒绝，去「设置 → 隐私 → 相册」重新开启。
+
+**Q4：广告位空白？**
+`config.js` 里 `ad.bannerUnitId` 是占位的，没填真实流量主广告位就会留白（组件已做加载失败自动隐藏，不影响功能）。联调阶段可忽略。
+
+**Q5：改了后端代码要重启吗？**
+用 `npm run dev`（基于 `node --watch`）会自动重启；用 `npm start` 需手动 Ctrl+C 重启。
+
+---
+
+## 六、联调 OK 之后
+
+- 想真上架微信：见 README「部署与上线」一节。个人主体无法备案服务器域名，最稳的是 **微信云托管（callContainer）** 方案。
+- 切回生产：把 `miniprogram/utils/config.js` 的 `ENV` 改回 `'prod'`，填好 `prod.baseUrl`，并在微信后台配置 request / downloadFile 合法域名。
+
+---
+
+## 七、目录速查
+
+```
+server/.env                     本地环境变量（端口 / 地址 / 密钥 / Cookie）
+server/src/index.js             服务入口（已支持 0.0.0.0 监听）
+server/src/config.js            读取 .env（已集成 dotenv）
+miniprogram/utils/config.js     前端环境切换（dev / prod）
+```

@@ -1,1 +1,93 @@
-aW1wb3J0ICdkYXJ0OmNvbnZlcnQnOwppbXBvcnQgJ3BhY2thZ2U6c2hhcmVkX3ByZWZlcmVuY2VzL3NoYXJlZF9wcmVmZXJlbmNlcy5kYXJ0JzsKaW1wb3J0ICcuLi9tb2RlbHMvcGFyc2VfcmVzdWx0LmRhcnQnOwoKY2xhc3MgSGlzdG9yeUl0ZW0gewogIGZpbmFsIFN0cmluZyBpZDsKICBmaW5hbCBTdHJpbmcgc291cmNlVXJsOwogIGZpbmFsIFN0cmluZyBwbGF0Zm9ybU5hbWU7CiAgZmluYWwgU3RyaW5nIHRpdGxlOwogIGZpbmFsIFN0cmluZyBjb3ZlcjsKICBmaW5hbCBTdHJpbmcgY29udGVudFR5cGU7CiAgZmluYWwgTGlzdDxTdHJpbmc+IHF1YWxpdGllczsgLy8g5L+d5a2Y55qE6KeG6aKR55u06ZO+CiAgZmluYWwgaW50IHNhdmVkQXQ7CgogIEhpc3RvcnlJdGVtKHsKICAgIHJlcXVpcmVkIHRoaXMuaWQsCiAgICByZXF1aXJlZCB0aGlzLnNvdXJjZVVybCwKICAgIHJlcXVpcmVkIHRoaXMucGxhdGZvcm1OYW1lLAogICAgcmVxdWlyZWQgdGhpcy50aXRsZSwKICAgIHJlcXVpcmVkIHRoaXMuY292ZXIsCiAgICByZXF1aXJlZCB0aGlzLmNvbnRlbnRUeXBlLAogICAgcmVxdWlyZWQgdGhpcy5xdWFsaXRpZXMsCiAgICByZXF1aXJlZCB0aGlzLnNhdmVkQXQsCiAgfSk7CgogIE1hcDxTdHJpbmcsIGR5bmFtaWM+IHRvSnNvbigpID0+IHsKICAgICAgICAnaWQnOiBpZCwKICAgICAgICAnc291cmNlVXJsJzogc291cmNlVXJsLAogICAgICAgICdwbGF0Zm9ybU5hbWUnOiBwbGF0Zm9ybU5hbWUsCiAgICAgICAgJ3RpdGxlJzogdGl0bGUsCiAgICAgICAgJ2NvdmVyJzogY292ZXIsCiAgICAgICAgJ2NvbnRlbnRUeXBlJzogY29udGVudFR5cGUsCiAgICAgICAgJ3F1YWxpdGllcyc6IHF1YWxpdGllcywKICAgICAgICAnc2F2ZWRBdCc6IHNhdmVkQXQsCiAgICAgIH07CgogIGZhY3RvcnkgSGlzdG9yeUl0ZW0uZnJvbUpzb24oTWFwPFN0cmluZywgZHluYW1pYz4gaikgPT4gSGlzdG9yeUl0ZW0oCiAgICAgICAgaWQ6IGpbJ2lkJ10/LnRvU3RyaW5nKCkgPz8gJycsCiAgICAgICAgc291cmNlVXJsOiBqWydzb3VyY2VVcmwnXT8udG9TdHJpbmcoKSA/PyAnJywKICAgICAgICBwbGF0Zm9ybU5hbWU6IGpbJ3BsYXRmb3JtTmFtZSddPy50b1N0cmluZygpID8/ICcnLAogICAgICAgIHRpdGxlOiBqWyd0aXRsZSddPy50b1N0cmluZygpID8/ICcnLAogICAgICAgIGNvdmVyOiBqWydjb3ZlciddPy50b1N0cmluZygpID8/ICcnLAogICAgICAgIGNvbnRlbnRUeXBlOiBqWydjb250ZW50VHlwZSddPy50b1N0cmluZygpID8/ICd2aWRlbycsCiAgICAgICAgcXVhbGl0aWVzOiBMaXN0PFN0cmluZz4uZnJvbShqWydxdWFsaXRpZXMnXSA/PyBbXSksCiAgICAgICAgc2F2ZWRBdDogalsnc2F2ZWRBdCddIGlzIGludCA/IGpbJ3NhdmVkQXQnXSA6IDAsCiAgICAgICk7Cn0KCmNsYXNzIEhpc3RvcnlTdG9yZSB7CiAgc3RhdGljIGNvbnN0IF9rZXkgPSAndmlkZW9kb3duX2hpc3RvcnknOwogIHN0YXRpYyBMaXN0PEhpc3RvcnlJdGVtPiBfY2FjaGUgPSBbXTsKCiAgc3RhdGljIEZ1dHVyZTx2b2lkPiBhZGQoUGFyc2VSZXN1bHQgciwgU3RyaW5nIHVybCkgYXN5bmMgewogICAgZmluYWwgcHJlZnMgPSBhd2FpdCBTaGFyZWRQcmVmZXJlbmNlcy5nZXRJbnN0YW5jZSgpOwogICAgZmluYWwgbGlzdCA9IHByZWZzLmdldFN0cmluZ0xpc3QoX2tleSkgPz8gW107CiAgICBmaW5hbCBpdGVtID0gSGlzdG9yeUl0ZW0oCiAgICAgIGlkOiBEYXRlVGltZS5ub3coKS5taWxsaXNlY29uZHNTaW5jZUVwb2NoLnRvU3RyaW5nKCksCiAgICAgIHNvdXJjZVVybDogdXJsLAogICAgICBwbGF0Zm9ybU5hbWU6IHIucGxhdGZvcm1OYW1lLAogICAgICB0aXRsZTogci50aXRsZSwKICAgICAgY292ZXI6IHIuY292ZXIsCiAgICAgIGNvbnRlbnRUeXBlOiByLmNvbnRlbnRUeXBlLAogICAgICBxdWFsaXRpZXM6IHIucXVhbGl0aWVzLm1hcCgocSkgPT4gcS51cmwpLnRvTGlzdCgpLAogICAgICBzYXZlZEF0OiBEYXRlVGltZS5ub3coKS5taWxsaXNlY29uZHNTaW5jZUVwb2NoLAogICAgKTsKICAgIGxpc3QuaW5zZXJ0KDAsIGpzb25FbmNvZGUoaXRlbS50b0pzb24oKSkpOwogICAgYXdhaXQgcHJlZnMuc2V0U3RyaW5nTGlzdChfa2V5LCBsaXN0LnRha2UoMTAwKS50b0xpc3QoKSk7CiAgICBfY2FjaGUgPSBsaXN0Lm1hcCgoZSkgPT4gSGlzdG9yeUl0ZW0uZnJvbUpzb24oanNvbkRlY29kZShlKSkpLnRvTGlzdCgpOwogIH0KCiAgc3RhdGljIExpc3Q8SGlzdG9yeUl0ZW0+IGxpc3QoKSA9PiBfY2FjaGU7CgogIHN0YXRpYyBGdXR1cmU8TGlzdDxIaXN0b3J5SXRlbT4+IGxvYWRBbGwoKSBhc3luYyB7CiAgICBmaW5hbCBwcmVmcyA9IGF3YWl0IFNoYXJlZFByZWZlcmVuY2VzLmdldEluc3RhbmNlKCk7CiAgICBmaW5hbCBsaXN0ID0gcHJlZnMuZ2V0U3RyaW5nTGlzdChfa2V5KSA/PyBbXTsKICAgIF9jYWNoZSA9IGxpc3QubWFwKChlKSA9PiBIaXN0b3J5SXRlbS5mcm9tSnNvbihqc29uRGVjb2RlKGUpKSkudG9MaXN0KCk7CiAgICByZXR1cm4gX2NhY2hlOwogIH0KCiAgc3RhdGljIEZ1dHVyZTx2b2lkPiByZW1vdmUoU3RyaW5nIGlkKSBhc3luYyB7CiAgICBmaW5hbCBwcmVmcyA9IGF3YWl0IFNoYXJlZFByZWZlcmVuY2VzLmdldEluc3RhbmNlKCk7CiAgICBmaW5hbCBsaXN0ID0gcHJlZnMuZ2V0U3RyaW5nTGlzdChfa2V5KSA/PyBbXTsKICAgIGxpc3QucmVtb3ZlV2hlcmUoKGUpID0+IEhpc3RvcnlJdGVtLmZyb21Kc29uKGpzb25EZWNvZGUoZSkpLmlkID09IGlkKTsKICAgIGF3YWl0IHByZWZzLnNldFN0cmluZ0xpc3QoX2tleSwgbGlzdCk7CiAgICBfY2FjaGUgPSBsaXN0Lm1hcCgoZSkgPT4gSGlzdG9yeUl0ZW0uZnJvbUpzb24oanNvbkRlY29kZShlKSkpLnRvTGlzdCgpOwogIH0KCiAgc3RhdGljIEZ1dHVyZTx2b2lkPiBjbGVhcigpIGFzeW5jIHsKICAgIGZpbmFsIHByZWZzID0gYXdhaXQgU2hhcmVkUHJlZmVyZW5jZXMuZ2V0SW5zdGFuY2UoKTsKICAgIGF3YWl0IHByZWZzLnJlbW92ZShfa2V5KTsKICAgIF9jYWNoZSA9IFtdOwogIH0KfQo=
+import 'dart:convert';
+import 'package:shared_preferences/shared_preferences.dart';
+import '../models/parse_result.dart';
+
+class HistoryItem {
+  final String id;
+  final String sourceUrl;
+  final String platformName;
+  final String title;
+  final String cover;
+  final String contentType;
+  final List<String> qualities; // 保存的视频直链
+  final int savedAt;
+
+  HistoryItem({
+    required this.id,
+    required this.sourceUrl,
+    required this.platformName,
+    required this.title,
+    required this.cover,
+    required this.contentType,
+    required this.qualities,
+    required this.savedAt,
+  });
+
+  Map<String, dynamic> toJson() => {
+        'id': id,
+        'sourceUrl': sourceUrl,
+        'platformName': platformName,
+        'title': title,
+        'cover': cover,
+        'contentType': contentType,
+        'qualities': qualities,
+        'savedAt': savedAt,
+      };
+
+  factory HistoryItem.fromJson(Map<String, dynamic> j) => HistoryItem(
+        id: j['id']?.toString() ?? '',
+        sourceUrl: j['sourceUrl']?.toString() ?? '',
+        platformName: j['platformName']?.toString() ?? '',
+        title: j['title']?.toString() ?? '',
+        cover: j['cover']?.toString() ?? '',
+        contentType: j['contentType']?.toString() ?? 'video',
+        qualities: List<String>.from(j['qualities'] ?? []),
+        savedAt: j['savedAt'] is int ? j['savedAt'] : 0,
+      );
+}
+
+class HistoryStore {
+  static const _key = 'videodown_history';
+  static List<HistoryItem> _cache = [];
+
+  static Future<void> add(ParseResult r, String url) async {
+    final prefs = await SharedPreferences.getInstance();
+    final list = prefs.getStringList(_key) ?? [];
+    final item = HistoryItem(
+      id: DateTime.now().millisecondsSinceEpoch.toString(),
+      sourceUrl: url,
+      platformName: r.platformName,
+      title: r.title,
+      cover: r.cover,
+      contentType: r.contentType,
+      qualities: r.qualities.map((q) => q.url).toList(),
+      savedAt: DateTime.now().millisecondsSinceEpoch,
+    );
+    list.insert(0, jsonEncode(item.toJson()));
+    await prefs.setStringList(_key, list.take(100).toList());
+    _cache = list.map((e) => HistoryItem.fromJson(jsonDecode(e))).toList();
+  }
+
+  static List<HistoryItem> list() => _cache;
+
+  static Future<List<HistoryItem>> loadAll() async {
+    final prefs = await SharedPreferences.getInstance();
+    final list = prefs.getStringList(_key) ?? [];
+    _cache = list.map((e) => HistoryItem.fromJson(jsonDecode(e))).toList();
+    return _cache;
+  }
+
+  static Future<void> remove(String id) async {
+    final prefs = await SharedPreferences.getInstance();
+    final list = prefs.getStringList(_key) ?? [];
+    list.removeWhere((e) => HistoryItem.fromJson(jsonDecode(e)).id == id);
+    await prefs.setStringList(_key, list);
+    _cache = list.map((e) => HistoryItem.fromJson(jsonDecode(e))).toList();
+  }
+
+  static Future<void> clear() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove(_key);
+    _cache = [];
+  }
+}

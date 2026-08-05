@@ -1,1 +1,45 @@
-ewogICJkZXNjcmlwdGlvbiI6ICLop4bpopHop6PmnpDkuIvovb3lsI/nqIvluo8iLAogICJhcHBpZCI6ICJ0b3VyaXN0YXBwaWQiLAogICJwcm9qZWN0bmFtZSI6ICJWaWRlb0Rvd24iLAogICJjb21waWxlVHlwZSI6ICJtaW5pcHJvZ3JhbSIsCiAgIm1pbmlwcm9ncmFtUm9vdCI6ICIuLyIsCiAgImxpYlZlcnNpb24iOiAiMy41LjUiLAogICJzZXR0aW5nIjogewogICAgInVybENoZWNrIjogdHJ1ZSwKICAgICJlczYiOiB0cnVlLAogICAgImVuaGFuY2UiOiB0cnVlLAogICAgInBvc3Rjc3MiOiB0cnVlLAogICAgIm1pbmlmaWVkIjogdHJ1ZSwKICAgICJtaW5pZnlXWFNTIjogdHJ1ZSwKICAgICJtaW5pZnlXWE1MIjogdHJ1ZSwKICAgICJ1Z2xpZnlGaWxlTmFtZSI6IHRydWUsCiAgICAicGFja05wbU1hbnVhbGx5IjogZmFsc2UsCiAgICAicGFja05wbVJlbGF0aW9uTGlzdCI6IFtdLAogICAgImNvdmVyVmlldyI6IHRydWUsCiAgICAibGF6eWxvYWRQbGFjZWhvbGRlckVuYWJsZSI6IGZhbHNlLAogICAgInVzZU11bHRpRnJhbWVSdW50aW1lIjogdHJ1ZSwKICAgICJzaG93U2hhZG93Um9vdEluV3htbFBhbmVsIjogdHJ1ZSwKICAgICJ1c2VTdGF0aWNTZXJ2ZXIiOiBmYWxzZSwKICAgICJ1c2VJc29sYXRlQ29udGV4dCI6IHRydWUsCiAgICAidXNlckNvbmZpcm1lZEJ1bmRsZVN3aXRjaCI6IGZhbHNlLAogICAgIm5vZGVNb2R1bGVzIjogZmFsc2UsCiAgICAiZW5hYmxlRW5naW5lTmF0aXZlIjogZmFsc2UsCiAgICAiY2hlY2tJbnZhbGlkS2V5IjogdHJ1ZSwKICAgICJkaXNhYmxlVXNlU3RyaWN0IjogZmFsc2UsCiAgICAidXNlQ29tcGlsZXJQbHVnaW5zIjogZmFsc2UsCiAgICAiaWdub3JlVXBsb2FkVW51c2VkRmlsZXMiOiB0cnVlCiAgfSwKICAiY29uZGl0aW9uIjogewogICAgIm1pbmlwcm9ncmFtIjogewogICAgICAibGlzdCI6IFsKICAgICAgICB7CiAgICAgICAgICAibmFtZSI6ICLpppbpobUiLAogICAgICAgICAgInBhdGhOYW1lIjogInBhZ2VzL2luZGV4L2luZGV4IiwKICAgICAgICAgICJxdWVyeSI6ICIiLAogICAgICAgICAgInNjZW5lIjogbnVsbAogICAgICAgIH0KICAgICAgXQogICAgfQogIH0KfQo=
+{
+  "description": "视频解析下载小程序",
+  "appid": "touristappid",
+  "projectname": "VideoDown",
+  "compileType": "miniprogram",
+  "miniprogramRoot": "./",
+  "libVersion": "3.5.5",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true,
+    "minifyWXSS": true,
+    "minifyWXML": true,
+    "uglifyFileName": true,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "coverView": true,
+    "lazyloadPlaceholderEnable": false,
+    "useMultiFrameRuntime": true,
+    "showShadowRootInWxmlPanel": true,
+    "useStaticServer": false,
+    "useIsolateContext": true,
+    "userConfirmedBundleSwitch": false,
+    "nodeModules": false,
+    "enableEngineNative": false,
+    "checkInvalidKey": true,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "ignoreUploadUnusedFiles": true
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "首页",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

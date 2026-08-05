@@ -1,1 +1,27 @@
-aW1wb3J0ICdwYWNrYWdlOmdhbGxlcnlfc2F2ZXIvZ2FsbGVyeV9zYXZlci5kYXJ0JzsKCi8vLyDkv53lrZjop4bpopEv5Zu+54mH5Yiw55u45YaM77yI5L6d6LWWIGdhbGxlcnlfc2F2ZXLvvIzlt7LlpITnkIblronljZPmnYPpmZDkuI4gc2NvcGVkIHN0b3JhZ2XvvIkKY2xhc3MgRG93bmxvYWRTZXJ2aWNlIHsKICAvLy8g5L+d5a2Y5Y2V5Liq6KeG6aKR77yIdXJsIOS4uuacjeWKoeerr+etvuWQjeS7o+eQhuebtOmTvu+8jGdhbGxlcnlfc2F2ZXIg5YaF6YOo5LiL6L2977yJCiAgRnV0dXJlPGJvb2w+IHNhdmVWaWRlbyhTdHJpbmcgdXJsKSBhc3luYyB7CiAgICBpZiAodXJsLmlzRW1wdHkpIHJldHVybiBmYWxzZTsKICAgIGZpbmFsIHJlc3VsdCA9IGF3YWl0IEdhbGxlcnlTYXZlci5zYXZlVmlkZW8odXJsLCBhbGJ1bU5hbWU6ICdWaWRlb0Rvd24nKTsKICAgIHJldHVybiByZXN1bHQgIT0gbnVsbCAmJiByZXN1bHQuaXNOb3RFbXB0eTsKICB9CgogIC8vLyDkv53lrZjljZXlvKDlm77niYcKICBGdXR1cmU8Ym9vbD4gc2F2ZUltYWdlKFN0cmluZyB1cmwpIGFzeW5jIHsKICAgIGlmICh1cmwuaXNFbXB0eSkgcmV0dXJuIGZhbHNlOwogICAgZmluYWwgcmVzdWx0ID0gYXdhaXQgR2FsbGVyeVNhdmVyLnNhdmVJbWFnZSh1cmwsIGFsYnVtTmFtZTogJ1ZpZGVvRG93bicpOwogICAgcmV0dXJuIHJlc3VsdCAhPSBudWxsICYmIHJlc3VsdC5pc05vdEVtcHR5OwogIH0KCiAgLy8vIOaJuemHj+S/neWtmOWbvueJh++8jOi/lOWbnuavj+atpeaIkOWKn+S4juWQpgogIEZ1dHVyZTxMaXN0PGJvb2w+PiBzYXZlSW1hZ2VzKExpc3Q8U3RyaW5nPiB1cmxzKSBhc3luYyB7CiAgICBmaW5hbCByZXN1bHRzID0gPGJvb2w+W107CiAgICBmb3IgKGZpbmFsIHUgaW4gdXJscykgewogICAgICByZXN1bHRzLmFkZChhd2FpdCBzYXZlSW1hZ2UodSkpOwogICAgfQogICAgcmV0dXJuIHJlc3VsdHM7CiAgfQp9Cg==
+import 'package:gallery_saver/gallery_saver.dart';
+
+/// 保存视频/图片到相册（依赖 gallery_saver，已处理安卓权限与 scoped storage）
+class DownloadService {
+  /// 保存单个视频（url 为服务端签名代理直链，gallery_saver 内部下载）
+  Future<bool> saveVideo(String url) async {
+    if (url.isEmpty) return false;
+    final result = await GallerySaver.saveVideo(url, albumName: 'VideoDown');
+    return result != null && result.isNotEmpty;
+  }
+
+  /// 保存单张图片
+  Future<bool> saveImage(String url) async {
+    if (url.isEmpty) return false;
+    final result = await GallerySaver.saveImage(url, albumName: 'VideoDown');
+    return result != null && result.isNotEmpty;
+  }
+
+  /// 批量保存图片，返回每步成功与否
+  Future<List<bool>> saveImages(List<String> urls) async {
+    final results = <bool>[];
+    for (final u in urls) {
+      results.add(await saveImage(u));
+    }
+    return results;
+  }
+}

@@ -1,1 +1,43 @@
-Y29uc3QgZG91eWluID0gcmVxdWlyZSgnLi9kb3V5aW4nKTsKY29uc3Qgd2VpYm8gPSByZXF1aXJlKCcuL3dlaWJvJyk7CmNvbnN0IHhpYW9ob25nc2h1ID0gcmVxdWlyZSgnLi94aWFvaG9uZ3NodScpOwpjb25zdCB3eGNoYW5uZWxzID0gcmVxdWlyZSgnLi93eGNoYW5uZWxzJyk7CmNvbnN0IGppbWVuZyA9IHJlcXVpcmUoJy4vamltZW5nJyk7CmNvbnN0IGt1YWlzaG91ID0gcmVxdWlyZSgnLi9rdWFpc2hvdScpOwpjb25zdCBiaWxpYmlsaSA9IHJlcXVpcmUoJy4vYmlsaWJpbGknKTsKY29uc3QgZ2VuZXJpYyA9IHJlcXVpcmUoJy4vZ2VuZXJpYycpOwoKLyoqCiAqIOazqOWGjOmhuuW6jyA9IOWMuemFjeS8mOWFiOe6p+OAggogKiBnZW5lcmljIOaYr+WFnOW6leino+aekOWZqO+8iG1hdGNoIOaBkuS4uiB0cnVl77yJ77yM5b+F6aG75o6S5Zyo5pyA5ZCO44CCCiAqLwpjb25zdCBQQVJTRVJTID0gWwogIGRvdXlpbiwKICB3ZWlibywKICB4aWFvaG9uZ3NodSwKICB3eGNoYW5uZWxzLAogIGppbWVuZywKICBrdWFpc2hvdSwKICBiaWxpYmlsaSwKICBnZW5lcmljLApdOwoKZnVuY3Rpb24gcmVzb2x2ZVBhcnNlcih1cmwpIHsKICByZXR1cm4gUEFSU0VSUy5maW5kKChwKSA9PiB7CiAgICB0cnkgewogICAgICByZXR1cm4gcC5tYXRjaCh1cmwpOwogICAgfSBjYXRjaCAoZSkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgfSk7Cn0KCi8qKiDlr7nlpJbmmrTpnLLnmoTlubPlj7DmuIXljZXvvIzlsI/nqIvluo/lj6/pgJrov4cgL2FwaS9wbGF0Zm9ybXMg5ouJ5Y+WICovCmZ1bmN0aW9uIGxpc3RQbGF0Zm9ybXMoKSB7CiAgcmV0dXJuIFBBUlNFUlMuZmlsdGVyKChwKSA9PiBwLmtleSAhPT0gJ2dlbmVyaWMnKS5tYXAoKHApID0+ICh7CiAgICBrZXk6IHAua2V5LAogICAgbmFtZTogcC5uYW1lLAogIH0pKTsKfQoKbW9kdWxlLmV4cG9ydHMgPSB7IFBBUlNFUlMsIHJlc29sdmVQYXJzZXIsIGxpc3RQbGF0Zm9ybXMgfTsK
+const douyin = require('./douyin');
+const weibo = require('./weibo');
+const xiaohongshu = require('./xiaohongshu');
+const wxchannels = require('./wxchannels');
+const jimeng = require('./jimeng');
+const kuaishou = require('./kuaishou');
+const bilibili = require('./bilibili');
+const generic = require('./generic');
+
+/**
+ * 注册顺序 = 匹配优先级。
+ * generic 是兜底解析器（match 恒为 true），必须排在最后。
+ */
+const PARSERS = [
+  douyin,
+  weibo,
+  xiaohongshu,
+  wxchannels,
+  jimeng,
+  kuaishou,
+  bilibili,
+  generic,
+];
+
+function resolveParser(url) {
+  return PARSERS.find((p) => {
+    try {
+      return p.match(url);
+    } catch (e) {
+      return false;
+    }
+  });
+}
+
+/** 对外暴露的平台清单，小程序可通过 /api/platforms 拉取 */
+function listPlatforms() {
+  return PARSERS.filter((p) => p.key !== 'generic').map((p) => ({
+    key: p.key,
+    name: p.name,
+  }));
+}
+
+module.exports = { PARSERS, resolveParser, listPlatforms };

@@ -1,1 +1,72 @@
-IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyBWaWRlb0Rvd24g5LuT5bqT5qC5IC5naXRpZ25vcmXvvIjlr7nlrZDnm67lvZXpgJLlvZLnlJ/mlYjvvIkKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCiMgLS0tLS0tLS0tLSBOb2RlIC8g5pyN5Yqh56uvIC0tLS0tLS0tLS0Kbm9kZV9tb2R1bGVzLwoucG5wLwoucG5wLmpzCm5wbS1kZWJ1Zy5sb2cqCnlhcm4tZGVidWcubG9nKgp5YXJuLWVycm9yLmxvZyoKCiMgLS0tLS0tLS0tLSDnjq/looPlj5jph48gLyDlr4bpkqXvvIjnu53kuI3lj6/mj5DkuqTvvIkgLS0tLS0tLS0tLQouZW52Ci5lbnYubG9jYWwKLmVudi4qLmxvY2FsCioubG9jYWwKCiMgLS0tLS0tLS0tLSDml6Xlv5cgLS0tLS0tLS0tLQoqLmxvZwoKIyAtLS0tLS0tLS0tIOWGhemDqOiusOW/hu+8iFdvcmtCdWRkeSDnp4HmnInvvIzkuI3lr7nlpJbvvIkgLS0tLS0tLS0tLQoud29ya2J1ZGR5LwoKIyAtLS0tLS0tLS0tIEZsdXR0ZXIgLyBEYXJ0IC0tLS0tLS0tLS0KLmRhcnRfdG9vbC8KLmZsdXR0ZXItcGx1Z2lucwouZmx1dHRlci1wbHVnaW5zLWRlcGVuZGVuY2llcwoucHViLWNhY2hlLwoucHViLwovYnVpbGQvCmZsdXR0ZXJfKi5wbmcKY292ZXJhZ2UvCgojIC0tLS0tLS0tLS0gQW5kcm9pZCAtLS0tLS0tLS0tCi5ncmFkbGUvCioqL2FuZHJvaWQvLmdyYWRsZS8KKiovYW5kcm9pZC9jYXB0dXJlcy8KKiovYW5kcm9pZC9sb2NhbC5wcm9wZXJ0aWVzCioqL2FuZHJvaWQva2V5LnByb3BlcnRpZXMKKiovYW5kcm9pZC8qKi9HZW5lcmF0ZWRQbHVnaW5SZWdpc3RyYW50LmphdmEKKi5rZXlzdG9yZQoqLmprcwoqLmFwawoqLmFhYgoqKi9hbmRyb2lkL2FwcC9kZWJ1Zy8KKiovYW5kcm9pZC9hcHAvcHJvZmlsZS8KKiovYW5kcm9pZC9hcHAvcmVsZWFzZS8KLmV4dGVybmFsTmF0aXZlQnVpbGQvCi5jeHgvCgojIC0tLS0tLS0tLS0gaU9T77yI6Iul5bCG5p2l6KGl77yJIC0tLS0tLS0tLS0KKiovaW9zL0ZsdXR0ZXIvRmx1dHRlci5mcmFtZXdvcmsvCioqL2lvcy9GbHV0dGVyL0dlbmVyYXRlZC54Y2NvbmZpZwoqKi9pb3MvUnVubmVyL0dlbmVyYXRlZFBsdWdpblJlZ2lzdHJhbnQuKgoKIyAtLS0tLS0tLS0tIElERSAvIOe8lui+keWZqCAtLS0tLS0tLS0tCi52c2NvZGUvCi5pZGVhLwoqLmltbAoucHJvamVjdAouc2V0dGluZ3MvCgojIC0tLS0tLS0tLS0gT1MgLS0tLS0tLS0tLQouRFNfU3RvcmUKVGh1bWJzLmRiCmVodGh1bWJzLmRiCkRlc2t0b3AuaW5pCgojIC0tLS0tLS0tLS0g5Li05pe2IC8g57yT5a2YIC0tLS0tLS0tLS0KKi50bXAKLmNhY2hlLwo=
+# ============================================================
+# VideoDown 仓库根 .gitignore（对子目录递归生效）
+# ============================================================
+
+# ---------- Node / 服务端 ----------
+node_modules/
+.pnp/
+.pnp.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ---------- 环境变量 / 密钥（绝不可提交） ----------
+.env
+.env.local
+.env.*.local
+*.local
+
+# ---------- 日志 ----------
+*.log
+
+# ---------- 内部记忆（WorkBuddy 私有，不对外） ----------
+.workbuddy/
+
+# ---------- Flutter / Dart ----------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+flutter_*.png
+coverage/
+
+# ---------- Android ----------
+.gradle/
+**/android/.gradle/
+**/android/captures/
+**/android/local.properties
+**/android/key.properties
+**/android/**/GeneratedPluginRegistrant.java
+*.keystore
+*.jks
+*.apk
+*.aab
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+.externalNativeBuild/
+.cxx/
+
+# ---------- iOS（若将来补） ----------
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# ---------- IDE / 编辑器 ----------
+.vscode/
+.idea/
+*.iml
+.project
+.settings/
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ---------- 临时 / 缓存 ----------
+*.tmp
+.cache/

@@ -1,1 +1,262 @@
-Y29uc3QgewogIGVuc3VyZUFsYnVtQXV0aCwKICBkb3dubG9hZEZpbGUsCiAgc2F2ZVZpZGVvLAogIHNhdmVJbWFnZSwKICBjb3B5VGV4dCwKfSA9IHJlcXVpcmUoJy4uLy4uL3V0aWxzL2Rvd25sb2FkJyk7CmNvbnN0IHsgZ2V0UGxhdGZvcm0gfSA9IHJlcXVpcmUoJy4uLy4uL3V0aWxzL3BsYXRmb3JtcycpOwoKQ29tcG9uZW50KHsKICBwcm9wZXJ0aWVzOiB7CiAgICBkYXRhOiB7CiAgICAgIHR5cGU6IE9iamVjdCwKICAgICAgdmFsdWU6IG51bGwsCiAgICAgIG9ic2VydmVyKHZhbCkgewogICAgICAgIGlmICghdmFsKSByZXR1cm47CiAgICAgICAgY29uc3QgcCA9IGdldFBsYXRmb3JtKHZhbC5wbGF0Zm9ybSk7CiAgICAgICAgY29uc3QgcXVhbGl0aWVzID0gKHZhbC5xdWFsaXRpZXMgfHwgW10pLmZpbHRlcigocSkgPT4gcSAmJiBxLnVybCk7CiAgICAgICAgY29uc3QgaW1hZ2VzID0gKHZhbC5pbWFnZXMgfHwgW10pLm1hcCgoaW1nKSA9PiAoewogICAgICAgICAgdXJsOiBpbWcudXJsLAogICAgICAgICAgd2lkdGg6IGltZy53aWR0aCB8fCAwLAogICAgICAgICAgaGVpZ2h0OiBpbWcuaGVpZ2h0IHx8IDAsCiAgICAgICAgfSkpOwogICAgICAgIGNvbnN0IGhhc1ZpZGVvID0gcXVhbGl0aWVzLmxlbmd0aCA+IDA7CiAgICAgICAgY29uc3QgaGFzSW1hZ2VzID0gaW1hZ2VzLmxlbmd0aCA+IDA7CiAgICAgICAgY29uc3QgY29udGVudFR5cGUgPSBoYXNWaWRlbyAmJiBoYXNJbWFnZXMKICAgICAgICAgID8gJ21peGVkJwogICAgICAgICAgOiBoYXNJbWFnZXMKICAgICAgICAgID8gJ2ltYWdlJwogICAgICAgICAgOiAndmlkZW8nOwogICAgICAgIGNvbnN0IHNlbGVjdGVkID0gaW1hZ2VzLm1hcCgoKSA9PiB0cnVlKTsKCiAgICAgICAgdGhpcy5zZXREYXRhKHsKICAgICAgICAgIHBsYXRDb2xvcjogKHAgJiYgcC5jb2xvcikgfHwgJyMyQjZERjYnLAogICAgICAgICAgcXVhbGl0eUluZGV4OiBoYXNWaWRlbyA/IDAgOiAtMSwKICAgICAgICAgIGN1cnJlbnRRdWFsaXR5OiBxdWFsaXRpZXNbMF0gfHwge30sCiAgICAgICAgICBoYXNWaWRlbywKICAgICAgICAgIGhhc0ltYWdlcywKICAgICAgICAgIGNvbnRlbnRUeXBlLAogICAgICAgICAgaW1hZ2VDb3VudDogaW1hZ2VzLmxlbmd0aCwKICAgICAgICAgIHNlbGVjdGVkSW1hZ2VzOiBzZWxlY3RlZCwKICAgICAgICAgIHNlbGVjdGVkQ291bnQ6IGltYWdlcy5sZW5ndGgsCiAgICAgICAgICBwcmltYXJ5TGFiZWw6IHRoaXMuX3ByaW1hcnlMYWJlbChoYXNWaWRlbywgaW1hZ2VzLmxlbmd0aCksCiAgICAgICAgfSk7CiAgICAgIH0sCiAgICB9LAogIH0sCgogIGRhdGE6IHsKICAgIHF1YWxpdHlJbmRleDogMCwKICAgIGN1cnJlbnRRdWFsaXR5OiB7fSwKICAgIHBsYXRDb2xvcjogJyMyQjZERjYnLAogICAgaGFzVmlkZW86IGZhbHNlLAogICAgaGFzSW1hZ2VzOiBmYWxzZSwKICAgIGNvbnRlbnRUeXBlOiAndmlkZW8nLAogICAgaW1hZ2VDb3VudDogMCwKICAgIHNlbGVjdGVkSW1hZ2VzOiBbXSwKICAgIHNlbGVjdGVkQ291bnQ6IDAsCiAgICBwcmltYXJ5TGFiZWw6ICfkv53lrZjml6DmsLTljbDop4bpopEnLAogICAgZG93bmxvYWRpbmc6IGZhbHNlLAogICAgcGVyY2VudDogMCwKICAgIHByb2dyZXNzVGV4dDogJycsCiAgICBpbWdTYXZpbmc6IGZhbHNlLAogICAgaW1nUHJvZ3Jlc3NUZXh0OiAnJywKICB9LAoKICBtZXRob2RzOiB7CiAgICBfcHJpbWFyeUxhYmVsKGhhc1ZpZGVvLCBzZWxDb3VudCkgewogICAgICBpZiAoaGFzVmlkZW8pIHJldHVybiAn5L+d5a2Y5peg5rC05Y2w6KeG6aKRJzsKICAgICAgaWYgKHNlbENvdW50KSByZXR1cm4gYOS/neWtmOWbvueJhygke3NlbENvdW50fSlgOwogICAgICByZXR1cm4gJ+ivt+mAieaLqeWbvueJhyc7CiAgICB9LAoKICAgIG9uU2VsZWN0UXVhbGl0eShlKSB7CiAgICAgIGlmICh0aGlzLmRhdGEuZG93bmxvYWRpbmcpIHJldHVybjsKICAgICAgY29uc3QgaW5kZXggPSBOdW1iZXIoZS5jdXJyZW50VGFyZ2V0LmRhdGFzZXQuaW5kZXgpOwogICAgICBjb25zdCBxID0gdGhpcy5kYXRhLmRhdGEucXVhbGl0aWVzW2luZGV4XTsKICAgICAgaWYgKCFxKSByZXR1cm47CiAgICAgIHd4LnZpYnJhdGVTaG9ydCh7IHR5cGU6ICdsaWdodCcgfSk7CiAgICAgIHRoaXMuc2V0RGF0YSh7IHF1YWxpdHlJbmRleDogaW5kZXgsIGN1cnJlbnRRdWFsaXR5OiBxIH0pOwogICAgfSwKCiAgICBvbkNvdmVyRXJyb3IoKSB7CiAgICAgIHRoaXMuc2V0RGF0YSh7ICdkYXRhLmNvdmVyJzogJycgfSk7CiAgICB9LAoKICAgIG9uUHJldmlldygpIHsKICAgICAgY29uc3QgdXJsID0gdGhpcy5kYXRhLmN1cnJlbnRRdWFsaXR5LnVybDsKICAgICAgaWYgKCF1cmwpIHJldHVybjsKICAgICAgdGhpcy50cmlnZ2VyRXZlbnQoJ3ByZXZpZXcnLCB7IHVybCwgZGF0YTogdGhpcy5kYXRhLmRhdGEgfSk7CiAgICB9LAoKICAgIC8qKiDlsIHpnaLljLrngrnlh7vvvJrop4bpopHpobXpooTop4jop4bpopHvvIzlm77niYfpobXpooTop4jlpKflm74gKi8KICAgIG9uQ292ZXJUYXAoZSkgewogICAgICBpZiAodGhpcy5kYXRhLmhhc1ZpZGVvKSB7CiAgICAgICAgdGhpcy5vblByZXZpZXcoKTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0aGlzLm9uUHJldmlld0ltYWdlKGUpOwogICAgICB9CiAgICB9LAoKICAgIC8qKiDljZXlvKDlm77niYfpooTop4jvvIjosIPotbflvq7kv6Hljp/nlJ/lpKflm77mn6XnnIvvvIzlj6/kv53lrZjvvIkgKi8KICAgIG9uUHJldmlld0ltYWdlKGUpIHsKICAgICAgY29uc3QgaW5kZXggPSBOdW1iZXIoZS5jdXJyZW50VGFyZ2V0LmRhdGFzZXQuaW5kZXgpOwogICAgICBjb25zdCB1cmxzID0gdGhpcy5kYXRhLmRhdGEuaW1hZ2VzLm1hcCgoaW1nKSA9PiBpbWcudXJsKTsKICAgICAgd3gucHJldmlld0ltYWdlKHsgY3VycmVudDogdXJsc1tpbmRleF0sIHVybHMgfSk7CiAgICB9LAoKICAgIC8qKiDliIfmjaLmn5DlvKDlm77niYfnmoTpgInkuK3mgIEgKi8KICAgIG9uVG9nZ2xlSW1hZ2UoZSkgewogICAgICBpZiAodGhpcy5kYXRhLmltZ1NhdmluZykgcmV0dXJuOwogICAgICBjb25zdCBpZHggPSBOdW1iZXIoZS5jdXJyZW50VGFyZ2V0LmRhdGFzZXQuaW5kZXgpOwogICAgICBjb25zdCBrZXkgPSBgc2VsZWN0ZWRJbWFnZXNbJHtpZHh9XWA7CiAgICAgIGNvbnN0IG5leHQgPSAhdGhpcy5kYXRhLnNlbGVjdGVkSW1hZ2VzW2lkeF07CiAgICAgIHRoaXMuc2V0RGF0YSh7IFtrZXldOiBuZXh0IH0sICgpID0+IHsKICAgICAgICBjb25zdCBjID0gdGhpcy5kYXRhLnNlbGVjdGVkSW1hZ2VzLmZpbHRlcihCb29sZWFuKS5sZW5ndGg7CiAgICAgICAgdGhpcy5zZXREYXRhKHsKICAgICAgICAgIHNlbGVjdGVkQ291bnQ6IGMsCiAgICAgICAgICBwcmltYXJ5TGFiZWw6IHRoaXMuX3ByaW1hcnlMYWJlbCh0aGlzLmRhdGEuaGFzVmlkZW8sIGMpLAogICAgICAgIH0pOwogICAgICB9KTsKICAgIH0sCgogICAgLyoqIOWFqOmAiSAvIOWPlua2iOWFqOmAiSAqLwogICAgb25Ub2dnbGVBbGwoKSB7CiAgICAgIGlmICh0aGlzLmRhdGEuaW1nU2F2aW5nKSByZXR1cm47CiAgICAgIGNvbnN0IGFsbFNlbCA9CiAgICAgICAgdGhpcy5kYXRhLmRhdGEuaW1hZ2VzLmxlbmd0aCAmJgogICAgICAgIHRoaXMuZGF0YS5zZWxlY3RlZEltYWdlcy5ldmVyeShCb29sZWFuKTsKICAgICAgY29uc3QgbmV4dCA9IHRoaXMuZGF0YS5kYXRhLmltYWdlcy5tYXAoKCkgPT4gIWFsbFNlbCk7CiAgICAgIHRoaXMuc2V0RGF0YSh7CiAgICAgICAgc2VsZWN0ZWRJbWFnZXM6IG5leHQsCiAgICAgICAgc2VsZWN0ZWRDb3VudDogYWxsU2VsID8gMCA6IG5leHQubGVuZ3RoLAogICAgICAgIHByaW1hcnlMYWJlbDogdGhpcy5fcHJpbWFyeUxhYmVsKHRoaXMuZGF0YS5oYXNWaWRlbywgYWxsU2VsID8gMCA6IG5leHQubGVuZ3RoKSwKICAgICAgfSk7CiAgICB9LAoKICAgIC8qKiDkuLvmjInpkq7vvJrop4bpopHpobXkv53lrZjop4bpopHvvJvnuq/lm77niYfpobXkv53lrZjpgInkuK3lm77niYcgKi8KICAgIG9uU2F2ZVByaW1hcnkoKSB7CiAgICAgIGlmICh0aGlzLmRhdGEuaW1nU2F2aW5nIHx8IHRoaXMuZGF0YS5kb3dubG9hZGluZykgcmV0dXJuOwogICAgICBpZiAoIXRoaXMuZGF0YS5oYXNWaWRlbykgcmV0dXJuIHRoaXMub25TYXZlSW1hZ2VzKCk7CiAgICAgIHJldHVybiB0aGlzLm9uU2F2ZVZpZGVvKCk7CiAgICB9LAoKICAgIC8qKiDkv53lrZjop4bpopHliLDnm7jlhowgKi8KICAgIGFzeW5jIG9uU2F2ZVZpZGVvKCkgewogICAgICBjb25zdCBxID0gdGhpcy5kYXRhLmN1cnJlbnRRdWFsaXR5OwogICAgICBpZiAoIXEgfHwgIXEudXJsKSB7CiAgICAgICAgd3guc2hvd1RvYXN0KHsgdGl0bGU6ICfmmoLml6Dlj6/nlKjkuIvovb3lnLDlnYAnLCBpY29uOiAnbm9uZScgfSk7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIGlmICh0aGlzLmRhdGEuZG93bmxvYWRpbmcpIHJldHVybjsKCiAgICAgIHRyeSB7CiAgICAgICAgYXdhaXQgZW5zdXJlQWxidW1BdXRoKCk7CiAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgIHd4LnNob3dUb2FzdCh7IHRpdGxlOiBlcnIubWVzc2FnZSB8fCAn5pyq5o6I5p2DJywgaWNvbjogJ25vbmUnIH0pOwogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgdGhpcy5zZXREYXRhKHsgZG93bmxvYWRpbmc6IHRydWUsIHBlcmNlbnQ6IDAsIHByb2dyZXNzVGV4dDogJ+WHhuWkh+S4i+i9veKApicgfSk7CiAgICAgIHd4LnNob3dMb2FkaW5nKHsgdGl0bGU6ICfkuIvovb3kuK0gMCUnLCBtYXNrOiB0cnVlIH0pOwoKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCB0ZW1wUGF0aCA9IGF3YWl0IGRvd25sb2FkRmlsZShxLnVybCwgKHBlcmNlbnQsIHdyaXR0ZW4sIHRvdGFsKSA9PiB7CiAgICAgICAgICB0aGlzLnNldERhdGEoewogICAgICAgICAgICBwZXJjZW50LAogICAgICAgICAgICBwcm9ncmVzc1RleHQ6IGAke3dyaXR0ZW59TUIgLyAke3RvdGFsfU1CYCwKICAgICAgICAgIH0pOwogICAgICAgICAgd3guc2hvd0xvYWRpbmcoeyB0aXRsZTogYOS4i+i9veS4rSAke3BlcmNlbnR9JWAsIG1hc2s6IHRydWUgfSk7CiAgICAgICAgfSk7CgogICAgICAgIHd4LnNob3dMb2FkaW5nKHsgdGl0bGU6ICfmraPlnKjlhpnlhaXnm7jlhozigKYnLCBtYXNrOiB0cnVlIH0pOwogICAgICAgIGF3YWl0IHNhdmVWaWRlbyh0ZW1wUGF0aCk7CiAgICAgICAgd3guaGlkZUxvYWRpbmcoKTsKCiAgICAgICAgd3guc2hvd1RvYXN0KHsgdGl0bGU6ICflt7Lkv53lrZjliLDnm7jlhownLCBpY29uOiAnc3VjY2VzcycgfSk7CiAgICAgICAgdGhpcy50cmlnZ2VyRXZlbnQoJ3NhdmVkJywgeyB0eXBlOiAndmlkZW8nLCBxdWFsaXR5OiBxIH0pOwogICAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICB3eC5oaWRlTG9hZGluZygpOwogICAgICAgIHd4LnNob3dUb2FzdCh7IHRpdGxlOiAoZXJyICYmIGVyci5tZXNzYWdlKSB8fCAn5L+d5a2Y5aSx6LSlJywgaWNvbjogJ25vbmUnIH0pOwogICAgICAgIHRoaXMudHJpZ2dlckV2ZW50KCdzYXZlZmFpbCcsIHsgZXJyb3I6IGVyciB9KTsKICAgICAgfSBmaW5hbGx5IHsKICAgICAgICB0aGlzLnNldERhdGEoeyBkb3dubG9hZGluZzogZmFsc2UsIHBlcmNlbnQ6IDAsIHByb2dyZXNzVGV4dDogJycgfSk7CiAgICAgIH0KICAgIH0sCgogICAgLyoqIOS/neWtmOWwgemdoiAqLwogICAgYXN5bmMgb25TYXZlQ292ZXIoKSB7CiAgICAgIGNvbnN0IGNvdmVyID0gdGhpcy5kYXRhLmRhdGEuY292ZXJEb3dubG9hZCB8fCB0aGlzLmRhdGEuZGF0YS5jb3ZlcjsKICAgICAgaWYgKCFjb3ZlcikgewogICAgICAgIHd4LnNob3dUb2FzdCh7IHRpdGxlOiAn5pqC5peg5bCB6Z2iJywgaWNvbjogJ25vbmUnIH0pOwogICAgICAgIHJldHVybjsKICAgICAgfQogICAgICB0cnkgewogICAgICAgIGF3YWl0IGVuc3VyZUFsYnVtQXV0aCgpOwogICAgICAgIHd4LnNob3dMb2FkaW5nKHsgdGl0bGU6ICfkv53lrZjkuK3igKYnLCBtYXNrOiB0cnVlIH0pOwogICAgICAgIGNvbnN0IHRlbXAgPSBhd2FpdCBkb3dubG9hZEZpbGUoY292ZXIpOwogICAgICAgIGF3YWl0IHNhdmVJbWFnZSh0ZW1wKTsKICAgICAgICB3eC5oaWRlTG9hZGluZygpOwogICAgICAgIHd4LnNob3dUb2FzdCh7IHRpdGxlOiAn5bCB6Z2i5bey5L+d5a2YJywgaWNvbjogJ3N1Y2Nlc3MnIH0pOwogICAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICB3eC5oaWRlTG9hZGluZygpOwogICAgICAgIHd4LnNob3dUb2FzdCh7IHRpdGxlOiAoZXJyICYmIGVyci5tZXNzYWdlKSB8fCAn5L+d5a2Y5aSx6LSlJywgaWNvbjogJ25vbmUnIH0pOwogICAgICB9CiAgICB9LAoKICAgIC8qKiDmjInli77pgInmibnph4/kv53lrZjlm77niYfvvIjlm77pm4YgLyDnuq/lm77niYfpobXvvIkgKi8KICAgIGFzeW5jIG9uU2F2ZUltYWdlcygpIHsKICAgICAgY29uc3QgYWxsID0gdGhpcy5kYXRhLmRhdGEuaW1hZ2VzIHx8IFtdOwogICAgICBjb25zdCBpZHhzID0gdGhpcy5kYXRhLnNlbGVjdGVkSW1hZ2VzCiAgICAgICAgLm1hcCgocywgaSkgPT4gKHMgPyBpIDogLTEpKQogICAgICAgIC5maWx0ZXIoKGkpID0+IGkgPj0gMCk7CiAgICAgIGlmICghaWR4cy5sZW5ndGgpIHsKICAgICAgICB3eC5zaG93VG9hc3QoeyB0aXRsZTogJ+ivt+WFiOmAieaLqeimgeS/neWtmOeahOWbvueJhycsIGljb246ICdub25lJyB9KTsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgICAgaWYgKHRoaXMuZGF0YS5pbWdTYXZpbmcpIHJldHVybjsKCiAgICAgIHRyeSB7CiAgICAgICAgYXdhaXQgZW5zdXJlQWxidW1BdXRoKCk7CiAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgIHd4LnNob3dUb2FzdCh7IHRpdGxlOiBlcnIubWVzc2FnZSB8fCAn5pyq5o6I5p2DJywgaWNvbjogJ25vbmUnIH0pOwogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgdGhpcy5zZXREYXRhKHsgaW1nU2F2aW5nOiB0cnVlLCBpbWdQcm9ncmVzc1RleHQ6IGAwLyR7aWR4cy5sZW5ndGh9YCB9KTsKICAgICAgbGV0IG9rID0gMDsKICAgICAgZm9yIChsZXQgayA9IDA7IGsgPCBpZHhzLmxlbmd0aDsgaysrKSB7CiAgICAgICAgY29uc3QgaW1nID0gYWxsW2lkeHNba11dOwogICAgICAgIGNvbnN0IHVybCA9IGltZy51cmwgfHwgaW1nOwogICAgICAgIGlmICghdXJsKSBjb250aW51ZTsKICAgICAgICB3eC5zaG93TG9hZGluZyh7IHRpdGxlOiBg5L+d5a2Y5LitICR7ayArIDF9LyR7aWR4cy5sZW5ndGh9YCwgbWFzazogdHJ1ZSB9KTsKICAgICAgICB0cnkgewogICAgICAgICAgY29uc3QgdGVtcCA9IGF3YWl0IGRvd25sb2FkRmlsZSh1cmwpOwogICAgICAgICAgYXdhaXQgc2F2ZUltYWdlKHRlbXApOwogICAgICAgICAgb2sgKz0gMTsKICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAvLyDljZXlvKDlpLHotKXkuI3kuK3mlq3mlbTkvZPmtYHnqIsKICAgICAgICB9CiAgICAgICAgdGhpcy5zZXREYXRhKHsgaW1nUHJvZ3Jlc3NUZXh0OiBgJHtrICsgMX0vJHtpZHhzLmxlbmd0aH1gIH0pOwogICAgICB9CiAgICAgIHd4LmhpZGVMb2FkaW5nKCk7CiAgICAgIHRoaXMuc2V0RGF0YSh7IGltZ1NhdmluZzogZmFsc2UgfSk7CiAgICAgIHd4LnNob3dUb2FzdCh7CiAgICAgICAgdGl0bGU6IGDlt7Lkv53lrZggJHtva30vJHtpZHhzLmxlbmd0aH0g5bygYCwKICAgICAgICBpY29uOiBvayA/ICdzdWNjZXNzJyA6ICdub25lJywKICAgICAgfSk7CiAgICAgIGlmIChvayA+IDApIHRoaXMudHJpZ2dlckV2ZW50KCdzYXZlZCcsIHsgdHlwZTogJ2ltYWdlJywgY291bnQ6IG9rIH0pOwogICAgfSwKCiAgICBvbkNvcHlUaXRsZSgpIHsKICAgICAgY29uc3QgZCA9IHRoaXMuZGF0YS5kYXRhOwogICAgICBjb3B5VGV4dChkLnJhd1RpdGxlIHx8IGQudGl0bGUgfHwgJycsICfmlofmoYjlt7LlpI3liLYnKTsKICAgIH0sCgogICAgb25Db3B5VXJsKCkgewogICAgICBjb25zdCB1cmwgPSB0aGlzLmRhdGEuY3VycmVudFF1YWxpdHkub3JpZ2luVXJsIHx8IHRoaXMuZGF0YS5jdXJyZW50UXVhbGl0eS51cmw7CiAgICAgIGNvcHlUZXh0KHVybCwgJ+ebtOmTvuW3suWkjeWIticpOwogICAgfSwKICB9LAp9KTsK
+const {
+  ensureAlbumAuth,
+  downloadFile,
+  saveVideo,
+  saveImage,
+  copyText,
+} = require('../../utils/download');
+const { getPlatform } = require('../../utils/platforms');
+
+Component({
+  properties: {
+    data: {
+      type: Object,
+      value: null,
+      observer(val) {
+        if (!val) return;
+        const p = getPlatform(val.platform);
+        const qualities = (val.qualities || []).filter((q) => q && q.url);
+        const images = (val.images || []).map((img) => ({
+          url: img.url,
+          width: img.width || 0,
+          height: img.height || 0,
+        }));
+        const hasVideo = qualities.length > 0;
+        const hasImages = images.length > 0;
+        const contentType = hasVideo && hasImages
+          ? 'mixed'
+          : hasImages
+          ? 'image'
+          : 'video';
+        const selected = images.map(() => true);
+
+        this.setData({
+          platColor: (p && p.color) || '#2B6DF6',
+          qualityIndex: hasVideo ? 0 : -1,
+          currentQuality: qualities[0] || {},
+          hasVideo,
+          hasImages,
+          contentType,
+          imageCount: images.length,
+          selectedImages: selected,
+          selectedCount: images.length,
+          primaryLabel: this._primaryLabel(hasVideo, images.length),
+        });
+      },
+    },
+  },
+
+  data: {
+    qualityIndex: 0,
+    currentQuality: {},
+    platColor: '#2B6DF6',
+    hasVideo: false,
+    hasImages: false,
+    contentType: 'video',
+    imageCount: 0,
+    selectedImages: [],
+    selectedCount: 0,
+    primaryLabel: '保存无水印视频',
+    downloading: false,
+    percent: 0,
+    progressText: '',
+    imgSaving: false,
+    imgProgressText: '',
+  },
+
+  methods: {
+    _primaryLabel(hasVideo, selCount) {
+      if (hasVideo) return '保存无水印视频';
+      if (selCount) return `保存图片(${selCount})`;
+      return '请选择图片';
+    },
+
+    onSelectQuality(e) {
+      if (this.data.downloading) return;
+      const index = Number(e.currentTarget.dataset.index);
+      const q = this.data.data.qualities[index];
+      if (!q) return;
+      wx.vibrateShort({ type: 'light' });
+      this.setData({ qualityIndex: index, currentQuality: q });
+    },
+
+    onCoverError() {
+      this.setData({ 'data.cover': '' });
+    },
+
+    onPreview() {
+      const url = this.data.currentQuality.url;
+      if (!url) return;
+      this.triggerEvent('preview', { url, data: this.data.data });
+    },
+
+    /** 封面区点击：视频页预览视频，图片页预览大图 */
+    onCoverTap(e) {
+      if (this.data.hasVideo) {
+        this.onPreview();
+      } else {
+        this.onPreviewImage(e);
+      }
+    },
+
+    /** 单张图片预览（调起微信原生大图查看，可保存） */
+    onPreviewImage(e) {
+      const index = Number(e.currentTarget.dataset.index);
+      const urls = this.data.data.images.map((img) => img.url);
+      wx.previewImage({ current: urls[index], urls });
+    },
+
+    /** 切换某张图片的选中态 */
+    onToggleImage(e) {
+      if (this.data.imgSaving) return;
+      const idx = Number(e.currentTarget.dataset.index);
+      const key = `selectedImages[${idx}]`;
+      const next = !this.data.selectedImages[idx];
+      this.setData({ [key]: next }, () => {
+        const c = this.data.selectedImages.filter(Boolean).length;
+        this.setData({
+          selectedCount: c,
+          primaryLabel: this._primaryLabel(this.data.hasVideo, c),
+        });
+      });
+    },
+
+    /** 全选 / 取消全选 */
+    onToggleAll() {
+      if (this.data.imgSaving) return;
+      const allSel =
+        this.data.data.images.length &&
+        this.data.selectedImages.every(Boolean);
+      const next = this.data.data.images.map(() => !allSel);
+      this.setData({
+        selectedImages: next,
+        selectedCount: allSel ? 0 : next.length,
+        primaryLabel: this._primaryLabel(this.data.hasVideo, allSel ? 0 : next.length),
+      });
+    },
+
+    /** 主按钮：视频页保存视频；纯图片页保存选中图片 */
+    onSavePrimary() {
+      if (this.data.imgSaving || this.data.downloading) return;
+      if (!this.data.hasVideo) return this.onSaveImages();
+      return this.onSaveVideo();
+    },
+
+    /** 保存视频到相册 */
+    async onSaveVideo() {
+      const q = this.data.currentQuality;
+      if (!q || !q.url) {
+        wx.showToast({ title: '暂无可用下载地址', icon: 'none' });
+        return;
+      }
+      if (this.data.downloading) return;
+
+      try {
+        await ensureAlbumAuth();
+      } catch (err) {
+        wx.showToast({ title: err.message || '未授权', icon: 'none' });
+        return;
+      }
+
+      this.setData({ downloading: true, percent: 0, progressText: '准备下载…' });
+      wx.showLoading({ title: '下载中 0%', mask: true });
+
+      try {
+        const tempPath = await downloadFile(q.url, (percent, written, total) => {
+          this.setData({
+            percent,
+            progressText: `${written}MB / ${total}MB`,
+          });
+          wx.showLoading({ title: `下载中 ${percent}%`, mask: true });
+        });
+
+        wx.showLoading({ title: '正在写入相册…', mask: true });
+        await saveVideo(tempPath);
+        wx.hideLoading();
+
+        wx.showToast({ title: '已保存到相册', icon: 'success' });
+        this.triggerEvent('saved', { type: 'video', quality: q });
+      } catch (err) {
+        wx.hideLoading();
+        wx.showToast({ title: (err && err.message) || '保存失败', icon: 'none' });
+        this.triggerEvent('savefail', { error: err });
+      } finally {
+        this.setData({ downloading: false, percent: 0, progressText: '' });
+      }
+    },
+
+    /** 保存封面 */
+    async onSaveCover() {
+      const cover = this.data.data.coverDownload || this.data.data.cover;
+      if (!cover) {
+        wx.showToast({ title: '暂无封面', icon: 'none' });
+        return;
+      }
+      try {
+        await ensureAlbumAuth();
+        wx.showLoading({ title: '保存中…', mask: true });
+        const temp = await downloadFile(cover);
+        await saveImage(temp);
+        wx.hideLoading();
+        wx.showToast({ title: '封面已保存', icon: 'success' });
+      } catch (err) {
+        wx.hideLoading();
+        wx.showToast({ title: (err && err.message) || '保存失败', icon: 'none' });
+      }
+    },
+
+    /** 按勾选批量保存图片（图集 / 纯图片页） */
+    async onSaveImages() {
+      const all = this.data.data.images || [];
+      const idxs = this.data.selectedImages
+        .map((s, i) => (s ? i : -1))
+        .filter((i) => i >= 0);
+      if (!idxs.length) {
+        wx.showToast({ title: '请先选择要保存的图片', icon: 'none' });
+        return;
+      }
+      if (this.data.imgSaving) return;
+
+      try {
+        await ensureAlbumAuth();
+      } catch (err) {
+        wx.showToast({ title: err.message || '未授权', icon: 'none' });
+        return;
+      }
+
+      this.setData({ imgSaving: true, imgProgressText: `0/${idxs.length}` });
+      let ok = 0;
+      for (let k = 0; k < idxs.length; k++) {
+        const img = all[idxs[k]];
+        const url = img.url || img;
+        if (!url) continue;
+        wx.showLoading({ title: `保存中 ${k + 1}/${idxs.length}`, mask: true });
+        try {
+          const temp = await downloadFile(url);
+          await saveImage(temp);
+          ok += 1;
+        } catch (e) {
+          // 单张失败不中断整体流程
+        }
+        this.setData({ imgProgressText: `${k + 1}/${idxs.length}` });
+      }
+      wx.hideLoading();
+      this.setData({ imgSaving: false });
+      wx.showToast({
+        title: `已保存 ${ok}/${idxs.length} 张`,
+        icon: ok ? 'success' : 'none',
+      });
+      if (ok > 0) this.triggerEvent('saved', { type: 'image', count: ok });
+    },
+
+    onCopyTitle() {
+      const d = this.data.data;
+      copyText(d.rawTitle || d.title || '', '文案已复制');
+    },
+
+    onCopyUrl() {
+      const url = this.data.currentQuality.originUrl || this.data.currentQuality.url;
+      copyText(url, '直链已复制');
+    },
+  },
+});

@@ -1,1 +1,165 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCueUn+aIkCB0YWJCYXIg5Zu+5qCH77yIODF4ODEgUE5H77yMUkdCQe+8ieOAggrkuI3kvp3otZYgUGlsbG9377yM55u05o6l5omL5YaZIFBORyDnvJbnoIEgKyA0eCDotoXph4fmoLfmipfplK/pvb/jgIIKCueUqOazlTogcHl0aG9uIHNjcmlwdHMvZ2VuX2ljb25zLnB5Cui+k+WHujogbWluaXByb2dyYW0vYXNzZXRzL3RhYmJhci8qLnBuZwoiIiIKaW1wb3J0IG9zCmltcG9ydCB6bGliCmltcG9ydCBzdHJ1Y3QKaW1wb3J0IG1hdGgKClNJWkUgPSA4MQpTUyA9IDQgICMg6LaF6YeH5qC35YCN5pWwCgpOT1JNQUwgPSAoMHg5QSwgMHhBMCwgMHhBNikKQUNUSVZFID0gKDB4MkIsIDB4NkQsIDB4RjYpCgoKIyAtLS0tLS0tLS0tIFBORyDnvJbnoIEgLS0tLS0tLS0tLQpkZWYgd3JpdGVfcG5nKHBhdGgsIHdpZHRoLCBoZWlnaHQsIHBpeGVscyk6CiAgICByYXcgPSBieXRlYXJyYXkoKQogICAgZm9yIHkgaW4gcmFuZ2UoaGVpZ2h0KToKICAgICAgICByYXcuYXBwZW5kKDApICAjIGZpbHRlciB0eXBlIDAKICAgICAgICBmb3IgeCBpbiByYW5nZSh3aWR0aCk6CiAgICAgICAgICAgIHJhdy5leHRlbmQocGl4ZWxzW3ldW3hdKQoKICAgIGRlZiBjaHVuayh0YWcsIGRhdGEpOgogICAgICAgIGMgPSBzdHJ1Y3QucGFjaygnPkknLCBsZW4oZGF0YSkpICsgdGFnICsgZGF0YQogICAgICAgIGMgKz0gc3RydWN0LnBhY2soJz5JJywgemxpYi5jcmMzMih0YWcgKyBkYXRhKSAmIDB4RkZGRkZGRkYpCiAgICAgICAgcmV0dXJuIGMKCiAgICBwbmcgPSBiJ1x4ODlQTkdcclxuXHgxYVxuJwogICAgcG5nICs9IGNodW5rKGInSUhEUicsIHN0cnVjdC5wYWNrKCc+SUlCQkJCQicsIHdpZHRoLCBoZWlnaHQsIDgsIDYsIDAsIDAsIDApKQogICAgcG5nICs9IGNodW5rKGInSURBVCcsIHpsaWIuY29tcHJlc3MoYnl0ZXMocmF3KSwgOSkpCiAgICBwbmcgKz0gY2h1bmsoYidJRU5EJywgYicnKQoKICAgIHdpdGggb3BlbihwYXRoLCAnd2InKSBhcyBmOgogICAgICAgIGYud3JpdGUocG5nKQoKCiMgLS0tLS0tLS0tLSDlh6DkvZXlt6XlhbfvvIjlnZDmoIflvZLkuIDljJbliLAgMC4uMe+8iSAtLS0tLS0tLS0tCmRlZiBzZWdfZGlzdChweCwgcHksIHgxLCB5MSwgeDIsIHkyKToKICAgIHZ4LCB2eSA9IHgyIC0geDEsIHkyIC0geTEKICAgIHd4LCB3eSA9IHB4IC0geDEsIHB5IC0geTEKICAgIGMyID0gdnggKiB2eCArIHZ5ICogdnkKICAgIHQgPSAwLjAgaWYgYzIgPT0gMCBlbHNlIG1heCgwLjAsIG1pbigxLjAsICh2eCAqIHd4ICsgdnkgKiB3eSkgLyBjMikpCiAgICBkeCwgZHkgPSBweCAtICh4MSArIHQgKiB2eCksIHB5IC0gKHkxICsgdCAqIHZ5KQogICAgcmV0dXJuIG1hdGguaHlwb3QoZHgsIGR5KQoKCmRlZiBpbl90cmkocHgsIHB5LCBheCwgYXksIGJ4LCBieSwgY3gsIGN5KToKICAgIGRlZiBzaWduKHgxLCB5MSwgeDIsIHkyLCB4MywgeTMpOgogICAgICAgIHJldHVybiAoeDEgLSB4MykgKiAoeTIgLSB5MykgLSAoeDIgLSB4MykgKiAoeTEgLSB5MykKCiAgICBkMSA9IHNpZ24ocHgsIHB5LCBheCwgYXksIGJ4LCBieSkKICAgIGQyID0gc2lnbihweCwgcHksIGJ4LCBieSwgY3gsIGN5KQogICAgZDMgPSBzaWduKHB4LCBweSwgY3gsIGN5LCBheCwgYXkpCiAgICBuZWcgPSAoZDEgPCAwKSBvciAoZDIgPCAwKSBvciAoZDMgPCAwKQogICAgcG9zID0gKGQxID4gMCkgb3IgKGQyID4gMCkgb3IgKGQzID4gMCkKICAgIHJldHVybiBub3QgKG5lZyBhbmQgcG9zKQoKCmRlZiBpbl9yb3VuZF9yZWN0KHB4LCBweSwgeDEsIHkxLCB4MiwgeTIsIHIpOgogICAgY3ggPSBtaW4obWF4KHB4LCB4MSArIHIpLCB4MiAtIHIpCiAgICBjeSA9IG1pbihtYXgocHksIHkxICsgciksIHkyIC0gcikKICAgIHJldHVybiBtYXRoLmh5cG90KHB4IC0gY3gsIHB5IC0gY3kpIDw9IHIgb3IgKAogICAgICAgIHgxIDw9IHB4IDw9IHgyIGFuZCB5MSArIHIgPD0gcHkgPD0geTIgLSByCiAgICApIG9yICh4MSArIHIgPD0gcHggPD0geDIgLSByIGFuZCB5MSA8PSBweSA8PSB5MikKCgojIC0tLS0tLS0tLS0g5LiJ5Liq5Zu+5qCH55qE5b2i54q25a6a5LmJIC0tLS0tLS0tLS0KZGVmIHNoYXBlX2Rvd25sb2FkKHgsIHkpOgogICAgIiIi6Kej5p6QL+S4i+i9ve+8muWQkeS4i+eureWktCArIOaJmOebmCIiIgogICAgdyA9IDAuMDc1CiAgICAjIOerluadhgogICAgaWYgaW5fcm91bmRfcmVjdCh4LCB5LCAwLjUgLSB3IC8gMiwgMC4xNiwgMC41ICsgdyAvIDIsIDAuNTIsIHcgLyAyKToKICAgICAgICByZXR1cm4gVHJ1ZQogICAgIyDnrq3lpLTkuInop5IKICAgIGlmIGluX3RyaSh4LCB5LCAwLjUsIDAuNjgsIDAuMzAsIDAuNDQsIDAuNzAsIDAuNDQpOgogICAgICAgIHJldHVybiBUcnVlCiAgICAjIOaJmOebmO+8iFUg5b2i77yJCiAgICBpZiBzZWdfZGlzdCh4LCB5LCAwLjE4LCAwLjYyLCAwLjE4LCAwLjgyKSA8PSB3IC8gMjoKICAgICAgICByZXR1cm4gVHJ1ZQogICAgaWYgc2VnX2Rpc3QoeCwgeSwgMC44MiwgMC42MiwgMC44MiwgMC44MikgPD0gdyAvIDI6CiAgICAgICAgcmV0dXJuIFRydWUKICAgIGlmIHNlZ19kaXN0KHgsIHksIDAuMTgsIDAuODIsIDAuODIsIDAuODIpIDw9IHcgLyAyOgogICAgICAgIHJldHVybiBUcnVlCiAgICByZXR1cm4gRmFsc2UKCgpkZWYgc2hhcGVfY2xvY2soeCwgeSk6CiAgICAiIiLorrDlvZXvvJrml7bpkp8iIiIKICAgIGQgPSBtYXRoLmh5cG90KHggLSAwLjUsIHkgLSAwLjUpCiAgICByaW5nID0gMC4zNAogICAgdyA9IDAuMDM4CiAgICBpZiBhYnMoZCAtIHJpbmcpIDw9IHc6CiAgICAgICAgcmV0dXJuIFRydWUKICAgICMg5pe26ZKICiAgICBpZiBzZWdfZGlzdCh4LCB5LCAwLjUsIDAuNSwgMC41LCAwLjMwKSA8PSB3OgogICAgICAgIHJldHVybiBUcnVlCiAgICAjIOWIhumSiAogICAgaWYgc2VnX2Rpc3QoeCwgeSwgMC41LCAwLjUsIDAuNjYsIDAuNTYpIDw9IHc6CiAgICAgICAgcmV0dXJuIFRydWUKICAgIHJldHVybiBGYWxzZQoKCmRlZiBzaGFwZV9wZXJzb24oeCwgeSk6CiAgICAiIiLmiJHnmoTvvJrkurrlvaIiIiIKICAgICMg5aS0CiAgICBpZiBtYXRoLmh5cG90KHggLSAwLjUsIHkgLSAwLjMyKSA8PSAwLjE1NToKICAgICAgICByZXR1cm4gVHJ1ZQogICAgIyDogqnvvIjljYrmpK3lnIbvvIkKICAgIGR4ID0gKHggLSAwLjUpIC8gMC4zNAogICAgZHkgPSAoeSAtIDAuODYpIC8gMC4zNgogICAgaWYgZHggKiBkeCArIGR5ICogZHkgPD0gMS4wIGFuZCB5IDw9IDAuODY6CiAgICAgICAgcmV0dXJuIFRydWUKICAgIHJldHVybiBGYWxzZQoKClNIQVBFUyA9IHsKICAgICdob21lJzogc2hhcGVfZG93bmxvYWQsCiAgICAnaGlzdG9yeSc6IHNoYXBlX2Nsb2NrLAogICAgJ21pbmUnOiBzaGFwZV9wZXJzb24sCn0KCgpkZWYgcmVuZGVyKHNoYXBlX2ZuLCBjb2xvcik6CiAgICByLCBnLCBiID0gY29sb3IKICAgIHJvd3MgPSBbXQogICAgZm9yIHB5IGluIHJhbmdlKFNJWkUpOgogICAgICAgIHJvdyA9IFtdCiAgICAgICAgZm9yIHB4IGluIHJhbmdlKFNJWkUpOgogICAgICAgICAgICBoaXQgPSAwCiAgICAgICAgICAgIGZvciBzeSBpbiByYW5nZShTUyk6CiAgICAgICAgICAgICAgICBmb3Igc3ggaW4gcmFuZ2UoU1MpOgogICAgICAgICAgICAgICAgICAgIG54ID0gKHB4ICsgKHN4ICsgMC41KSAvIFNTKSAvIFNJWkUKICAgICAgICAgICAgICAgICAgICBueSA9IChweSArIChzeSArIDAuNSkgLyBTUykgLyBTSVpFCiAgICAgICAgICAgICAgICAgICAgaWYgc2hhcGVfZm4obngsIG55KToKICAgICAgICAgICAgICAgICAgICAgICAgaGl0ICs9IDEKICAgICAgICAgICAgYSA9IGludChyb3VuZCgyNTUgKiBoaXQgLyAoU1MgKiBTUykpKQogICAgICAgICAgICByb3cuYXBwZW5kKChyLCBnLCBiLCBhKSkKICAgICAgICByb3dzLmFwcGVuZChyb3cpCiAgICByZXR1cm4gcm93cwoKCmRlZiBtYWluKCk6CiAgICBoZXJlID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCiAgICBvdXRfZGlyID0gb3MucGF0aC5qb2luKGhlcmUsICcuLicsICdtaW5pcHJvZ3JhbScsICdhc3NldHMnLCAndGFiYmFyJykKICAgIG91dF9kaXIgPSBvcy5wYXRoLm5vcm1wYXRoKG91dF9kaXIpCiAgICBvcy5tYWtlZGlycyhvdXRfZGlyLCBleGlzdF9vaz1UcnVlKQoKICAgIGZvciBuYW1lLCBmbiBpbiBTSEFQRVMuaXRlbXMoKToKICAgICAgICB3cml0ZV9wbmcob3MucGF0aC5qb2luKG91dF9kaXIsIGYne25hbWV9LnBuZycpLCBTSVpFLCBTSVpFLAogICAgICAgICAgICAgICAgICByZW5kZXIoZm4sIE5PUk1BTCkpCiAgICAgICAgd3JpdGVfcG5nKG9zLnBhdGguam9pbihvdXRfZGlyLCBmJ3tuYW1lfS1hY3RpdmUucG5nJyksIFNJWkUsIFNJWkUsCiAgICAgICAgICAgICAgICAgIHJlbmRlcihmbiwgQUNUSVZFKSkKICAgICAgICBwcmludChmJyAgZ2VuZXJhdGVkIHtuYW1lfS5wbmcgLyB7bmFtZX0tYWN0aXZlLnBuZycpCgogICAgcHJpbnQoZidcbui+k+WHuuebruW9lToge291dF9kaXJ9JykKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==
+# -*- coding: utf-8 -*-
+"""
+生成 tabBar 图标（81x81 PNG，RGBA）。
+不依赖 Pillow，直接手写 PNG 编码 + 4x 超采样抗锯齿。
+
+用法: python scripts/gen_icons.py
+输出: miniprogram/assets/tabbar/*.png
+"""
+import os
+import zlib
+import struct
+import math
+
+SIZE = 81
+SS = 4  # 超采样倍数
+
+NORMAL = (0x9A, 0xA0, 0xA6)
+ACTIVE = (0x2B, 0x6D, 0xF6)
+
+
+# ---------- PNG 编码 ----------
+def write_png(path, width, height, pixels):
+    raw = bytearray()
+    for y in range(height):
+        raw.append(0)  # filter type 0
+        for x in range(width):
+            raw.extend(pixels[y][x])
+
+    def chunk(tag, data):
+        c = struct.pack('>I', len(data)) + tag + data
+        c += struct.pack('>I', zlib.crc32(tag + data) & 0xFFFFFFFF)
+        return c
+
+    png = b'\x89PNG\r\n\x1a\n'
+    png += chunk(b'IHDR', struct.pack('>IIBBBBB', width, height, 8, 6, 0, 0, 0))
+    png += chunk(b'IDAT', zlib.compress(bytes(raw), 9))
+    png += chunk(b'IEND', b'')
+
+    with open(path, 'wb') as f:
+        f.write(png)
+
+
+# ---------- 几何工具（坐标归一化到 0..1） ----------
+def seg_dist(px, py, x1, y1, x2, y2):
+    vx, vy = x2 - x1, y2 - y1
+    wx, wy = px - x1, py - y1
+    c2 = vx * vx + vy * vy
+    t = 0.0 if c2 == 0 else max(0.0, min(1.0, (vx * wx + vy * wy) / c2))
+    dx, dy = px - (x1 + t * vx), py - (y1 + t * vy)
+    return math.hypot(dx, dy)
+
+
+def in_tri(px, py, ax, ay, bx, by, cx, cy):
+    def sign(x1, y1, x2, y2, x3, y3):
+        return (x1 - x3) * (y2 - y3) - (x2 - x3) * (y1 - y3)
+
+    d1 = sign(px, py, ax, ay, bx, by)
+    d2 = sign(px, py, bx, by, cx, cy)
+    d3 = sign(px, py, cx, cy, ax, ay)
+    neg = (d1 < 0) or (d2 < 0) or (d3 < 0)
+    pos = (d1 > 0) or (d2 > 0) or (d3 > 0)
+    return not (neg and pos)
+
+
+def in_round_rect(px, py, x1, y1, x2, y2, r):
+    cx = min(max(px, x1 + r), x2 - r)
+    cy = min(max(py, y1 + r), y2 - r)
+    return math.hypot(px - cx, py - cy) <= r or (
+        x1 <= px <= x2 and y1 + r <= py <= y2 - r
+    ) or (x1 + r <= px <= x2 - r and y1 <= py <= y2)
+
+
+# ---------- 三个图标的形状定义 ----------
+def shape_download(x, y):
+    """解析/下载：向下箭头 + 托盘"""
+    w = 0.075
+    # 竖杆
+    if in_round_rect(x, y, 0.5 - w / 2, 0.16, 0.5 + w / 2, 0.52, w / 2):
+        return True
+    # 箭头三角
+    if in_tri(x, y, 0.5, 0.68, 0.30, 0.44, 0.70, 0.44):
+        return True
+    # 托盘（U 形）
+    if seg_dist(x, y, 0.18, 0.62, 0.18, 0.82) <= w / 2:
+        return True
+    if seg_dist(x, y, 0.82, 0.62, 0.82, 0.82) <= w / 2:
+        return True
+    if seg_dist(x, y, 0.18, 0.82, 0.82, 0.82) <= w / 2:
+        return True
+    return False
+
+
+def shape_clock(x, y):
+    """记录：时钟"""
+    d = math.hypot(x - 0.5, y - 0.5)
+    ring = 0.34
+    w = 0.038
+    if abs(d - ring) <= w:
+        return True
+    # 时针
+    if seg_dist(x, y, 0.5, 0.5, 0.5, 0.30) <= w:
+        return True
+    # 分针
+    if seg_dist(x, y, 0.5, 0.5, 0.66, 0.56) <= w:
+        return True
+    return False
+
+
+def shape_person(x, y):
+    """我的：人形"""
+    # 头
+    if math.hypot(x - 0.5, y - 0.32) <= 0.155:
+        return True
+    # 肩（半椭圆）
+    dx = (x - 0.5) / 0.34
+    dy = (y - 0.86) / 0.36
+    if dx * dx + dy * dy <= 1.0 and y <= 0.86:
+        return True
+    return False
+
+
+SHAPES = {
+    'home': shape_download,
+    'history': shape_clock,
+    'mine': shape_person,
+}
+
+
+def render(shape_fn, color):
+    r, g, b = color
+    rows = []
+    for py in range(SIZE):
+        row = []
+        for px in range(SIZE):
+            hit = 0
+            for sy in range(SS):
+                for sx in range(SS):
+                    nx = (px + (sx + 0.5) / SS) / SIZE
+                    ny = (py + (sy + 0.5) / SS) / SIZE
+                    if shape_fn(nx, ny):
+                        hit += 1
+            a = int(round(255 * hit / (SS * SS)))
+            row.append((r, g, b, a))
+        rows.append(row)
+    return rows
+
+
+def main():
+    here = os.path.dirname(os.path.abspath(__file__))
+    out_dir = os.path.join(here, '..', 'miniprogram', 'assets', 'tabbar')
+    out_dir = os.path.normpath(out_dir)
+    os.makedirs(out_dir, exist_ok=True)
+
+    for name, fn in SHAPES.items():
+        write_png(os.path.join(out_dir, f'{name}.png'), SIZE, SIZE,
+                  render(fn, NORMAL))
+        write_png(os.path.join(out_dir, f'{name}-active.png'), SIZE, SIZE,
+                  render(fn, ACTIVE))
+        print(f'  generated {name}.png / {name}-active.png')
+
+    print(f'\n输出目录: {out_dir}')
+
+
+if __name__ == '__main__':
+    main()

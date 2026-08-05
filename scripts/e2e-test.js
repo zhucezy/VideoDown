@@ -1,1 +1,210 @@
-LyoqCiAqIOerr+WIsOerr+a1i+ivle+8muWQr+WKqOecn+WunuacjeWKoSArIOacrOWcsOWBh+a6kOerme+8jOmqjOivgeWujOaVtOS4i+i9vemTvui3rwogKiDov5DooYw6IG5vZGUgc2NyaXB0cy9lMmUtdGVzdC5qcwogKi8KY29uc3QgaHR0cCA9IHJlcXVpcmUoJ2h0dHAnKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsKY29uc3QgeyBzcGF3biB9ID0gcmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpOwoKY29uc3QgT1JJR0lOX1BPUlQgPSAzNTk4Owpjb25zdCBBUElfUE9SVCA9IDM1OTk7CmNvbnN0IFNFQ1JFVCA9ICdlMmUtdGVzdC1zZWNyZXQtMTIzNDU2Nzg5MCc7CmNvbnN0IEFQSSA9IGBodHRwOi8vMTI3LjAuMC4xOiR7QVBJX1BPUlR9YDsKCmxldCBwYXNzID0gMDsKbGV0IGZhaWwgPSAwOwpmdW5jdGlvbiBvayhuYW1lLCBjb25kLCBleHRyYSkgewogIGlmIChjb25kKSB7CiAgICBwYXNzICs9IDE7CiAgICBjb25zb2xlLmxvZyhgICDinJMgJHtuYW1lfWApOwogIH0gZWxzZSB7CiAgICBmYWlsICs9IDE7CiAgICBjb25zb2xlLmxvZyhgICDinJcgJHtuYW1lfSR7ZXh0cmEgPyAnICDihpIgJyArIGV4dHJhIDogJyd9YCk7CiAgfQp9CgovLyA9PT09PT09PT09PT0gMS4g5YGH5rqQ56uZ77ya5qih5ouf5bim6Ziy55uX6ZO+55qE6KeG6aKRIENETiA9PT09PT09PT09PT0KY29uc3QgRklMRV9TSVpFID0gNTEyICogMTAyNDsKY29uc3QgcGF5bG9hZCA9IEJ1ZmZlci5hbGxvYyhGSUxFX1NJWkUsIDB4NDIpOwoKY29uc3Qgb3JpZ2luID0gaHR0cC5jcmVhdGVTZXJ2ZXIoKHJlcSwgcmVzKSA9PiB7CiAgLy8g5qih5oufIFJlZmVyZXIg6Ziy55uX6ZO+77ya5rKh5bim5q2j56GuIFJlZmVyZXIg55u05o6lIDQwMwogIGlmIChyZXEudXJsLnN0YXJ0c1dpdGgoJy9wcm90ZWN0ZWQubXA0JykpIHsKICAgIGlmIChyZXEuaGVhZGVycy5yZWZlcmVyICE9PSAnaHR0cHM6Ly93d3cuZG91eWluLmNvbS8nKSB7CiAgICAgIHJlcy53cml0ZUhlYWQoNDAzLCB7ICdjb250ZW50LXR5cGUnOiAndGV4dC9wbGFpbicgfSk7CiAgICAgIHJldHVybiByZXMuZW5kKCdmb3JiaWRkZW46IGJhZCByZWZlcmVyJyk7CiAgICB9CiAgfQoKICBjb25zdCByYW5nZSA9IHJlcS5oZWFkZXJzLnJhbmdlOwogIGlmIChyYW5nZSkgewogICAgY29uc3QgbSA9IHJhbmdlLm1hdGNoKC9ieXRlcz0oXGQqKS0oXGQqKS8pOwogICAgY29uc3Qgc3RhcnQgPSBOdW1iZXIobVsxXSB8fCAwKTsKICAgIGNvbnN0IGVuZCA9IG1bMl0gPyBOdW1iZXIobVsyXSkgOiBGSUxFX1NJWkUgLSAxOwogICAgcmVzLndyaXRlSGVhZCgyMDYsIHsKICAgICAgJ2NvbnRlbnQtdHlwZSc6ICd2aWRlby9tcDQnLAogICAgICAnY29udGVudC1sZW5ndGgnOiBlbmQgLSBzdGFydCArIDEsCiAgICAgICdjb250ZW50LXJhbmdlJzogYGJ5dGVzICR7c3RhcnR9LSR7ZW5kfS8ke0ZJTEVfU0laRX1gLAogICAgICAnYWNjZXB0LXJhbmdlcyc6ICdieXRlcycsCiAgICB9KTsKICAgIHJldHVybiByZXMuZW5kKHBheWxvYWQuc3ViYXJyYXkoc3RhcnQsIGVuZCArIDEpKTsKICB9CgogIHJlcy53cml0ZUhlYWQoMjAwLCB7CiAgICAnY29udGVudC10eXBlJzogJ3ZpZGVvL21wNCcsCiAgICAnY29udGVudC1sZW5ndGgnOiBGSUxFX1NJWkUsCiAgICAnYWNjZXB0LXJhbmdlcyc6ICdieXRlcycsCiAgfSk7CiAgcmVzLmVuZChwYXlsb2FkKTsKfSk7CgovLyA9PT09PT09PT09PT0gMi4g5ZCv5Yqo6KKr5rWL5pyN5YqhID09PT09PT09PT09PQpmdW5jdGlvbiBzdGFydEFwaSgpIHsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgY29uc3QgY2hpbGQgPSBzcGF3bigKICAgICAgcHJvY2Vzcy5leGVjUGF0aCwKICAgICAgW3BhdGguam9pbihfX2Rpcm5hbWUsICcuLicsICdzZXJ2ZXInLCAnc3JjJywgJ2luZGV4LmpzJyldLAogICAgICB7CiAgICAgICAgZW52OiBPYmplY3QuYXNzaWduKHt9LCBwcm9jZXNzLmVudiwgewogICAgICAgICAgUE9SVDogU3RyaW5nKEFQSV9QT1JUKSwKICAgICAgICAgIFBVQkxJQ19CQVNFOiBBUEksCiAgICAgICAgICBTSUdOX1NFQ1JFVDogU0VDUkVULAogICAgICAgICAgUkFURV9NQVg6ICcxMDAnLAogICAgICAgIH0pLAogICAgICAgIHN0ZGlvOiBbJ2lnbm9yZScsICdwaXBlJywgJ3BpcGUnXSwKICAgICAgfQogICAgKTsKICAgIGxldCBvdXQgPSAnJzsKICAgIGNoaWxkLnN0ZG91dC5vbignZGF0YScsIChkKSA9PiB7CiAgICAgIG91dCArPSBkLnRvU3RyaW5nKCk7CiAgICAgIGlmIChvdXQuaW5jbHVkZXMoJ+ebkeWQrOerr+WPoycpKSByZXNvbHZlKGNoaWxkKTsKICAgIH0pOwogICAgY2hpbGQuc3RkZXJyLm9uKCdkYXRhJywgKGQpID0+IHByb2Nlc3Muc3RkZXJyLndyaXRlKGQpKTsKICAgIGNoaWxkLm9uKCdlcnJvcicsIHJlamVjdCk7CiAgICBzZXRUaW1lb3V0KCgpID0+IHJlamVjdChuZXcgRXJyb3IoJ+acjeWKoeWQr+WKqOi2heaXticpKSwgMTAwMDApOwogIH0pOwp9Cgphc3luYyBmdW5jdGlvbiBtYWluKCkgewogIGF3YWl0IG5ldyBQcm9taXNlKChyKSA9PiBvcmlnaW4ubGlzdGVuKE9SSUdJTl9QT1JULCByKSk7CiAgY29uc29sZS5sb2coYFxu5YGH5rqQ56uZ5bey5ZCv5YqoOiBodHRwOi8vMTI3LjAuMC4xOiR7T1JJR0lOX1BPUlR9YCk7CgogIGNvbnN0IGFwaSA9IGF3YWl0IHN0YXJ0QXBpKCk7CiAgY29uc29sZS5sb2coYOiiq+a1i+acjeWKoeW3suWQr+WKqDogJHtBUEl9XG5gKTsKCiAgLy8g562+5ZCN5bel5YW35b+F6aG755So55u45ZCMIHNlY3JldCAvIGJhc2UKICBwcm9jZXNzLmVudi5TSUdOX1NFQ1JFVCA9IFNFQ1JFVDsKICBwcm9jZXNzLmVudi5QVUJMSUNfQkFTRSA9IEFQSTsKICBjb25zdCB7IGJ1aWxkUHJveHlVcmwgfSA9IHJlcXVpcmUocGF0aC5qb2luKAogICAgX19kaXJuYW1lLCAnLi4nLCAnc2VydmVyJywgJ3NyYycsICd1dGlscycsICdzaWduJwogICkpOwoKICB0cnkgewogICAgY29uc29sZS5sb2coJ1sxXSDln7rnoYDmjqXlj6MnKTsKICAgIGNvbnN0IGhlYWx0aCA9IGF3YWl0IGZldGNoKGAke0FQSX0vaGVhbHRoYCkudGhlbigocikgPT4gci5qc29uKCkpOwogICAgb2soJy9oZWFsdGgg6L+U5ZueIGNvZGUgMCcsIGhlYWx0aC5jb2RlID09PSAwKTsKCiAgICBjb25zdCBwbGF0cyA9IGF3YWl0IGZldGNoKGAke0FQSX0vYXBpL3BsYXRmb3Jtc2ApLnRoZW4oKHIpID0+IHIuanNvbigpKTsKICAgIG9rKCcvYXBpL3BsYXRmb3JtcyDov5Tlm54gNyDkuKrlubPlj7AnLAogICAgICBwbGF0cy5kYXRhLnBsYXRmb3Jtcy5sZW5ndGggPT09IDcsIFN0cmluZyhwbGF0cy5kYXRhLnBsYXRmb3Jtcy5sZW5ndGgpKTsKCiAgICBjb25zb2xlLmxvZygnXG5bMl0g5Y+C5pWw5qCh6aqMJyk7CiAgICBjb25zdCBiYWQgPSBhd2FpdCBmZXRjaChgJHtBUEl9L2FwaS9wYXJzZWAsIHsKICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgIGhlYWRlcnM6IHsgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHVybDogJ+i/meS4jeaYr+mTvuaOpScgfSksCiAgICB9KS50aGVuKChyKSA9PiByLmpzb24oKSk7CiAgICBvaygn6Z2e5rOV6ZO+5o6l6L+U5ZueIDQwMDEnLCBiYWQuY29kZSA9PT0gNDAwMSwgSlNPTi5zdHJpbmdpZnkoYmFkKSk7CgogICAgY29uc3QgdW5yZWFjaGFibGUgPSBhd2FpdCBmZXRjaChgJHtBUEl9L2FwaS9wYXJzZWAsIHsKICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgIGhlYWRlcnM6IHsgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHVybDogJ2h0dHBzOi8vdGhpcy1kb21haW4tZG9lcy1ub3QtZXhpc3QteHl6MTIzLmNvbS92LzEnIH0pLAogICAgfSkudGhlbigocikgPT4gci5qc29uKCkpOwogICAgb2soJ+aKk+WPluWksei0pei/lOWbnue7k+aehOWMlumUmeivr+iAjOmdnuW0qea6gycsCiAgICAgIHVucmVhY2hhYmxlLmNvZGUgIT09IDAgJiYgdHlwZW9mIHVucmVhY2hhYmxlLm1lc3NhZ2UgPT09ICdzdHJpbmcnLAogICAgICBKU09OLnN0cmluZ2lmeSh1bnJlYWNoYWJsZSkpOwoKICAgIGNvbnNvbGUubG9nKCdcblszXSDku6PnkIbkuK3ovazvvJrlrozmlbTkuIvovb0nKTsKICAgIGNvbnN0IHByb3h5VXJsID0gYnVpbGRQcm94eVVybCgKICAgICAgYGh0dHA6Ly8xMjcuMC4wLjE6JHtPUklHSU5fUE9SVH0vdmlkZW8ubXA0YCwKICAgICAgeyBwbGF0Zm9ybTogJ3Rlc3QnLCBmaWxlbmFtZTogJ+a1i+ivlS5tcDQnIH0KICAgICk7CiAgICBjb25zdCBkbCA9IGF3YWl0IGZldGNoKHByb3h5VXJsKTsKICAgIGNvbnN0IGJ1ZiA9IEJ1ZmZlci5mcm9tKGF3YWl0IGRsLmFycmF5QnVmZmVyKCkpOwogICAgb2soJ+eKtuaAgeeggSAyMDAnLCBkbC5zdGF0dXMgPT09IDIwMCwgU3RyaW5nKGRsLnN0YXR1cykpOwogICAgb2soYOWujOaVtOaLieWPliAke0ZJTEVfU0laRX0g5a2X6IqCYCwgYnVmLmxlbmd0aCA9PT0gRklMRV9TSVpFLCBTdHJpbmcoYnVmLmxlbmd0aCkpOwogICAgb2soJ2NvbnRlbnQtdHlwZSDpgI/kvKAnLCBkbC5oZWFkZXJzLmdldCgnY29udGVudC10eXBlJykgPT09ICd2aWRlby9tcDQnKTsKICAgIG9rKCflo7DmmI7mlK/mjIEgUmFuZ2UnLCBkbC5oZWFkZXJzLmdldCgnYWNjZXB0LXJhbmdlcycpID09PSAnYnl0ZXMnKTsKICAgIG9rKCfluKYgY29udGVudC1kaXNwb3NpdGlvbiDmlofku7blkI0nLAogICAgICAvYXR0YWNobWVudC8udGVzdChkbC5oZWFkZXJzLmdldCgnY29udGVudC1kaXNwb3NpdGlvbicpIHx8ICcnKSk7CiAgICBvaygn5YaF5a655a6M5pW05pyq5o2f5Z2PJywgYnVmWzBdID09PSAweDQyICYmIGJ1ZltidWYubGVuZ3RoIC0gMV0gPT09IDB4NDIpOwoKICAgIGNvbnNvbGUubG9nKCdcbls0XSDku6PnkIbkuK3ovazvvJpSYW5nZSDmlq3ngrnnu63kvKAnKTsKICAgIGNvbnN0IHBhcnRpYWwgPSBhd2FpdCBmZXRjaChwcm94eVVybCwgeyBoZWFkZXJzOiB7IFJhbmdlOiAnYnl0ZXM9MTAwLTE5OScgfSB9KTsKICAgIGNvbnN0IHBidWYgPSBCdWZmZXIuZnJvbShhd2FpdCBwYXJ0aWFsLmFycmF5QnVmZmVyKCkpOwogICAgb2soJ+eKtuaAgeeggSAyMDYnLCBwYXJ0aWFsLnN0YXR1cyA9PT0gMjA2LCBTdHJpbmcocGFydGlhbC5zdGF0dXMpKTsKICAgIG9rKCfov5Tlm54gMTAwIOWtl+iKgicsIHBidWYubGVuZ3RoID09PSAxMDAsIFN0cmluZyhwYnVmLmxlbmd0aCkpOwogICAgb2soJ2NvbnRlbnQtcmFuZ2Ug5q2j56GuJywKICAgICAgcGFydGlhbC5oZWFkZXJzLmdldCgnY29udGVudC1yYW5nZScpID09PSBgYnl0ZXMgMTAwLTE5OS8ke0ZJTEVfU0laRX1gLAogICAgICBwYXJ0aWFsLmhlYWRlcnMuZ2V0KCdjb250ZW50LXJhbmdlJykpOwoKICAgIGNvbnNvbGUubG9nKCdcbls1XSDpmLLnm5fpk77nu5Xov4cnKTsKICAgIGNvbnN0IHByb3RlY3RlZFVybCA9IGJ1aWxkUHJveHlVcmwoCiAgICAgIGBodHRwOi8vMTI3LjAuMC4xOiR7T1JJR0lOX1BPUlR9L3Byb3RlY3RlZC5tcDRgLAogICAgICB7IHBsYXRmb3JtOiAnZG91eWluJyB9CiAgICApOwogICAgY29uc3QgcHJvdCA9IGF3YWl0IGZldGNoKHByb3RlY3RlZFVybCk7CiAgICBvaygn5pyN5Yqh56uv6Ieq5Yqo6KGlIFJlZmVyZXIg5ZCO5oiQ5Yqf5Zue5rqQJywgcHJvdC5zdGF0dXMgPT09IDIwMCwgU3RyaW5nKHByb3Quc3RhdHVzKSk7CiAgICBhd2FpdCBwcm90LmFycmF5QnVmZmVyKCk7CgogICAgY29uc3Qgbm9SZWZlcmVyVXJsID0gYnVpbGRQcm94eVVybCgKICAgICAgYGh0dHA6Ly8xMjcuMC4wLjE6JHtPUklHSU5fUE9SVH0vcHJvdGVjdGVkLm1wNGAsCiAgICAgIHsgcGxhdGZvcm06ICd1bmtub3duLXBsYXRmb3JtJyB9CiAgICApOwogICAgY29uc3Qgbm9SZWYgPSBhd2FpdCBmZXRjaChub1JlZmVyZXJVcmwpOwogICAgb2soJ+acquefpeW5s+WPsOS4jeW4piBSZWZlcmVyIOaXtua6kOermeaLkue7ne+8iOivgeaYjumYsuebl+mTvueUn+aViO+8iScsCiAgICAgIG5vUmVmLnN0YXR1cyA9PT0gNTAyLCBTdHJpbmcobm9SZWYuc3RhdHVzKSk7CgogICAgY29uc29sZS5sb2coJ1xuWzZdIOetvuWQjeWuieWFqCcpOwogICAgY29uc3QgdSA9IG5ldyBVUkwocHJveHlVcmwpOwogICAgdS5zZWFyY2hQYXJhbXMuc2V0KCdzJywgJ2ZvcmdlZC1zaWduYXR1cmUteHh4Jyk7CiAgICBjb25zdCBmb3JnZWQgPSBhd2FpdCBmZXRjaCh1LnRvU3RyaW5nKCkpOwogICAgb2soJ+S8qumAoOetvuWQjeiiq+aLkiA0MDMnLCBmb3JnZWQuc3RhdHVzID09PSA0MDMsIFN0cmluZyhmb3JnZWQuc3RhdHVzKSk7CgogICAgY29uc3QgdTIgPSBuZXcgVVJMKHByb3h5VXJsKTsKICAgIHUyLnNlYXJjaFBhcmFtcy5zZXQoJ2UnLCAnMTAwMDAwMDAwMCcpOwogICAgY29uc3QgZXhwaXJlZCA9IGF3YWl0IGZldGNoKHUyLnRvU3RyaW5nKCkpOwogICAgb2soJ+i/h+acn+mTvuaOpeiiq+aLkiA0MDMnLCBleHBpcmVkLnN0YXR1cyA9PT0gNDAzLCBTdHJpbmcoZXhwaXJlZC5zdGF0dXMpKTsKCiAgICBjb25zdCB1MyA9IG5ldyBVUkwocHJveHlVcmwpOwogICAgdTMuc2VhcmNoUGFyYW1zLmRlbGV0ZSgncycpOwogICAgY29uc3Qgbm9TaWduID0gYXdhaXQgZmV0Y2godTMudG9TdHJpbmcoKSk7CiAgICBvaygn5peg562+5ZCN6KKr5ouSIDQwMycsIG5vU2lnbi5zdGF0dXMgPT09IDQwMywgU3RyaW5nKG5vU2lnbi5zdGF0dXMpKTsKCiAgICBjb25zb2xlLmxvZygnXG5bN10g6ZmQ5rWBJyk7CiAgICBjb25zdCBsaW1pdGVkID0gYXdhaXQgUHJvbWlzZS5hbGwoCiAgICAgIEFycmF5LmZyb20oeyBsZW5ndGg6IDEyIH0sICgpID0+CiAgICAgICAgZmV0Y2goYCR7QVBJfS9hcGkvcGxhdGZvcm1zYCkudGhlbigocikgPT4gci5zdGF0dXMpCiAgICAgICkKICAgICk7CiAgICBvaygn5q2j5bi46aKR546H5LiN6K+v5LykJywgbGltaXRlZC5ldmVyeSgocykgPT4gcyA9PT0gMjAwKSk7CgogICAgY29uc29sZS5sb2coJ1xuWzhdIDQwNCDlhZzlupUnKTsKICAgIGNvbnN0IG5mID0gYXdhaXQgZmV0Y2goYCR7QVBJfS9hcGkvbm90LWV4aXN0YCk7CiAgICBvaygn5pyq55+l6Lev55Sx6L+U5ZueIDQwNCBKU09OJywgbmYuc3RhdHVzID09PSA0MDQpOwogIH0gZmluYWxseSB7CiAgICBhcGkua2lsbCgpOwogICAgb3JpZ2luLmNsb3NlKCk7CiAgfQoKICBjb25zb2xlLmxvZyhgXG4keyc9Jy5yZXBlYXQoNDYpfWApOwogIGNvbnNvbGUubG9nKGAgIOmAmui/hyAke3Bhc3N9IOmhue+8jOWksei0pSAke2ZhaWx9IOmhuWApOwogIGNvbnNvbGUubG9nKCc9Jy5yZXBlYXQoNDYpICsgJ1xuJyk7CiAgcHJvY2Vzcy5leGl0KGZhaWwgPyAxIDogMCk7Cn0KCm1haW4oKS5jYXRjaCgoZSkgPT4gewogIGNvbnNvbGUuZXJyb3IoJ+a1i+ivleW8guW4uDonLCBlKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0pOwo=
+/**
+ * 端到端测试：启动真实服务 + 本地假源站，验证完整下载链路
+ * 运行: node scripts/e2e-test.js
+ */
+const http = require('http');
+const path = require('path');
+const { spawn } = require('child_process');
+
+const ORIGIN_PORT = 3598;
+const API_PORT = 3599;
+const SECRET = 'e2e-test-secret-1234567890';
+const API = `http://127.0.0.1:${API_PORT}`;
+
+let pass = 0;
+let fail = 0;
+function ok(name, cond, extra) {
+  if (cond) {
+    pass += 1;
+    console.log(`  ✓ ${name}`);
+  } else {
+    fail += 1;
+    console.log(`  ✗ ${name}${extra ? '  → ' + extra : ''}`);
+  }
+}
+
+// ============ 1. 假源站：模拟带防盗链的视频 CDN ============
+const FILE_SIZE = 512 * 1024;
+const payload = Buffer.alloc(FILE_SIZE, 0x42);
+
+const origin = http.createServer((req, res) => {
+  // 模拟 Referer 防盗链：没带正确 Referer 直接 403
+  if (req.url.startsWith('/protected.mp4')) {
+    if (req.headers.referer !== 'https://www.douyin.com/') {
+      res.writeHead(403, { 'content-type': 'text/plain' });
+      return res.end('forbidden: bad referer');
+    }
+  }
+
+  const range = req.headers.range;
+  if (range) {
+    const m = range.match(/bytes=(\d*)-(\d*)/);
+    const start = Number(m[1] || 0);
+    const end = m[2] ? Number(m[2]) : FILE_SIZE - 1;
+    res.writeHead(206, {
+      'content-type': 'video/mp4',
+      'content-length': end - start + 1,
+      'content-range': `bytes ${start}-${end}/${FILE_SIZE}`,
+      'accept-ranges': 'bytes',
+    });
+    return res.end(payload.subarray(start, end + 1));
+  }
+
+  res.writeHead(200, {
+    'content-type': 'video/mp4',
+    'content-length': FILE_SIZE,
+    'accept-ranges': 'bytes',
+  });
+  res.end(payload);
+});
+
+// ============ 2. 启动被测服务 ============
+function startApi() {
+  return new Promise((resolve, reject) => {
+    const child = spawn(
+      process.execPath,
+      [path.join(__dirname, '..', 'server', 'src', 'index.js')],
+      {
+        env: Object.assign({}, process.env, {
+          PORT: String(API_PORT),
+          PUBLIC_BASE: API,
+          SIGN_SECRET: SECRET,
+          RATE_MAX: '100',
+        }),
+        stdio: ['ignore', 'pipe', 'pipe'],
+      }
+    );
+    let out = '';
+    child.stdout.on('data', (d) => {
+      out += d.toString();
+      if (out.includes('监听端口')) resolve(child);
+    });
+    child.stderr.on('data', (d) => process.stderr.write(d));
+    child.on('error', reject);
+    setTimeout(() => reject(new Error('服务启动超时')), 10000);
+  });
+}
+
+async function main() {
+  await new Promise((r) => origin.listen(ORIGIN_PORT, r));
+  console.log(`\n假源站已启动: http://127.0.0.1:${ORIGIN_PORT}`);
+
+  const api = await startApi();
+  console.log(`被测服务已启动: ${API}\n`);
+
+  // 签名工具必须用相同 secret / base
+  process.env.SIGN_SECRET = SECRET;
+  process.env.PUBLIC_BASE = API;
+  const { buildProxyUrl } = require(path.join(
+    __dirname, '..', 'server', 'src', 'utils', 'sign'
+  ));
+
+  try {
+    console.log('[1] 基础接口');
+    const health = await fetch(`${API}/health`).then((r) => r.json());
+    ok('/health 返回 code 0', health.code === 0);
+
+    const plats = await fetch(`${API}/api/platforms`).then((r) => r.json());
+    ok('/api/platforms 返回 7 个平台',
+      plats.data.platforms.length === 7, String(plats.data.platforms.length));
+
+    console.log('\n[2] 参数校验');
+    const bad = await fetch(`${API}/api/parse`, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ url: '这不是链接' }),
+    }).then((r) => r.json());
+    ok('非法链接返回 4001', bad.code === 4001, JSON.stringify(bad));
+
+    const unreachable = await fetch(`${API}/api/parse`, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ url: 'https://this-domain-does-not-exist-xyz123.com/v/1' }),
+    }).then((r) => r.json());
+    ok('抓取失败返回结构化错误而非崩溃',
+      unreachable.code !== 0 && typeof unreachable.message === 'string',
+      JSON.stringify(unreachable));
+
+    console.log('\n[3] 代理中转：完整下载');
+    const proxyUrl = buildProxyUrl(
+      `http://127.0.0.1:${ORIGIN_PORT}/video.mp4`,
+      { platform: 'test', filename: '测试.mp4' }
+    );
+    const dl = await fetch(proxyUrl);
+    const buf = Buffer.from(await dl.arrayBuffer());
+    ok('状态码 200', dl.status === 200, String(dl.status));
+    ok(`完整拉取 ${FILE_SIZE} 字节`, buf.length === FILE_SIZE, String(buf.length));
+    ok('content-type 透传', dl.headers.get('content-type') === 'video/mp4');
+    ok('声明支持 Range', dl.headers.get('accept-ranges') === 'bytes');
+    ok('带 content-disposition 文件名',
+      /attachment/.test(dl.headers.get('content-disposition') || ''));
+    ok('内容完整未损坏', buf[0] === 0x42 && buf[buf.length - 1] === 0x42);
+
+    console.log('\n[4] 代理中转：Range 断点续传');
+    const partial = await fetch(proxyUrl, { headers: { Range: 'bytes=100-199' } });
+    const pbuf = Buffer.from(await partial.arrayBuffer());
+    ok('状态码 206', partial.status === 206, String(partial.status));
+    ok('返回 100 字节', pbuf.length === 100, String(pbuf.length));
+    ok('content-range 正确',
+      partial.headers.get('content-range') === `bytes 100-199/${FILE_SIZE}`,
+      partial.headers.get('content-range'));
+
+    console.log('\n[5] 防盗链绕过');
+    const protectedUrl = buildProxyUrl(
+      `http://127.0.0.1:${ORIGIN_PORT}/protected.mp4`,
+      { platform: 'douyin' }
+    );
+    const prot = await fetch(protectedUrl);
+    ok('服务端自动补 Referer 后成功回源', prot.status === 200, String(prot.status));
+    await prot.arrayBuffer();
+
+    const noRefererUrl = buildProxyUrl(
+      `http://127.0.0.1:${ORIGIN_PORT}/protected.mp4`,
+      { platform: 'unknown-platform' }
+    );
+    const noRef = await fetch(noRefererUrl);
+    ok('未知平台不带 Referer 时源站拒绝（证明防盗链生效）',
+      noRef.status === 502, String(noRef.status));
+
+    console.log('\n[6] 签名安全');
+    const u = new URL(proxyUrl);
+    u.searchParams.set('s', 'forged-signature-xxx');
+    const forged = await fetch(u.toString());
+    ok('伪造签名被拒 403', forged.status === 403, String(forged.status));
+
+    const u2 = new URL(proxyUrl);
+    u2.searchParams.set('e', '1000000000');
+    const expired = await fetch(u2.toString());
+    ok('过期链接被拒 403', expired.status === 403, String(expired.status));
+
+    const u3 = new URL(proxyUrl);
+    u3.searchParams.delete('s');
+    const noSign = await fetch(u3.toString());
+    ok('无签名被拒 403', noSign.status === 403, String(noSign.status));
+
+    console.log('\n[7] 限流');
+    const limited = await Promise.all(
+      Array.from({ length: 12 }, () =>
+        fetch(`${API}/api/platforms`).then((r) => r.status)
+      )
+    );
+    ok('正常频率不误伤', limited.every((s) => s === 200));
+
+    console.log('\n[8] 404 兜底');
+    const nf = await fetch(`${API}/api/not-exist`);
+    ok('未知路由返回 404 JSON', nf.status === 404);
+  } finally {
+    api.kill();
+    origin.close();
+  }
+
+  console.log(`\n${'='.repeat(46)}`);
+  console.log(`  通过 ${pass} 项，失败 ${fail} 项`);
+  console.log('='.repeat(46) + '\n');
+  process.exit(fail ? 1 : 0);
+}
+
+main().catch((e) => {
+  console.error('测试异常:', e);
+  process.exit(1);
+});

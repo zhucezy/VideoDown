@@ -1,1 +1,225 @@
-Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3QgY29ycyA9IHJlcXVpcmUoJ2NvcnMnKTsKY29uc3QgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cgpjb25zdCBjb25maWcgPSByZXF1aXJlKCcuL2NvbmZpZycpOwpjb25zdCB7IHJlc29sdmVQYXJzZXIsIGxpc3RQbGF0Zm9ybXMgfSA9IHJlcXVpcmUoJy4vcGFyc2VycycpOwpjb25zdCB7IGhhbmRsZVByb3h5IH0gPSByZXF1aXJlKCcuL3Byb3h5Jyk7CmNvbnN0IHsgYnVpbGRQcm94eVVybCB9ID0gcmVxdWlyZSgnLi91dGlscy9zaWduJyk7CmNvbnN0IHsgcHJvYmUgfSA9IHJlcXVpcmUoJy4vdXRpbHMvaHR0cCcpOwpjb25zdCB7CiAgQml6RXJyb3IsCiAgRVJSLAogIHBpY2tVcmwsCiAgc2l6ZVRleHQsCiAgc29ydFF1YWxpdGllcywKfSA9IHJlcXVpcmUoJy4vdXRpbHMvY29tbW9uJyk7Cgpjb25zdCBhcHAgPSBleHByZXNzKCk7CmFwcC5kaXNhYmxlKCd4LXBvd2VyZWQtYnknKTsKYXBwLnVzZShjb3JzKCkpOwphcHAudXNlKGV4cHJlc3MuanNvbih7IGxpbWl0OiAnNjRrYicgfSkpOwphcHAudXNlKGV4cHJlc3MudXJsZW5jb2RlZCh7IGV4dGVuZGVkOiBmYWxzZSB9KSk7CgovLyA9PT09PT09PT09PT09PT09PT09PT0g566A5piT5YaF5a2Y6ZmQ5rWBID09PT09PT09PT09PT09PT09PT09PQpjb25zdCBidWNrZXRzID0gbmV3IE1hcCgpOwpmdW5jdGlvbiByYXRlTGltaXQocmVxLCByZXMsIG5leHQpIHsKICAvLyDku6PnkIbkuIvovb3kuI3lj4LkuI7op6PmnpDpmZDmtYEKICBpZiAocmVxLnBhdGggPT09ICcvYXBpL2RsJykgcmV0dXJuIG5leHQoKTsKCiAgY29uc3QgaXAgPQogICAgKHJlcS5oZWFkZXJzWyd4LWZvcndhcmRlZC1mb3InXSB8fCAnJykuc3BsaXQoJywnKVswXS50cmltKCkgfHwKICAgIHJlcS5zb2NrZXQucmVtb3RlQWRkcmVzcyB8fAogICAgJ3Vua25vd24nOwogIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgY29uc3QgcmVjID0gYnVja2V0cy5nZXQoaXApIHx8IHsgY291bnQ6IDAsIHJlc2V0OiBub3cgKyBjb25maWcucmF0ZUxpbWl0LndpbmRvd01zIH07CgogIGlmIChub3cgPiByZWMucmVzZXQpIHsKICAgIHJlYy5jb3VudCA9IDA7CiAgICByZWMucmVzZXQgPSBub3cgKyBjb25maWcucmF0ZUxpbWl0LndpbmRvd01zOwogIH0KICByZWMuY291bnQgKz0gMTsKICBidWNrZXRzLnNldChpcCwgcmVjKTsKCiAgaWYgKHJlYy5jb3VudCA+IGNvbmZpZy5yYXRlTGltaXQubWF4KSB7CiAgICByZXR1cm4gcmVzLnN0YXR1cyg0MjkpLmpzb24oewogICAgICBjb2RlOiBFUlIuUkFURV9MSU1JVCwKICAgICAgbWVzc2FnZTogJ+ivt+axgui/h+S6jumikee5ge+8jOivt+eojeWQjuWGjeivlScsCiAgICB9KTsKICB9CiAgbmV4dCgpOwp9CmFwcC51c2UocmF0ZUxpbWl0KTsKCi8vIOWumuacn+a4heeQhui/h+acn+eahOmZkOa1geahtgpzZXRJbnRlcnZhbCgoKSA9PiB7CiAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICBmb3IgKGNvbnN0IFtrLCB2XSBvZiBidWNrZXRzKSBpZiAobm93ID4gdi5yZXNldCArIDYwMDAwKSBidWNrZXRzLmRlbGV0ZShrKTsKfSwgMTIwMDAwKS51bnJlZigpOwoKLy8gPT09PT09PT09PT09PT09PT09PT09IOWBpeW6t+ajgOafpSA9PT09PT09PT09PT09PT09PT09PT0KYXBwLmdldCgnL2hlYWx0aCcsIChyZXEsIHJlcykgPT4gewogIHJlcy5qc29uKHsgY29kZTogMCwgbWVzc2FnZTogJ29rJywgZGF0YTogeyB0aW1lOiBEYXRlLm5vdygpIH0gfSk7Cn0pOwoKLy8gPT09PT09PT09PT09PT09PT09PT09IOW5s+WPsOa4heWNlSA9PT09PT09PT09PT09PT09PT09PT0KYXBwLmdldCgnL2FwaS9wbGF0Zm9ybXMnLCAocmVxLCByZXMpID0+IHsKICByZXMuanNvbih7IGNvZGU6IDAsIG1lc3NhZ2U6ICdvaycsIGRhdGE6IHsgcGxhdGZvcm1zOiBsaXN0UGxhdGZvcm1zKCkgfSB9KTsKfSk7CgovLyA9PT09PT09PT09PT09PT09PT09PT0g5bCP56iL5bqP6Z2Z6buY55m75b2VID09PT09PT09PT09PT09PT09PT09PQphcHAucG9zdCgnL2FwaS9hdXRoL2xvZ2luJywgYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgY29uc3QgeyBjb2RlIH0gPSByZXEuYm9keSB8fCB7fTsKICBpZiAoIWNvZGUpIHsKICAgIHJldHVybiByZXMuanNvbih7IGNvZGU6IDQwMDEsIG1lc3NhZ2U6ICfnvLrlsJEgY29kZScgfSk7CiAgfQogIGlmICghY29uZmlnLnd4LmFwcElkIHx8ICFjb25maWcud3guYXBwU2VjcmV0KSB7CiAgICAvLyDmnKrphY3nva7lsI/nqIvluo/lh63mja7ml7blj5HmlL7ljL/lkI0gdG9rZW7vvIzkv53or4HliY3nq6/mtYHnqIvlj6/nlKgKICAgIGNvbnN0IHRva2VuID0gY3J5cHRvLnJhbmRvbUJ5dGVzKDE2KS50b1N0cmluZygnaGV4Jyk7CiAgICByZXR1cm4gcmVzLmpzb24oeyBjb2RlOiAwLCBtZXNzYWdlOiAnb2snLCBkYXRhOiB7IHRva2VuLCBhbm9ueW1vdXM6IHRydWUgfSB9KTsKICB9CgogIHRyeSB7CiAgICBjb25zdCB1cmwgPQogICAgICBgaHR0cHM6Ly9hcGkud2VpeGluLnFxLmNvbS9zbnMvanNjb2RlMnNlc3Npb24/YXBwaWQ9JHtjb25maWcud3guYXBwSWR9YCArCiAgICAgIGAmc2VjcmV0PSR7Y29uZmlnLnd4LmFwcFNlY3JldH0manNfY29kZT0ke2NvZGV9JmdyYW50X3R5cGU9YXV0aG9yaXphdGlvbl9jb2RlYDsKICAgIGNvbnN0IHIgPSBhd2FpdCBmZXRjaCh1cmwpOwogICAgY29uc3QgZGF0YSA9IGF3YWl0IHIuanNvbigpOwogICAgaWYgKCFkYXRhLm9wZW5pZCkgewogICAgICByZXR1cm4gcmVzLmpzb24oeyBjb2RlOiA0MDEwLCBtZXNzYWdlOiBkYXRhLmVycm1zZyB8fCAn55m75b2V5aSx6LSlJyB9KTsKICAgIH0KICAgIC8vIOeUn+S6p+eOr+Wig+ivt+aNouaIkCBKV1Qg5bm25oyB5LmF5YyWIHNlc3Npb25fa2V5CiAgICBjb25zdCB0b2tlbiA9IGNyeXB0bwogICAgICAuY3JlYXRlSG1hYygnc2hhMjU2JywgY29uZmlnLnNpZ25TZWNyZXQpCiAgICAgIC51cGRhdGUoZGF0YS5vcGVuaWQpCiAgICAgIC5kaWdlc3QoJ2hleCcpOwogICAgcmVzLmpzb24oeyBjb2RlOiAwLCBtZXNzYWdlOiAnb2snLCBkYXRhOiB7IHRva2VuIH0gfSk7CiAgfSBjYXRjaCAoZSkgewogICAgcmVzLmpzb24oeyBjb2RlOiA1MDAwLCBtZXNzYWdlOiAn55m75b2V5pyN5Yqh5byC5bi4JyB9KTsKICB9Cn0pOwoKLy8gPT09PT09PT09PT09PT09PT09PT09IOaguOW/g++8muino+aekCA9PT09PT09PT09PT09PT09PT09PT0KYXBwLnBvc3QoJy9hcGkvcGFyc2UnLCBhc3luYyAocmVxLCByZXMpID0+IHsKICBjb25zdCBzdGFydGVkID0gRGF0ZS5ub3coKTsKICBjb25zdCBpbnB1dCA9IChyZXEuYm9keSAmJiAocmVxLmJvZHkudXJsIHx8IHJlcS5ib2R5LnRleHQpKSB8fCAnJzsKICBjb25zdCB1cmwgPSBwaWNrVXJsKGlucHV0KSB8fCBTdHJpbmcoaW5wdXQpLnRyaW0oKTsKCiAgaWYgKCEvXmh0dHBzPzpcL1wvL2kudGVzdCh1cmwpKSB7CiAgICByZXR1cm4gcmVzLmpzb24oeyBjb2RlOiBFUlIuQkFEX1VSTCwgbWVzc2FnZTogJ+ivt+aPkOS+m+acieaViOeahOinhumikemTvuaOpScgfSk7CiAgfQoKICBjb25zdCBwYXJzZXIgPSByZXNvbHZlUGFyc2VyKHVybCk7CiAgaWYgKCFwYXJzZXIpIHsKICAgIHJldHVybiByZXMuanNvbih7IGNvZGU6IEVSUi5VTlNVUFBPUlRFRCwgbWVzc2FnZTogJ+aaguS4jeaUr+aMgeivpeW5s+WPsCcgfSk7CiAgfQoKICB0cnkgewogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgcGFyc2VyLnBhcnNlKHVybCk7CgogICAgLy8gMS4g5o6S5bqP77yM5L+d6K+B56ysIDAg6aG55piv5pyA6auY5YiG6L6o546HCiAgICBsZXQgcXVhbGl0aWVzID0gc29ydFF1YWxpdGllcyhyZXN1bHQucXVhbGl0aWVzIHx8IFtdKTsKCiAgICAvLyAyLiDmjqLmtYvmnIDpq5jmoaPnmoTnnJ/lrp7kvZPnp6/vvIjliY0gMiDmoaPljbPlj6/vvIzpgb/lhY3or7fmsYLov4flpJrmi5bmhaLlk43lupTvvIkKICAgIGF3YWl0IFByb21pc2UuYWxsKAogICAgICBxdWFsaXRpZXMuc2xpY2UoMCwgMikubWFwKGFzeW5jIChxKSA9PiB7CiAgICAgICAgaWYgKHEuc2l6ZSkgcmV0dXJuOwogICAgICAgIGNvbnN0IGluZm8gPSBhd2FpdCBwcm9iZShxLnVybCwgcmVzdWx0LnByb3h5SGVhZGVycyB8fCB7fSk7CiAgICAgICAgaWYgKGluZm8uc2l6ZSkgcS5zaXplID0gaW5mby5zaXplOwogICAgICAgIGlmIChpbmZvLmZpbmFsVXJsKSBxLnVybCA9IGluZm8uZmluYWxVcmw7CiAgICAgIH0pCiAgICApOwoKICAgIC8vIDMuIOWFqOmDqOaUueWGmeS4uuW4puetvuWQjeeahOS7o+eQhuebtOmTvu+8iOWwj+eoi+W6j+WPquiDveS4i+i9veeZveWQjeWNleWfn+WQje+8iQogICAgY29uc3Qgc2FmZU5hbWUgPSAocmVzdWx0LnRpdGxlIHx8ICd2aWRlbycpCiAgICAgIC5yZXBsYWNlKC9bXFwvOio/Ijw+fFxzXSsvZywgJ18nKQogICAgICAuc2xpY2UoMCwgNDApOwoKICAgIHF1YWxpdGllcyA9IHF1YWxpdGllcy5tYXAoKHEsIGkpID0+ICh7CiAgICAgIGxhYmVsOiBxLmxhYmVsLAogICAgICB3aWR0aDogcS53aWR0aCwKICAgICAgaGVpZ2h0OiBxLmhlaWdodCwKICAgICAgYml0cmF0ZTogcS5iaXRyYXRlLAogICAgICBzaXplOiBxLnNpemUsCiAgICAgIHNpemVUZXh0OiBzaXplVGV4dChxLnNpemUpLAogICAgICBmb3JtYXQ6IHEuZm9ybWF0LAogICAgICB1bnN1cHBvcnRlZDogISFxLnVuc3VwcG9ydGVkLAogICAgICBvcmlnaW5Vcmw6IHEudXJsLAogICAgICB1cmw6IGJ1aWxkUHJveHlVcmwocS51cmwsIHsKICAgICAgICBwbGF0Zm9ybTogcmVzdWx0LnBsYXRmb3JtLAogICAgICAgIGZpbGVuYW1lOiBgJHtzYWZlTmFtZX1fJHtxLmxhYmVsIHx8IGl9LiR7cS5mb3JtYXQgfHwgJ21wNCd9YCwKICAgICAgfSksCiAgICB9KSk7CgogICAgY29uc3QgaW1hZ2VzID0gKHJlc3VsdC5pbWFnZXMgfHwgW10pLm1hcCgoaW1nLCBpKSA9PiAoewogICAgICB3aWR0aDogaW1nLndpZHRoLAogICAgICBoZWlnaHQ6IGltZy5oZWlnaHQsCiAgICAgIHVybDogYnVpbGRQcm94eVVybChpbWcudXJsIHx8IGltZywgewogICAgICAgIHBsYXRmb3JtOiByZXN1bHQucGxhdGZvcm0sCiAgICAgICAgZmlsZW5hbWU6IGAke3NhZmVOYW1lfV8ke2kgKyAxfS5qcGdgLAogICAgICB9KSwKICAgIH0pKTsKCiAgICAvLyDnuq/lm77niYcgLyDlm77pm4blhoXlrrnmsqHmnInop4bpopHlsIHpnaLvvIznlKjnrKzkuIDlvKDlm77lhZzlupXvvIzpgb/lhY3liY3nq6/pooTop4jnqbrnmb0KICAgIGNvbnN0IGNvdmVyUmF3ID0gcmVzdWx0LmNvdmVyIHx8ICcnOwogICAgY29uc3QgY292ZXJQcm94eSA9IGNvdmVyUmF3CiAgICAgID8gYnVpbGRQcm94eVVybChjb3ZlclJhdywgeyBwbGF0Zm9ybTogcmVzdWx0LnBsYXRmb3JtIH0pCiAgICAgIDogJyc7CiAgICBjb25zdCBjb3ZlckRvd25sb2FkUHJveHkgPSBjb3ZlclJhdwogICAgICA/IGJ1aWxkUHJveHlVcmwoY292ZXJSYXcsIHsKICAgICAgICAgIHBsYXRmb3JtOiByZXN1bHQucGxhdGZvcm0sCiAgICAgICAgICBmaWxlbmFtZTogYCR7c2FmZU5hbWV9X2NvdmVyLmpwZ2AsCiAgICAgICAgfSkKICAgICAgOiAnJzsKICAgIGNvbnN0IGNvdmVyU3JjID0gY292ZXJSYXcgfHwgKGltYWdlc1swXSAmJiBpbWFnZXNbMF0udXJsKSB8fCAnJzsKCiAgICByZXMuanNvbih7CiAgICAgIGNvZGU6IDAsCiAgICAgIG1lc3NhZ2U6ICdvaycsCiAgICAgIGRhdGE6IE9iamVjdC5hc3NpZ24oe30sIHJlc3VsdCwgewogICAgICAgIHF1YWxpdGllcywKICAgICAgICBpbWFnZXMsCiAgICAgICAgLy8g5bCB6Z2i5Lmf6LWw5Luj55CG77yI5oiW5aSN55So5bey5Luj55CG55qE6aaW5Zu+77yJ77yM6YG/5YWN5bCP56iL5bqPIGltYWdlIOe7hOS7tuiiq+mYsuebl+mTvuaLpuaIqgogICAgICAgIGNvdmVyOiBjb3ZlclNyYyA/IChjb3ZlclJhdyA/IGNvdmVyUHJveHkgOiBjb3ZlclNyYykgOiAnJywKICAgICAgICBjb3ZlckRvd25sb2FkOiBjb3ZlclNyYwogICAgICAgICAgPyBjb3ZlclJhdwogICAgICAgICAgICA/IGNvdmVyRG93bmxvYWRQcm94eQogICAgICAgICAgICA6IGNvdmVyU3JjCiAgICAgICAgICA6ICcnLAogICAgICAgIGF1dGhvckF2YXRhcjogcmVzdWx0LmF1dGhvckF2YXRhcgogICAgICAgICAgPyBidWlsZFByb3h5VXJsKHJlc3VsdC5hdXRob3JBdmF0YXIsIHsgcGxhdGZvcm06IHJlc3VsdC5wbGF0Zm9ybSB9KQogICAgICAgICAgOiAnJywKICAgICAgICBwcm94eUhlYWRlcnM6IHVuZGVmaW5lZCwKICAgICAgICBjb3N0OiBEYXRlLm5vdygpIC0gc3RhcnRlZCwKICAgICAgfSksCiAgICB9KTsKICB9IGNhdGNoIChlcnIpIHsKICAgIGNvbnN0IGNvZGUgPSBlcnIgaW5zdGFuY2VvZiBCaXpFcnJvciA/IGVyci5jb2RlIDogRVJSLlVQU1RSRUFNOwogICAgY29uc3QgbWVzc2FnZSA9IGVyci5tZXNzYWdlIHx8ICfop6PmnpDlpLHotKXvvIzor7fnqI3lkI7ph43or5UnOwogICAgY29uc29sZS5lcnJvcihgW3BhcnNlIGZhaWxdICR7cGFyc2VyLmtleX0gJHt1cmx9IOKGkiAke21lc3NhZ2V9YCk7CiAgICByZXMuanNvbih7IGNvZGUsIG1lc3NhZ2UgfSk7CiAgfQp9KTsKCi8vID09PT09PT09PT09PT09PT09PT09PSDop4bpopEv5Zu+54mH5rWB5byP5Lit6L2sID09PT09PT09PT09PT09PT09PT09PQphcHAuZ2V0KCcvYXBpL2RsJywgaGFuZGxlUHJveHkpOwoKLy8gPT09PT09PT09PT09PT09PT09PT09IOWFnOW6lSA9PT09PT09PT09PT09PT09PT09PT0KYXBwLnVzZSgocmVxLCByZXMpID0+IHsKICByZXMuc3RhdHVzKDQwNCkuanNvbih7IGNvZGU6IDQwMDQsIG1lc3NhZ2U6ICfmjqXlj6PkuI3lrZjlnKgnIH0pOwp9KTsKCmFwcC51c2UoKGVyciwgcmVxLCByZXMsIG5leHQpID0+IHsKICBjb25zb2xlLmVycm9yKCdbc2VydmVyIGVycm9yXScsIGVycik7CiAgcmVzLnN0YXR1cyg1MDApLmpzb24oeyBjb2RlOiA1MDAwLCBtZXNzYWdlOiAn5pyN5Yqh5YaF6YOo6ZSZ6K+vJyB9KTsKfSk7CgphcHAubGlzdGVuKGNvbmZpZy5wb3J0LCBjb25maWcuaG9zdCwgKCkgPT4gewogIGNvbnNvbGUubG9nKGBcbiAg6KeG6aKR6Kej5p6Q5pyN5Yqh5bey5ZCv5YqoYCk7CiAgY29uc29sZS5sb2coYCAg55uR5ZCs5Zyw5Z2AOiBodHRwOi8vJHtjb25maWcuaG9zdH06JHtjb25maWcucG9ydH1gKTsKICBjb25zb2xlLmxvZyhgICDlr7nlpJblnLDlnYA6ICR7Y29uZmlnLnB1YmxpY0Jhc2V9YCk7CiAgY29uc29sZS5sb2coYCAg5bey5rOo5YaM5bmz5Y+wOiAke2xpc3RQbGF0Zm9ybXMoKS5tYXAoKHApID0+IHAubmFtZSkuam9pbign44CBJyl9XG5gKTsKICBpZiAoY29uZmlnLnNpZ25TZWNyZXQgPT09ICdjaGFuZ2UtdGhpcy10by1hLXJhbmRvbS1zZWNyZXQnKSB7CiAgICBjb25zb2xlLndhcm4oJyAg4pqg77iPICBTSUdOX1NFQ1JFVCDku43mmK/pu5jorqTlgLzvvIzkuIrnur/liY3liqHlv4Xkv67mlLnvvIFcbicpOwogIH0KfSk7Cg==
+const express = require('express');
+const cors = require('cors');
+const crypto = require('crypto');
+
+const config = require('./config');
+const { resolveParser, listPlatforms } = require('./parsers');
+const { handleProxy } = require('./proxy');
+const { buildProxyUrl } = require('./utils/sign');
+const { probe } = require('./utils/http');
+const {
+  BizError,
+  ERR,
+  pickUrl,
+  sizeText,
+  sortQualities,
+} = require('./utils/common');
+
+const app = express();
+app.disable('x-powered-by');
+app.use(cors());
+app.use(express.json({ limit: '64kb' }));
+app.use(express.urlencoded({ extended: false }));
+
+// ===================== 简易内存限流 =====================
+const buckets = new Map();
+function rateLimit(req, res, next) {
+  // 代理下载不参与解析限流
+  if (req.path === '/api/dl') return next();
+
+  const ip =
+    (req.headers['x-forwarded-for'] || '').split(',')[0].trim() ||
+    req.socket.remoteAddress ||
+    'unknown';
+  const now = Date.now();
+  const rec = buckets.get(ip) || { count: 0, reset: now + config.rateLimit.windowMs };
+
+  if (now > rec.reset) {
+    rec.count = 0;
+    rec.reset = now + config.rateLimit.windowMs;
+  }
+  rec.count += 1;
+  buckets.set(ip, rec);
+
+  if (rec.count > config.rateLimit.max) {
+    return res.status(429).json({
+      code: ERR.RATE_LIMIT,
+      message: '请求过于频繁，请稍后再试',
+    });
+  }
+  next();
+}
+app.use(rateLimit);
+
+// 定期清理过期的限流桶
+setInterval(() => {
+  const now = Date.now();
+  for (const [k, v] of buckets) if (now > v.reset + 60000) buckets.delete(k);
+}, 120000).unref();
+
+// ===================== 健康检查 =====================
+app.get('/health', (req, res) => {
+  res.json({ code: 0, message: 'ok', data: { time: Date.now() } });
+});
+
+// ===================== 平台清单 =====================
+app.get('/api/platforms', (req, res) => {
+  res.json({ code: 0, message: 'ok', data: { platforms: listPlatforms() } });
+});
+
+// ===================== 小程序静默登录 =====================
+app.post('/api/auth/login', async (req, res) => {
+  const { code } = req.body || {};
+  if (!code) {
+    return res.json({ code: 4001, message: '缺少 code' });
+  }
+  if (!config.wx.appId || !config.wx.appSecret) {
+    // 未配置小程序凭据时发放匿名 token，保证前端流程可用
+    const token = crypto.randomBytes(16).toString('hex');
+    return res.json({ code: 0, message: 'ok', data: { token, anonymous: true } });
+  }
+
+  try {
+    const url =
+      `https://api.weixin.qq.com/sns/jscode2session?appid=${config.wx.appId}` +
+      `&secret=${config.wx.appSecret}&js_code=${code}&grant_type=authorization_code`;
+    const r = await fetch(url);
+    const data = await r.json();
+    if (!data.openid) {
+      return res.json({ code: 4010, message: data.errmsg || '登录失败' });
+    }
+    // 生产环境请换成 JWT 并持久化 session_key
+    const token = crypto
+      .createHmac('sha256', config.signSecret)
+      .update(data.openid)
+      .digest('hex');
+    res.json({ code: 0, message: 'ok', data: { token } });
+  } catch (e) {
+    res.json({ code: 5000, message: '登录服务异常' });
+  }
+});
+
+// ===================== 核心：解析 =====================
+app.post('/api/parse', async (req, res) => {
+  const started = Date.now();
+  const input = (req.body && (req.body.url || req.body.text)) || '';
+  const url = pickUrl(input) || String(input).trim();
+
+  if (!/^https?:\/\//i.test(url)) {
+    return res.json({ code: ERR.BAD_URL, message: '请提供有效的视频链接' });
+  }
+
+  const parser = resolveParser(url);
+  if (!parser) {
+    return res.json({ code: ERR.UNSUPPORTED, message: '暂不支持该平台' });
+  }
+
+  try {
+    const result = await parser.parse(url);
+
+    // 1. 排序，保证第 0 项是最高分辨率
+    let qualities = sortQualities(result.qualities || []);
+
+    // 2. 探测最高档的真实体积（前 2 档即可，避免请求过多拖慢响应）
+    await Promise.all(
+      qualities.slice(0, 2).map(async (q) => {
+        if (q.size) return;
+        const info = await probe(q.url, result.proxyHeaders || {});
+        if (info.size) q.size = info.size;
+        if (info.finalUrl) q.url = info.finalUrl;
+      })
+    );
+
+    // 3. 全部改写为带签名的代理直链（小程序只能下载白名单域名）
+    const safeName = (result.title || 'video')
+      .replace(/[\\/:*?"<>|\s]+/g, '_')
+      .slice(0, 40);
+
+    qualities = qualities.map((q, i) => ({
+      label: q.label,
+      width: q.width,
+      height: q.height,
+      bitrate: q.bitrate,
+      size: q.size,
+      sizeText: sizeText(q.size),
+      format: q.format,
+      unsupported: !!q.unsupported,
+      originUrl: q.url,
+      url: buildProxyUrl(q.url, {
+        platform: result.platform,
+        filename: `${safeName}_${q.label || i}.${q.format || 'mp4'}`,
+      }),
+    }));
+
+    const images = (result.images || []).map((img, i) => ({
+      width: img.width,
+      height: img.height,
+      url: buildProxyUrl(img.url || img, {
+        platform: result.platform,
+        filename: `${safeName}_${i + 1}.jpg`,
+      }),
+    }));
+
+    // 纯图片 / 图集内容没有视频封面，用第一张图兜底，避免前端预览空白
+    const coverRaw = result.cover || '';
+    const coverProxy = coverRaw
+      ? buildProxyUrl(coverRaw, { platform: result.platform })
+      : '';
+    const coverDownloadProxy = coverRaw
+      ? buildProxyUrl(coverRaw, {
+          platform: result.platform,
+          filename: `${safeName}_cover.jpg`,
+        })
+      : '';
+    const coverSrc = coverRaw || (images[0] && images[0].url) || '';
+
+    res.json({
+      code: 0,
+      message: 'ok',
+      data: Object.assign({}, result, {
+        qualities,
+        images,
+        // 封面也走代理（或复用已代理的首图），避免小程序 image 组件被防盗链拦截
+        cover: coverSrc ? (coverRaw ? coverProxy : coverSrc) : '',
+        coverDownload: coverSrc
+          ? coverRaw
+            ? coverDownloadProxy
+            : coverSrc
+          : '',
+        authorAvatar: result.authorAvatar
+          ? buildProxyUrl(result.authorAvatar, { platform: result.platform })
+          : '',
+        proxyHeaders: undefined,
+        cost: Date.now() - started,
+      }),
+    });
+  } catch (err) {
+    const code = err instanceof BizError ? err.code : ERR.UPSTREAM;
+    const message = err.message || '解析失败，请稍后重试';
+    console.error(`[parse fail] ${parser.key} ${url} → ${message}`);
+    res.json({ code, message });
+  }
+});
+
+// ===================== 视频/图片流式中转 =====================
+app.get('/api/dl', handleProxy);
+
+// ===================== 兜底 =====================
+app.use((req, res) => {
+  res.status(404).json({ code: 4004, message: '接口不存在' });
+});
+
+app.use((err, req, res, next) => {
+  console.error('[server error]', err);
+  res.status(500).json({ code: 5000, message: '服务内部错误' });
+});
+
+app.listen(config.port, config.host, () => {
+  console.log(`\n  视频解析服务已启动`);
+  console.log(`  监听地址: http://${config.host}:${config.port}`);
+  console.log(`  对外地址: ${config.publicBase}`);
+  console.log(`  已注册平台: ${listPlatforms().map((p) => p.name).join('、')}\n`);
+  if (config.signSecret === 'change-this-to-a-random-secret') {
+    console.warn('  ⚠️  SIGN_SECRET 仍是默认值，上线前务必修改！\n');
+  }
+});
