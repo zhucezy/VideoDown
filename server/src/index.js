@@ -151,14 +151,18 @@ app.post('/api/parse', async (req, res) => {
       }),
     }));
 
-    const images = (result.images || []).map((img, i) => ({
-      width: img.width,
-      height: img.height,
-      url: buildProxyUrl(img.url || img, {
-        platform: result.platform,
-        filename: `${safeName}_${i + 1}.jpg`,
-      }),
-    }));
+    const images = (result.images || []).map((img, i) => {
+      const raw = img.url || img;
+      return {
+        width: img.width,
+        height: img.height,
+        originUrl: raw,
+        url: buildProxyUrl(raw, {
+          platform: result.platform,
+          filename: `${safeName}_${i + 1}.jpg`,
+        }),
+      };
+    });
 
     // 纯图片 / 图集内容没有视频封面，用第一张图兜底，避免前端预览空白
     const coverRaw = result.cover || '';
@@ -189,7 +193,8 @@ app.post('/api/parse', async (req, res) => {
         authorAvatar: result.authorAvatar
           ? buildProxyUrl(result.authorAvatar, { platform: result.platform })
           : '',
-        proxyHeaders: undefined,
+        // 安卓直连场景：透传 proxyHeaders，供客户端直连源站时绕过防盗链
+        proxyHeaders: result.proxyHeaders || {},
         cost: Date.now() - started,
       }),
     });
@@ -202,7 +207,10 @@ app.post('/api/parse', async (req, res) => {
 });
 
 // ===================== 视频/图片流式中转 =====================
-app.get('/api/dl', handleProxy);
+// Vercel 等 Serverless 环境无法做流式中转（超时/响应体限制），提示客户端直连 originUrl
+app.get('/api/dl', process.env.VERCEL
+  ? (req, res) => res.status(501).json({ code: 5001, message: '当前部署环境不支持代理下载，请客户端使用 originUrl 直连源站' })
+  : handleProxy);
 
 // ===================== 兜底 =====================
 app.use((req, res) => {
@@ -214,12 +222,15 @@ app.use((err, req, res, next) => {
   res.status(500).json({ code: 5000, message: '服务内部错误' });
 });
 
-app.listen(config.port, config.host, () => {
-  console.log(`\n  视频解析服务已启动`);
-  console.log(`  监听地址: http://${config.host}:${config.port}`);
-  console.log(`  对外地址: ${config.publicBase}`);
-  console.log(`  已注册平台: ${listPlatforms().map((p) => p.name).join('、')}\n`);
-  if (config.signSecret === 'change-this-to-a-random-secret') {
-    console.warn('  ⚠️  SIGN_SECRET 仍是默认值，上线前务必修改！\n');
-  }
-});
+// Vercel / 其他 Serverless 平台由平台接管请求，不在此 listen
+if (!process.env.VERCEL) {
+  app.listen(config.port, config.host, () => {
+    console.log(`\n  视频解析服务已启动`);
+    console.log(`  监听地址: http://${config.host}:${config.port}`);
+    console.log(`  对外地址: ${config.publicBase}`);
+    console.log(`  已注册平台: ${listPlatforms().map((p) => p.name).join('、')}\n`);
+    if (config.signSecret === 'change-this-to-a-random-secret') {
+      console.warn('  ⚠️  SIGN_SECRET 仍是默认值，上线前务必修改！\n');
+    }
+  });
+}
