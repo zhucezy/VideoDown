@@ -6,13 +6,15 @@ module.exports = {
   host: process.env.HOST || '0.0.0.0',
 
   // 对外访问的基础地址（代理直链会基于它生成，客户端下载时必须可达）：
-  // 1) 部署在 Railway 时，优先用平台自动注入的 RAILWAY_PUBLIC_DOMAIN（无需手动配置）
-  // 2) 否则用显式设置的 PUBLIC_BASE
+  // 1) 优先用显式设置的 PUBLIC_BASE（适用于 Render / Koyeb / 任何平台）
+  // 2) 部署在 Railway 时，自动用平台注入的 RAILWAY_PUBLIC_DOMAIN
   // 3) 最后回退到本地默认值（联调时改这里或 .env 即可）
   publicBase:
-    (process.env.RAILWAY_PUBLIC_DOMAIN
+    process.env.PUBLIC_BASE
+    || (process.env.RAILWAY_PUBLIC_DOMAIN
       ? `https://${process.env.RAILWAY_PUBLIC_DOMAIN}`
-      : process.env.PUBLIC_BASE) || 'https://api.yourdomain.com',
+      : '')
+    || 'https://api.yourdomain.com',
 
   // 代理直链签名密钥，务必改成随机长字符串
   signSecret: process.env.SIGN_SECRET || 'change-this-to-a-random-secret',
