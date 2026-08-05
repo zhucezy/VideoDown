@@ -101,7 +101,8 @@ class _ItemCard extends StatelessWidget {
           icon: const Icon(Icons.download),
           onPressed: () async {
             if (item.qualities.isNotEmpty) {
-              await dl.saveVideo(item.qualities.first);
+              await dl.saveVideo(item.qualities.first,
+                  headers: item.proxyHeaders);
             }
           },
         ),
