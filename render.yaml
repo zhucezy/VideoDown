@@ -1,0 +1,30 @@
+# Render 配置文件 (https://render.com/docs/blueprint-spec)
+# 部署步骤：
+#   1. 注册 render.com（可用 GitHub 账号登录）
+#   2. New → Blueprint → 选择 zhucezy/VideoDown 仓库
+#   3. Render 会自动读取本文件，创建 Web Service
+#   4. 部署成功后，在 Dashboard → Environment 中设置 PUBLIC_BASE 为你的域名
+#      例如 https://video-parse-server-xxxx.onrender.com
+
+services:
+  - type: web
+    name: video-parse-server
+    env: node
+    rootDir: server
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
+    healthCheckTimeout: 60
+    plan: free
+    autoDeploy: true
+    envVars:
+      # 部署成功后手动设置值（Render Dashboard → Environment）
+      - key: PUBLIC_BASE
+        sync: false
+      - key: SIGN_SECRET
+        sync: false
+      # 以下可选，按需设置
+      - key: HOST
+        value: 0.0.0.0
+      - key: RATE_MAX
+        value: "20"
