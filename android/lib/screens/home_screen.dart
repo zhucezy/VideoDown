@@ -133,8 +133,9 @@ class _HomeScreenState extends State<HomeScreen> {
             if (_result != null)
               ResultCard(
                 result: _result!,
-                onSaveVideo: (url) => _dl.saveVideo(url),
-                onSaveImages: (urls) => _dl.saveImages(urls),
+                onSaveVideo: (q) => _dl.saveVideo(q.originUrl, headers: q.proxyHeaders),
+                onSaveImages: (urls, headers) =>
+                    _dl.saveImages(urls, headers: headers),
                 onPreview: () {},
               ),
           ],
