@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^1.2.0            # 调用服务端 REST
+  dio: ^5.4.0             # 直连源站下载（支持自定义 Header 绕过防盗链）
   gallery_saver: ^2.0.4   # 保存视频/图片到相册（自动处理权限）
   shared_preferences: ^2.2.0  # 本地历史记录
   flutter_spinkit: ^5.2.0 # 加载动画
