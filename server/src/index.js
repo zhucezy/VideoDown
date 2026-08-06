@@ -234,3 +234,6 @@ if (!process.env.VERCEL) {
     }
   });
 }
+
+// 供 Vercel Serverless 入口（api/index.js）包装成函数使用
+module.exports = app;
