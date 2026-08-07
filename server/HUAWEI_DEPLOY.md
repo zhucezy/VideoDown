@@ -20,20 +20,30 @@ Compress-Archive -Path server\* -DestinationPath video-parse-deploy.zip
 
 ## 二、创建函数（FunctionGraph 控制台）
 
-1. **函数工作流** → **创建函数** → 选择「事件函数」「从零开始创建」
-2. 基础配置：
-   - 函数名称：`video-parse-server`
-   - 运行时：Node.js 18
-   - 代码入口（Handler）：`huawei-handler.handler`
-   - 内存：256 MB（够用，解析峰值约 200–300MB，预留余量可选 512）
-   - 超时：30 秒（解析一般几秒完成）
-3. **上传代码**：上传上面打好的 `video-parse-deploy.zip`
-4. **设置环境变量**（配置 → 环境变量）：
+> ⚠️ 华为云「创建空白函数」的基础信息表单通常只有：区域、函数名称、委托、运行时等几项，
+> **没有 Handler 字段、也没有代码上传入口**，这是正常的。Handler 要在创建成功后进入函数详情的「代码」页设置。
+
+1. **函数工作流** → **创建函数** → 选「事件函数」→「空白函数 / 从零开始创建」
+2. 基础信息就填你看到的这 4 项：
+   - 区域：北京四（cn-north-4）
+   - 函数名称：`video-parse-server`（自取，记住它，APIG 路径里会用到）
+   - 委托：留空（不需要 IAM 角色）
+   - 运行时：Node.js 18（你看到的 18.15 等同）
+3. 点「创建函数」，会自动进入函数详情页（或到函数列表点进去）
+4. 进函数详情 **「代码」标签**：
+   - 代码输入方式选「**上传 ZIP 文件**」
+   - 上传本机打好的 `video-parse-deploy.zip`
+   - 上传后页面出现「**处理程序（Handler）**」输入框，默认是 `index.handler`
+     → **必须改成 `huawei-handler.handler`**（否则找不到入口会报错）
+   - 内存：256 MB（解析峰值约 200–300MB，可选 512 留余量）
+   - 超时：30 秒
+   - 点「保存 / 部署」
+5. **设置环境变量**（「配置」标签 → 环境变量）：
    - `FUNCTIONGRAPH` = `1`（关键：让 src/index.js 不自己 listen，改用回环 server）
    - `PORT` = `8000`
    - `SIGN_SECRET` = 任意随机复杂串（如 `vD9#mP2$kQ7xZ`）
    - `PUBLIC_BASE` = 先空着，建好 APIG 触发器后回填（见下）
-5. 点「创建函数」
+   - 点「保存」
 
 ## 三、创建 APIG HTTP 触发器
 
