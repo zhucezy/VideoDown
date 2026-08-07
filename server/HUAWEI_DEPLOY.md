@@ -48,14 +48,20 @@ Compress-Archive -Path server\* -DestinationPath video-parse-deploy.zip
 ## 三、创建 APIG HTTP 触发器
 
 1. 进函数详情 → **触发器** → **创建触发器**
-2. 触发器类型：`APIG`（API 网关 / 共享版）
-3. 安全认证：`NONE`（免鉴权，公开访问）
-4. 其他默认 → 创建
-5. 创建完成后，触发器会给出一个**调用 URL**，形如：
+2. 触发器类型：`APIG`（API 网关）
+3. 填写以下字段（控制台此处通常要求填 4 项）：
+   - **实例**：选一个 APIG 实例。若下拉为空，需先到「API 网关」控制台创建一个**共享版**实例（有免费额度），或本页若有「新建实例」按钮直接新建；个人用共享版即可，不必用专享版
+   - **分组**：API 分组（API 的容器）。没有就点「新建分组」，名称任意（如 `video-parse-group`）
+   - **发布环境**：选 `RELEASE`（默认发布环境，创建函数时已自动带有）
+   - **请求路径**：填 `/video-parse-server`（与函数名一致便于记忆，即函数对外暴露的路径）
+   - 安全认证：`NONE`（免鉴权，公开访问）
+4. 点「创建」
+5. 创建完成后，触发器列表 / APIG 控制台会给出**完整调用 URL**，形如：
    ```
-   https://<随机>.apigw.<区域>.myhuaweicloud.com/<分组路径>/<环境>/<函数名>
+   https://<分组子域>.apigw.<区域>.myhuaweicloud.com/<发布环境>/<请求路径>
    ```
-   记下这个 URL。
+   例如 `https://abc123.apigw.cn-north-4.myhuaweicloud.com/RELEASE/video-parse-server`
+   记下这个 URL（它就是安卓端 `BASE_URL` 和 `PUBLIC_BASE` 要填的值）
 
 ## 四、回填 PUBLIC_BASE 并验证
 
