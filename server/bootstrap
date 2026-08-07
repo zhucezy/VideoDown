@@ -1,0 +1,5 @@
+#!/bin/bash
+# 华为云 FunctionGraph HTTP 函数启动文件
+# HTTP 函数固定监听 127.0.0.1:8000，平台会把外部 HTTP 请求转发到这里
+# 由环境变量控制：HOST=127.0.0.1 PORT=8000（在控制台「环境变量」里设置）
+node src/index.js
