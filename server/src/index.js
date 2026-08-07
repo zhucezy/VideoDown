@@ -222,8 +222,9 @@ app.use((err, req, res, next) => {
   res.status(500).json({ code: 5000, message: '服务内部错误' });
 });
 
-// Vercel / 其他 Serverless 平台由平台接管请求，不在此 listen
-if (!process.env.VERCEL) {
+// Vercel / FunctionGraph 等 Serverless 平台由平台接管请求，不在此 listen
+// （FunctionGraph 由 huawei-handler.js 启动本地回环 server 承载 app）
+if (!process.env.VERCEL && !process.env.FUNCTIONGRAPH) {
   app.listen(config.port, config.host, () => {
     console.log(`\n  视频解析服务已启动`);
     console.log(`  监听地址: http://${config.host}:${config.port}`);
